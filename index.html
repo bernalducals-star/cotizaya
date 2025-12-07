@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CotizaYa - Dólar, Euro y Cripto en tiempo real</title>
+  <meta name="description" content="CotizaYa te muestra la cotización del dólar, euro y las principales criptomonedas en tiempo real. Conversores, tablas y datos claros en un solo lugar.">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="logo">Cotiza<span>Ya</span></div>
+      <nav class="nav">
+        <a href="#dolar">Dólar</a>
+        <a href="#euro">Euro</a>
+        <a href="#cripto">Cripto</a>
+        <a href="#conversor">Conversor</a>
+        <a href="#noticias">Noticias</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- HERO -->
+    <section class="hero">
+      <div>
+        <h1>Cotizaciones claras. Decisiones rápidas.</h1>
+        <p>
+          Consultá el dólar, el euro y las principales criptomonedas en un solo lugar.
+          Datos simples, sin humo, para que puedas decidir mejor qué hacer con tu dinero.
+        </p>
+        <p class="hero-update">
+          Última actualización: <span id="last-update">–</span>
+        </p>
+      </div>
+      <div class="hero-cards">
+        <div class="card hero-card">
+          <h2>Dólar Blue</h2>
+          <p class="price">
+            Compra: <span id="usd_blue_compra">–</span>
+          </p>
+          <p class="price">
+            Venta: <span id="usd_blue_venta">–</span>
+          </p>
+        </div>
+        <div class="card hero-card">
+          <h2>Bitcoin (BTC)</h2>
+          <p class="price">
+            ARS: <span id="btc_ars">–</span>
+          </p>
+          <p class="price">
+            USD: <span id="btc_usd">–</span>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ESPACIO PARA ANUNCIO (ADSENSE) -->
+    <section class="ads-block">
+      <!-- Acá después pegás el código de AdSense -->
+      <div class="ad-placeholder">Espacio para anuncio</div>
+    </section>
+
+    <!-- DÓLAR -->
+    <section id="dolar" class="section">
+      <h2>Dólar hoy en Argentina</h2>
+      <div class="grid-3">
+        <div class="card">
+          <h3>Dólar Oficial</h3>
+          <p>Compra: <span id="usd_oficial_compra">–</span></p>
+          <p>Venta: <span id="usd_oficial_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Dólar Blue</h3>
+          <p>Compra: <span id="usd_blue_compra_card">–</span></p>
+          <p>Venta: <span id="usd_blue_venta_card">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Dólar MEP</h3>
+          <p>Compra: <span id="usd_mep_compra">–</span></p>
+          <p>Venta: <span id="usd_mep_venta">–</span></p>
+        </div>
+      </div>
+      <p class="hint">
+        *Los valores de dólar pueden actualizarse de forma manual o conectarse a una API más adelante.
+      </p>
+    </section>
+
+    <!-- EURO -->
+    <section id="euro" class="section">
+      <h2>Euro hoy</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Euro Oficial</h3>
+          <p>Compra: <span id="eur_oficial_compra">–</span></p>
+          <p>Venta: <span id="eur_oficial_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Resumen rápido</h3>
+          <p>
+            El euro es la moneda oficial de la zona euro. Mirar su cotización te ayuda a planificar
+            viajes, compras en el exterior o inversiones ligadas a Europa.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CRIPTO -->
+    <section id="cripto" class="section">
+      <h2>Criptomonedas principales</h2>
+      <p>Valores actualizados usando la API de CoinGecko.</p>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Cripto</th>
+              <th>Símbolo</th>
+              <th>Precio en ARS</th>
+              <th>Precio en USD</th>
+            </tr>
+          </thead>
+          <tbody id="crypto-table-body">
+            <!-- Filas generadas por JS -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- CONVERSOR -->
+    <section id="conversor" class="section">
+      <h2>Conversor rápido</h2>
+      <p>Convertí entre pesos argentinos y las principales monedas.</p>
+
+      <form id="converter-form" class="converter">
+        <div class="form-row">
+          <label for="converter-amount">Monto</label>
+          <input type="number" id="converter-amount" min="0" step="0.01" required />
+        </div>
+
+        <div class="form-row">
+          <label for="converter-currency">Moneda</label>
+          <select id="converter-currency" required>
+            <option value="usd_oficial">Dólar oficial</option>
+            <option value="usd_blue">Dólar blue</option>
+            <option value="usd_mep">Dólar MEP</option>
+            <option value="eur_oficial">Euro oficial</option>
+            <option value="btc">Bitcoin (BTC)</option>
+          </select>
+        </div>
+
+        <div class="form-row">
+          <span>Dirección</span>
+          <label>
+            <input type="radio" name="direction" value="ars-to" checked />
+            De ARS a moneda
+          </label>
+          <label>
+            <input type="radio" name="direction" value="to-ars" />
+            De moneda a ARS
+          </label>
+        </div>
+
+        <button type="submit" class="btn">Convertir</button>
+
+        <p id="converter-result" class="converter-result">Resultado: –</p>
+      </form>
+    </section>
+
+    <!-- NOTICIAS (texto simple por ahora) -->
+    <section id="noticias" class="section">
+      <h2>Notas y contexto</h2>
+      <div class="grid-2">
+        <article class="card">
+          <h3>¿Por qué mirar la cotización todos los días?</h3>
+          <p>
+            En economías inestables, el tipo de cambio afecta tu salario, tus ahorros y tus decisiones
+            de compra. Tener un lugar claro donde ver todo te ayuda a dejar de decidir “a ciegas”.
+          </p>
+        </article>
+        <article class="card">
+          <h3>Cripto como resguardo</h3>
+          <p>
+            Las criptomonedas no son mágicas ni siempre suben. Pero usadas con criterio, pueden ser
+            una forma más de diversificar, junto al dólar, el euro y otros activos.
+          </p>
+        </article>
+      </div>
+      <p class="hint">
+        Más adelante acá podemos sumar noticias, análisis y enlaces a contenido educativo (e incluso afiliados).
+      </p>
+    </section>
+
+    <!-- OTRO ESPACIO PARA ANUNCIO -->
+    <section class="ads-block">
+      <div class="ad-placeholder">Otro espacio para anuncio</div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> CotizaYa. Información orientativa, no es asesoramiento financiero.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
