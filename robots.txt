@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cotizaya.netlify.app/sitemap.xml

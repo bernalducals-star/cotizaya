@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Verificación Google Search Console -->
+  <meta name="google-site-verification" content="fB2urdjD7AvALSCqqlO-yhAIvpBdzGPm0DCZ3LXXUz0" />
+
+ <title>Cotización del Dólar Hoy en Argentina | CotizaYa</title>
+  <meta name="description" content="Consultá la cotización del dólar blue, dólar oficial, euro y criptomonedas en Argentina. Datos actualizados en tiempo real, conversor y contexto económico claro.">
+ <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <div class="logo">Cotiza<span>Ya</span></div>
+
+      <nav class="nav">
+        <a href="#portfolio">Portafolio</a>
+        <a href="#dolar">Dólar</a>
+        <a href="#euro">Euro</a>
+        <a href="#otras">Otras</a>
+        <a href="#cripto">Cripto</a>
+        <a href="#conversor">Conversor</a>
+        <a href="#noticias">Noticias</a>
+      </nav>
+
+      <!-- Toggle tema (la “luna”) -->
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Cambiar tema" title="Cambiar tema">
+        <!-- SVG luna/sol (se cambia por JS) -->
+        <span id="theme-icon" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+<main id="app">
+
+
+  <main class="container">
+    <!-- HERO -->
+    <section class="hero">
+      <div>
+        <h1>Cotización del dólar, euro y criptomonedas en Argentina</h1>
+        <p>
+          Consultá dólar, euro y criptos en un solo lugar.
+          Simple, sin humo, para decidir mejor qué hacer con tu plata.
+        </p>
+        <p class="hero-update">
+          Última actualización: <span id="last-update">–</span>
+        </p>
+      </div>
+
+      <div class="hero-cards">
+        <div class="card hero-card">
+          <h2>Dólar Blue</h2>
+          <p class="price">Compra: <span id="usd_blue_compra">–</span></p>
+          <p class="price">Venta: <span id="usd_blue_venta">–</span></p>
+        </div>
+
+        <div class="card hero-card">
+          <h2>Bitcoin (BTC)</h2>
+          <p class="price">ARS: <span id="btc_ars">–</span></p>
+          <p class="price">USD: <span id="btc_usd">–</span></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ESPACIO PARA ANUNCIO (ADSENSE) --> 
+    <section class="ads-block">
+      <div class="ad-placeholder">Espacio para anuncio</div>
+    </section>
+
+    <!-- PORTAFOLIO / SALDOS -->
+    <section id="portfolio" class="section">
+      <div class="section-header">
+        <h2>Portafolio rápido</h2>
+        <p class="section-subtitle">Guardá tus saldos (local) y mirá el total estimado en ARS y USD.</p>
+      </div>
+
+      <div class="card balances-box">
+        <div class="balances-head">
+          <h3>Tus saldos</h3>
+          <small id="balances-status">–</small>
+          <div class="balances-actions">
+            <button id="btn-edit-balances" class="btn btn-soft" type="button">Editar</button>
+            <button id="btn-reset-balances" class="btn btn-soft" type="button">Reset</button>
+          </div>
+        </div>
+
+        <div class="grid-2 balances-grid">
+          <div>
+            <p>ARS: <strong id="balance_ars">–</strong></p>
+            <p>USD: <strong id="balance_usd">–</strong></p>
+            <p>USDT: <strong id="balance_usdt">–</strong></p>
+            <p>BTC: <strong id="balance_btc">–</strong></p>
+          </div>
+          <div>
+            <p>Total estimado ARS: <strong id="balance_total_ars">–</strong></p>
+            <p>Total estimado USD: <strong id="balance_total_usd">–</strong></p>
+            <p class="hint">Se guarda en tu navegador. No se sube a ningún servidor.</p>
+          </div>
+        </div>
+
+        <div id="balances-panel" class="balances-panel" style="display:none;">
+          <form id="balances-form" class="balances-form">
+            <div class="grid-2">
+              <div class="form-row">
+                <label for="input-balance-ars">ARS</label>
+                <input id="input-balance-ars" type="number" min="0" step="0.01" />
+              </div>
+              <div class="form-row">
+                <label for="input-balance-usd">USD</label>
+                <input id="input-balance-usd" type="number" min="0" step="0.01" />
+              </div>
+              <div class="form-row">
+                <label for="input-balance-usdt">USDT</label>
+                <input id="input-balance-usdt" type="number" min="0" step="0.01" />
+              </div>
+              <div class="form-row">
+                <label for="input-balance-btc">BTC</label>
+                <input id="input-balance-btc" type="number" min="0" step="0.00000001" />
+              </div>
+            </div>
+
+            <div class="balances-form-actions">
+              <button class="btn" type="submit">Guardar</button>
+              <button id="btn-cancel-balances" class="btn btn-soft" type="button">Cancelar</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- DÓLAR -->
+    <section id="dolar" class="section">
+      <h2>Dólar hoy en Argentina</h2>
+      <div class="grid-3">
+        <div class="card">
+          <h3>Dólar Oficial</h3>
+          <p>Compra: <span id="usd_oficial_compra">–</span></p>
+          <p>Venta: <span id="usd_oficial_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Dólar Blue</h3>
+          <p>Compra: <span id="usd_blue_compra_card">–</span></p>
+          <p>Venta: <span id="usd_blue_venta_card">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Dólar MEP (Bolsa)</h3>
+          <p>Compra: <span id="usd_mep_compra">–</span></p>
+          <p>Venta: <span id="usd_mep_venta">–</span></p>
+        </div>
+      </div>
+      <p class="hint">Datos automáticos por API. Si alguna fuente falla, la página no se rompe.</p>
+    </section>
+
+    <!-- EURO -->
+    <section id="euro" class="section">
+      <h2>Euro hoy</h2>
+      <div class="grid-2">
+        <div class="card">
+          <h3>Euro</h3>
+          <p>Compra: <span id="eur_oficial_compra">–</span></p>
+          <p>Venta: <span id="eur_oficial_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Resumen rápido</h3>
+          <p>
+            Mirar el euro te sirve para viajes, compras en el exterior o inversiones ligadas a Europa.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- OTRAS MONEDAS -->
+    <section id="otras" class="section">
+      <h2>Otras monedas</h2>
+      <div class="grid-3">
+        <div class="card">
+          <h3>Real (BRL)</h3>
+          <p>Compra: <span id="brl_compra">–</span></p>
+          <p>Venta: <span id="brl_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Peso uruguayo (UYU)</h3>
+          <p>Compra: <span id="uyu_compra">–</span></p>
+          <p>Venta: <span id="uyu_venta">–</span></p>
+        </div>
+        <div class="card">
+          <h3>Peso mexicano (MXN)</h3>
+          <p>Referencia: <span id="mxn_ref">–</span></p>
+          <p class="hint">Estimado vía cruce USD (sirve para tener idea rápida).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CRIPTO -->
+    <section id="cripto" class="section">
+      <h2>Criptomonedas principales</h2>
+      <p>Valores actualizados usando la API de CoinGecko.</p>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Cripto</th>
+              <th>Símbolo</th>
+              <th>Precio en ARS</th>
+              <th>Precio en USD</th>
+            </tr>
+          </thead>
+          <tbody id="crypto-table-body">
+            <!-- Filas generadas por JS -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- CONVERSOR -->
+    <section id="conversor" class="section">
+      <h2>Conversor rápido</h2>
+      <p>Convertí entre pesos argentinos y monedas principales.</p>
+
+      <form id="converter-form" class="converter">
+        <div class="form-row">
+          <label for="converter-amount">Monto</label>
+          <input
+  type="text"
+  id="converter-amount"
+  inputmode="decimal"
+  autocomplete="off"
+  placeholder="Ej: 5.000.000"
+  required
+/>
+        </div>
+
+        <div class="form-row">
+          <label for="converter-currency">Moneda</label>
+          <select id="converter-currency" required>
+            <option value="usd_oficial">Dólar oficial</option>
+            <option value="usd_blue">Dólar blue</option>
+            <option value="usd_mep">Dólar MEP</option>
+            <option value="eur_oficial">Euro</option>
+            <option value="brl">Real (BRL)</option>
+            <option value="uyu">Peso uruguayo (UYU)</option>
+            <option value="mxn">Peso mexicano (MXN)</option>
+            <option value="btc">Bitcoin (BTC)</option>
+          </select>
+        </div>
+
+        <div class="form-row">
+          <span>Dirección</span>
+          <label>
+            <input type="radio" name="direction" value="ars-to" checked />
+            De ARS a moneda
+          </label>
+          <label>
+            <input type="radio" name="direction" value="to-ars" />
+            De moneda a ARS
+          </label>
+        </div>
+
+        <button type="submit" class="btn">Convertir</button>
+        <p id="converter-result" class="converter-result">Resultado: –</p>
+      </form>
+    </section>
+
+    <!-- NOTICIAS -->
+    <section id="noticias" class="section">
+      <div class="section-header">
+        <h2>Noticias</h2>
+        <p class="section-subtitle">Titulares recientes para contexto económico.</p>
+      </div>
+
+      <div class="news-box card">
+        <div class="news-head">
+          <h3>Últimos titulares</h3>
+          <small id="news-status">–</small>
+        </div>
+        <div id="news-list" class="news-list"></div>
+      </div>
+
+      <!-- Resumen del día (bien ubicado) -->
+      <div class="card" id="daily-brief-card" style="margin-top: 18px;">
+        <h3>Resumen del día</h3>
+        <p id="daily-brief-text">Cargando resumen…</p>
+        <p class="hint" id="daily-brief-meta"></p>
+      </div>
+
+      <div class="grid-2" style="margin-top: 18px;">
+        <article class="card">
+          <h3>¿Por qué mirar la cotización todos los días?</h3>
+          <p>
+            En economías inestables, el tipo de cambio afecta tu salario, tus ahorros y tus decisiones
+            de compra. Tener un lugar claro donde ver todo te ayuda a dejar de decidir “a ciegas”.
+          </p>
+        </article>
+        <article class="card">
+          <h3>Cripto como resguardo</h3>
+          <p>
+            Las criptomonedas no son mágicas ni siempre suben. Pero usadas con criterio, pueden ser
+            una forma más de diversificar, junto al dólar, el euro y otros activos.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <!-- OTRO ESPACIO PARA ANUNCIO -->
+    <section class="ads-block">
+      <div class="ad-placeholder">Otro espacio para anuncio</div>
+    </section>
+  </main>
+
+<section class="seo-text">
+  <h2>¿Qué es CotizaYa y para qué sirve?</h2>
+
+  <p>
+    CotizaYa es una herramienta simple y directa para consultar la cotización actual del dólar, el euro y las principales criptomonedas en Argentina.
+    Está pensada para quienes necesitan ver valores de referencia de forma rápida, sin registros, sin distracciones y sin interpretaciones confusas.
+  </p>
+
+  <p>
+    En un contexto donde el valor del peso cambia constantemente, contar con una referencia clara del dólar oficial, dólar blue, dólar financiero y otras variantes
+    se vuelve fundamental tanto para el ahorro personal como para la toma de decisiones cotidianas.
+  </p>
+
+  <h3>Información clara, sin ruido</h3>
+
+  <p>
+    A diferencia de otros sitios cargados de publicidad o titulares alarmistas, CotizaYa prioriza la claridad.
+    Los valores se muestran de forma ordenada para que puedas entender de un vistazo cuánto cotiza cada moneda,
+    sin necesidad de recorrer múltiples páginas.
+  </p>
+
+  <p>
+    Esta herramienta no busca reemplazar a los grandes portales financieros, sino complementarlos:
+    ofrecer una visión rápida y accesible para quienes solo quieren saber cuánto vale hoy el dólar, el euro o una criptomoneda.
+  </p>
+
+  <h3>¿Por qué consultar cotizaciones todos los días?</h3>
+
+  <p>
+    En Argentina, el tipo de cambio impacta directamente en precios, servicios, ahorros y decisiones de compra.
+    Por eso, consultar la cotización diaria del dólar se volvió un hábito común, incluso para quienes no operan en el mercado financiero.
+  </p>
+
+  <p>
+    CotizaYa existe para cubrir esa necesidad de forma simple: entrar, mirar el valor y seguir con tu día.
+  </p>
+</section>
+</main>
+
+ <footer class="footer">
+  <div class="container footer-inner">
+    <p>© <span id="year"></span> CotizaYa. Información orientativa, no es asesoramiento financiero.</p>
+
+    <nav style="margin-top:10px;display:flex;gap:14px;flex-wrap:wrap;">
+      <a href="/privacy.html">Privacidad</a>
+      <a href="/terms.html">Términos</a>
+      <a href="/contact.html">Contacto</a>
+    </nav>
+  </div>
+</footer>
+
+<!-- defer para evitar bloqueos/cuelgues -->
+<script src="/script.js" defer></script>
+</body>
+</html>
