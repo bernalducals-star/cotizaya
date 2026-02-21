@@ -154,45 +154,45 @@ function setupConverter() {
       return;
     }
 
-    const currency = currencySelect.value;
+       const isArsTo = direction === "ars-to";
+
+    // helper para elegir compra/venta según dirección
+    // ars-to (ARS -> moneda): usa VENTA (te venden la moneda)
+    // to-ars (moneda -> ARS): usa COMPRA (te compran la moneda)
+    const pickFiatRate = (pair) => (isArsTo ? pair?.venta : pair?.compra);
+
     let rate = null;
     let label = "";
+    let unit = ""; // unidad real
 
     if (currency === "usd_oficial") {
-      rate = state.fiat.usd_oficial?.venta;
+      rate = pickFiatRate(state.fiat.usd_oficial);
       label = "dólar oficial";
+      unit = "USD";
     } else if (currency === "usd_blue") {
-      rate = state.fiat.usd_blue?.venta;
+      rate = pickFiatRate(state.fiat.usd_blue);
       label = "dólar blue";
+      unit = "USD";
     } else if (currency === "usd_mep") {
-      rate = state.fiat.usd_mep?.venta;
+      rate = pickFiatRate(state.fiat.usd_mep);
       label = "dólar MEP";
+      unit = "USD";
     } else if (currency === "eur_oficial") {
-      rate = state.fiat.eur_oficial?.venta;
+      rate = pickFiatRate(state.fiat.eur_oficial);
       label = "euro oficial";
+      unit = "EUR";
     } else if (currency === "btc") {
-      const btc = state.crypto.bitcoin;
-      rate = btc?.ars;
-      label = "Bitcoin (BTC)";
+      // cripto: ARS por 1 BTC. Misma tasa sirve para ambas direcciones.
+      rate = state.crypto.bitcoin?.ars;
+      label = "Bitcoin";
+      unit = "BTC";
     }
-
-    if (!rate || typeof rate !== "number") {
-      resultEl.textContent =
-        "Resultado: todavía no se cargaron las cotizaciones para esa moneda.";
-      return;
-    }
-
-    let result;
-    if (direction === "ars-to") {
-      result = rawAmount / rate;
-      resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ARS ≈ ${formatNumber(
-        result
-      )} ${label}`;
-    } else {
-      result = rawAmount * rate;
-      resultEl.textContent = `Resultado: ${formatNumber(
-        rawAmount
-      )} ${label} ≈ ${formatNumber(result)} ARS`;
-    }
-  });
+let result;
+if (isArsTo) {
+  result = rawAmount / rate;
+  resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ARS ≈ ${formatNumber(result)} ${unit} (${label})`;
+} else {
+  result = rawAmount * rate;
+  resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ${unit} (${label}) ≈ ${formatNumber(result)} ARS`;
 }
+    
