@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
  */
 async function loadAllData() {
   // Fiat (por ahora datos de ejemplo, después se puede conectar API)
-  const fiatData = getFiatRatesMock();
+ const fiatData = await fetchFiatRates();
   state.fiat = fiatData;
   updateFiatUI(fiatData);
 
@@ -50,6 +50,27 @@ function getFiatRatesMock() {
     usd_mep: { compra: 1100, venta: 1120 },
     eur_oficial: { compra: 950, venta: 1000 }
   };
+}
+
+async function fetchFiatRates() {
+  try {
+    const [oficial, blue, bolsa, eur] = await Promise.all([
+      fetch("https://dolarapi.com/v1/dolares/oficial").then((r) => r.json()),
+      fetch("https://dolarapi.com/v1/dolares/blue").then((r) => r.json()),
+      fetch("https://dolarapi.com/v1/dolares/bolsa").then((r) => r.json()),
+      fetch("https://dolarapi.com/v1/cotizaciones/eur").then((r) => r.json())
+    ]);
+
+    return {
+      usd_oficial: { compra: Number(oficial.compra), venta: Number(oficial.venta) },
+      usd_blue: { compra: Number(blue.compra), venta: Number(blue.venta) },
+      usd_mep: { compra: Number(bolsa.compra), venta: Number(bolsa.venta) },
+      eur_oficial: { compra: Number(eur.compra), venta: Number(eur.venta) }
+    };
+  } catch (e) {
+    console.warn("Fiat API falló, vuelvo a mock:", e);
+    return getFiatRatesMock();
+  }
 }
 
 function updateFiatUI(fiat) {
