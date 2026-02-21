@@ -105,11 +105,11 @@ function updateCryptoUI(data) {
 
     const tr = document.createElement("tr");
     tr.innerHTML = `
-      <td>${c.name}</td>
-      <td>${c.symbol}</td>
-      <td>$ ${formatNumber(priceArs)}</td>
-      <td>US$ ${formatNumber(priceUsd)}</td>
-    `;
+  <td>${c.name}</td>
+  <td>${c.symbol}</td>
+  <td>$ ${formatNumber(priceArs)}</td>
+  <td>US$ ${formatNumber(priceUsd)}</td>
+`;
     tbody.appendChild(tr);
 
     // Datos extra para el hero y el conversor
@@ -154,7 +154,9 @@ function setupConverter() {
       return;
     }
 
-       const isArsTo = direction === "ars-to";
+    const currency = currencySelect.value;
+
+    const isArsTo = direction === "ars-to";
 
     // helper para elegir compra/venta según dirección
     // ars-to (ARS -> moneda): usa VENTA (te venden la moneda)
@@ -187,12 +189,20 @@ function setupConverter() {
       label = "Bitcoin";
       unit = "BTC";
     }
-let result;
-if (isArsTo) {
-  result = rawAmount / rate;
-  resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ARS ≈ ${formatNumber(result)} ${unit} (${label})`;
-} else {
-  result = rawAmount * rate;
-  resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ${unit} (${label}) ≈ ${formatNumber(result)} ARS`;
+
+    if (!rate || typeof rate !== "number") {
+      resultEl.textContent =
+        "Resultado: todavía no se cargaron las cotizaciones para esa moneda.";
+      return;
+    }
+
+    let result;
+    if (isArsTo) {
+      result = rawAmount / rate;
+      resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ARS ≈ ${formatNumber(result)} ${unit} (${label})`;
+    } else {
+      result = rawAmount * rate;
+      resultEl.textContent = `Resultado: ${formatNumber(rawAmount)} ${unit} (${label}) ≈ ${formatNumber(result)} ARS`;
+    }
+  });
 }
-    
