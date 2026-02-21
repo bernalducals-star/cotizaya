@@ -54,25 +54,40 @@ function getFiatRatesMock() {
 
 async function fetchFiatRates() {
   try {
-    const [oficial, blue, bolsa, eur] = await Promise.all([
+    const [oficial, blue, bolsa, eur, fx] = await Promise.all([
       fetch("https://dolarapi.com/v1/dolares/oficial").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/dolares/blue").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/dolares/bolsa").then((r) => r.json()),
-      fetch("https://dolarapi.com/v1/cotizaciones/eur").then((r) => r.json())
+      fetch("https://dolarapi.com/v1/cotizaciones/eur").then((r) => r.json()),
+      fetch("https://api.frankfurter.app/latest?from=USD&to=BRL,UYU,MXN").then((r) => r.json())
     ]);
 
+    const usdOficialVenta = Number(oficial.venta);
+
+    const usdToBrl = Number(fx?.rates?.BRL);
+    const usdToUyu = Number(fx?.rates?.UYU);
+    const usdToMxn = Number(fx?.rates?.MXN);
+
+    const brlArs = usdToBrl ? usdOficialVenta / usdToBrl : null;
+    const uyuArs = usdToUyu ? usdOficialVenta / usdToUyu : null;
+    const mxnRef = usdToMxn ? usdOficialVenta / usdToMxn : null;
+
     return {
-      usd_oficial: { compra: Number(oficial.compra), venta: Number(oficial.venta) },
+      usd_oficial: { compra: Number(oficial.compra), venta: usdOficialVenta },
       usd_blue: { compra: Number(blue.compra), venta: Number(blue.venta) },
       usd_mep: { compra: Number(bolsa.compra), venta: Number(bolsa.venta) },
-      eur_oficial: { compra: Number(eur.compra), venta: Number(eur.venta) }
+      eur_oficial: { compra: Number(eur.compra), venta: Number(eur.venta) },
+
+      // Nuevas monedas estimadas en ARS (base oficial)
+      brl: brlArs ? { compra: brlArs, venta: brlArs } : null,
+      uyu: uyuArs ? { compra: uyuArs, venta: uyuArs } : null,
+      mxn_ref: mxnRef
     };
   } catch (e) {
     console.warn("Fiat API falló, vuelvo a mock:", e);
     return getFiatRatesMock();
   }
 }
-
 function updateFiatUI(fiat) {
   const map = [
     ["usd_oficial_compra", fiat.usd_oficial.compra],
@@ -84,7 +99,13 @@ function updateFiatUI(fiat) {
     ["usd_mep_compra", fiat.usd_mep.compra],
     ["usd_mep_venta", fiat.usd_mep.venta],
     ["eur_oficial_compra", fiat.eur_oficial.compra],
-    ["eur_oficial_venta", fiat.eur_oficial.venta]
+    ["eur_oficial_venta", fiat.eur_oficial.venta],
+
+["brl_compra", fiat.brl?.compra],
+["brl_venta", fiat.brl?.venta],
+["uyu_compra", fiat.uyu?.compra],
+["uyu_venta", fiat.uyu?.venta],
+["mxn_ref", fiat.mxn_ref],
   ];
 
   map.forEach(([id, value]) => {
