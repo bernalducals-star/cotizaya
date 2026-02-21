@@ -59,7 +59,7 @@ async function fetchFiatRates() {
       fetch("https://dolarapi.com/v1/dolares/blue").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/dolares/bolsa").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/cotizaciones/eur").then((r) => r.json()),
-      fetch("https://api.frankfurter.app/latest?from=USD&to=BRL,UYU,MXN").then((r) => r.json())
+      fetch("https://api.exchangerate.host/latest?base=USD&symbols=BRL,UYU,MXN").then((r) => r.json())
     ]);
 
     const usdOficialVenta = Number(oficial.venta);
