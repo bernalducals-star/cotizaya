@@ -184,40 +184,29 @@ function updateCryptoUI(data) {
 }
 async function fetchNews() {
   try {
-    const proxy = "https://api.allorigins.win/raw?url=";
+    const proxy = "https://api.rss2json.com/v1/api.json?rss_url=";
     const rssUrl = encodeURIComponent("https://www.cronista.com/tools/rss/finanzas.xml");
 
     const response = await fetch(proxy + rssUrl);
-    const text = await response.text();
+    const data = await response.json(); // <- con ()
 
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(text, "text/xml");
-
-    const items = xml.querySelectorAll("item");
+    const items = Array.isArray(data.items) ? data.items : [];
     const container = document.getElementById("news-list");
-
     if (!container) return;
 
     container.innerHTML = "";
 
-    items.forEach((item, index) => {
-      if (index >= 6) return;
-
-      const title = item.querySelector("title")?.textContent;
-      const link = item.querySelector("link")?.textContent;
-      const pubDate = item.querySelector("pubDate")?.textContent;
-
+    items.slice(0, 6).forEach((item) => {
       const article = document.createElement("div");
       article.className = "news-item";
 
       article.innerHTML = `
-        <h3><a href="${link}" target="_blank" rel="noopener">${title}</a></h3>
-        <small>${new Date(pubDate).toLocaleString("es-AR")}</small>
+        <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
+        <small>${new Date(item.pubDate).toLocaleString("es-AR")}</small>
       `;
 
       container.appendChild(article);
     });
-
   } catch (err) {
     console.error("Error cargando noticias:", err);
   }
