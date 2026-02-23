@@ -7,6 +7,7 @@ const state = {
 document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("year").textContent = new Date().getFullYear();
   loadAllData();
+  fetchNews();
   setupConverter();
 });
 
@@ -180,6 +181,46 @@ function updateCryptoUI(data) {
       if (btcUsdEl) btcUsdEl.textContent = "US$ " + formatNumber(priceUsd);
     }
   });
+}
+async function fetchNews() {
+  try {
+    const proxy = "https://api.allorigins.win/raw?url=";
+    const rssUrl = encodeURIComponent("https://www.cronista.com/tools/rss/finanzas.xml");
+
+    const response = await fetch(proxy + rssUrl);
+    const text = await response.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+
+    const items = xml.querySelectorAll("item");
+    const container = document.getElementById("news-list");
+
+    if (!container) return;
+
+    container.innerHTML = "";
+
+    items.forEach((item, index) => {
+      if (index >= 6) return;
+
+      const title = item.querySelector("title")?.textContent;
+      const link = item.querySelector("link")?.textContent;
+      const pubDate = item.querySelector("pubDate")?.textContent;
+
+      const article = document.createElement("div");
+      article.className = "news-item";
+
+      article.innerHTML = `
+        <h3><a href="${link}" target="_blank" rel="noopener">${title}</a></h3>
+        <small>${new Date(pubDate).toLocaleString("es-AR")}</small>
+      `;
+
+      container.appendChild(article);
+    });
+
+  } catch (err) {
+    console.error("Error cargando noticias:", err);
+  }
 }
 
 /**
