@@ -54,40 +54,39 @@ function getFiatRatesMock() {
 
 async function fetchFiatRates() {
   try {
-    const [oficial, blue, bolsa, eur, fx] = await Promise.all([
+    const [oficial, blue, bolsa, eur, fx, usdRates] = await Promise.all([
       fetch("https://dolarapi.com/v1/dolares/oficial").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/dolares/blue").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/dolares/bolsa").then((r) => r.json()),
       fetch("https://dolarapi.com/v1/cotizaciones/eur").then((r) => r.json()),
-      fetch("https://api.exchangerate.host/latest?base=USD&symbols=BRL,UYU,MXN").then((r) =>
-        r.json()
-      )
+
+      // BRL y MXN (USD -> BRL/MXN)
+      fetch("https://api.frankfurter.app/latest?from=USD&to=BRL,MXN").then((r) => r.json()),
+
+      // UYU (USD -> UYU)
+      fetch("https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json")
+        .then((r) => r.json())
     ]);
 
-    const usdOficialCompra = Number(oficial.compra);
-    const usdOficialVenta = Number(oficial.venta);
+    const usdOficialVenta = Number(oficial?.venta);
+    const usdOficialCompra = Number(oficial?.compra);
 
     const usdToBrl = Number(fx?.rates?.BRL);
-    const usdToUyu = Number(fx?.rates?.UYU);
     const usdToMxn = Number(fx?.rates?.MXN);
+    const usdToUyu = Number(usdRates?.usd?.uyu);
 
-    // ARS por 1 unidad de moneda (estimado por cruce con USD oficial)
-    // Usamos USD OFICIAL VENTA como referencia principal (más conservador).
     const brlArs = usdToBrl ? usdOficialVenta / usdToBrl : null;
     const uyuArs = usdToUyu ? usdOficialVenta / usdToUyu : null;
     const mxnRef = usdToMxn ? usdOficialVenta / usdToMxn : null;
 
     return {
       usd_oficial: { compra: usdOficialCompra, venta: usdOficialVenta },
-      usd_blue: { compra: Number(blue.compra), venta: Number(blue.venta) },
-      usd_mep: { compra: Number(bolsa.compra), venta: Number(bolsa.venta) },
-      eur_oficial: { compra: Number(eur.compra), venta: Number(eur.venta) },
+      usd_blue: { compra: Number(blue?.compra), venta: Number(blue?.venta) },
+      usd_mep: { compra: Number(bolsa?.compra), venta: Number(bolsa?.venta) },
+      eur_oficial: { compra: Number(eur?.compra), venta: Number(eur?.venta) },
 
-      // Otras monedas (estimadas en ARS por cruce USD oficial)
       brl: brlArs ? { compra: brlArs, venta: brlArs } : null,
       uyu: uyuArs ? { compra: uyuArs, venta: uyuArs } : null,
-
-      // MXN lo mostramos como “Referencia”
       mxn_ref: mxnRef
     };
   } catch (e) {
@@ -97,35 +96,40 @@ async function fetchFiatRates() {
 }
 function updateFiatUI(fiat) {
   const map = [
-    ["usd_oficial_compra", fiat.usd_oficial.compra],
-    ["usd_oficial_venta", fiat.usd_oficial.venta],
-    ["usd_blue_compra", fiat.usd_blue.compra],
-    ["usd_blue_venta", fiat.usd_blue.venta],
-    ["usd_blue_compra_card", fiat.usd_blue.compra],
-    ["usd_blue_venta_card", fiat.usd_blue.venta],
-    ["usd_mep_compra", fiat.usd_mep.compra],
-    ["usd_mep_venta", fiat.usd_mep.venta],
-    ["eur_oficial_compra", fiat.eur_oficial.compra],
-    ["eur_oficial_venta", fiat.eur_oficial.venta],
+    ["usd_oficial_compra", fiat?.usd_oficial?.compra],
+    ["usd_oficial_venta",  fiat?.usd_oficial?.venta],
 
-["brl_compra", fiat.brl?.compra],
-["brl_venta", fiat.brl?.venta],
-["uyu_compra", fiat.uyu?.compra],
-["uyu_venta", fiat.uyu?.venta],
-["mxn_ref", fiat.mxn_ref],
+    ["usd_blue_compra", fiat?.usd_blue?.compra],
+    ["usd_blue_venta",  fiat?.usd_blue?.venta],
+    ["usd_blue_compra_card", fiat?.usd_blue?.compra],
+    ["usd_blue_venta_card",  fiat?.usd_blue?.venta],
+
+    ["usd_mep_compra", fiat?.usd_mep?.compra],
+    ["usd_mep_venta",  fiat?.usd_mep?.venta],
+
+    ["eur_oficial_compra", fiat?.eur_oficial?.compra],
+    ["eur_oficial_venta",  fiat?.eur_oficial?.venta],
+
+    ["brl_compra", fiat?.brl?.compra],
+    ["brl_venta",  fiat?.brl?.venta],
+
+    ["uyu_compra", fiat?.uyu?.compra],
+    ["uyu_venta",  fiat?.uyu?.venta],
+
+    ["mxn_ref", fiat?.mxn_ref]
   ];
 
- map.forEach(([id, value]) => {
-  const el = document.getElementById(id);
-  if (!el) return;
+  map.forEach(([id, value]) => {
+    const el = document.getElementById(id);
+    if (!el) return;
 
-  if (value === null || value === undefined || Number.isNaN(value)) {
-    el.textContent = "–";
-    return;
-  }
+    if (value === null || value === undefined || Number.isNaN(value)) {
+      el.textContent = "–";
+      return;
+    }
 
-  el.textContent = formatNumber(value);
-});
+    el.textContent = formatNumber(value);
+  });
 }
 
 /**
