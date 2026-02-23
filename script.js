@@ -208,8 +208,16 @@ async function fetchNews() {
       container.appendChild(article);
     });
   } catch (err) {
-    console.error("Error cargando noticias:", err);
+  console.error("Error cargando noticias:", err);
+
+  const container = document.getElementById("news-list");
+  const summary = document.getElementById("news-summary");
+
+  if (container) {
+    container.innerHTML =
+      `<div class="news-item">No se pudieron cargar noticias ahora. Probá más tarde.</div>`;
   }
+  if (summary) summary.textContent = "Sin datos por el momento.";
 }
 
 /**
