@@ -1,3 +1,5 @@
+import { getNewsMock } from "../data/news.service.js";
+
 /* =========================
    CotizaYa - script.js (estable + sin romper UI)
    - Noticias local + RSS fallback (no rompe si RSS falla)
@@ -43,10 +45,13 @@ const CONFIG = {
   AUTO_REFRESH_MS: 60 * 1000         // 1 min auto refresh
 };
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => { 
   setText("year", new Date().getFullYear());
   initTheme();
   init();
+
+  const res = await getNewsMock();
+  console.log("NEWS MOCK OK:", res);
 });
 
 async function init() {
@@ -197,13 +202,13 @@ function paintValueWithDelta(targetId, newValue, oldValue, formatter) {
 const THEME_KEY = "cotizaya_theme_v1";
 
 function initTheme() {
-  const btn = $("theme-toggle");
-  const icon = $("theme-icon");
-  if (!btn || !icon) return;
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
 
   const saved = safeGetLocal(THEME_KEY);
   const prefersDark =
-    window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    window.matchMedia &&
+    window.matchMedia("(prefers-color-scheme: dark)").matches;
 
   const initial = saved || (prefersDark ? "dark" : "light");
   applyTheme(initial);
@@ -218,17 +223,19 @@ function initTheme() {
 function applyTheme(mode) {
   const icon = $("theme-icon");
   const btn = $("theme-toggle");
-  if (!icon) return;
 
   const isDark = mode === "dark";
   document.body.classList.toggle("dark", isDark);
 
-  const color = isDark ? "#ffffff" : "#111111";
-  icon.innerHTML = isDark ? sunSVG(color) : moonSVG(color);
+  // Si existe icono, lo actualizo. Si no, no pasa nada.
+  if (icon) {
+    const color = isDark ? "#ffffff" : "#111111";
+    icon.innerHTML = isDark ? sunSVG(color) : moonSVG(color);
+  }
 
   if (btn) {
-    btn.setAttribute("aria-label", isDark ? "Cambiar a tema claro" : "Cambiar a tema oscuro");
-    btn.setAttribute("title", isDark ? "Cambiar a tema claro" : "Cambiar a tema oscuro");
+    btn.setAttribute("aria-label", isDark ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
+    btn.setAttribute("title", isDark ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
   }
 }
 
@@ -309,8 +316,6 @@ async function fetchFiatRatesWithFallback() {
   eur: "https://dolarapi.com/v1/cotizaciones/eur",
   brl: "https://dolarapi.com/v1/cotizaciones/brl",
   uyu: "https://dolarapi.com/v1/cotizaciones/uyu",
-  usd_mxn: "https://mx.dolarapi.com/v1/cotizaciones/usd",
-  usd_pyg: "https://py.dolarapi.com/v1/cotizaciones/usd"
 };
 
   const out = {
@@ -320,8 +325,6 @@ async function fetchFiatRatesWithFallback() {
     eur: null,
     brl: null,
     uyu: null,
-    mxn_ars: null,
-    pyg_ars: null
   };
 
   const results = await Promise.allSettled([
@@ -331,11 +334,9 @@ async function fetchFiatRatesWithFallback() {
     fetchJSON(endpoints.eur),
     fetchJSON(endpoints.brl),
     fetchJSON(endpoints.uyu),
-    fetchJSON(endpoints.usd_mxn),
-    fetchJSON(endpoints.usd_pyg)
   ]);
 
-  const [rOf, rBl, rMep, rEur, rBrl, rUyu, rUsdMxn, rUsdPyg] = results;
+ const [rOf, rBl, rMep, rEur, rBrl, rUyu] = results;
 
   if (rOf.status === "fulfilled") out.usd_oficial = pickCompraVenta(rOf.value);
   if (rBl.status === "fulfilled") out.usd_blue = pickCompraVenta(rBl.value);
@@ -344,6 +345,7 @@ async function fetchFiatRatesWithFallback() {
   if (rBrl.status === "fulfilled") out.brl = pickCompraVenta(rBrl.value);
   if (rUyu.status === "fulfilled") out.uyu = pickCompraVenta(rUyu.value);
 
+ /*
   // MXN: cruce USD ARS / USD MXN
   if (rUsdMxn.status === "fulfilled") {
     const mx = rUsdMxn.value || {};
@@ -353,7 +355,9 @@ async function fetchFiatRatesWithFallback() {
       out.mxn_ars = usdInArs / usdInMxn; // 1 MXN en ARS
     }
   }
+*/
 
+/*
   // PYG: cruce USD ARS / USD PYG (si existe py.dolarapi.com, si no, queda null)
   if (rUsdPyg.status === "fulfilled") {
     const py = rUsdPyg.value || {};
@@ -363,6 +367,7 @@ async function fetchFiatRatesWithFallback() {
       out.pyg_ars = usdInArs / usdInPyg; // 1 PYG en ARS
     }
   }
+*/
 
   // Fallback mínimo si algo vino null
   const mock = getFiatRatesMock();
