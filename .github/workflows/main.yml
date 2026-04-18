@@ -1,5 +1,6 @@
 name: Update News Daily
-
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 10 * * *"
