@@ -1,0 +1,39 @@
+name: Update News Daily
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create noticias.json (demo)
+        run: |
+          echo '[
+            {
+              "title": "Actualización automática funcionando",
+              "slug": "test-auto",
+              "category": "economia",
+              "date": "2026-04-18",
+              "summary": "Este contenido fue generado automáticamente por GitHub Actions.",
+              "link": "/noticias/economia/test-auto",
+              "source": "CotizaYa",
+              "tags": ["test"],
+              "featured": true,
+              "related": []
+            }
+          ]' > noticias/noticias.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "auto update noticias" || echo "no changes"
+          git push
