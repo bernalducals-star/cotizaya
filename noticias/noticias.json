@@ -1,26 +1,14 @@
 [
   {
-    "title": "Riesgo país cae a mínimos desde 2018 y queda por debajo de 550 puntos",
-    "slug": "riesgo-pais-550",
+    "title": "Actualización automática funcionando",
+    "slug": "test-auto",
     "category": "economia",
-    "date": "2026-01-26",
-    "summary": "El riesgo país perforó la zona de 550 puntos y marcó un mínimo que no se veía desde 2018, en un contexto de mejora en la percepción del mercado.",
-    "link": "/noticias/economia/riesgo-pais-550",
-    "source": "Ámbito",
-    "tags": ["riesgo país", "mercado", "bonos"],
-    "featured": true,
-    "related": ["dolar-brecha-enero"]
-  },
-  {
-    "title": "La brecha del dólar se amplía en enero y preocupa al mercado",
-    "slug": "dolar-brecha-enero",
-    "category": "economia",
-    "date": "2026-01-30",
-    "summary": "La diferencia entre el dólar oficial y los paralelos volvió a ampliarse en enero y reavivó señales de alerta en el mercado.",
-    "link": "/noticias/economia/dolar-brecha-enero",
+    "date": "2026-04-18",
+    "summary": "Este contenido fue generado automáticamente por GitHub Actions.",
+    "link": "/noticias/economia/test-auto",
     "source": "CotizaYa",
-    "tags": ["dólar", "brecha", "economía"],
-    "featured": false,
-    "related": ["riesgo-pais-550"]
+    "tags": ["test"],
+    "featured": true,
+    "related": []
   }
 ]
