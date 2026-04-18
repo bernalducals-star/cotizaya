@@ -1,40 +1,32 @@
-name: Update News Daily
+name: Actualizar noticias
+
 permissions:
   contents: write
+
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "0 9,18 * * *"
   workflow_dispatch:
 
 jobs:
-  update-news:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Create noticias.json (demo)
-        run: |
-          echo '[
-            {
-              "title": "Actualización automática funcionando",
-              "slug": "test-auto",
-              "category": "economia",
-              "date": "2026-04-18",
-              "summary": "Este contenido fue generado automáticamente por GitHub Actions.",
-              "link": "/noticias/economia/test-auto",
-              "source": "CotizaYa",
-              "tags": ["test"],
-              "featured": true,
-              "related": []
-            }
-          ]' > noticias/noticias.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-      - name: Commit changes
+      - run: npm install
+
+      - run: node scripts/fetch-news.js
+
+      - name: Commit noticias.json
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "auto update noticias" || echo "no changes"
+          git config user.name "cotizaya-bot"
+          git config user.email "bot@cotizaya.com"
+          git add noticias/noticias.json
+          git diff --cached --quiet || git commit -m "chore: actualizar noticias [skip ci]"
           git push
