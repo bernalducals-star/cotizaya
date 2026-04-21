@@ -1,11 +1,27 @@
 [
   {
-    "title": "Uno de los economistas más escuchados por el Gobierno advirtió por el desempleo en el conurbano",
-    "slug": "uno-de-los-economistas-mas-escuchados-por-el-gobierno-advirt",
+    "title": "Más aire para el dólar: volvió a caer la demanda para atesoramiento y quedan u$s3.200 millones para liquidar de ONs",
+    "slug": "mas-aire-para-el-dolar-volvio-a-caer-la-demanda-para-atesora",
     "category": "economia",
-    "date": "2026-04-20",
-    "summary": "El economista Ricardo Arriazu advirtió que la dinámica actual destruye más puestos de trabajo de los que genera y alertó sobre el impacto político en el Gran Buenos Aires.  También pidió bajar la tasa de interés y avanzar con medidas de contención.",
-    "link": "/noticias/economia/uno-de-los-economistas-mas-escuchados-por-el-gobierno-advirt",
+    "date": "2026-04-21",
+    "summary": "Así lo mostró el vicepresidente del BCRA, Vladimir Werning, en una exposición frente a inversores en EEUU.",
+    "link": "/noticias/economia/mas-aire-para-el-dolar-volvio-a-caer-la-demanda-para-atesora",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El sistema previsional y su desequilibrio: hay solo dos aportantes formales por jubilado",
+    "slug": "el-sistema-previsional-y-su-desequilibrio-hay-solo-dos-aport",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "La caída del empleo formal y el avance del monotributo deterioran el financiamiento del sistema, que depende cada vez más de transferencias estatales y pierde poder adquisitivo.",
+    "link": "/noticias/economia/el-sistema-previsional-y-su-desequilibrio-hay-solo-dos-aport",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -15,12 +31,12 @@
     "related": []
   },
   {
-    "title": "La industria metalúrgica cayó 4,1% en marzo y la capacidad instalada tocó su nivel más bajo en cuatro años",
-    "slug": "la-industria-metalurgica-cayo-41-en-marzo-y-la-capacidad-ins",
+    "title": "ATE realizará un paro nacional por reclamo salarial y no descarta bloquear los accesos a aeropuertos",
+    "slug": "ate-realizara-un-paro-nacional-por-reclamo-salarial-y-no-des",
     "category": "economia",
-    "date": "2026-04-20",
-    "summary": "El sector acumula una contracción del 6,9% en el primer trimestre de 2026.  ADIMRA advirtió por la falta de demanda interna, caída del empleo y márgenes cada vez más ajustados.",
-    "link": "/noticias/economia/la-industria-metalurgica-cayo-41-en-marzo-y-la-capacidad-ins",
+    "date": "2026-04-21",
+    "summary": "El gremio de estatales se concentrará este martes en diferentes puntos del país, con epicentro en las inmediaciones del Aeroparque Jorge Newbery.  Aseguran que los trabajadores públicos perdieron más de $11 millones en dos años de gobierno de Javier Milei.",
+    "link": "/noticias/economia/ate-realizara-un-paro-nacional-por-reclamo-salarial-y-no-des",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -30,118 +46,104 @@
     "related": []
   },
   {
-    "title": "¿Chau plazo fijo? Así operan los principales bancos hoy, lunes 20 de abril",
-    "slug": "chau-plazo-fijo-asi-operan-los-principales-bancos-hoy-lunes-",
+    "title": "El Tribunal Supremo confirma la anulación parcial de la “zona de bajas emisiones” en Madrid al rechazar el recurso del Ayuntamiento",
+    "slug": "el-tribunal-supremo-confirma-la-anulacion-parcial-de-la-zona",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "La denuncia fue presentada por Vox para dejar sin efecto la ordenanza sobre movilidad sostenible, aprobada el 13 de septiembre de 2021",
+    "link": "/noticias/economia/el-tribunal-supremo-confirma-la-anulacion-parcial-de-la-zona",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Kábala hoy: resultados oficiales del 18 de abril de 2026 y números ganadores",
+    "slug": "kabala-hoy-resultados-oficiales-del-18-de-abril-de-2026-y-nu",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "Como cada sábado, La Tinka comparte los números resultados del sorteo millonario de la Kábala. Estos son los ganadores",
+    "link": "/noticias/economia/kabala-hoy-resultados-oficiales-del-18-de-abril-de-2026-y-nu",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Regresan los vuelos entre Miami y Caracas: cuáles son los precios en una importante aerolínea estadounidense",
+    "slug": "regresan-los-vuelos-entre-miami-y-caracas-cuales-son-los-pre",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "La reactivación de esta ruta regular vuelve a conectar a Estados Unidos y Venezuela tras una interrupción de casi 7 años, incluyendo un vuelo diario sin escalas que inicia operacio",
+    "link": "/noticias/economia/regresan-los-vuelos-entre-miami-y-caracas-cuales-son-los-pre",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La Procuraduría pedirá explicaciones  por situación actual de la intervención de Nueva EPS",
+    "slug": "la-procuraduria-pedira-explicaciones-por-situacion-actual-de",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "La entidad inició una visita administrativa para revisar el proceso y solicitar información clave",
+    "link": "/noticias/economia/la-procuraduria-pedira-explicaciones-por-situacion-actual-de",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La Iglesia cree que la visita del papa será un \"espaldarazo\" para las vocaciones juveniles",
+    "slug": "la-iglesia-cree-que-la-visita-del-papa-sera-un-espaldarazo-p",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "",
+    "link": "/noticias/economia/la-iglesia-cree-que-la-visita-del-papa-sera-un-espaldarazo-p",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ahorro en dólar: cómo viajar al exterior sin pagar un peso en alojamiento",
+    "slug": "ahorro-en-dolar-como-viajar-al-exterior-sin-pagar-un-peso-en",
     "category": "economia",
     "date": "2026-04-20",
-    "summary": "Las tasas que ofrecen los bancos muestran cambios y reavivan la duda sobre la conveniencia del plazo fijo frente a otras opciones.",
-    "link": "/noticias/economia/chau-plazo-fijo-asi-operan-los-principales-bancos-hoy-lunes-",
+    "summary": "Esta alternativa no es muy conocida, pero te permite recorrer distintos destinos del mundo con una experiencia distinta y muy atractiva.",
+    "link": "/noticias/economia/ahorro-en-dolar-como-viajar-al-exterior-sin-pagar-un-peso-en",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Kevin Warsh, el candidato de Donald Trump para presidir la Fed enfrenta su primera prueba en el Congreso de EEUU",
-    "slug": "kevin-warsh-el-candidato-de-donald-trump-para-presidir-la-fe",
+    "title": "Un informe de J.P. Morgan advierte que creció fuerte la morosidad en los préstamos de Mercado Pago",
+    "slug": "un-informe-de-jp-morgan-advierte-que-crecio-fuerte-la-morosi",
     "category": "economia",
     "date": "2026-04-20",
-    "summary": "Kevin Warsh, el nominado para suceder a Jerome Powell, deberá hacer frente a las preguntas de los legisladores norteamericanos, que indagarán sobre sus planes para la Reserva Feder",
-    "link": "/noticias/economia/kevin-warsh-el-candidato-de-donald-trump-para-presidir-la-fe",
+    "summary": "Un informe del JP Morgan reveló detalles sobre la situación de la cartera total de crédito de Mercado Libre.",
+    "link": "/noticias/economia/un-informe-de-jp-morgan-advierte-que-crecio-fuerte-la-morosi",
     "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Hoy es el último día para aprovechar el Electro Black: como y dónde acceder al descuento",
-    "slug": "hoy-es-el-ultimo-dia-para-aprovechar-el-electro-black-como-y",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "Es la última oportunidad para aprovechar los descuentos de una de las cadenas de supermercados más importantes del país.",
-    "link": "/noticias/economia/hoy-es-el-ultimo-dia-para-aprovechar-el-electro-black-como-y",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Camila Sosa Villada: “A lo largo de estos años dejé de ser travesti”",
-    "slug": "camila-sosa-villada-a-lo-largo-de-estos-anos-deje-de-ser-tra",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "La escritora cordobesa, que acaba de reeditar “El viaje inútil”, conversó con Infobae Cultura sobre la “tristeza vital”, la preponderancia de la figura del autor y qué hacer si se",
-    "link": "/noticias/economia/camila-sosa-villada-a-lo-largo-de-estos-anos-deje-de-ser-tra",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Piero Quispe amplió su invicto con Sydney FC en la Liga de Australia mientras piensa en su futuro: ¿Volverá a Universitario?",
-    "slug": "piero-quispe-amplio-su-invicto-con-sydney-fc-en-la-liga-de-a",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "El mediocampista peruano se mantiene imbatible con el Sydney FC en la Liga de Australia y suma minutos valiosos mientras continúa brillando, crecen las especulaciones sobre su posi",
-    "link": "/noticias/economia/piero-quispe-amplio-su-invicto-con-sydney-fc-en-la-liga-de-a",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Luz del Sur interrumpe el servicio eléctrico en Miraflores y Surquillo por fuga de gas",
-    "slug": "luz-del-sur-interrumpe-el-servicio-electrico-en-miraflores-y",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "La empresa de energía indicó que el servicio será restablecido una vez que la emergencia sea controlada",
-    "link": "/noticias/economia/luz-del-sur-interrumpe-el-servicio-electrico-en-miraflores-y",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La transformación de Grand Army Plaza promete un nuevo espacio peatonal para Brooklyn y divide opiniones entre vecinos y comerciantes",
-    "slug": "la-transformacion-de-grand-army-plaza-promete-un-nuevo-espac",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "La propuesta del alcalde Zohran Mamdani busca convertir una transitada avenida en una zona peatonal, conectando el icónico arco con Prospect Park y desatando entusiasmo y dudas ent",
-    "link": "/noticias/economia/la-transformacion-de-grand-army-plaza-promete-un-nuevo-espac",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Ciudad de Buenos Aires decretó dos días de duelo por la muerte de Luis Brandoni",
-    "slug": "la-ciudad-de-buenos-aires-decreto-dos-dias-de-duelo-por-la-m",
-    "category": "economia",
-    "date": "2026-04-20",
-    "summary": "El Gobierno porteño envió condolencias a la familia del reconocido actor y le rendirá homenaje durante dos jornadas. Su velatorio se realiza en la Legislatura",
-    "link": "/noticias/economia/la-ciudad-de-buenos-aires-decreto-dos-dias-de-duelo-por-la-m",
-    "source": "Infobae",
     "tags": [
       "economía",
       "argentina"
