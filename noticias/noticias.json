@@ -1,87 +1,27 @@
 [
   {
-    "title": "Beneficios de Cuenta DNI en abril: todos los ahorros posibles y las nuevas marcas que se adhirieron",
-    "slug": "beneficios-de-cuenta-dni-en-abril-todos-los-ahorros-posibles",
+    "title": "Salarios: tras la caída de febrero, se agranda la brecha entre sectores y persisten las dudas sobre una recuperación",
+    "slug": "salarios-tras-la-caida-de-febrero-se-agranda-la-brecha-entre",
     "category": "economia",
-    "date": "2026-04-21",
-    "summary": "Conocé todas las opciones que tenés con la aplicación del Banco Provincia para ahorrar en lo que queda del mes.",
-    "link": "/noticias/economia/beneficios-de-cuenta-dni-en-abril-todos-los-ahorros-posibles",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Lo que podés ganar en un plazo fijo de $500.000 a 30 días",
-    "slug": "lo-que-podes-ganar-en-un-plazo-fijo-de-500000-a-30-dias",
-    "category": "economia",
-    "date": "2026-04-21",
-    "summary": "Este tipo de inversión sigue siendo una de las opciones más elegidas por los argentinos para invertir sus ahorros: conocé cuánto podés ganar.",
-    "link": "/noticias/economia/lo-que-podes-ganar-en-un-plazo-fijo-de-500000-a-30-dias",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuánto sale un simulador de Fórmula 1: precios y alternativas para correr como Colapinto",
-    "slug": "cuanto-sale-un-simulador-de-formula-1-precios-y-alternativas",
-    "category": "economia",
-    "date": "2026-04-21",
-    "summary": "Uno de los dispositivos más divertidos y a la vez más completos para vivir una experiencia similar a la del corredor.",
-    "link": "/noticias/economia/cuanto-sale-un-simulador-de-formula-1-precios-y-alternativas",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos hipotecarios: se reactivaron las consultas tras la baja de tasas, aunque el acceso sigue limitado",
-    "slug": "creditos-hipotecarios-se-reactivaron-las-consultas-tras-la-b",
-    "category": "economia",
-    "date": "2026-04-21",
-    "summary": "Los bancos recortaron tasas desde marzo y varias líneas volvieron a ubicarse en niveles de un dígito.  El apetito del público repuntó, pero los altos ingresos exigidos y los filtros crediticios aún frenan la recuperación del mercado.",
-    "link": "/noticias/economia/creditos-hipotecarios-se-reactivaron-las-consultas-tras-la-b",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Conviene invertir en plazo fijo UVA? El dato de inflación que reavivó el interés por la cobertura",
-    "slug": "conviene-invertir-en-plazo-fijo-uva-el-dato-de-inflacion-que",
-    "category": "economia",
-    "date": "2026-04-21",
-    "summary": "Tras la aceleración de precios al nivel más alto en un año, los depósitos ajustados por inflación vuelven a ganar atractivo frente a la tasa fija tradicional.",
-    "link": "/noticias/economia/conviene-invertir-en-plazo-fijo-uva-el-dato-de-inflacion-que",
+    "date": "2026-04-22",
+    "summary": "El salario promedio del Sistema Integrado Previsional Argentino (SIPA) mostró una baja en febrero, aunque en la gestión de Milei superan levemente a la inflación.  Sin embargo, hacia el interior del indicador, los haberes de convenio -que alcanzan a millones de trabajadores- acumulan una baja real de 7 puntos porcentuales desde noviembre de 2023.",
+    "link": "/noticias/economia/salarios-tras-la-caida-de-febrero-se-agranda-la-brecha-entre",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
-      "inflación"
+      "brecha"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Meloni sobre Trump: \"La amistad es decir lo que uno piensa cuando no se está de acuerdo\"",
-    "slug": "meloni-sobre-trump-la-amistad-es-decir-lo-que-uno-piensa-cua",
+    "title": "Exgerente del PSOE asegura que \"nunca\" se usaron billetes de 500, 200 o 100 euros para devolver gastos a Ábalos y Koldo",
+    "slug": "exgerente-del-psoe-asegura-que-nunca-se-usaron-billetes-de-5",
     "category": "economia",
-    "date": "2026-04-21",
+    "date": "2026-04-22",
     "summary": "",
-    "link": "/noticias/economia/meloni-sobre-trump-la-amistad-es-decir-lo-que-uno-piensa-cua",
+    "link": "/noticias/economia/exgerente-del-psoe-asegura-que-nunca-se-usaron-billetes-de-5",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -91,42 +31,12 @@
     "related": []
   },
   {
-    "title": "Dos mujeres, de 21 y 45 años, en estado crítico tras el derrumbe de un edificio en Ibiza: el origen ha sido una explosión de gas en una vivienda",
-    "slug": "dos-mujeres-de-21-y-45-anos-en-estado-critico-tras-el-derrum",
+    "title": "Finaliza un ejercicio de la Armada con un escenario en Almería sobre el lecho marino",
+    "slug": "finaliza-un-ejercicio-de-la-armada-con-un-escenario-en-almer",
     "category": "economia",
-    "date": "2026-04-21",
-    "summary": "El suceso ha ocurrido pasadas las 17:00 horas y ha generado una columna de humo negro visible desde varios puntos de la ciudad",
-    "link": "/noticias/economia/dos-mujeres-de-21-y-45-anos-en-estado-critico-tras-el-derrum",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El proyecto ’55 vidas’, que transformaría la donación de órganos en el país, avanzó a plenaria en el Congreso: en qué consiste",
-    "slug": "el-proyecto-55-vidas-que-transformaria-la-donacion-de-organo",
-    "category": "economia",
-    "date": "2026-04-21",
-    "summary": "La iniciativa quedó lista para su último trámite luego de ser respaldada por representantes y expertos, quienes destacan el impacto en el sistema de salud y la posibilidad de salva",
-    "link": "/noticias/economia/el-proyecto-55-vidas-que-transformaria-la-donacion-de-organo",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La firma española Garrigues integra firma chilena y refuerza su presencia en Latinoamérica",
-    "slug": "la-firma-espanola-garrigues-integra-firma-chilena-y-refuerza",
-    "category": "economia",
-    "date": "2026-04-21",
+    "date": "2026-04-22",
     "summary": "",
-    "link": "/noticias/economia/la-firma-espanola-garrigues-integra-firma-chilena-y-refuerza",
+    "link": "/noticias/economia/finaliza-un-ejercicio-de-la-armada-con-un-escenario-en-almer",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -136,13 +46,103 @@
     "related": []
   },
   {
-    "title": "Karen Schwarz sorprende al volver a Lima luego de su mudanza con Ezio Oliva y sus hijas a España: “No es fácil”",
-    "slug": "karen-schwarz-sorprende-al-volver-a-lima-luego-de-su-mudanza",
+    "title": "Ucrania plantea a Turquía que acoja una cumbre entre Zelenski y Putin",
+    "slug": "ucrania-plantea-a-turquia-que-acoja-una-cumbre-entre-zelensk",
+    "category": "economia",
+    "date": "2026-04-22",
+    "summary": "",
+    "link": "/noticias/economia/ucrania-plantea-a-turquia-que-acoja-una-cumbre-entre-zelensk",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La Comisión Europea sugiere que los países de la UE compartan queroseno",
+    "slug": "la-comision-europea-sugiere-que-los-paises-de-la-ue-comparta",
+    "category": "economia",
+    "date": "2026-04-22",
+    "summary": "",
+    "link": "/noticias/economia/la-comision-europea-sugiere-que-los-paises-de-la-ue-comparta",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un grupo de personas asegura haber accedido de manera no autorizada a Claude Mythos, el modelo de seguridad de Anthropic",
+    "slug": "un-grupo-de-personas-asegura-haber-accedido-de-manera-no-aut",
+    "category": "economia",
+    "date": "2026-04-22",
+    "summary": "",
+    "link": "/noticias/economia/un-grupo-de-personas-asegura-haber-accedido-de-manera-no-aut",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Fed: Kevin Warsh prometió independencia de Donald Trump, propuso un giro en la comunicación y no dio señales claras sobre tasas",
+    "slug": "fed-kevin-warsh-prometio-independencia-de-donald-trump-propu",
     "category": "economia",
     "date": "2026-04-21",
-    "summary": "La exconductora de televisión detalló la razón de su regreso a nuestro país, a poco de haber anunciado su mudanza",
-    "link": "/noticias/economia/karen-schwarz-sorprende-al-volver-a-lima-luego-de-su-mudanza",
-    "source": "Infobae",
+    "summary": "Los analistas del mercado celebraron las declaraciones sobre la autonomía del banco central de EEUU, aunque reconocieron la falta de detalles en sus declaraciones.",
+    "link": "/noticias/economia/fed-kevin-warsh-prometio-independencia-de-donald-trump-propu",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las expectativas de los industriales no mejoran: menos del 4% prevé aumentar el empleo de acá a mitad de año",
+    "slug": "las-expectativas-de-los-industriales-no-mejoran-menos-del-4-",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "De acuerdo con una encuesta publicada por el INDEC, la demanda insuficiente y la competencia de productos importados siguen siendo los principales problemas del sector.",
+    "link": "/noticias/economia/las-expectativas-de-los-industriales-no-mejoran-menos-del-4-",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La confianza de los empresarios supermercadistas cayó a mínimos en seis meses: acusan problemas de demanda y financiamiento",
+    "slug": "la-confianza-de-los-empresarios-supermercadistas-cayo-a-mini",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "Según los últimos datos del INDEC, el indicador (ICE) retrocedió un 6,2%, y regresó a los valores críticos que se veían en septiembre del año pasado.",
+    "link": "/noticias/economia/la-confianza-de-los-empresarios-supermercadistas-cayo-a-mini",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "EEUU: ventas minoristas subieron un 1,7% en marzo, mejor de lo previsto",
+    "slug": "eeuu-ventas-minoristas-subieron-un-17-en-marzo-mejor-de-lo-p",
+    "category": "economia",
+    "date": "2026-04-21",
+    "summary": "Es en comparación con febrero, cuya cifra se revisó al alza.  La cifra de ventas minoristas subyacentes -excluyendo materiales de construcción, vehículos y piezas de vehículos, gasolineras y servicios de alimentación- subió un 0,7% en términos intermensuales, frente al aumento del 0,2% que esperaban los analistas.",
+    "link": "/noticias/economia/eeuu-ventas-minoristas-subieron-un-17-en-marzo-mejor-de-lo-p",
+    "source": "Ámbito",
     "tags": [
       "economía",
       "argentina"
