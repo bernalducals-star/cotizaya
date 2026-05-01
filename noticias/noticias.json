@@ -1,11 +1,11 @@
 [
   {
-    "title": "Cuenta DNI oficializó los beneficios de mayo 2026 y el descuento en carnicerías sigue de lunes a viernes",
-    "slug": "cuenta-dni-oficializo-los-beneficios-de-mayo-2026-y-el-descu",
+    "title": "Salarios: uno por uno, cuáles son los aumentos confirmados en mayo para todos los trabajadores",
+    "slug": "salarios-uno-por-uno-cuales-son-los-aumentos-confirmados-en-",
     "category": "economia",
-    "date": "2026-04-30",
-    "summary": "La billetera digital de Banco Provincia continua con una amplia variedad de promociones en distintos rubros.",
-    "link": "/noticias/economia/cuenta-dni-oficializo-los-beneficios-de-mayo-2026-y-el-descu",
+    "date": "2026-05-01",
+    "summary": "Con una inflación acumulada superior al 9% en el primer trimestre, los acuerdos salariales muestran una marcada heterogeneidad, pero con un denominador común: la mayoría de los aum",
+    "link": "/noticias/economia/salarios-uno-por-uno-cuales-son-los-aumentos-confirmados-en-",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -15,134 +15,137 @@
     "related": []
   },
   {
-    "title": "Impuesto a las Ganancias: los trabajadores que pagan el tributo recibirán una devolución en mayo",
-    "slug": "impuesto-a-las-ganancias-los-trabajadores-que-pagan-el-tribu",
+    "title": "Lo que se dice en las mesas: \"Toto\" Caputo negocia repo, mientras el riesgo país sigue jaqueado por los fantasmas de siempre",
+    "slug": "lo-que-se-dice-en-las-mesas-toto-caputo-negocia-repo-mientra",
     "category": "economia",
-    "date": "2026-04-30",
-    "summary": "La mayoría de las empresas retiene de más el impuesto a las Ganancias en los salarios de sus empleados en la primera mitad del año fiscal.  Luego se ajustan las escalas en el segundo semestre.",
-    "link": "/noticias/economia/impuesto-a-las-ganancias-los-trabajadores-que-pagan-el-tribu",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La inversión real bajó 0,8% anual en marzo, según Orlando Ferreres",
-    "slug": "la-inversion-real-bajo-08-anual-en-marzo-segun-orlando-ferre",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "La baja en la inversión muestra un contraste con la caída de 11,1% de febrero y la merma de enero, pero advierten que el \"repunte es mínimo\".",
-    "link": "/noticias/economia/la-inversion-real-bajo-08-anual-en-marzo-segun-orlando-ferre",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La inflación esperada por la población sigue alta: se ubicó en el 3,9% para abril",
-    "slug": "la-inflacion-esperada-por-la-poblacion-sigue-alta-se-ubico-e",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "Para los próximos 30 días, la inflación esperada en abril se ubicó en 3,93% en promedio y 3% de mediana.",
-    "link": "/noticias/economia/la-inflacion-esperada-por-la-poblacion-sigue-alta-se-ubico-e",
+    "date": "2026-05-01",
+    "summary": "Un riesgo país jaqueado por los fantasmas de siempre no cede.  El “Toto” sigue negociando repo a la espera de comprar más reservas.",
+    "link": "/noticias/economia/lo-que-se-dice-en-las-mesas-toto-caputo-negocia-repo-mientra",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: Domingo Cavallo redobló críticas al cepo a empresas y alertó que la desinflación puede \"empantanarse\"",
+    "slug": "dolar-domingo-cavallo-redoblo-criticas-al-cepo-a-empresas-y-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "El exministro cuestionó las restricciones cambiarias y sostuvo que sin una reforma monetaria la baja de la inflación podría frenarse.  Planteó que liberar el mercado de divisas es clave para reactivar la economía y atraer inversiones.",
+    "link": "/noticias/economia/dolar-domingo-cavallo-redoblo-criticas-al-cepo-a-empresas-y-",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
       "inflación"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Últimos días de abril para invertir en plazo fijo: cuánto gano a 30 días si deposito $150.000 hoy",
-    "slug": "ultimos-dias-de-abril-para-invertir-en-plazo-fijo-cuanto-gan",
+    "title": "Karen Schwarz explica por qué sus hijas no están en el colegio tras mudarse a España",
+    "slug": "karen-schwarz-explica-por-que-sus-hijas-no-estan-en-el-coleg",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "La modelo confesó que sus hijas no están estudiando tras mudarse a España, decisión que tomó junto a Ezio Oliva",
+    "link": "/noticias/economia/karen-schwarz-explica-por-que-sus-hijas-no-estan-en-el-coleg",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La mayoría de los activistas de la Flotilla interceptados por las FDI han desembarcado en Creta, pero un brasileño y un español siguen bajo custodia israelí",
+    "slug": "la-mayoria-de-los-activistas-de-la-flotilla-interceptados-po",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "Thiago Ávila, ciudadano brasileño acusado de ser “sospechoso de actividades ilegales”, y Saif abú Keshek, activista hispano-palestino y militante de la Intersindical Alternativa de",
+    "link": "/noticias/economia/la-mayoria-de-los-activistas-de-la-flotilla-interceptados-po",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El conejo más longevo del mundo cumple una edad sorprendente y duplica su esperanza de vida",
+    "slug": "el-conejo-mas-longevo-del-mundo-cumple-una-edad-sorprendente",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "La familia celebra cada año su cumpleaños con fotos y recuerdos de más de una década con el animal",
+    "link": "/noticias/economia/el-conejo-mas-longevo-del-mundo-cumple-una-edad-sorprendente",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "EN VIVO | Irán no puede romper el bloqueo de EEUU y busca una solución para venderle combustible a China",
+    "slug": "en-vivo-iran-no-puede-romper-el-bloqueo-de-eeuu-y-busca-una-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "Teherán apostó a ganar la batalla atacando barcos que navegaban por el estrecho de Ormuz, interrumpiendo el paso de una quinta parte del suministro mundial de petróleo y gas natura",
+    "link": "/noticias/economia/en-vivo-iran-no-puede-romper-el-bloqueo-de-eeuu-y-busca-una-",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "“Me inyectaron silicona con aceite industrial”: mujer denuncia grave caso tras procedimiento estético en Colombia",
+    "slug": "me-inyectaron-silicona-con-aceite-industrial-mujer-denuncia-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "Una joven colombiana expuso las secuelas que sufrió tras un procedimiento estético en el que, según exámenes médicos, le habrían aplicado una sustancia distinta a la ofrecida inici",
+    "link": "/noticias/economia/me-inyectaron-silicona-con-aceite-industrial-mujer-denuncia-",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Más que un ahorro en dólares: la guía para hacer voluntariados en Estados Unidos y viajar casi gratis",
+    "slug": "mas-que-un-ahorro-en-dolares-la-guia-para-hacer-voluntariado",
     "category": "economia",
     "date": "2026-04-30",
-    "summary": "Conocé los valores porcentuales de acuerdo a cada entidad bancaria y analizá el método más conveniente para poder realizar la operatoria.",
-    "link": "/noticias/economia/ultimos-dias-de-abril-para-invertir-en-plazo-fijo-cuanto-gan",
+    "summary": "Esta alternativa distinta te permite explorar el país por menos dinero y vivir una experiencia que te va a cambiar para siempre.",
+    "link": "/noticias/economia/mas-que-un-ahorro-en-dolares-la-guia-para-hacer-voluntariado",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Decenas de personas protestan ante Exteriores por el arresto de miembros de la flotilla",
-    "slug": "decenas-de-personas-protestan-ante-exteriores-por-el-arresto",
+    "title": "El ladrillo como inversión líquida: lanzan el primer REIT de la Argentina, ¿qué es y cómo genera rendimientos?",
+    "slug": "el-ladrillo-como-inversion-liquida-lanzan-el-primer-reit-de-",
     "category": "economia",
     "date": "2026-04-30",
-    "summary": "",
-    "link": "/noticias/economia/decenas-de-personas-protestan-ante-exteriores-por-el-arresto",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Nuevos detalles del asesinato de un italiano a manos de su madre y su esposa colombiana: su pareja lo habría asfixiado con un cojín tras haberlo dormido con una droga",
-    "slug": "nuevos-detalles-del-asesinato-de-un-italiano-a-manos-de-su-m",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "Los detalles han provocado repudio en el municipio de Gemona del Friuli, ubicado en la provincia de Udine (región de Friul-Venecia Julia). Allí, en una de las viviendas Castro y su",
-    "link": "/noticias/economia/nuevos-detalles-del-asesinato-de-un-italiano-a-manos-de-su-m",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Asesinan a Marco Antonio Franco, regidor de Movimiento Ciudadano en Talpa de Allende",
-    "slug": "asesinan-a-marco-antonio-franco-regidor-de-movimiento-ciudad",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "El funcionario fue localizado sin vida tras un reporte de disparos de arma de fuego",
-    "link": "/noticias/economia/asesinan-a-marco-antonio-franco-regidor-de-movimiento-ciudad",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "República Dominicana mantiene su tasa de política monetaria en el 5,25 % anual",
-    "slug": "republica-dominicana-mantiene-su-tasa-de-politica-monetaria-",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "",
-    "link": "/noticias/economia/republica-dominicana-mantiene-su-tasa-de-politica-monetaria-",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bolivia y EE.UU. reactivan cooperación militar en medio del restablecimiento de relaciones",
-    "slug": "bolivia-y-eeuu-reactivan-cooperacion-militar-en-medio-del-re",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "",
-    "link": "/noticias/economia/bolivia-y-eeuu-reactivan-cooperacion-militar-en-medio-del-re",
-    "source": "Infobae",
+    "summary": "El nuevo instrumento ofrece fraccionamiento, liquidez y retornos atractivos, junto con una operatoria de entrada y salida simple, tanto para inversores retail como corporativos.",
+    "link": "/noticias/economia/el-ladrillo-como-inversion-liquida-lanzan-el-primer-reit-de-",
+    "source": "Ámbito",
     "tags": [
       "economía",
       "argentina"
