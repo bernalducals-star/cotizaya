@@ -1,11 +1,11 @@
 [
   {
-    "title": "Salarios: uno por uno, cuáles son los aumentos confirmados en mayo para todos los trabajadores",
-    "slug": "salarios-uno-por-uno-cuales-son-los-aumentos-confirmados-en-",
+    "title": "Transferencias automáticas a provincias: cayeron por cuarto mes al hilo y en abril la merma fue de hasta 3,3%",
+    "slug": "transferencias-automaticas-a-provincias-cayeron-por-cuarto-m",
     "category": "economia",
     "date": "2026-05-01",
-    "summary": "Con una inflación acumulada superior al 9% en el primer trimestre, los acuerdos salariales muestran una marcada heterogeneidad, pero con un denominador común: la mayoría de los aum",
-    "link": "/noticias/economia/salarios-uno-por-uno-cuales-son-los-aumentos-confirmados-en-",
+    "summary": "En abril, las transferencias ascendieron a $5,5 billones, una suba nominal del 28% pero una caída real de hasta el 3,3% al descontar la inflación.",
+    "link": "/noticias/economia/transferencias-automaticas-a-provincias-cayeron-por-cuarto-m",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -15,17 +15,31 @@
     "related": []
   },
   {
-    "title": "Lo que se dice en las mesas: \"Toto\" Caputo negocia repo, mientras el riesgo país sigue jaqueado por los fantasmas de siempre",
-    "slug": "lo-que-se-dice-en-las-mesas-toto-caputo-negocia-repo-mientra",
+    "title": "Para un frigorífico tradicional \"el precio de la carne llegó a un techo\"",
+    "slug": "para-un-frigorifico-tradicional-el-precio-de-la-carne-llego-",
     "category": "economia",
     "date": "2026-05-01",
-    "summary": "Un riesgo país jaqueado por los fantasmas de siempre no cede.  El “Toto” sigue negociando repo a la espera de comprar más reservas.",
-    "link": "/noticias/economia/lo-que-se-dice-en-las-mesas-toto-caputo-negocia-repo-mientra",
+    "summary": "El aumento en los valores de la carne vacunaes uno de los principales ejes de preocupación de los últimos meses.  Esto devino en una marcada caída del consumo.",
+    "link": "/noticias/economia/para-un-frigorifico-tradicional-el-precio-de-la-carne-llego-",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina",
-      "riesgo país"
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Rebote de la actividad económica en marzo? Fuerte tracción de los bienes transables y energía",
+    "slug": "rebote-de-la-actividad-economica-en-marzo-fuerte-traccion-de",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "La actividad económica sigue a \"dos velocidades\", el sector transable y la energía lideran los avances.  La molienda de soja pegó un salto del 32,7%.",
+    "link": "/noticias/economia/rebote-de-la-actividad-economica-en-marzo-fuerte-traccion-de",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -48,104 +62,88 @@
     "related": []
   },
   {
-    "title": "Karen Schwarz explica por qué sus hijas no están en el colegio tras mudarse a España",
-    "slug": "karen-schwarz-explica-por-que-sus-hijas-no-estan-en-el-coleg",
+    "title": "Entró en vigencia el acuerdo Mercosur-UE: qué implica para Argentina",
+    "slug": "entro-en-vigencia-el-acuerdo-mercosur-ue-que-implica-para-ar",
     "category": "economia",
     "date": "2026-05-01",
-    "summary": "La modelo confesó que sus hijas no están estudiando tras mudarse a España, decisión que tomó junto a Ezio Oliva",
-    "link": "/noticias/economia/karen-schwarz-explica-por-que-sus-hijas-no-estan-en-el-coleg",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La mayoría de los activistas de la Flotilla interceptados por las FDI han desembarcado en Creta, pero un brasileño y un español siguen bajo custodia israelí",
-    "slug": "la-mayoria-de-los-activistas-de-la-flotilla-interceptados-po",
-    "category": "economia",
-    "date": "2026-05-01",
-    "summary": "Thiago Ávila, ciudadano brasileño acusado de ser “sospechoso de actividades ilegales”, y Saif abú Keshek, activista hispano-palestino y militante de la Intersindical Alternativa de",
-    "link": "/noticias/economia/la-mayoria-de-los-activistas-de-la-flotilla-interceptados-po",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El conejo más longevo del mundo cumple una edad sorprendente y duplica su esperanza de vida",
-    "slug": "el-conejo-mas-longevo-del-mundo-cumple-una-edad-sorprendente",
-    "category": "economia",
-    "date": "2026-05-01",
-    "summary": "La familia celebra cada año su cumpleaños con fotos y recuerdos de más de una década con el animal",
-    "link": "/noticias/economia/el-conejo-mas-longevo-del-mundo-cumple-una-edad-sorprendente",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "EN VIVO | Irán no puede romper el bloqueo de EEUU y busca una solución para venderle combustible a China",
-    "slug": "en-vivo-iran-no-puede-romper-el-bloqueo-de-eeuu-y-busca-una-",
-    "category": "economia",
-    "date": "2026-05-01",
-    "summary": "Teherán apostó a ganar la batalla atacando barcos que navegaban por el estrecho de Ormuz, interrumpiendo el paso de una quinta parte del suministro mundial de petróleo y gas natura",
-    "link": "/noticias/economia/en-vivo-iran-no-puede-romper-el-bloqueo-de-eeuu-y-busca-una-",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "“Me inyectaron silicona con aceite industrial”: mujer denuncia grave caso tras procedimiento estético en Colombia",
-    "slug": "me-inyectaron-silicona-con-aceite-industrial-mujer-denuncia-",
-    "category": "economia",
-    "date": "2026-05-01",
-    "summary": "Una joven colombiana expuso las secuelas que sufrió tras un procedimiento estético en el que, según exámenes médicos, le habrían aplicado una sustancia distinta a la ofrecida inici",
-    "link": "/noticias/economia/me-inyectaron-silicona-con-aceite-industrial-mujer-denuncia-",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Más que un ahorro en dólares: la guía para hacer voluntariados en Estados Unidos y viajar casi gratis",
-    "slug": "mas-que-un-ahorro-en-dolares-la-guia-para-hacer-voluntariado",
-    "category": "economia",
-    "date": "2026-04-30",
-    "summary": "Esta alternativa distinta te permite explorar el país por menos dinero y vivir una experiencia que te va a cambiar para siempre.",
-    "link": "/noticias/economia/mas-que-un-ahorro-en-dolares-la-guia-para-hacer-voluntariado",
+    "summary": "La UE y el Mercosur representan el 30% del PIB mundial y 700 millones de consumidores.  El pacto elimina aranceles en el 90% del comercio entre ambas partes.",
+    "link": "/noticias/economia/entro-en-vigencia-el-acuerdo-mercosur-ue-que-implica-para-ar",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina",
-      "dólar"
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El ladrillo como inversión líquida: lanzan el primer REIT de la Argentina, ¿qué es y cómo genera rendimientos?",
-    "slug": "el-ladrillo-como-inversion-liquida-lanzan-el-primer-reit-de-",
+    "title": "Miles marchan en Puerto Rico contra la \"dictadura\" del ente fiscal impuesto hace diez años",
+    "slug": "miles-marchan-en-puerto-rico-contra-la-dictadura-del-ente-fi",
     "category": "economia",
-    "date": "2026-04-30",
-    "summary": "El nuevo instrumento ofrece fraccionamiento, liquidez y retornos atractivos, junto con una operatoria de entrada y salida simple, tanto para inversores retail como corporativos.",
-    "link": "/noticias/economia/el-ladrillo-como-inversion-liquida-lanzan-el-primer-reit-de-",
-    "source": "Ámbito",
+    "date": "2026-05-01",
+    "summary": "",
+    "link": "/noticias/economia/miles-marchan-en-puerto-rico-contra-la-dictadura-del-ente-fi",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Shakira dará en Copacabana el concierto más multitudinario de su carrera este sábado",
+    "slug": "shakira-dara-en-copacabana-el-concierto-mas-multitudinario-d",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "",
+    "link": "/noticias/economia/shakira-dara-en-copacabana-el-concierto-mas-multitudinario-d",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El cruce entre Luis Zubeldía y un periodista tras la derrota de Fluminense que lo dejó último en la Copa Libertadores",
+    "slug": "el-cruce-entre-luis-zubeldia-y-un-periodista-tras-la-derrota",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "El director técnico argentino se expresó en conferencia de prensa luego de la caída ante Bolívar en La Paz",
+    "link": "/noticias/economia/el-cruce-entre-luis-zubeldia-y-un-periodista-tras-la-derrota",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un triplete de Schröder hace campeón europeo al Hacken frente al Hammarby",
+    "slug": "un-triplete-de-schroder-hace-campeon-europeo-al-hacken-frent",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "",
+    "link": "/noticias/economia/un-triplete-de-schroder-hace-campeon-europeo-al-hacken-frent",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Emiro Navarro vuelve a ‘La casa de los famosos Colombia’: esto se sabe del regreso del barranquillero al ‘reality’ en la recta final",
+    "slug": "emiro-navarro-vuelve-a-la-casa-de-los-famosos-colombia-esto-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "El barranquillero se une a Karina García, Altafulla y Melissa Gate como parte de los invitados especiales que ha llevado el jefe en la tercera temporada del programa",
+    "link": "/noticias/economia/emiro-navarro-vuelve-a-la-casa-de-los-famosos-colombia-esto-",
+    "source": "Infobae",
     "tags": [
       "economía",
       "argentina"
