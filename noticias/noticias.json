@@ -1,10 +1,153 @@
 [
   {
-    "title": "Prueba de Diseño: El Dólar en Argentina",
-    "link": "https://www.iprofesional.com",
-    "source": "iProfesional",
-    "date": "02/05/2026",
-    "description": "Análisis detallado sobre el comportamiento de los mercados financieros y la brecha cambiaria en la jornada de hoy.",
-    "image": "https://images.unsplash.com/photo-1611974717482-58a2523d11c7?q=80&w=500&auto=format&fit=crop"
+    "title": "La OTAN pide aclaraciones a EEUU sobre la retirada de sus militares en Alemania",
+    "slug": "la-otan-pide-aclaraciones-a-eeuu-sobre-la-retirada-de-sus-mi",
+    "category": "economia",
+    "date": "2026-05-02",
+    "summary": "",
+    "link": "/noticias/economia/la-otan-pide-aclaraciones-a-eeuu-sobre-la-retirada-de-sus-mi",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Barça, a afianzarse en la clasificación ante un emergente Gran Canaria",
+    "slug": "el-barca-a-afianzarse-en-la-clasificacion-ante-un-emergente-",
+    "category": "economia",
+    "date": "2026-05-02",
+    "summary": "",
+    "link": "/noticias/economia/el-barca-a-afianzarse-en-la-clasificacion-ante-un-emergente-",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La internacional Montoro, operada tras romperse el tabique nasal en los cuartos de la Copa",
+    "slug": "la-internacional-montoro-operada-tras-romperse-el-tabique-na",
+    "category": "economia",
+    "date": "2026-05-02",
+    "summary": "",
+    "link": "/noticias/economia/la-internacional-montoro-operada-tras-romperse-el-tabique-na",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Lydia Lozano se enfrenta a un nuevo bache de salud de Charly: \"Ha vuelto la bacteria\"",
+    "slug": "lydia-lozano-se-enfrenta-a-un-nuevo-bache-de-salud-de-charly",
+    "category": "economia",
+    "date": "2026-05-02",
+    "summary": "",
+    "link": "/noticias/economia/lydia-lozano-se-enfrenta-a-un-nuevo-bache-de-salud-de-charly",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gran expectativa por Franco Colapinto en la carrera Sprint del GP de Miami: en qué posición largará, horarios y TV",
+    "slug": "gran-expectativa-por-franco-colapinto-en-la-carrera-sprint-d",
+    "category": "economia",
+    "date": "2026-05-02",
+    "summary": "El argentino quedó octavo en la clasificación y aspira a sumar puntos en el inicio de la jornada del sábado",
+    "link": "/noticias/economia/gran-expectativa-por-franco-colapinto-en-la-carrera-sprint-d",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "A menos de 45 días: los consejos para viajar al Mundial 2026 sin gastar todos tus ahorros en dólares",
+    "slug": "a-menos-de-45-dias-los-consejos-para-viajar-al-mundial-2026-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "Todo lo que tenés que saber para hacer que cada dólar rinda en tu travesía por los Estados Unidos en esta Copa del Mundo.",
+    "link": "/noticias/economia/a-menos-de-45-dias-los-consejos-para-viajar-al-mundial-2026-",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Luis Caputo destacó el impacto del acuerdo con la UE en exportaciones e inversiones",
+    "slug": "luis-caputo-destaco-el-impacto-del-acuerdo-con-la-ue-en-expo",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "El ministro de Economía aseguró que la entrada en vigencia del pacto con el bloque europeo potenciará las ventas externas, impulsará sectores clave y favorecerá el ingreso de capit",
+    "link": "/noticias/economia/luis-caputo-destaco-el-impacto-del-acuerdo-con-la-ue-en-expo",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo comprar en la Feria del Libro 2026 con descuento",
+    "slug": "como-comprar-en-la-feria-del-libro-2026-con-descuento",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "Cuenta DNI y tarjetas del Banco Provincia ofrecen beneficios para pagar menos en entradas y compras dentro de La Rural.",
+    "link": "/noticias/economia/como-comprar-en-la-feria-del-libro-2026-con-descuento",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Transferencias automáticas a provincias: cayeron por cuarto mes al hilo y en abril la merma fue de hasta 3,3%",
+    "slug": "transferencias-automaticas-a-provincias-cayeron-por-cuarto-m",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "En abril, las transferencias ascendieron a $5,5 billones, una suba nominal del 28% pero una caída real de hasta el 3,3% al descontar la inflación.",
+    "link": "/noticias/economia/transferencias-automaticas-a-provincias-cayeron-por-cuarto-m",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Para un frigorífico tradicional \"el precio de la carne llegó a un techo\"",
+    "slug": "para-un-frigorifico-tradicional-el-precio-de-la-carne-llego-",
+    "category": "economia",
+    "date": "2026-05-01",
+    "summary": "El aumento en los valores de la carne vacunaes uno de los principales ejes de preocupación de los últimos meses.  Esto devino en una marcada caída del consumo.",
+    "link": "/noticias/economia/para-un-frigorifico-tradicional-el-precio-de-la-carne-llego-",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
   }
 ]
