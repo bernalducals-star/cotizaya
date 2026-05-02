@@ -1,14 +1,10 @@
 [
   {
-    "title": "Actualización automática funcionando",
-    "slug": "test-auto",
-    "category": "economia",
-    "date": "2026-04-18",
-    "summary": "Este contenido fue generado automáticamente por GitHub Actions.",
-    "link": "/noticias/economia/test-auto",
-    "source": "CotizaYa",
-    "tags": ["test"],
-    "featured": true,
-    "related": []
+    "title": "Prueba de Diseño: El Dólar en Argentina",
+    "link": "https://www.iprofesional.com",
+    "source": "iProfesional",
+    "date": "02/05/2026",
+    "description": "Análisis detallado sobre el comportamiento de los mercados financieros y la brecha cambiaria en la jornada de hoy.",
+    "image": "https://images.unsplash.com/photo-1611974717482-58a2523d11c7?q=80&w=500&auto=format&fit=crop"
   }
 ]

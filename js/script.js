@@ -753,7 +753,6 @@ async function loadNews() {
 
 async function fetchLocalNewsIndex() {
   try {
-    // IMPORTANTE: todo en minúscula
     const res = await fetch("/noticias/noticias.json", { cache: "no-store" });
     if (!res.ok) return [];
 
@@ -762,13 +761,12 @@ async function fetchLocalNewsIndex() {
     return (Array.isArray(data) ? data : [])
       .map(n => {
         const link = n.link || n.url || "";
-        const ts = n.date ? Date.parse(n.date) : Date.now();
         return {
           title: n.title || "",
           link,
           source: n.source || "CotizaYa",
-          date: n.date ? new Date(ts).toLocaleString("es-AR") : "–",
-          ts
+          date: n.date || "Reciente",
+          ts: Date.now()
         };
       })
       .filter(it => it.title && it.link);

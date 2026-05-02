@@ -33,95 +33,68 @@
     }
   }
 
-  // ===== Noticias (RSS) =====
+ // ===== Noticias (Automatizadas) =====
   async function loadNews() {
-    const statusEl = $("#news-status");
-    const listEl = $("#news-list");
-    if (!listEl) return;
+  const statusEl = "news-status"; // Usamos el ID directamente para tu función setText
+  const listEl = document.getElementById("news-list");
+  if (!listEl) return;
 
-    setText(statusEl, "Cargando…");
+  setText(statusEl, "Actualizando...");
 
-    try {
-      // IMPORTANTE: en front puro, muchos RSS dan CORS.
-      // Si ya tenías un proxy/endpoint, ponelo acá:
-      const RSS_PROXY_URL = window.COTIZAYA_NEWS_URL; // setear en HTML si querés
+  try {
+    const res = await fetch("/noticias/noticias.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`No se encontró el archivo`);
+    const items = await res.json();
 
-      if (!RSS_PROXY_URL) {
-        renderNoData(listEl, "Sin datos (RSS no configurado)");
-        setText(statusEl, "Sin datos");
-        return;
-      }
-
-      // Si tu proxy devuelve JSON:
-      const { signal, clear } = withTimeout(TIMEOUT_MS);
-      try {
-        const res = await fetch(RSS_PROXY_URL, {
-          signal,
-          cache: "no-store",
-          headers: { Accept: "application/json" },
-        });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-
-        const items = Array.isArray(data?.items) ? data.items : [];
-        if (!items.length) {
-          renderNoData(listEl, "Sin datos");
-          setText(statusEl, "Sin datos");
-          return;
-        }
-
-        listEl.innerHTML = items.slice(0, 8).map((it) => {
-          const title = String(it.title || "Sin título");
-          const link = String(it.link || "#");
-          const date = String(it.pubDate || "");
-          return `
-            <a class="news-item" href="${link}" target="_blank" rel="noopener noreferrer">
-              <div class="news-title">${escapeHtml(title)}</div>
-              <div class="news-meta">${escapeHtml(date)}</div>
-            </a>
-          `;
-        }).join("");
-
-        setText(statusEl, "OK");
-      } finally {
-        clear();
-      }
-    } catch (e) {
-      console.error("Noticias error:", e);
-      renderNoData($("#news-list"), "Sin datos");
-      setText($("#news-status"), "Sin datos");
+    if (!Array.isArray(items) || items.length === 0) {
+      listEl.innerHTML = '<div class="hint">Esperando nuevas noticias...</div>';
+      setText(statusEl, "Vacío");
+      return;
     }
-  }
 
-  function escapeHtml(str) {
-    return String(str)
-      .replaceAll("&", "&amp;")
-      .replaceAll("<", "&lt;")
-      .replaceAll(">", "&gt;")
-      .replaceAll('"', "&quot;")
-      .replaceAll("'", "&#039;");
-  }
+    listEl.innerHTML = items.slice(0, 8).map((it) => {
+      const title       = escapeHtml(String(it.title       || "Sin título"));
+      const link        = escapeAttr(String(it.link        || "#"));
+      const date        = escapeHtml(String(it.date        || ""));
+      const source      = escapeHtml(String(it.source      || "CotizaYa"));
+      const description = escapeHtml(String(it.description || it.summary || ""));
+      const image       = it.image ? escapeAttr(String(it.image)) : "";
 
-  // ===== Cotizaciones / Saldos (placeholder) =====
-  async function loadQuotes() {
-    // Acá va tu lógica real de cotizaciones/saldos.
-    // Ahora lo dejamos sin romper nada.
+      const imgTag = image
+        ? `<img class="news-card-img" src="${image}" alt="${title}" loading="lazy" onerror="this.style.display='none'">`
+        : `<div class="news-card-img-placeholder"></div>`;
+
+      return `
+        <a class="news-card" href="${link}" target="${link.startsWith("/") ? "_self" : "_blank"}" rel="noopener noreferrer">
+          ${imgTag}
+          <div class="news-card-body">
+            <div class="news-card-meta">${source} • ${date}</div>
+            <div class="news-card-title">${title}</div>
+            ${description ? `<p class="news-card-desc">${description}</p>` : ""}
+          </div>
+        </a>
+      `;
+    }).join("");
+
+    setText(statusEl, `Actualizado: ${new Date().toLocaleTimeString("es-AR", { hour: "2-digit", minute: "2-digit" })}`);
+
+  } catch (e) {
+    console.warn("Noticias:", e.message);
+    listEl.innerHTML = '<div class="hint">No se pudieron cargar las noticias.</div>';
+    setText(statusEl, "Pendiente");
+  }
+}
+
+ // Definimos la función que arranca todo
+async function bootOnce() {
+    console.log("CotizaYa: Iniciando sistema...");
     try {
-      // Si tenías endpoints, los conectamos cuando me pegues esa sección del HTML.
-      // const QUOTES_URL = window.COTIZAYA_QUOTES_URL;
-      // ...
+        await loadQuotes(); // Carga los precios (Dólar, Euro, etc.)
+        await loadNews();   // Carga las noticias del JSON
     } catch (e) {
-      console.error("Cotizaciones error:", e);
+        console.error("Error en el arranque:", e);
     }
-  }
+}
 
-  function bootOnce() {
-    if (window.__COTIZAYA_BOOTED__) return;
-    window.__COTIZAYA_BOOTED__ = true;
-
-    loadNews();
-    loadQuotes();
-  }
-
-  document.addEventListener("DOMContentLoaded", bootOnce);
-})();
+// Ahora sí la llamamos cuando la página esté lista
+document.addEventListener("DOMContentLoaded", bootOnce);
