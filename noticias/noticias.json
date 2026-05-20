@@ -1,11 +1,11 @@
 [
   {
-    "title": "El Gobierno creó una mesa especial para prevenir delitos en proyectos del RIGI",
-    "slug": "el-gobierno-creo-una-mesa-especial-para-prevenir-delitos-en-",
+    "title": "El superávit comercial marcó un nuevo récord: creció hasta u$s2.711 millones en abril",
+    "slug": "el-superavit-comercial-marco-un-nuevo-record-crecio-hasta-us",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "La medida fue oficializada por el Ministerio de Seguridad Nacional y apunta a coordinar acciones contra el narcotráfico y el crimen organizado en torno a inversiones estratégicas.  El Ejecutivo advirtió sobre riesgos de lavado de dinero, corrupción e infiltración de economías ilícitas.",
-    "link": "/noticias/economia/el-gobierno-creo-una-mesa-especial-para-prevenir-delitos-en-",
+    "summary": "Impulsadas por el fuerte salto del 33,6% anual en las exportaciones, especialmente de combustibles y manufacturas industriales, la balanza comercial mostró un resultado positivo inédito.  Las importaciones, en tanto, retrocedieron 4% interanual.",
+    "link": "/noticias/economia/el-superavit-comercial-marco-un-nuevo-record-crecio-hasta-us",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -15,44 +15,58 @@
     "related": []
   },
   {
-    "title": "Mercados: los vigilantes de bonos envían claro mensaje a la Fed de Kevin Warsh",
-    "slug": "mercados-los-vigilantes-de-bonos-envian-claro-mensaje-a-la-f",
+    "title": "El Gobierno pasa la motosierra por la salud pública: recortó más de $63.000 millones del presupuesto",
+    "slug": "el-gobierno-pasa-la-motosierra-por-la-salud-publica-recorto-",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "Los llamados “bond vigilantes” no perdieron ni un día para marcarle la cancha al nuevo jefe de la Fed, Kevin Warsh, apadrinado por Donald Trump.  Diversos factores se coadyuvan para la trepada de las tasas internacionales que han puesto nerviosos a todos, inclusive a las bolsas.",
-    "link": "/noticias/economia/mercados-los-vigilantes-de-bonos-envian-claro-mensaje-a-la-f",
+    "summary": "En ese marco, este miércoles 20 se realizó la Marcha Federal por la Salud Pública, convocada por trabajadores, residentes, sindicatos y profesionales.",
+    "link": "/noticias/economia/el-gobierno-pasa-la-motosierra-por-la-salud-publica-recorto-",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una delegación del Mercosur viajó al país para ver el avance de proyectos financiados por el bloque",
+    "slug": "una-delegacion-del-mercosur-viajo-al-pais-para-ver-el-avance",
+    "category": "economia",
+    "date": "2026-05-20",
+    "summary": "La visita oficial tuvo lugar entre el 13 y el 15 de mayo.  Los proyectos sobre los que se enfocó la delegación son: La Universidad Nacional Arturo Jauretche (UNAJ), Trenes Argentinos Cargas y el Instituto de Investigación en Biomedicina de Buenos Aires (IBioBA).",
+    "link": "/noticias/economia/una-delegacion-del-mercosur-viajo-al-pais-para-ver-el-avance",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólares en el colchón: baja adhesión al blanqueo y convocatoria de Luis Caputo a contadores",
+    "slug": "dolares-en-el-colchon-baja-adhesion-al-blanqueo-y-convocator",
+    "category": "economia",
+    "date": "2026-05-20",
+    "summary": "Quiere consultarles sobre cómo se podría mejorar el régimen de Ganancias Simnplificado.  Solo entró un 3% y hay u$s255.",
+    "link": "/noticias/economia/dolares-en-el-colchon-baja-adhesion-al-blanqueo-y-convocator",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
-      "bonos"
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Diálogos de Wall Street: crece la presión en el mercado por la guerra, la inflación y el futuro de las tasas",
-    "slug": "dialogos-de-wall-street-crece-la-presion-en-el-mercado-por-l",
+    "title": "Boom de autos eléctricos: la suba de los combustibles aumenta la demanda a niveles récord",
+    "slug": "boom-de-autos-electricos-la-suba-de-los-combustibles-aumenta",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "Wall Street en la encrucijada.  Ormuz, bloqueado.",
-    "link": "/noticias/economia/dialogos-de-wall-street-crece-la-presion-en-el-mercado-por-l",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Llega el Congreso Productivo para el Desarrollo: debate intersectorial sobre el futuro de la producción argentina",
-    "slug": "llega-el-congreso-productivo-para-el-desarrollo-debate-inter",
-    "category": "economia",
-    "date": "2026-05-20",
-    "summary": "El evento buscará aportar una mirada de largo plazo sobre los desafíos productivos del país. Disertarán, entre otros, Daniel Herrero, Sergio Kaufman, Matías Kulfas, Mara Ruiz Malec",
-    "link": "/noticias/economia/llega-el-congreso-productivo-para-el-desarrollo-debate-inter",
+    "summary": "El salto global en el precio del petróleo empuja a consumidores, gobiernos y fabricantes hacia la adopción de modelos híbridos y eléctricos.  En Argentina, otros factores impulsan la transición.",
+    "link": "/noticias/economia/boom-de-autos-electricos-la-suba-de-los-combustibles-aumenta",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -62,27 +76,12 @@
     "related": []
   },
   {
-    "title": "Mercosur-UE: Pablo Quirno pidió evitar medidas que \"embarren\" el acuerdo y reduzcan su potencial",
-    "slug": "mercosur-ue-pablo-quirno-pidio-evitar-medidas-que-embarren-e",
+    "title": "Cruz Azul estrena uniformes retro edición especial por sus 100 años: precio y dónde conseguirlos",
+    "slug": "cruz-azul-estrena-uniformes-retro-edicion-especial-por-sus-1",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "El Canciller encabezó el lanzamiento de la primera feria de nivel internacional sobre alimentación que tendrá lugar en el predio de la Rural en noviembre.  Dijo que el país va a ser un \"proveedor confiable\" de alimentos de escala mundial.",
-    "link": "/noticias/economia/mercosur-ue-pablo-quirno-pidio-evitar-medidas-que-embarren-e",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Argentina rechazó las denuncias de Evo Morales sobre una presunta cooperación militar con el gobierno boliviano",
-    "slug": "la-argentina-rechazo-las-denuncias-de-evo-morales-sobre-una-",
-    "category": "economia",
-    "date": "2026-05-20",
-    "summary": "El canciller Pablo Quirno explicó que la Argentina contribuyó con un avión Hércules para el traslado de alimentos en medio de los bloqueos realizados por militantes de Evo Morales.",
-    "link": "/noticias/economia/la-argentina-rechazo-las-denuncias-de-evo-morales-sobre-una-",
+    "summary": "En la víspera de la de la final del Clausura 2026, el club cementero celebra su historia con estas piezas",
+    "link": "/noticias/economia/cruz-azul-estrena-uniformes-retro-edicion-especial-por-sus-1",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -92,12 +91,12 @@
     "related": []
   },
   {
-    "title": "Migraciones prueba eliminar citas para tramitar pasaportes: ¿qué pasará con las citas ya registradas en línea?",
-    "slug": "migraciones-prueba-eliminar-citas-para-tramitar-pasaportes-q",
+    "title": "“Tipo con mucha aura”: la foto de Lionel Messi que compartió Antonela Rocuzzo y causó furor en las redes sociales",
+    "slug": "tipo-con-mucha-aura-la-foto-de-lionel-messi-que-compartio-an",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "El superintendente de Migraciones indicó que los ciudadanos podrán tramitar sus documentos por orden de llegada desde la próxima semana",
-    "link": "/noticias/economia/migraciones-prueba-eliminar-citas-para-tramitar-pasaportes-q",
+    "summary": "La pareja del astro rosarino posteó una de serie de imágenes y una de ellas se destacó en el ambiente futbolístico",
+    "link": "/noticias/economia/tipo-con-mucha-aura-la-foto-de-lionel-messi-que-compartio-an",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -107,12 +106,12 @@
     "related": []
   },
   {
-    "title": "La hija de Gwyneth Paltrow y Chris Martin debuta en la pantalla grande",
-    "slug": "la-hija-de-gwyneth-paltrow-y-chris-martin-debuta-en-la-panta",
+    "title": "¿De verdad se canceló Perfect Day en Mahahual? Esto es lo que falta para que sea definitivo",
+    "slug": "de-verdad-se-cancelo-perfect-day-en-mahahual-esto-es-lo-que-",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "Apple Martin se suma al elenco de la nueva película de Nancy Meyers y comienza su carrera en el cine tras graduarse en la universidad y explorar el mundo de la moda",
-    "link": "/noticias/economia/la-hija-de-gwyneth-paltrow-y-chris-martin-debuta-en-la-panta",
+    "summary": "Semarnat dijo que no aprueba Perfect Day, pero Royal Caribbean no renunció formalmente al proyecto. Te explicamos qué falta para que la cancelación sea real",
+    "link": "/noticias/economia/de-verdad-se-cancelo-perfect-day-en-mahahual-esto-es-lo-que-",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -122,12 +121,12 @@
     "related": []
   },
   {
-    "title": "Temblor hoy en Perú EN VIVO: Último sismo y reporte del IGP del miércoles 20 de mayo de 2026",
-    "slug": "temblor-hoy-en-peru-en-vivo-ultimo-sismo-y-reporte-del-igp-d",
+    "title": "Viajes en oferta: las señales de alerta que podrían revelar una estafa turística en internet",
+    "slug": "viajes-en-oferta-las-senales-de-alerta-que-podrian-revelar-u",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "El IGP registró tres sismos en menos de siete horas: el principal de magnitud 6. 1 en Ica, una réplica de 4.",
-    "link": "/noticias/economia/temblor-hoy-en-peru-en-vivo-ultimo-sismo-y-reporte-del-igp-d",
+    "summary": "En medio del auge de ofertas turísticas online, expertos recomiendan precaución ante posibles estafas con paquetes falsos y agencias inexistentes",
+    "link": "/noticias/economia/viajes-en-oferta-las-senales-de-alerta-que-podrian-revelar-u",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -137,12 +136,12 @@
     "related": []
   },
   {
-    "title": "River Plate buscará asegurarse el primer puesto de su zona en la Copa Sudamericana ante Bragantino: hora, TV y formaciones",
-    "slug": "river-plate-buscara-asegurarse-el-primer-puesto-de-su-zona-e",
+    "title": "Interna libertaria: la inédita reacción que desafió a Milei de la tropa digital que lidera Santiago Caputo",
+    "slug": "interna-libertaria-la-inedita-reaccion-que-desafio-a-milei-d",
     "category": "economia",
     "date": "2026-05-20",
-    "summary": "El Millonario chocará ante el conjunto brasileño en el Monumental.  Desde las 21.",
-    "link": "/noticias/economia/river-plate-buscara-asegurarse-el-primer-puesto-de-su-zona-e",
+    "summary": "En Las Fuerzas del Cielo detectan los intentos del presidente por equilibrar las internas. Pese a que descartan una fractura, crece el fastidio por el rol de los Menem",
+    "link": "/noticias/economia/interna-libertaria-la-inedita-reaccion-que-desafio-a-milei-d",
     "source": "Infobae",
     "tags": [
       "economía",
