@@ -1,10 +1,759 @@
 [
   {
-    "title": "Prueba de Diseño: El Dólar en Argentina",
-    "link": "https://www.iprofesional.com",
+    "title": "Última hora del caso Plus Ultra | El portavoz de Zapatero:  “Sabe que si el fiscal general del Estado ha sido condenado, cualquier cosa puede ocurrir”",
+    "slug": "ultima-hora-del-caso-plus-ultra-el-portavoz-de-zapatero-sabe",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "Zapatero ha nombrado un portavoz, Luis Arroyo, a través del que niega las acusaciones, muestra su sorpresa y atribuye todo a una persecución política",
+    "link": "https://www.infobae.com/espana/2026/05/26/ultima-hora-del-caso-zapatero-novedades-del-sumario-de-plus-ultra-la-caja-fuerte-del-expresidente-y-reacciones-en-directo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "China reclama \"respetar los compromisos del alto el fuego\" tras los últimos ataques de EEUU contra Irán",
+    "slug": "china-reclama-respetar-los-compromisos-del-alto-el-fuego-tra",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "",
+    "link": "https://www.infobae.com/america/agencias/2026/05/26/china-reclama-respetar-los-compromisos-del-alto-el-fuego-tras-los-ultimos-ataques-de-eeuu-contra-iran/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Predicción del clima: estas son las temperaturas en Huancayo",
+    "slug": "prediccion-del-clima-estas-son-las-temperaturas-en-huancayo",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+    "link": "https://www.infobae.com/peru/2026/05/26/prediccion-del-clima-estas-son-las-temperaturas-en-huancayo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Condenan a la revista ‘El Jueves’ por llamar “gilipollas del año” a la presidenta de Abogados Cristianos",
+    "slug": "condenan-a-la-revista-el-jueves-por-llamar-gilipollas-del-an",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "La jueza considera el insulto “absolutamente desproporcionado y desvinculado de la idea crítica”",
+    "link": "https://www.infobae.com/espana/2026/05/26/condenan-a-la-revista-el-jueves-por-llamar-gilipollas-del-ano-a-la-presidenta-de-abogados-cristianos/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Jonathan Andic abandona la vicepresidencia de Mango en plena investigación por la muerte de su padre",
+    "slug": "jonathan-andic-abandona-la-vicepresidencia-de-mango-en-plena",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "El hijo mayor de Isak Andic, fundador de Mango, renuncia a su puesto temporalmente para centrarse en defender su inocencia tras ser imputado por homicidio",
+    "link": "https://www.infobae.com/espana/2026/05/26/jonathan-andic-abandona-la-vicepresidencia-de-mango-en-plena-investigacion-por-la-muerte-de-su-padre/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El juez Peinado cita a Begoña Gómez a una audiencia preliminar como acusada este 9 de junio y le advierte que, si no asiste, será llevada “por la fuerza pública”",
+    "slug": "el-juez-peinado-cita-a-begona-gomez-a-una-audiencia-prelimin",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "La decisión del juez se produce tras analizar el último informe de la Unidad Central Operativa (UCO) de la Guardia Civil, así como las alegaciones presentadas por las defensas, la",
+    "link": "https://www.infobae.com/espana/2026/05/26/el-juez-peinado-cita-a-begona-gomez-a-una-audiencia-preliminar-el-9-de-junio-y-le-advierte-que-si-no-asiste-sera-conducida-por-la-fuerza-publica/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "RTVE da un paso inédito con ‘Terapia Abierta’: así será el programa que mostrará sesiones psicológicas reales en televisión",
+    "slug": "rtve-da-un-paso-inedito-con-terapia-abierta-asi-sera-el-prog",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "La cadena pública adapta un exitoso formato de la BBC y apuesta por abrir las puertas de la terapia para normalizar la salud mental",
+    "link": "https://www.infobae.com/espana/2026/05/26/rtve-da-un-paso-inedito-con-terapia-abierta-asi-sera-el-programa-que-mostrara-sesiones-psicologicas-reales-en-television/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El BNG no quiere elecciones anticipadas porque el Gobierno \"necesita más tiempo para cumplir sus promesas\" con Galicia",
+    "slug": "el-bng-no-quiere-elecciones-anticipadas-porque-el-gobierno-n",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/05/26/el-bng-no-quiere-elecciones-anticipadas-porque-el-gobierno-necesita-mas-tiempo-para-cumplir-sus-promesas-con-galicia/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El jefe de gabinete de Prohens sólo responde a su letrado sobre irregularidades en la contratación de un chófer",
+    "slug": "el-jefe-de-gabinete-de-prohens-solo-responde-a-su-letrado-so",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/05/26/el-jefe-de-gabinete-de-prohens-solo-responde-a-su-letrado-sobre-irregularidades-en-la-contratacion-de-un-chofer/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La juez rechaza que la tía abuela del niño de Garrucha (Almería) se presente como acusación por el crimen",
+    "slug": "la-juez-rechaza-que-la-tia-abuela-del-nino-de-garrucha-almer",
+    "category": "economia",
+    "date": "2026-05-26",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/05/26/la-juez-rechaza-que-la-tia-abuela-del-nino-de-garrucha-almeria-se-presente-como-acusacion-por-el-crimen/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "AI agents must be treated as untrusted systems: Researchers",
+    "slug": "ai-agents-must-be-treated-as-untrusted-systems-researchers",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "AI agents are becoming increasingly popular among crypto users, with Circle CEO Jeremy Allaire predicting that billions of AI agents will be operating within five years.",
+    "link": "https://cointelegraph.com/news/google-meta-researchers-ai-agents-untrusted-system-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Scammers make $400K through fake Uniswap ads on Google",
+    "slug": "scammers-make-400k-through-fake-uniswap-ads-on-google",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "A blockchain analyst has warned that malicious phishing advertisements impersonating Uniswap have appeared on Google Search, which has netted attackers at least $400,000.",
+    "link": "https://cointelegraph.com/news/scammers-make-400k-through-fake-uniswap-ads-on-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitmine’s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+    "slug": "bitmines-tom-lee-hints-at-stock-tailwinds-after-firm-conside",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Bitmine's Tom Lee says the firm could be considered for the Russell 1000, and its stock may get a boost from active and passive fund managers.",
+    "link": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock",
+    "slug": "bitcoin-in-high-risk-zone-as-etf-outflows-signal-institution",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "This steady drip of ETF outflow continues to add to the supply side without a visible demand offset, said Glassnode.",
+    "link": "https://cointelegraph.com/news/bitcoin-slides-into-high-risk-zone-as-etf-outflows-signal-institutional-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ondo Finance founder Nathan Allman dies aged 32",
+    "slug": "ondo-finance-founder-nathan-allman-dies-aged-32",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.",
+    "link": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Kelp DAO says rsETH restored 5 weeks after $293M protocol hack",
+    "slug": "kelp-dao-says-rseth-restored-5-weeks-after-293m-protocol-hac",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.",
+    "link": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?",
+    "slug": "bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-im",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Bitcoin’s 8-month low volatility can’t predict BTC’s price prediction but derivatives data does suggest that a rally to $82,000 would cause a large short squeeze.",
+    "link": "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?",
+    "slug": "bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-b",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Data suggests that Bitcoin may be gearing up for a rally to $82,000.  Will bulls seize the opportunity?",
+    "link": "https://cointelegraph.com/markets/bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-btc-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin chases range highs despite rising BTC exchange inflows: Is $80K next?",
+    "slug": "bitcoin-chases-range-highs-despite-rising-btc-exchange-inflo",
+    "category": "cripto",
+    "date": "2026-05-26",
+    "summary": "Bitcoin reclaimed $77,000 despite rising exchange supply and spot BTC ETF outflows.  Will bulls push BTC to $80,000 this week?",
+    "link": "https://cointelegraph.com/markets/bitcoin-retests-77k-despite-mounting-btc-supply-is-80k-possible-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El presidente de ProTejer aseguró que la reconversión textil que propone el Gobierno no es posible",
+    "slug": "el-presidente-de-protejer-aseguro-que-la-reconversion-textil",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Afirmó que Corea del Sur necesitó 25 años para reconvertirse, mientras que Italia implementó 15 años de política industrial para consolidarse en el sector textil y de diseño.",
+    "link": "https://www.ambito.com/economia/el-presidente-protejer-aseguro-que-la-reconversion-textil-que-propone-el-gobierno-no-es-posible-n6281418",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Diego Coatz, exUIA: \"El sector informal se va comiendo como Pac-Man al sector formal\"",
+    "slug": "diego-coatz-exuia-el-sector-informal-se-va-comiendo-como-pac",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Afirmó que es necesario que Argentia cuente con un \"sector industrial potente\".  Si bien destacó el uso del RIGI para acelerar la explotación de recursos naturales, advirtió que \"con eso no alcanza para integrar 45 millones de argentinos\" e insistió por un plan productivo para las pymes.",
+    "link": "https://www.ambito.com/economia/diego-coatz-exuia-el-sector-informal-se-va-comiendo-como-pac-man-al-sector-formal-n6281378",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Feriado del 25 de Mayo: las escapadas cortas y el turismo regional movieron casi $340.000 millones",
+    "slug": "feriado-del-25-de-mayo-las-escapadas-cortas-y-el-turismo-reg",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "La estadía promedio fue de 2,1 noches, mientras que el gasto diario promedio por turista alcanzó los $112. 385, lo que representó un incremento real del 18% respecto de 2023.",
+    "link": "https://www.ambito.com/economia/feriado-del-25-mayo-las-escapadas-cortas-y-el-turismo-regional-movieron-casi-340000-millones-n6281275",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El petróleo perfora los u$s100 y las bolsas del mundo se disparan por expectativas de paz entre EEUU e Irán",
+    "slug": "el-petroleo-perfora-los-us100-y-las-bolsas-del-mundo-se-disp",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Los mercados están impulsados por un renovado apetito por el riesgo, tras señales de avance en las negociaciones en Medio Oriente.  El alivio geopolítico también arrastró a la baja los precios del petróleo y mejoró el ánimo de los inversores a nivel global.",
+    "link": "https://www.ambito.com/economia/las-bolsas-europeas-tocan-maximos-dos-meses-expectativas-paz-estados-unidos-e-iran-n6281210",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ley de Lobby: buscan transparentar la gestión de intereses y llevar el debate a las universidades",
+    "slug": "ley-de-lobby-buscan-transparentar-la-gestion-de-intereses-y-",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Impulsan una agenda que apunta a instalar el estudio y el debate sobre la relación entre el Estado, el sector privado y la sociedad civil, mientras en paralelo avanza en el Congres",
+    "link": "https://www.ambito.com/economia/ley-lobby-buscan-transparentar-la-gestion-intereses-y-llevar-el-debate-las-universidades-n6281249",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "En busca del ahorro: los descuentos disponibles en Carrefour este lunes 25 de mayo",
+    "slug": "en-busca-del-ahorro-los-descuentos-disponibles-en-carrefour-",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Las promociones disponibles hoy varían, según el medio de pago, la edad del cliente y el formato de tienda elegido.",
+    "link": "https://www.ambito.com/economia/en-busca-del-ahorro-los-descuentos-disponibles-carrefour-este-lunes-25-mayo-n6280253",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La tregua se eterniza en Irán (y en la Fed): Trump urgido por lograr acuerdos",
+    "slug": "la-tregua-se-eterniza-en-iran-y-en-la-fed-trump-urgido-por-l",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Sin definiciones concretas, el conflicto se prolonga mientras crecen las tensiones energéticas y la presión inflacionaria a nivel internacional.",
+    "link": "https://www.ambito.com/economia/la-tregua-se-eterniza-iran-y-la-fed-trump-urgido-lograr-acuerdos-n6281152",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La dura advertencia del FMI: cuántos años demoraría Argentina en bajar la inflación a un dígito",
+    "slug": "la-dura-advertencia-del-fmi-cuantos-anos-demoraria-argentina",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Un informe del organismo internacional advirtió que el índice de precios tardará varios años en estabilizarse y sugirió mayor flexibilidad con la moneda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/455604-advertencia-fmi-cuantos-anos-demoraria-argentina-bajar-inflacion-a-un-digito",
     "source": "iProfesional",
-    "date": "02/05/2026",
-    "description": "Análisis detallado sobre el comportamiento de los mercados financieros y la brecha cambiaria en la jornada de hoy.",
-    "image": "https://images.unsplash.com/photo-1611974717482-58a2523d11c7?q=80&w=500&auto=format&fit=crop"
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La mora crediticia pegó un salto y ya arrastra a más de 6 millones de argentinos",
+    "slug": "la-mora-crediticia-pego-un-salto-y-ya-arrastra-a-mas-de-6-mi",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "La suba del costo de vida, la caída del empleo y los aumentos de las tarifas están empujando a millones a una situación financiera crítica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455603-mora-crediticia-alza-alerta-6-millones-argentinos-afectados-mayo-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "MSCI: qué bonos subirán fuerte si Morgan Stanley sube la nota de Argentina",
+    "slug": "msci-que-bonos-subiran-fuerte-si-morgan-stanley-sube-la-nota",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "La atención de los mercados está puesta en la próxima decisión de MSCI, que podría cambiar el escenario para activos y títulos argentinos clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455593-msci-que-bonos-subiran-fuerte-si-morgan-stanley-sube-nota-de-argentina",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Experto de la City avisa: este CEDEAR que pocos tienen en cuenta puede subir 10% en dólares",
+    "slug": "experto-de-la-city-avisa-este-cedear-que-pocos-tienen-en-cue",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "La demanda por empresas ligadas a equipamiento y sistemas bélicos crece gracias al contexto internacional y la suba en presupuestos de seguridad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455335-experto-de-la-city-avisa-un-cedear-que-pocos-miran-puede-subir-10-por-ciento-en-dolares",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "ReSEF y Zona Fría: cómo acceder al subsidio para comprar garrafas este invierno",
+    "slug": "resef-y-zona-fria-como-acceder-al-subsidio-para-comprar-garr",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "El beneficio está dirigido a familias de bajos ingresos que dependen del gas envasado y opera mediante reintegros inmediatos en comercios adheridos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/455569-subsidio-para-garrafas-2026-quienes-pueden-acceder-y-como-hacer-el-tramite-en-anses",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuánto cobra un cajero de supermercado en junio 2026 tras el aumento",
+    "slug": "cuanto-cobra-un-cajero-de-supermercado-en-junio-2026-tras-el",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Los empleados de comercio recibirán una suba salarial del 1,5% en junio de 2026 como parte del acuerdo paritario firmado entre el sindicato y las empresas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/454977-cuanto-cobra-un-cajero-de-supermercado-en-junio-2026-tras-el-aumento",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Alquileres en CABA: el único departamento que aumentó más que la inflación",
+    "slug": "alquileres-en-caba-el-unico-departamento-que-aumento-mas-que",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Un informe privado encendió las alarmas de los inquilinos al revelar que las unidades más chicas lideran las subas en la Capital Federal (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/455554-alquileres-en-caba-el-unico-departamento-que-aumento-mas-que-la-inflacion",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nuevo semáforo de bonos para junio: la City ya definió cuáles comprar y qué títulos evitar",
+    "slug": "nuevo-semaforo-de-bonos-para-junio-la-city-ya-definio-cuales",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "El escenario para quienes buscan alternativas en deuda local exige evaluar estrategias, plazos disponibles y la capacidad para enfrentar riesgos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455522-nuevo-semaforo-de-bonos-en-junio-2026-la-city-ya-definio-cuales-comprar-y-que-titulos-evitar",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Continúa el conflicto en el Banco Hipotecario: cuáles son las sucursales que van a cerrar este mes",
+    "slug": "continua-el-conflicto-en-el-banco-hipotecario-cuales-son-las",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "La Asociación Bancaria continúa en estado de alerta.  Estiman que van a cerrar cinco sucursales.",
+    "link": "https://www.iprofesional.com/economia/455563-continua-el-conflicto-en-el-banco-hipotecario-cuales-son-las-sucursales-que-van-a-cerrar",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tarjeta SUBE mayo 2026: cómo obtener un descuento del 55% y qué saldo negativo tiene",
+    "slug": "tarjeta-sube-mayo-2026-como-obtener-un-descuento-del-55-y-qu",
+    "category": "economia",
+    "date": "2026-05-25",
+    "summary": "Muchos pasajeros aún no completaron el registro que habilita el descuento SUBE para pagar menos en cada viaje en transporte público urbano (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/454798-tarjeta-sube-2026-como-obtener-tarifa-social-descuento-saldo-negativo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+    "slug": "price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "Bitcoin’s weekend bounce shows strong demand at lower levels, but holding $78,000 may remain a challenge for the bulls.",
+    "link": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
+    "slug": "tom-lee-outlines-liquidity-catalyst-for-ethereum-firm-bitmin",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "The Ethereum-buying firm owns 3. 8% of the digital asset’s supply.",
+    "link": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen",
+    "slug": "famed-iphone-sony-hacker-says-ai-coding-agents-are-a-disaste",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "George Hotz spent six months testing agents on real projects and came away convinced they're creating an avalanche of undetectable slop—and that large organizations won't realize i",
+    "link": "https://decrypt.co/368964/george-hotz-vibe-coding-ai-slop-warning",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
+    "slug": "with-central-banks-blessing-georgia-taps-tether-for-official",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "Tether plans to issue a stablecoin in Georgia with support from the country’s government, marking a new frontier for the crypto giant.",
+    "link": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection",
+    "slug": "perplexity-built-a-tool-that-checks-your-computer-for-infect",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "Bumblebee scans developer machines for compromised packages and AI tool configs.  Its core trick: It never actually runs the code it's looking for.",
+    "link": "https://decrypt.co/368944/perplexity-open-source-bumblebee-ai-scanner-mcp-infection-malware",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures",
+    "slug": "vitalik-buterin-signals-shift-to-smaller-ship-at-ethereum-fo",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "Buterin revealed that 90% of his net worth is tied up in Ethereum.",
+    "link": "https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech",
+    "slug": "pope-leo-releases-first-ai-encyclical-calls-data-a-common-go",
+    "category": "cripto",
+    "date": "2026-05-25",
+    "summary": "The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.",
+    "link": "https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El acuerdo México-Unión Europea reconfigura el comercio regional y genera inquietud en el agro argentino",
+    "slug": "el-acuerdo-mexico-union-europea-reconfigura-el-comercio-regi",
+    "category": "economia",
+    "date": "2026-05-24",
+    "summary": "La eliminación de aranceles para el 99% del intercambio entre ambos bloques podría desplazar productos argentinos del mercado mexicano, especialmente en alimentos, lácteos y aceites.  El nuevo escenario también eleva la competencia para toda América Latina.",
+    "link": "https://www.ambito.com/economia/el-acuerdo-mexico-union-europea-reconfigura-el-comercio-regional-y-genera-inquietud-el-agro-argentino-n6281055",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Baja de retenciones: estiman que mejorará la rentabilidad agrícola y ayudará a sostener exportaciones",
+    "slug": "baja-de-retenciones-estiman-que-mejorara-la-rentabilidad-agr",
+    "category": "economia",
+    "date": "2026-05-24",
+    "summary": "La Bolsa de Comercio de Rosario destacó que la baja de retenciones al trigo y la cebada mejora los márgenes agrícolas en un contexto de fuerte suba de costos de fertilizantes y logística.  La entidad estimó que esta medida podría impulsar la siembra, la inversión y las exportaciones de cara a la próxima campaña fina.",
+    "link": "https://www.ambito.com/economia/baja-retenciones-estiman-que-mejorara-la-rentabilidad-agricola-y-ayudara-sostener-exportaciones-n6281049",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gasto público: el Gobierno debería recortar más de 6% para cumplir la meta con el FMI",
+    "slug": "gasto-publico-el-gobierno-deberia-recortar-mas-de-6-para-cum",
+    "category": "economia",
+    "date": "2026-05-24",
+    "summary": "Un informe mostró que para cumplir la meta de superávit primario acordada con el FMI en 2026, el Gobierno deberá profundizar el ajuste sobre el gasto no indexado.  Mientras jubilaciones, AUH y asignaciones familiares se mantendrían prácticamente en línea con los niveles reales de 2023, el resto del gasto acumularía una caída cercana al 47% en tres años.",
+    "link": "https://www.ambito.com/economia/gasto-publico-el-gobierno-deberia-recortar-mas-6-cumplir-la-meta-el-fmi-n6281041",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+    "slug": "now-you-can-buy-bitcoin-xrp-and-more-in-chatgpt-via-moonpay",
+    "category": "cripto",
+    "date": "2026-05-24",
+    "summary": "MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
+    "link": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
+    "slug": "strategy-now-holds-65-billion-in-bitcointhese-are-its-bigges",
+    "category": "cripto",
+    "date": "2026-05-24",
+    "summary": "How did Michael Saylor's firm amass a record stash of Bitcoin?  Here's a look back at how Strategy made such massive gains.",
+    "link": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
+    "slug": "ai-startup-says-it-will-pay-people-2000-a-month-to-masturbat",
+    "category": "cripto",
+    "date": "2026-05-24",
+    "summary": "Joi AI is hiring 10 “masturbation consultants” to test its AI-guided masturbation feature and report how it affects stress, sleep, mood, and confidence.",
+    "link": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
+    "slug": "firefoxs-big-redesign-gives-you-a-button-to-kill-all-the-ai",
+    "category": "cripto",
+    "date": "2026-05-23",
+    "summary": "Project Nova is coming later this year with a cleaner look, compact mode, and a toggle to make AI features disappear entirely.",
+    "link": "https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
   }
 ]

@@ -7,11 +7,17 @@ const parser = new RSSParser();
 
 const FEEDS = [
   { url: "https://www.ambito.com/rss/economia.xml", source: "Ámbito", category: "economia" },
+  { url: "https://www.ambito.com/rss/dolar.xml", source: "Ámbito Dólar", category: "economia" },
   { url: "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml", source: "Infobae", category: "economia" },
+  { url: "https://www.cronista.com/rss/economia/", source: "El Cronista", category: "economia" },
+  { url: "https://www.iprofesional.com/rss/economia", source: "iProfesional", category: "economia" },
   { url: "https://feeds.coindesk.com/coindesk/rss", source: "CoinDesk", category: "cripto" },
+  { url: "https://cointelegraph.com/rss", source: "CoinTelegraph", category: "cripto" },
+  { url: "https://decrypt.co/feed", source: "Decrypt", category: "cripto" },
 ];
 
-const MAX_ITEMS = 10;
+const MAX_ITEMS = 50;
+const ITEMS_PER_FEED = 10;
 
 function slugify(text) {
   return text
@@ -49,7 +55,7 @@ function inferTags(title, category) {
     ? ["cripto", "bitcoin"]
     : ["economía", "argentina"];
 
-  const keywords = ["dólar", "inflación", "bitcoin", "ethereum", "reservas", "brecha", "bonos", "riesgo país", "cepo", "tipo de cambio"];
+  const keywords = ["dólar", "inflación", "bitcoin", "ethereum", "reservas", "brecha", "bonos", "riesgo país", "cepo", "tipo de cambio", "peso", "milei", "bcra", "deuda"];
   const found = keywords.filter(k =>
     title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(
       k.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -70,7 +76,7 @@ async function fetchFeed(feed) {
     const xml = await response.text();
     const parsed = await parser.parseString(xml);
 
-    return (parsed.items || []).slice(0, 5).map(item => {
+    return (parsed.items || []).slice(0, ITEMS_PER_FEED).map(item => {
       const title = item.title?.trim() || "";
       const slug = slugify(title);
       const category = feed.category;
@@ -81,7 +87,7 @@ async function fetchFeed(feed) {
         category,
         date: toDate(item.pubDate || item.isoDate),
         summary: toSummary(item.contentSnippet || item.content || item.summary || ""),
-        link: `/noticias/${category}/${slug}`,
+        link: item.link || "",
         source: feed.source,
         tags: inferTags(title, category),
         featured: false,
@@ -104,7 +110,6 @@ async function main() {
     .filter(r => r.status === "fulfilled")
     .flatMap(r => r.value);
 
-  // Dedup por slug
   const seen = new Set();
   const deduped = all.filter(it => {
     if (seen.has(it.slug)) return false;
@@ -112,12 +117,10 @@ async function main() {
     return true;
   });
 
-  // Ordenar por fecha desc y limitar
   const final = deduped
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .slice(0, MAX_ITEMS);
 
-  // Guardar
   const outDir = path.resolve("noticias");
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
