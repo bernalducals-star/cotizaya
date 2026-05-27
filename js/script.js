@@ -760,7 +760,7 @@ async function fetchLocalNewsIndex() {
 
     return (Array.isArray(data) ? data : [])
       .map(n => {
-        const link = n.link || n.url || "";
+       const link = n.slug ? `/noticia.html?slug=${n.slug}` : (n.link || n.url || "");
         return {
           title: n.title || "",
           link,
