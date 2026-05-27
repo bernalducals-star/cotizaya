@@ -800,9 +800,7 @@ async function fetchNewsItemsCached(limit) {
   } catch (_) {}
 
   // 4) RSS opcional: si falla, no rompe
-  const feeds = [
    const feeds = [];
-  ];
 
   let all = [...localItems];
 
