@@ -801,9 +801,7 @@ async function fetchNewsItemsCached(limit) {
 
   // 4) RSS opcional: si falla, no rompe
   const feeds = [
-    { name: "iProfesional (Economía)", url: "https://www.iprofesional.com/rss/economia.xml" },
-    { name: "iProfesional (Finanzas)", url: "https://www.iprofesional.com/rss/finanzas.xml" },
-    { name: "iProfesional (Impuestos)", url: "https://www.iprofesional.com/rss/impuestos.xml" }
+   const feeds = [];
   ];
 
   let all = [...localItems];
