@@ -738,7 +738,7 @@ async function loadNews() {
     listEl.innerHTML = items
       .slice(0, CONFIG.DEFAULT_NEWS_LIMIT)
       .map((it) => `
-        <a class="news-item" href="${escapeAttr(it.link)}" target="${it.link.startsWith('/') ? '_self' : '_blank'}" rel="noopener noreferrer">
+        <a class="news-item" href="${it.slug ? `/noticia.html?slug=${it.slug}` : escapeAttr(it.link)}" target="${it.slug || it.link.startsWith('/') ? '_self' : '_blank'}" rel="noopener noreferrer">
           <div class="news-title">${escapeHtml(it.title)}</div>
           <div class="news-meta">${escapeHtml(it.source)} • ${escapeHtml(it.date)}</div>
         </a>
