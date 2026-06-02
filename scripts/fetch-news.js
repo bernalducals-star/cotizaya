@@ -64,7 +64,19 @@ function inferTags(title, category) {
 
   return [...new Set([...base, ...found])].slice(0, 4);
 }
-
+function isRelevant(title, category) {
+  if (category === "cripto") return true;
+  const t = title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const keywords = [
+    "dolar", "euro", "inflacion", "economia", "financiero", "financiera",
+    "banco", "peso", "mercado", "bolsa", "reservas", "bcra", "deuda",
+    "bonos", "acciones", "milei", "caputo", "imf", "fmi", "cepo",
+    "exportacion", "importacion", "salario", "sueldo", "jubilacion",
+    "impuesto", "ganancias", "iva", "tipo de cambio", "brecha",
+    "plazo fijo", "inversion", "ahorro", "credito", "tasa"
+  ];
+  return keywords.some(k => t.includes(k));
+}
 async function fetchFeed(feed) {
   try {
     const response = await fetch(feed.url, {
@@ -93,7 +105,7 @@ async function fetchFeed(feed) {
         featured: false,
         related: [],
       };
-    }).filter(it => it.title && it.slug);
+    }).filter(it => it.title && it.slug && isRelevant(it.title, it.category));
 
   } catch (e) {
     console.warn(`⚠️  Feed falló: ${feed.source} — ${e.message}`);
