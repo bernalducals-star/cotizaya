@@ -1,335 +1,137 @@
 [
   {
-    "title": "ARCA lanza un plan especial para clínicas y sanatorios: podrán regularizar deudas en hasta 60 cuotas",
-    "slug": "arca-lanza-un-plan-especial-para-clinicas-y-sanatorios-podra",
+    "title": "Dólar, inflación y PBI: los gurúes de la city darán a conocer sus nuevos pronósticos económicos",
+    "slug": "dolar-inflacion-y-pbi-los-gurues-de-la-city-daran-a-conocer-",
     "category": "economia",
     "date": "2026-06-04",
-    "summary": "La medida busca aliviar la situación financiera de clínicas y sanatorios mediante un régimen especial de facilidades de pago.",
-    "link": "https://www.ambito.com/economia/arca-lanza-un-plan-especial-clinicas-y-sanatorios-podran-regularizar-deudas-60-cuotas-n6284916",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar: el BCRA recupera poder de fuego en futuros tras el desarme de coberturas por casi u$s12.000 millones",
-    "slug": "dolar-el-bcra-recupera-poder-de-fuego-en-futuros-tras-el-des",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "Al parecer gran parte de las coberturas tomadas durante las turbulencias cambiarias preelectorales del 2025 ya se han desarmado.  Se estima que suman unos 12.",
-    "link": "https://www.ambito.com/economia/dolar-el-bcra-recupera-poder-fuego-futuros-n6284833",
+    "summary": "El BCRA publicará este jueves el REM de mayo, con las proyecciones de 45 especialistas sobre inflación, dólar y crecimiento económico.",
+    "link": "https://www.ambito.com/economia/dolar-inflacion-y-pbi-los-gurues-la-city-daran-conocer-sus-nuevos-pronosticos-economicos-n6285081",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
       "dólar",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Exportaciones crecen, pero Argentina se primariza cada vez más: \"Con los recursos naturales no alcanza\", alertan empresarios",
-    "slug": "exportaciones-crecen-pero-argentina-se-primariza-cada-vez-ma",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "A lo largo de los últimos años se observó una primarización creciente de la economía.  El país pasó de exportar 515 productos con \"Ventajas Comparativas Reveladas\" en 2011 a 380 en 2022.",
-    "link": "https://www.ambito.com/economia/exportaciones-crecen-pero-argentina-se-primariza-cada-vez-mas-con-los-recursos-naturales-no-alcanza-alertan-empresarios-n6284762",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo ahorrar en esta cadena de supermercados según el día de la semana en junio 2026",
-    "slug": "como-ahorrar-en-esta-cadena-de-supermercados-segun-el-dia-de",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "Promociones que se encuentran disponibles tanto en sucursales físicas como en la tienda online para compras desde el hogar.",
-    "link": "https://www.ambito.com/economia/como-ahorrar-esta-cadena-supermercados-segun-el-dia-la-semana-junio-2026-n6284249",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Boom del crédito en dólares: en abril, los exportadores prefirieron financiarse con bancos locales, por primera vez desde 2019",
-    "slug": "boom-del-credito-en-dolares-en-abril-los-exportadores-prefir",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "La financiación local de las exportaciones superó a los cobros adelantados en abril, en un marco de estabilidad cambiaria y un gran flujo de deuda privada.",
-    "link": "https://www.ambito.com/economia/boom-del-credito-dolares-abril-los-exportadores-prefirieron-financiarse-bancos-locales-primera-vez-2019-n6284871",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo cuidar tus dólares: las aplicaciones que te salvarán en tu viaje a Estados Unidos",
-    "slug": "como-cuidar-tus-dolares-las-aplicaciones-que-te-salvaran-en-",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "Estar prevenidos a la hora de viajar puede evitar dolores de cabeza y gastos extra, conocé cómo hacerlo.",
-    "link": "https://www.ambito.com/economia/como-cuidar-tus-dolares-las-aplicaciones-que-te-salvaran-tu-viaje-estados-unidos-n6284422",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El cálculo electoral de la Casa Rosada: la verdadera amenaza para Javier Milei es de derecha",
-    "slug": "el-calculo-electoral-de-la-casa-rosada-la-verdadera-amenaza-",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "Pese a la interna, Karina Milei y Santiago Caputo entienden que no deben dejarle el camino libre a otro candidato que aspire a disputarle el electorado libertario al presidente",
-    "link": "https://www.infobae.com/politica/2026/06/04/el-calculo-electoral-de-la-casa-rosada-la-verdadera-amenaza-para-javier-milei-es-de-derecha/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuánto cobra un cajero de supermercado en junio tras el aumento",
-    "slug": "cuanto-cobra-un-cajero-de-supermercado-en-junio-tras-el-aume",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "Los empleados de comercio reciben este mes una suba salarial del 1,5%, como parte del acuerdo paritario firmado entre el sindicato y las empresas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/456291-cuanto-cobra-un-cajero-de-supermercado-en-junio-tras-el-aumento",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCRA marca récord de compra de dólares pero tiene competencia: pierde contra los ahorristas",
-    "slug": "el-bcra-marca-record-de-compra-de-dolares-pero-tiene-compete",
-    "category": "economia",
-    "date": "2026-06-04",
-    "summary": "En medio de la creciente demanda de divisas, operadores financieros advierten señales de tensión y riesgo por la dinámica cambiaria (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456417-bcra-supero-compras-por-us10000-m-pero-pierde-con-ahorristas-en-acumulacion-de-dolares",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Over $600M in Bitcoin longs liquidated as BTC dips toward $60K",
-    "slug": "over-600m-in-bitcoin-longs-liquidated-as-btc-dips-toward-60k",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "Many traders expect Bitcoin to stage a short-term relief bounce toward $70,000, but the broader technical setup remains bearish for BTC.",
-    "link": "https://cointelegraph.com/markets/over-600m-in-bitcoin-longs-liquidated-as-btc-dips-toward-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Worldcoin is overlooked bet on AI IPO wave: Maelstrom",
-    "slug": "worldcoin-is-overlooked-bet-on-ai-ipo-wave-maelstrom",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "Maelstrom predicts the WLD token will reach $5 by August, a gain of around 900% from current levels.",
-    "link": "https://cointelegraph.com/news/maelstrom-predicts-900-surge-for-worldcoin-wld-as-ai-ipo-wave-builds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "US House Democrats call for FTC probe into prediction markets",
-    "slug": "us-house-democrats-call-for-ftc-probe-into-prediction-market",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "The lawmakers are also asking the FTC for information on whether it has plans to take investigative or enforcement action against prediction markets for possible deceptive practice",
-    "link": "https://cointelegraph.com/news/house-democrats-ftc-probe-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "About 67% of banned Anthropic accounts used AI to prep for cyberattacks",
-    "slug": "about-67-of-banned-anthropic-accounts-used-ai-to-prep-for-cy",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "AI firm Anthropic mapped a year’s worth of AI-enabled cyber threats, finding that malicious actors are quickly becoming more dangerous with AI.",
-    "link": "https://cointelegraph.com/news/67-percent-banned-anthropic-accounts-ai-used-in-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook",
-    "slug": "bitmine-eyes-dividend-paying-preferred-shares-echoing-strate",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "The move comes as Ether prices slumped to a 14-month low below $1,750 on Thursday.",
-    "link": "https://cointelegraph.com/news/bitmine-turns-to-dividend-paying-shares-following-strategys-footsteps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Coinbase freezes $3M tied to Southeast Asia crypto fraud networks",
-    "slug": "coinbase-freezes-3m-tied-to-southeast-asia-crypto-fraud-netw",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "Authorities around the world have been heavily targeting scam infrastructure this year, with joint actions involving the US, UAE, China, Austria and Albania.",
-    "link": "https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "CFTC follows SEC in scrapping ‘no-deny’ policy for settlements",
-    "slug": "cftc-follows-sec-in-scrapping-no-deny-policy-for-settlements",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "CFTC Chairman Mike Selig says the rescission of its “no-deny” policy means it now has more flexibility when settling enforcement actions.",
-    "link": "https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Coinbase Launches Pre-IPO Perps, Starting with Elon Musk's SpaceX",
-    "slug": "coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spa",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "Elon Musk's aerospace company SpaceX is set to IPO, with current estimations making him the world's first trillionaire on its completion.",
-    "link": "https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tom Lee’s BitMine Plans $300M Preferred Stock Sale for ETH Treasury Push",
-    "slug": "tom-lees-bitmine-plans-300m-preferred-stock-sale-for-eth-tre",
-    "category": "cripto",
-    "date": "2026-06-04",
-    "summary": "The offering would tie fixed cash dividends to a staking-heavy ETH treasury model as Strategy’s preferred stock remains under pressure.",
-    "link": "https://decrypt.co/369988/tom-lees-bitmine-plans-300m-preferred-stock-sale-for-eth-treasury-push",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El crédito a las familias sigue sin reaccionar: préstamos personales y tarjetas aceleraron su retroceso en mayo",
-    "slug": "el-credito-a-las-familias-sigue-sin-reaccionar-prestamos-per",
-    "category": "economia",
-    "date": "2026-06-03",
-    "summary": "Los préstamos en pesos al sector privado volvieron a caer en términos reales en mayo y acumularon cinco meses consecutivos de caída.  El deterioro se concentró en las líneas vinculadas a individuos y consumo, mientras que el crédito comercial mostró una recuperación acotada.",
-    "link": "https://www.ambito.com/economia/el-credito-las-familias-sigue-reaccionar-prestamos-personales-y-tarjetas-aceleraron-su-retroceso-mayo-n6284847",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sociedad de bolsa revela su estrategia para invertir $1 millón en 11 acciones argentinas",
-    "slug": "sociedad-de-bolsa-revela-su-estrategia-para-invertir-1-millo",
-    "category": "economia",
-    "date": "2026-06-03",
-    "summary": "IEB propone una estrategia donde las energéticas y entidades financieras ganan terreno tras la fuerte suba del mercado local en junio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456057-sociedad-de-bolsa-revela-su-estrategia-para-invertir-1-millon-de-pesos-en-11-acciones-argentinas",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alivio al bolsillo: la inflación que palpita el mercado y que puede marcar un cambio de tendencia",
-    "slug": "alivio-al-bolsillo-la-inflacion-que-palpita-el-mercado-y-que",
-    "category": "economia",
-    "date": "2026-06-03",
-    "summary": "A días de conocerse el dato oficial del Indec, las estimaciones privadas marcan una baja.  Las proyecciones de los analistas para junio.",
-    "link": "https://www.iprofesional.com/finanzas/456318-alivio-al-bolsillo-la-inflacion-que-viene-y-que-marcaria-un-cambio-de-tendencia",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
       "inflación"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Anuncio récord para Vaca Muerta: gigante petrolero realizará segunda mayor inversión de la historia",
-    "slug": "anuncio-record-para-vaca-muerta-gigante-petrolero-realizara-",
+    "title": "Deuda en pesos: Luis Caputo enfrenta el vencimiento más alto de los próximo 18 meses",
+    "slug": "deuda-en-pesos-luis-caputo-enfrenta-el-vencimiento-mas-alto-",
     "category": "economia",
-    "date": "2026-06-03",
-    "summary": "La petrolera presentó un megaproyecto para El Trapial.  El respaldo de la firma estadounidense consolida el nuevo marco regulatorio y el potencial del shale (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/energia/456282-record-vaca-muerta-gigante-petrolero-realizara-la-segunda-mayor-inversion-de-historia",
+    "date": "2026-06-04",
+    "summary": "Se trata de compromisos por $23,6 billones en manos de privados.  Algunos analistas sugieren ya dejar de rollear por encima del 100% para que bajen las tasa para el crédito al público.",
+    "link": "https://www.ambito.com/economia/deuda-pesos-luis-caputo-enfrenta-el-vencimiento-mas-alto-los-proximo-18-meses-n6284990",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mala señal para el consumo: las operaciones con tarjetas de crédito cayeron por quinto mes consecutivo",
+    "slug": "mala-senal-para-el-consumo-las-operaciones-con-tarjetas-de-c",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El uso del plástico bajó 1,7% real durante el mes pasado.  La contracción no solo afecta a las tarjetas, sino también a préstamos personales.",
+    "link": "https://www.ambito.com/economia/mala-senal-el-consumo-las-operaciones-tarjetas-credito-cayeron-quinto-mes-consecutivo-n6285032",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tras casi cumplir la meta de reservas, el FMI destacó el compromiso del Gobierno con las reformas impositivas y previsionales",
+    "slug": "tras-casi-cumplir-la-meta-de-reservas-el-fmi-destaco-el-comp",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El organismo resaltó la acumulación de reservas que llevó a cabo el BCRA.  También destacó el compromiso del gobierno de Javier Milei por sostener el esquema fiscal modificando el sistema tributario y previsional y ponderó la baja de la pobreza.",
+    "link": "https://www.ambito.com/economia/tras-casi-cumplir-la-meta-reservas-el-fmi-destaco-el-compromiso-del-gobierno-las-reformas-impositivas-y-previsionales-n6285063",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Federico Sturzenegger condicionó la baja de impuestos provinciales a un triunfo electoral de La Libertad Avanza en 2027",
+    "slug": "federico-sturzenegger-condiciono-la-baja-de-impuestos-provin",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El ministro de Desregulación y Transformación del Estado defendió el modelo económico del Gobierno.  En ese sentido, apoyó el crecimiento de las exportaciones.",
+    "link": "https://www.ambito.com/economia/federico-sturzenegger-condiciono-la-baja-impuestos-provinciales-un-triunfo-electoral-la-libertad-avanza-2027-n6285056",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo por el piso: así operan los principales bancos hoy, jueves 4 de junio",
+    "slug": "plazo-fijo-por-el-piso-asi-operan-los-principales-bancos-hoy",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "Las colocaciones tradicionales atraviesan uno de los momentos de menor retorno de los últimos años y obligan a recalcular estrategias de ahorro.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-el-piso-asi-operan-los-principales-bancos-hoy-jueves-4-junio-n6284991",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Sube o baja? Qué pasará con el dólar antes de las elecciones, según uno de los economistas más cercanos al Gobierno",
+    "slug": "sube-o-baja-que-pasara-con-el-dolar-antes-de-las-elecciones-",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El economista Fernando Marull advirtió que el Gobierno no sostendrá el dólar en los niveles actuales de cara a los comicios de 2027.  Las protecciones del mercado y las variables clave.",
+    "link": "https://www.ambito.com/economia/sube-o-baja-que-pasara-el-dolar-antes-las-elecciones-segun-uno-los-economistas-mas-cercanos-al-gobierno-n6284967",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nueva encuesta ubica a Abelardo de la Espriella como el ganador de la segunda vuelta: Iván Cepeda perdería por pocos votos",
+    "slug": "nueva-encuesta-ubica-a-abelardo-de-la-espriella-como-el-gana",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "La encuestadora CB Global Data indagó con el electorado sobre la decisión que tiene sobre las elecciones y sobre el candidato al que jamás apoyaría en las urnas",
+    "link": "https://www.infobae.com/colombia/2026/06/04/nueva-encuesta-ubica-a-abelardo-de-la-espriella-como-el-ganador-de-la-segunda-vuelta-ivan-cepeda-perderia-por-pocos-votos/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "VIDEO | Panorama económico financiero de hoy en menos de 90 segundos",
+    "slug": "video-panorama-economico-financiero-de-hoy-en-menos-de-90-se",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El BCRA superó u$s10. 000 millones, pero el oficial ya subió $30 en junio y la crisis textil muestra que la calma no llega al empleo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456496-panorama-financiero-de-hoy-4-junio-2026-en-menos-de-90-segundos",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -339,12 +141,44 @@
     "related": []
   },
   {
-    "title": "Israel’s tax authority ‘disappointed’ in voluntary crypto disclosures: Report",
-    "slug": "israels-tax-authority-disappointed-in-voluntary-crypto-discl",
+    "title": "El FMI elogió la compra de reservas del BCRA, pero no es suficiente: las reformas que pide a Milei",
+    "slug": "el-fmi-elogio-la-compra-de-reservas-del-bcra-pero-no-es-sufi",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El FMI destacó los avances económicos del Gobierno y aseguró que está a punto de cumplir con la meta de reservas.  Los cambios profundos que reclama (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/456489-el-fmi-elogio-el-plan-de-milei-y-confia-en-dos-reformas-clave-antes-de-2027",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aumentan las comisiones de uno de los bancos más grandes de Argentina: cuánto costarán",
+    "slug": "aumentan-las-comisiones-de-uno-de-los-bancos-mas-grandes-de-",
+    "category": "economia",
+    "date": "2026-06-04",
+    "summary": "El BBVA informó que a partir de agosto subirá el costo del mantenimiento de los distintos tipos de cuenta, así como también el mínimo para bonificar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/456486-aumentan-las-comisiones-de-uno-de-los-bancos-mas-grandes-de-argentina-cuanto-costaran",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Coinbase to launch token-backed mortgage down payments this summer",
+    "slug": "coinbase-to-launch-token-backed-mortgage-down-payments-this-",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office said only 58 filers took advantage of the",
-    "link": "https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-06-04",
+    "summary": "A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.",
+    "link": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "CoinTelegraph",
     "tags": [
       "cripto",
@@ -354,12 +188,12 @@
     "related": []
   },
   {
-    "title": "Wyoming executive order to guide AI data center development",
-    "slug": "wyoming-executive-order-to-guide-ai-data-center-development",
+    "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
+    "slug": "bitcoin-bulls-fate-rests-on-60k-support-as-crypto-erases-2t-",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Wyoming Governor Mark Gordon signed an executive order supporting AI data center development as the state seeks to attract advanced computing and technology investment.",
-    "link": "https://cointelegraph.com/news/wyoming-issues-executive-order-guide-ai-data-center-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-06-04",
+    "summary": "Bitcoin continued \"incredible\" 2022 bear market repeat behavior as sellers kept control over BTC price rebound attempts.",
+    "link": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "CoinTelegraph",
     "tags": [
       "cripto",
@@ -369,12 +203,12 @@
     "related": []
   },
   {
-    "title": "US Treasury secretary signals progress on Bitcoin reserve, CLARITY Act",
-    "slug": "us-treasury-secretary-signals-progress-on-bitcoin-reserve-cl",
+    "title": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution",
+    "slug": "bybit-joins-western-unions-new-usdpt-network-as-stablecoin-e",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Scott Bessent said that the Treasury Department was “proceeding with all deliberate speed” on President Donald Trump’s 2025 executive order to establish a strategic Bitcoin reserve",
-    "link": "https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "2026-06-04",
+    "summary": "The exchange integration gives Western Union’s dollar-pegged token access to crypto market liquidity as payment providers accelerate their adoption of stablecoins.",
+    "link": "https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "CoinTelegraph",
     "tags": [
       "cripto",
@@ -384,12 +218,117 @@
     "related": []
   },
   {
-    "title": "The Best AI Models Still Encourage 'Harmful Intimacy' With Chatbots, Study Funds",
-    "slug": "the-best-ai-models-still-encourage-harmful-intimacy-with-cha",
+    "title": "Here’s what happened in crypto today",
+    "slug": "heres-what-happened-in-crypto-today",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "A new study finds that leading AI models often encourage emotional attachment, portray themselves as human, and fail to maintain clear boundaries.",
-    "link": "https://decrypt.co/369979/best-ai-models-harmful-intimacy-behavior-study",
+    "date": "2026-06-04",
+    "summary": "Need to know what happened in crypto today?  Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss",
+    "slug": "saylor-downplays-bitcoin-slide-as-strategy-faces-11b-paper-l",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Strategy’s Bitcoin paper loss tops $11 billion as Saylor pointed to ETF outflows and AI infrastructure spending as factors pressuring BTC.",
+    "link": "https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Apex, Archax join Goldman Sachs tokenized real estate fund project",
+    "slug": "apex-archax-join-goldman-sachs-tokenized-real-estate-fund-pr",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Apex Group is providing fund services for a tokenized real estate fund using Goldman Sachs’ GS DAP platform.",
+    "link": "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave",
+    "slug": "arthur-hayes-dumps-hype-near-as-he-warns-of-ai-ipo-wave",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Arthur Hayes said he dumped his HYPE and NEAR holdings after warning markets may peak before September and AI IPOs could drain liquidity.",
+    "link": "https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Coinbase launches pre-IPO markets, starting with Elon Musk’s SpaceX",
+    "slug": "coinbase-launches-pre-ipo-markets-starting-with-elon-musks-s",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Coinbase launches pre-IPO markets starting with SpaceX, offering non-US users perpetual futures tied to private company valuations amid rising competition.",
+    "link": "https://cointelegraph.com/news/coinbase-launches-pre-ipo-markets-amid-crypto-push-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin price just tagged 200-week trend line that defined 2022 bear market",
+    "slug": "bitcoin-price-just-tagged-200-week-trend-line-that-defined-2",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Bitcoin brought back the trend line that functioned as resistance in the 2022 bear market, with BTC price RSI approaching its lowest in six years.",
+    "link": "https://cointelegraph.com/markets/bitcoin-price-just-tagged-200-week-trend-line-that-defined-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "FG Nexus offloads additional $17.8M Ether as losses top $100M",
+    "slug": "fg-nexus-offloads-additional-178m-ether-as-losses-top-100m",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "FG Nexus offloads another 10,000 ETH, pushing realized and paper losses above $100 million as the Ethereum treasury firm continues cutting exposure.",
+    "link": "https://cointelegraph.com/news/fg-nexus-offloads-additional-178m-ether-as-treasury-losses-top-100m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'",
+    "slug": "google-deepmind-ceo-says-agi-is-coming-fast-we-dont-have-lon",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "The Nobel Prize-winning AI researcher says humanity is standing in the \"foothills of the singularity.\"",
+    "link": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -399,12 +338,12 @@
     "related": []
   },
   {
-    "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
-    "slug": "cardano-slumps-to-5-year-low-price-as-charles-hoskinson-warn",
+    "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
+    "slug": "strategys-michael-saylor-blames-capital-rotation-into-ai-as-",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Founder Charles Hoskinson was brutally honest about the troubles the Cardano ecosystem could face as the market continues declining.",
-    "link": "https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures",
+    "date": "2026-06-04",
+    "summary": "With Bitcoin falling hard this week and down nearly 50% from peak.  Strategy's Michael Saylor is pointing the finger at the AI boom.",
+    "link": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -414,12 +353,12 @@
     "related": []
   },
   {
-    "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
-    "slug": "tether-debuts-tokenized-gold-stablecoin-visa-card-that-pays-",
+    "title": "Crypto Billionaires Donate $9.4M to Farage’s Reform UK in Q1",
+    "slug": "crypto-billionaires-donate-94m-to-farages-reform-uk-in-q1",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
-    "link": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
+    "date": "2026-06-04",
+    "summary": "Tether investor Christopher Harborne and BitMEX co-founder Ben Delo’s outspent Britain's traditional political donors.",
+    "link": "https://decrypt.co/370059/crypto-billionaires-donate-9-4m-to-farages-reform-uk-in-q1",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -429,12 +368,12 @@
     "related": []
   },
   {
-    "title": "AI Lawyers Are Already Better Than Law Professors at Reasoning—Say Law Professors",
-    "slug": "ai-lawyers-are-already-better-than-law-professors-at-reasoni",
+    "title": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom—And Revenue Will Surge: Bernstein",
+    "slug": "bitcoin-miners-emerge-as-power-landlords-of-ai-boomand-reven",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Researchers found professors preferred AI-generated answers over those written by their peers, raising questions about the role of AI in professional education.",
-    "link": "https://decrypt.co/369951/ai-lawyers-better-law-professors-reasoning-stanford",
+    "date": "2026-06-04",
+    "summary": "Bernstein is bullish on Bitcoin miners as they increasingly power the AI boom, assigning “Outperform” ratings to TeraWulf and Cipher Digital.",
+    "link": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -444,12 +383,12 @@
     "related": []
   },
   {
-    "title": "Hermes Ends AI Agent Terminal Era With Release of Official Desktop App",
-    "slug": "hermes-ends-ai-agent-terminal-era-with-release-of-official-d",
+    "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
+    "slug": "doj-task-force-freezes-38m-in-illicit-cryptowith-help-from-c",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Until now, the only way to run Hermes was through a terminal—or one of several unofficial GUIs the community had cobbled together.",
-    "link": "https://decrypt.co/369952/hermes-ai-agent-official-app-terminal",
+    "date": "2026-06-04",
+    "summary": "Some of America's biggest companies helped squash crypto fraud stemming from organized crime in Southeast Asia.",
+    "link": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -459,12 +398,12 @@
     "related": []
   },
   {
-    "title": "Someone Just Redeemed a 15-Year-Old Physical Bitcoin, Scoring $1.78 Million in BTC",
-    "slug": "someone-just-redeemed-a-15-year-old-physical-bitcoin-scoring",
+    "title": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says",
+    "slug": "fannie-mae-backed-bitcoin-home-mortgages-are-finally-here-co",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "Physical Casascius coins were minted 15 years ago in the early days of Bitcoin—and the BTC held within is worth a whole lot more today.",
-    "link": "https://decrypt.co/369947/someone-redeemed-15-year-old-physical-bitcoin-scoring-1-78-million",
+    "date": "2026-06-04",
+    "summary": "Coinbase said a Michigan couple closed on the first-ever conventional, Fannie Mae-backed home mortgage by pledging Bitcoin as collateral.",
+    "link": "https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -474,12 +413,12 @@
     "related": []
   },
   {
-    "title": "Perplexity Wants Your Laptop to Do Part of the AI Work—So It Doesn't Have To",
-    "slug": "perplexity-wants-your-laptop-to-do-part-of-the-ai-workso-it-",
+    "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
+    "slug": "british-teen-sanctioned-by-russia-after-alleging-crypto-use-",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "The company's new hybrid inference system routes AI tasks between your device and the cloud automatically.  Privacy and cost savings are the pitch—and lower server bills.",
-    "link": "https://decrypt.co/369941/perplexity-hybrid-ai-local-cloud-mode",
+    "date": "2026-06-04",
+    "summary": "The teenager's research into Russia’s alleged illicit crypto flows appears to have prompted Moscow's retaliation.",
+    "link": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
     "source": "Decrypt",
     "tags": [
       "cripto",
@@ -489,17 +428,46 @@
     "related": []
   },
   {
-    "title": "Why Ethereum Could Tank Another 25% Before Finding a Bottom: Analysis",
-    "slug": "why-ethereum-could-tank-another-25-before-finding-a-bottom-a",
+    "title": "As BTC Tests $62,000, How Low Can Bitcoin Go?",
+    "slug": "as-btc-tests-62000-how-low-can-bitcoin-go",
     "category": "cripto",
-    "date": "2026-06-03",
-    "summary": "ETH just crashed below $2,000 and is now trading near $1,841.  Prediction markets place a 71% chance on a drop to $1,500—and the charts aren't pushing back.",
-    "link": "https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis",
+    "date": "2026-06-04",
+    "summary": "Bitcoin has dropped 17% in four days, sparking $4. 5 billion in liquidations, as analysts warn of a potential move below $60,000.",
+    "link": "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go",
     "source": "Decrypt",
     "tags": [
       "cripto",
-      "bitcoin",
-      "ethereum"
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Morning Minute: Crypto Crashes, New Lows In Sight",
+    "slug": "morning-minute-crypto-crashes-new-lows-in-sight",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "Bitcoin falls to $62k and Arthur Hayes selling his HYPE and NEAR position leads to double digit fallout for recent alt darlings.",
+    "link": "https://decrypt.co/369994/morning-minute-crypto-crashes-new-lows-in-sight",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "US Bitcoin Reserve Moving Ahead at ‘Deliberate Speed’: Bessent",
+    "slug": "us-bitcoin-reserve-moving-ahead-at-deliberate-speed-bessent",
+    "category": "cripto",
+    "date": "2026-06-04",
+    "summary": "The Treasury chief told senators the administration is using “best practices” in implementing Trump's Bitcoin reserve order.",
+    "link": "https://decrypt.co/369993/us-bitcoin-reserve-moving-ahead-at-deliberate-speed-bessent",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
