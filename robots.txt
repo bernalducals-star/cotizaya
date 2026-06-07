@@ -1,4 +1,90 @@
+# robots.txt — CotizaYa (cotizaya.ar)
+# Actualizado: 2026-06-07
+
+# ── Rastreadores generales ──
 User-agent: *
 Allow: /
+Disallow: /node_modules/
+Disallow: /scripts/
+Disallow: /.github/
 
+# ── Google ──
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# ── OpenAI / ChatGPT ──
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# ── Anthropic / Claude ──
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# ── Microsoft / Copilot ──
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# ── Perplexity ──
+User-agent: PerplexityBot
+Allow: /
+
+# ── xAI / Grok ──
+User-agent: xAI-Bot
+Allow: /
+
+# ── DeepSeek ──
+User-agent: DeepSeekBot
+Allow: /
+
+# ── Meta AI ──
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# ── Blackbox AI ──
+User-agent: BlackboxBot
+Allow: /
+
+# ── You.com ──
+User-agent: YouBot
+Allow: /
+
+# ── Mistral ──
+User-agent: MistralBot
+Allow: /
+
+# ── Cohere ──
+User-agent: cohere-ai
+Allow: /
+
+# ── Amazon Alexa ──
+User-agent: Amazonbot
+Allow: /
+
+# ── Apple ──
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# ── Sitemaps ──
 Sitemap: https://cotizaya.ar/sitemap.xml
+
+# ── LLMs.txt ──
+# Archivo de contexto para modelos de lenguaje
+# https://cotizaya.ar/llms.txt
+# https://cotizaya.ar/llms-full.txt
