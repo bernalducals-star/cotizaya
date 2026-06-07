@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dólar Oficial Hoy – Cotización Banco Nación | CotizaYa</title>
+  <meta name="description" content="Cotización del dólar oficial hoy en Argentina. Precio de compra y venta del Banco Nación actualizado. Historial, variación diaria y conversor de pesos a dólar oficial." />
+  <link rel="canonical" href="https://cotizaya.ar/dolar-oficial" />
+
+  <meta property="og:title" content="Dólar Oficial Hoy | CotizaYa" />
+  <meta property="og:description" content="Precio del dólar oficial en Argentina actualizado. Compra, venta y variación del día." />
+  <meta property="og:url" content="https://cotizaya.ar/dolar-oficial" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="es_AR" />
+  <meta property="og:site_name" content="CotizaYa" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Dólar Oficial Hoy",
+    "description": "Cotización del dólar oficial en Argentina en tiempo real",
+    "url": "https://cotizaya.ar/dolar-oficial",
+    "publisher": { "@type": "Organization", "name": "CotizaYa", "url": "https://cotizaya.ar" }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --accent: #0d7c3d;
+      --accent-light: #dcfce7;
+      --green: #16a34a;
+      --red: #dc2626;
+      --blue: #1a56db;
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --muted: #64748b;
+      --nav-bg: #0f172a;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    nav {
+      background: var(--nav-bg);
+      padding: 0 1.5rem;
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 56px;
+    }
+    .nav-logo { font-family: 'DM Serif Display', serif; font-size: 1.4rem; color: #fff; text-decoration: none; }
+    .nav-links { display: flex; gap: 0.25rem; }
+    .nav-links a {
+      color: #94a3b8; text-decoration: none; font-size: 0.85rem; font-weight: 500;
+      padding: 0.4rem 0.75rem; border-radius: 6px; transition: color 0.2s, background 0.2s;
+    }
+    .nav-links a:hover, .nav-links a.active { color: #fff; background: rgba(255,255,255,0.08); }
+
+    .hero {
+      background: linear-gradient(135deg, #0f172a 0%, #064e24 60%, #0d7c3d 100%);
+      padding: 3rem 1.5rem 4rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 70% 50%, rgba(13,124,61,0.3) 0%, transparent 60%);
+    }
+    .hero-eyebrow {
+      position: relative;
+      display: inline-block;
+      background: rgba(13,124,61,0.25);
+      border: 1px solid rgba(13,124,61,0.5);
+      color: #86efac;
+      font-size: 0.75rem; font-weight: 600;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      padding: 0.3rem 0.9rem; border-radius: 100px;
+      margin-bottom: 1.25rem;
+    }
+    .hero h1 {
+      position: relative;
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2.2rem, 6vw, 3.5rem);
+      color: #fff; line-height: 1.15; margin-bottom: 0.5rem;
+    }
+    .hero-sub { position: relative; color: #94a3b8; font-size: 0.95rem; margin-bottom: 2.5rem; }
+
+    .price-grid {
+      position: relative;
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1rem; max-width: 480px; margin: 0 auto 1.5rem;
+    }
+    .price-card {
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 16px; padding: 1.5rem 1rem;
+      backdrop-filter: blur(10px);
+    }
+    .price-label { color: #94a3b8; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.5rem; }
+    .price-value { font-family: 'DM Serif Display', serif; font-size: 2.4rem; color: #fff; line-height: 1; }
+    .price-value span { font-size: 1.1rem; opacity: 0.6; margin-right: 2px; }
+
+    .variation-badge {
+      position: relative;
+      display: inline-flex; align-items: center; gap: 0.4rem;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 100px; padding: 0.4rem 1rem;
+      color: #94a3b8; font-size: 0.85rem;
+    }
+    .variation-badge.up   { color: #4ade80; border-color: rgba(74,222,128,0.3); background: rgba(74,222,128,0.08); }
+    .variation-badge.down { color: #f87171; border-color: rgba(248,113,113,0.3); background: rgba(248,113,113,0.08); }
+    .update-time { position: relative; color: #475569; font-size: 0.78rem; margin-top: 1rem; }
+
+    .main-content {
+      max-width: 900px; margin: 0 auto;
+      padding: 2rem 1.5rem;
+      display: grid; grid-template-columns: 1fr 320px;
+      gap: 1.5rem; align-items: start;
+    }
+    @media (max-width: 700px) { .main-content { grid-template-columns: 1fr; } }
+
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 1.5rem; margin-bottom: 1.5rem; }
+    .card-title { font-family: 'DM Serif Display', serif; font-size: 1.2rem; margin-bottom: 1.25rem; }
+
+    .conversor-row { display: flex; flex-direction: column; gap: 0.75rem; }
+    .input-group label { display: block; font-size: 0.78rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.35rem; }
+    .input-wrap { display: flex; align-items: center; border: 1.5px solid var(--border); border-radius: 10px; overflow: hidden; transition: border-color 0.2s; }
+    .input-wrap:focus-within { border-color: var(--accent); }
+    .input-prefix { background: var(--bg); padding: 0.75rem 0.9rem; font-size: 0.85rem; font-weight: 600; color: var(--muted); border-right: 1.5px solid var(--border); }
+    .input-wrap input { flex: 1; border: none; outline: none; padding: 0.75rem 0.9rem; font-size: 1rem; font-family: 'DM Sans', sans-serif; background: transparent; color: var(--text); }
+    .swap-btn { display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; border: 1.5px solid var(--border); background: var(--surface); cursor: pointer; margin: 0 auto; color: var(--muted); font-size: 1.1rem; transition: all 0.2s; }
+    .swap-btn:hover { border-color: var(--accent); color: var(--accent); transform: rotate(180deg); }
+    .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; }
+    .chip { background: var(--accent-light); color: var(--accent); border: none; border-radius: 100px; padding: 0.3rem 0.8rem; font-size: 0.8rem; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+    .chip:hover { background: #bbf7d0; }
+
+    .historial-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+    .historial-table th { text-align: left; padding: 0.5rem 0.75rem; color: var(--muted); font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+    .historial-table td { padding: 0.65rem 0.75rem; border-bottom: 1px solid var(--border); }
+    .historial-table tr:last-child td { border-bottom: none; }
+    .historial-table tr:hover td { background: var(--bg); }
+    .badge-sell { color: var(--red); font-weight: 600; }
+    .badge-buy  { color: var(--green); font-weight: 600; }
+
+    .seo-section { line-height: 1.75; color: #334155; }
+    .seo-section h2 { font-family: 'DM Serif Display', serif; font-size: 1.4rem; color: var(--text); margin: 1.5rem 0 0.75rem; }
+    .seo-section h3 { font-size: 1rem; font-weight: 600; color: var(--text); margin: 1.25rem 0 0.5rem; }
+    .seo-section p { margin-bottom: 0.9rem; font-size: 0.93rem; }
+
+    .cotizaciones-widget { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-bottom: 1.5rem; }
+    .widget-header { padding: 1rem 1.25rem; border-bottom: 1px solid var(--border); font-family: 'DM Serif Display', serif; font-size: 1rem; }
+    .widget-row { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.25rem; border-bottom: 1px solid var(--border); font-size: 0.88rem; transition: background 0.15s; }
+    .widget-row:last-child { border-bottom: none; }
+    .widget-row:hover { background: var(--bg); }
+    .widget-row-name { color: var(--muted); font-weight: 500; }
+    .widget-row-price { font-weight: 600; }
+
+    .related-links { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 1.25rem; }
+    .related-links h4 { font-size: 0.78rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.9rem; }
+    .related-links a { display: block; color: var(--blue); text-decoration: none; font-size: 0.88rem; font-weight: 500; padding: 0.4rem 0; border-bottom: 1px solid var(--border); transition: opacity 0.2s; }
+    .related-links a:last-child { border-bottom: none; }
+    .related-links a:hover { opacity: 0.7; }
+
+    #qr-widget { position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 999; display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem; }
+    #qr-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1rem; box-shadow: 0 8px 32px rgba(0,0,0,0.12); display: none; text-align: center; }
+    #qr-panel.open { display: block; }
+    #qr-panel img { width: 120px; height: 120px; }
+    #qr-panel p { font-size: 0.75rem; color: var(--muted); margin-top: 0.5rem; }
+    #qr-toggle { background: var(--accent); color: #fff; border: none; border-radius: 50%; width: 48px; height: 48px; font-size: 1.3rem; cursor: pointer; box-shadow: 0 4px 16px rgba(13,124,61,0.4); transition: transform 0.2s; }
+    #qr-toggle:hover { transform: scale(1.08); }
+
+    footer { text-align: center; padding: 2rem 1rem; color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--border); margin-top: 1rem; }
+    footer a { color: var(--blue); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">CotizaYa</a>
+  <div class="nav-links">
+    <a href="/dolar-blue">Dólar</a>
+    <a href="/conversor-euro-peso">Euro</a>
+    <a href="/#cripto">Cripto</a>
+    <a href="/#conversores">Conversores</a>
+    <a href="/#noticias">Noticias</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-eyebrow">🏦 Banco Nación · BCRA</div>
+  <h1>Dólar Oficial Hoy</h1>
+  <p class="hero-sub">Cotización oficial en Argentina · Compra y venta actualizadas</p>
+
+  <div class="price-grid">
+    <div class="price-card">
+      <div class="price-label">Compra</div>
+      <div class="price-value" id="hero-buy"><span>$</span>—</div>
+    </div>
+    <div class="price-card">
+      <div class="price-label">Venta</div>
+      <div class="price-value" id="hero-sell"><span>$</span>—</div>
+    </div>
+  </div>
+
+  <div class="variation-badge" id="variation-badge">Cargando variación...</div>
+  <div class="update-time" id="update-time"></div>
+</section>
+
+<div class="main-content">
+  <div>
+
+    <div class="card">
+      <div class="card-title">Conversor Dólar Oficial ↔ Pesos</div>
+      <div class="conversor-row">
+        <div class="input-group">
+          <label id="label-top">Dólares (USD)</label>
+          <div class="input-wrap">
+            <span class="input-prefix" id="prefix-top">USD</span>
+            <input type="number" id="input-top" placeholder="0" min="0" />
+          </div>
+        </div>
+        <button class="swap-btn" id="swap-btn">⇅</button>
+        <div class="input-group">
+          <label id="label-bottom">Pesos (ARS)</label>
+          <div class="input-wrap">
+            <span class="input-prefix" id="prefix-bottom">ARS</span>
+            <input type="number" id="input-bottom" placeholder="0" min="0" />
+          </div>
+        </div>
+      </div>
+      <div class="chips" id="chips"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Historial reciente</div>
+      <table class="historial-table">
+        <thead><tr><th>Fecha</th><th>Compra</th><th>Venta</th></tr></thead>
+        <tbody id="historial-body">
+          <tr><td colspan="3" style="color:var(--muted);padding:1rem 0.75rem;">Cargando...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="card seo-section">
+      <h2>¿Qué es el dólar oficial en Argentina?</h2>
+      <p>El <strong>dólar oficial</strong> es el tipo de cambio establecido y regulado por el Banco Central de la República Argentina (BCRA). Es el precio al que los bancos, casas de cambio habilitadas y el sistema financiero formal compran y venden divisas.</p>
+      <p>La cotización de referencia más usada es la del <strong>Banco de la Nación Argentina (BNA)</strong>, que publica diariamente sus tipos de cambio para operaciones minoristas. Es el dólar al que acceden individuos y empresas dentro del sistema bancario formal.</p>
+
+      <h2>¿Cómo comprar dólar oficial en Argentina?</h2>
+      <p>Para acceder al dólar oficial, es necesario tener una cuenta bancaria en Argentina y cumplir con los requisitos del BCRA. El cupo mensual para personas humanas ha variado históricamente, y puede estar sujeto a restricciones cambiarias conocidas como <strong>cepo cambiario</strong>.</p>
+      <p>La compra se puede realizar a través de home banking, cajeros automáticos habilitados o en sucursales bancarias. El tipo de cambio oficial puede incluir percepciones impositivas adicionales (Impuesto PAÍS, retención de Ganancias o Bienes Personales) que elevan el costo efectivo.</p>
+
+      <h3>Diferencia entre dólar oficial y dólar blue</h3>
+      <p>El dólar oficial es el precio regulado por el Estado. El <a href="/dolar-blue">dólar blue</a> es el tipo de cambio del mercado informal. La diferencia porcentual entre ambos se llama <strong>brecha cambiaria</strong> y es un indicador clave de la tensión del sistema financiero argentino.</p>
+
+      <h3>¿Qué es el dólar tarjeta o dólar turista?</h3>
+      <p>Cuando se realizan compras en moneda extranjera con tarjeta de crédito o débito argentina, el tipo de cambio base es el oficial, pero con recargos impositivos que elevan significativamente el precio final. Este tipo de cambio compuesto se conoce popularmente como dólar tarjeta o dólar turista.</p>
+
+      <h3>¿Cuándo se actualiza la cotización oficial?</h3>
+      <p>El Banco Nación publica su tipo de cambio en días hábiles bancarios. Los fines de semana y feriados no hay actualizaciones. CotizaYa muestra siempre el último valor disponible publicado en el historial de Bluelytics.</p>
+
+      <h2>¿Cómo usar el conversor de dólar oficial?</h2>
+      <p>Ingresá el monto en dólares o pesos que querés convertir. El conversor usa el precio de venta del dólar oficial del día. Podés intercambiar la dirección de la conversión con el botón ⇅. Los valores se actualizan automáticamente con cada ingreso.</p>
+    </div>
+
+  </div>
+
+  <aside>
+    <div class="cotizaciones-widget">
+      <div class="widget-header">Cotizaciones hoy</div>
+      <div class="widget-row">
+        <span class="widget-row-name">Oficial Venta</span>
+        <span class="widget-row-price" id="w-of-sell">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Oficial Compra</span>
+        <span class="widget-row-price" id="w-of-buy">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Blue Venta</span>
+        <span class="widget-row-price" id="w-blue-sell">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Blue Compra</span>
+        <span class="widget-row-price" id="w-blue-buy">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Brecha</span>
+        <span class="widget-row-price" id="w-brecha">—</span>
+      </div>
+    </div>
+
+    <div class="related-links">
+      <h4>Ver también</h4>
+      <a href="/dolar-blue">Dólar Blue hoy →</a>
+      <a href="/dolar-mep">Dólar MEP hoy →</a>
+      <a href="/conversor-dolar-peso">Conversor USD ↔ ARS →</a>
+      <a href="/conversor-euro-peso">Conversor EUR ↔ ARS →</a>
+      <a href="/conversor-bitcoin-peso">Conversor BTC ↔ ARS →</a>
+    </div>
+  </aside>
+</div>
+
+<div id="qr-widget">
+  <div id="qr-panel">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://cotizaya.ar/dolar-oficial" alt="QR CotizaYa Dólar Oficial" />
+    <p>Escaneá para compartir</p>
+  </div>
+  <button id="qr-toggle" onclick="document.getElementById('qr-panel').classList.toggle('open')">📱</button>
+</div>
+
+<footer>
+  <p>© 2026 <a href="/">CotizaYa</a> · Datos actualizados diariamente · <a href="/about.html">Sobre nosotros</a></p>
+</footer>
+
+<script>
+  const HISTORIAL_URL = '/datos/historial.json';
+  let oficialSell = null;
+  let modeUsdToArs = true;
+
+  async function loadData() {
+    try {
+      const res  = await fetch(HISTORIAL_URL);
+      const data = await res.json();
+
+      const oficials = data.filter(d => d.source === 'Oficial');
+      const blues    = data.filter(d => d.source === 'Blue');
+
+      if (!oficials.length) return;
+
+      oficials.sort((a, b) => new Date(b.date) - new Date(a.date));
+      blues.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      const latest = oficials[0];
+      oficialSell  = latest.value_sell;
+      const oficialBuy = latest.value_buy;
+
+      document.getElementById('hero-buy').innerHTML  = `<span>$</span>${oficialBuy.toLocaleString('es-AR')}`;
+      document.getElementById('hero-sell').innerHTML = `<span>$</span>${oficialSell.toLocaleString('es-AR')}`;
+
+      if (oficials.length >= 2) {
+        const prev  = oficials[1].value_sell;
+        const diff  = oficialSell - prev;
+        const pct   = ((diff / prev) * 100).toFixed(1);
+        const badge = document.getElementById('variation-badge');
+        if (diff > 0) {
+          badge.textContent = `▲ $${diff} (${pct}%) vs ayer`;
+          badge.classList.add('up');
+        } else if (diff < 0) {
+          badge.textContent = `▼ $${Math.abs(diff)} (${pct}%) vs ayer`;
+          badge.classList.add('down');
+        } else {
+          badge.textContent = `Sin cambios vs ayer`;
+        }
+      }
+
+      const d = new Date(latest.date + 'T00:00:00');
+      document.getElementById('update-time').textContent =
+        'Última actualización: ' + d.toLocaleDateString('es-AR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
+      document.getElementById('w-of-sell').textContent = `$${oficialSell.toLocaleString('es-AR')}`;
+      document.getElementById('w-of-buy').textContent  = `$${oficialBuy.toLocaleString('es-AR')}`;
+
+      if (blues.length) {
+        const b = blues[0];
+        document.getElementById('w-blue-sell').textContent = `$${b.value_sell.toLocaleString('es-AR')}`;
+        document.getElementById('w-blue-buy').textContent  = `$${b.value_buy.toLocaleString('es-AR')}`;
+        const brecha = (((b.value_sell - oficialSell) / oficialSell) * 100).toFixed(1);
+        document.getElementById('w-brecha').textContent = `${brecha}%`;
+      }
+
+      const tbody = document.getElementById('historial-body');
+      tbody.innerHTML = '';
+      oficials.slice(0, 10).forEach(row => {
+        const date = new Date(row.date + 'T00:00:00');
+        const label = date.toLocaleDateString('es-AR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+        tbody.innerHTML += `
+          <tr>
+            <td>${label}</td>
+            <td class="badge-buy">$${row.value_buy.toLocaleString('es-AR')}</td>
+            <td class="badge-sell">$${row.value_sell.toLocaleString('es-AR')}</td>
+          </tr>`;
+      });
+
+      buildChips();
+    } catch(e) {
+      console.error('Error cargando historial:', e);
+    }
+  }
+
+  function buildChips() {
+    const chips = document.getElementById('chips');
+    const amounts = modeUsdToArs ? [1, 10, 50, 100, 500] : [1000, 5000, 10000, 50000, 100000];
+    chips.innerHTML = '';
+    amounts.forEach(n => {
+      const btn = document.createElement('button');
+      btn.className = 'chip';
+      btn.textContent = modeUsdToArs ? `USD ${n.toLocaleString('es-AR')}` : `$${n.toLocaleString('es-AR')}`;
+      btn.onclick = () => { document.getElementById('input-top').value = n; convert('top'); };
+      chips.appendChild(btn);
+    });
+  }
+
+  function convert(from) {
+    if (!oficialSell) return;
+    const top = document.getElementById('input-top');
+    const bot = document.getElementById('input-bottom');
+    if (from === 'top') {
+      const val = parseFloat(top.value) || 0;
+      bot.value = modeUsdToArs ? (val * oficialSell).toFixed(0) : (val / oficialSell).toFixed(2);
+    } else {
+      const val = parseFloat(bot.value) || 0;
+      top.value = modeUsdToArs ? (val / oficialSell).toFixed(2) : (val * oficialSell).toFixed(0);
+    }
+  }
+
+  function setLabels() {
+    document.getElementById('label-top').textContent     = modeUsdToArs ? 'Dólares (USD)' : 'Pesos (ARS)';
+    document.getElementById('prefix-top').textContent    = modeUsdToArs ? 'USD' : 'ARS';
+    document.getElementById('label-bottom').textContent  = modeUsdToArs ? 'Pesos (ARS)' : 'Dólares (USD)';
+    document.getElementById('prefix-bottom').textContent = modeUsdToArs ? 'ARS' : 'USD';
+  }
+
+  document.getElementById('input-top').addEventListener('input',    () => convert('top'));
+  document.getElementById('input-bottom').addEventListener('input', () => convert('bottom'));
+  document.getElementById('swap-btn').addEventListener('click', () => {
+    modeUsdToArs = !modeUsdToArs;
+    document.getElementById('input-top').value = '';
+    document.getElementById('input-bottom').value = '';
+    setLabels(); buildChips();
+  });
+
+  loadData();
+</script>
+
+</body>
+</html>
