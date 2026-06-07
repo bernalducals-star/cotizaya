@@ -457,25 +457,34 @@
     function fmtNum(n, decimals=8) { return Number(n).toLocaleString('es-AR',{minimumFractionDigits:0,maximumFractionDigits:decimals}); }
 
     function formatInput(v) {
-      // Para BTC permitir hasta 8 decimales con punto o coma
-      let clean = v.replace(/[^0-9.,]/g,'');
-      // Normalizar separador decimal
-      const hasDot = clean.includes('.');
-      const hasComma = clean.includes(',');
-      if (hasDot && !hasComma) {
-        const parts = clean.split('.');
-        let i = parts[0].replace(/,/g,'');
-        return i + '.' + (parts[1]||'').slice(0,8);
-      }
-      if (hasComma) {
+      const isBtcMode = direction === 'from-btc';
+      if (isBtcMode) {
+        // BTC: decimales sin separador de miles
+        let clean = v.replace(/[^0-9.,]/g,'');
+        if (clean.includes('.')) {
+          const parts = clean.split('.');
+          return parts[0] + '.' + (parts[1]||'').slice(0,8);
+        }
+        if (clean.includes(',')) {
+          const parts = clean.split(',');
+          return parts[0] + ',' + (parts[1]||'').slice(0,8);
+        }
+        return clean;
+      } else {
+        // ARS: separador de miles con punto, coma para decimales
+        let clean = v.replace(/\./g,'').replace(/[^0-9,]/g,'');
         const parts = clean.split(',');
-        let i = parts[0].replace(/\./g,'').replace(/\B(?=(\d{3})+(?!\d))/g,'.');
-        return i + ',' + (parts[1]||'').slice(0,8);
+        let integer = parts[0] || '';
+        const decimal = parts[1] !== undefined ? ',' + parts[1].slice(0,2) : '';
+        integer = integer.replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+        return integer + decimal;
       }
-      return clean.replace(/\B(?=(\d{3})+(?!\d))/g,'.');
     }
 
     function parseInput(v) {
+      if (direction === 'from-btc') {
+        return parseFloat(v.replace(',','.')) || 0;
+      }
       return parseFloat(v.replace(/\./g,'').replace(',','.')) || 0;
     }
 
