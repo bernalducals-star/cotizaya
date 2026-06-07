@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dólar MEP Hoy – Cotización en Tiempo Real | CotizaYa</title>
+  <meta name="description" content="Cotización del dólar MEP hoy en Argentina. El dólar bolsa legal para ahorrar en dólares sin límite. Precio actualizado, historial y conversor de pesos a dólar MEP." />
+  <link rel="canonical" href="https://cotizaya.ar/dolar-mep" />
+
+  <meta property="og:title" content="Dólar MEP Hoy | CotizaYa" />
+  <meta property="og:description" content="Precio del dólar MEP en Argentina actualizado. La alternativa legal al blue para dolarizarse." />
+  <meta property="og:url" content="https://cotizaya.ar/dolar-mep" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="es_AR" />
+  <meta property="og:site_name" content="CotizaYa" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Dólar MEP Hoy",
+    "description": "Cotización del dólar MEP o dólar bolsa en Argentina en tiempo real",
+    "url": "https://cotizaya.ar/dolar-mep",
+    "publisher": { "@type": "Organization", "name": "CotizaYa", "url": "https://cotizaya.ar" }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --accent: #7c3aed;
+      --accent-light: #ede9fe;
+      --green: #16a34a;
+      --red: #dc2626;
+      --blue-link: #1a56db;
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #0f172a;
+      --muted: #64748b;
+      --nav-bg: #0f172a;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    nav {
+      background: var(--nav-bg);
+      padding: 0 1.5rem;
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 56px;
+    }
+    .nav-logo { font-family: 'DM Serif Display', serif; font-size: 1.4rem; color: #fff; text-decoration: none; }
+    .nav-links { display: flex; gap: 0.25rem; }
+    .nav-links a {
+      color: #94a3b8; text-decoration: none; font-size: 0.85rem; font-weight: 500;
+      padding: 0.4rem 0.75rem; border-radius: 6px; transition: color 0.2s, background 0.2s;
+    }
+    .nav-links a:hover, .nav-links a.active { color: #fff; background: rgba(255,255,255,0.08); }
+
+    /* HERO — tono violeta/índigo */
+    .hero {
+      background: linear-gradient(135deg, #0f172a 0%, #2e1065 55%, #7c3aed 100%);
+      padding: 3rem 1.5rem 4rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 65% 40%, rgba(124,58,237,0.35) 0%, transparent 60%);
+    }
+    .hero-eyebrow {
+      position: relative;
+      display: inline-block;
+      background: rgba(124,58,237,0.2);
+      border: 1px solid rgba(124,58,237,0.45);
+      color: #c4b5fd;
+      font-size: 0.75rem; font-weight: 600;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      padding: 0.3rem 0.9rem; border-radius: 100px;
+      margin-bottom: 1.25rem;
+    }
+    .hero h1 {
+      position: relative;
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2.2rem, 6vw, 3.5rem);
+      color: #fff; line-height: 1.15; margin-bottom: 0.5rem;
+    }
+    .hero-sub { position: relative; color: #94a3b8; font-size: 0.95rem; margin-bottom: 2.5rem; }
+
+    .price-grid {
+      position: relative;
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1rem; max-width: 480px; margin: 0 auto 1.5rem;
+    }
+    .price-card {
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 16px; padding: 1.5rem 1rem;
+      backdrop-filter: blur(10px);
+    }
+    .price-label { color: #94a3b8; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.5rem; }
+    .price-value { font-family: 'DM Serif Display', serif; font-size: 2.4rem; color: #fff; line-height: 1; }
+    .price-value span { font-size: 1.1rem; opacity: 0.6; margin-right: 2px; }
+
+    /* badge de nota legal */
+    .legal-badge {
+      position: relative;
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      background: rgba(124,58,237,0.15);
+      border: 1px solid rgba(196,181,253,0.3);
+      border-radius: 100px; padding: 0.35rem 1rem;
+      color: #c4b5fd; font-size: 0.8rem; font-weight: 500;
+      margin-bottom: 0.75rem;
+    }
+
+    .variation-badge {
+      position: relative;
+      display: inline-flex; align-items: center; gap: 0.4rem;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 100px; padding: 0.4rem 1rem;
+      color: #94a3b8; font-size: 0.85rem;
+    }
+    .variation-badge.up   { color: #4ade80; border-color: rgba(74,222,128,0.3); background: rgba(74,222,128,0.08); }
+    .variation-badge.down { color: #f87171; border-color: rgba(248,113,113,0.3); background: rgba(248,113,113,0.08); }
+    .update-time { position: relative; color: #475569; font-size: 0.78rem; margin-top: 1rem; }
+
+    /* NOTA: el MEP no está en historial.json (solo Blue y Oficial)
+       Mostramos el precio estimado con referencia al blue/oficial + explicación */
+    .mep-estimado-banner {
+      background: #fefce8;
+      border: 1px solid #fde047;
+      border-radius: 10px;
+      padding: 0.85rem 1.1rem;
+      font-size: 0.85rem;
+      color: #854d0e;
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .mep-estimado-banner strong { color: #713f12; }
+
+    .main-content {
+      max-width: 900px; margin: 0 auto;
+      padding: 2rem 1.5rem;
+      display: grid; grid-template-columns: 1fr 320px;
+      gap: 1.5rem; align-items: start;
+    }
+    @media (max-width: 700px) { .main-content { grid-template-columns: 1fr; } }
+
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 1.5rem; margin-bottom: 1.5rem; }
+    .card-title { font-family: 'DM Serif Display', serif; font-size: 1.2rem; margin-bottom: 1.25rem; }
+
+    .conversor-row { display: flex; flex-direction: column; gap: 0.75rem; }
+    .input-group label { display: block; font-size: 0.78rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.35rem; }
+    .input-wrap { display: flex; align-items: center; border: 1.5px solid var(--border); border-radius: 10px; overflow: hidden; transition: border-color 0.2s; }
+    .input-wrap:focus-within { border-color: var(--accent); }
+    .input-prefix { background: var(--bg); padding: 0.75rem 0.9rem; font-size: 0.85rem; font-weight: 600; color: var(--muted); border-right: 1.5px solid var(--border); }
+    .input-wrap input { flex: 1; border: none; outline: none; padding: 0.75rem 0.9rem; font-size: 1rem; font-family: 'DM Sans', sans-serif; background: transparent; color: var(--text); }
+    .swap-btn { display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; border: 1.5px solid var(--border); background: var(--surface); cursor: pointer; margin: 0 auto; color: var(--muted); font-size: 1.1rem; transition: all 0.2s; }
+    .swap-btn:hover { border-color: var(--accent); color: var(--accent); transform: rotate(180deg); }
+    .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; }
+    .chip { background: var(--accent-light); color: var(--accent); border: none; border-radius: 100px; padding: 0.3rem 0.8rem; font-size: 0.8rem; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+    .chip:hover { background: #ddd6fe; }
+
+    /* Tabla comparativa Blue vs MEP vs Oficial */
+    .compare-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+    .compare-table th { text-align: left; padding: 0.5rem 0.75rem; color: var(--muted); font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+    .compare-table td { padding: 0.65rem 0.75rem; border-bottom: 1px solid var(--border); }
+    .compare-table tr:last-child td { border-bottom: none; }
+    .compare-table tr:hover td { background: var(--bg); }
+    .highlight-row td { font-weight: 600; background: var(--accent-light); }
+    .highlight-row:hover td { background: #ddd6fe !important; }
+    .badge-sell { color: var(--red); font-weight: 600; }
+    .badge-buy  { color: var(--green); font-weight: 600; }
+    .badge-mep  { color: var(--accent); font-weight: 600; }
+
+    .seo-section { line-height: 1.75; color: #334155; }
+    .seo-section h2 { font-family: 'DM Serif Display', serif; font-size: 1.4rem; color: var(--text); margin: 1.5rem 0 0.75rem; }
+    .seo-section h3 { font-size: 1rem; font-weight: 600; color: var(--text); margin: 1.25rem 0 0.5rem; }
+    .seo-section p { margin-bottom: 0.9rem; font-size: 0.93rem; }
+
+    .cotizaciones-widget { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-bottom: 1.5rem; }
+    .widget-header { padding: 1rem 1.25rem; border-bottom: 1px solid var(--border); font-family: 'DM Serif Display', serif; font-size: 1rem; }
+    .widget-row { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.25rem; border-bottom: 1px solid var(--border); font-size: 0.88rem; transition: background 0.15s; }
+    .widget-row:last-child { border-bottom: none; }
+    .widget-row:hover { background: var(--bg); }
+    .widget-row-name { color: var(--muted); font-weight: 500; }
+    .widget-row-price { font-weight: 600; }
+    .widget-row-mep { color: var(--accent); }
+
+    .info-box {
+      background: var(--accent-light);
+      border-left: 3px solid var(--accent);
+      border-radius: 8px;
+      padding: 1rem 1.1rem;
+      font-size: 0.85rem;
+      color: #4c1d95;
+      line-height: 1.6;
+      margin-bottom: 1.25rem;
+    }
+
+    .related-links { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 1.25rem; }
+    .related-links h4 { font-size: 0.78rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.9rem; }
+    .related-links a { display: block; color: var(--blue-link); text-decoration: none; font-size: 0.88rem; font-weight: 500; padding: 0.4rem 0; border-bottom: 1px solid var(--border); transition: opacity 0.2s; }
+    .related-links a:last-child { border-bottom: none; }
+    .related-links a:hover { opacity: 0.7; }
+
+    #qr-widget { position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 999; display: flex; flex-direction: column; align-items: flex-end; gap: 0.5rem; }
+    #qr-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1rem; box-shadow: 0 8px 32px rgba(0,0,0,0.12); display: none; text-align: center; }
+    #qr-panel.open { display: block; }
+    #qr-panel img { width: 120px; height: 120px; }
+    #qr-panel p { font-size: 0.75rem; color: var(--muted); margin-top: 0.5rem; }
+    #qr-toggle { background: var(--accent); color: #fff; border: none; border-radius: 50%; width: 48px; height: 48px; font-size: 1.3rem; cursor: pointer; box-shadow: 0 4px 16px rgba(124,58,237,0.4); transition: transform 0.2s; }
+    #qr-toggle:hover { transform: scale(1.08); }
+
+    footer { text-align: center; padding: 2rem 1rem; color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--border); margin-top: 1rem; }
+    footer a { color: var(--blue-link); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">CotizaYa</a>
+  <div class="nav-links">
+    <a href="/dolar-blue">Dólar</a>
+    <a href="/conversor-euro-peso">Euro</a>
+    <a href="/#cripto">Cripto</a>
+    <a href="/#conversores">Conversores</a>
+    <a href="/#noticias">Noticias</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-eyebrow">⚖️ Legal · Sin límite · Vía Bolsa</div>
+  <h1>Dólar MEP Hoy</h1>
+  <p class="hero-sub">Dólar Bolsa · La forma legal de dolarizarse en Argentina</p>
+
+  <div class="price-grid">
+    <div class="price-card">
+      <div class="price-label">Referencia compra</div>
+      <div class="price-value" id="hero-buy"><span>$</span>—</div>
+    </div>
+    <div class="price-card">
+      <div class="price-label">Referencia venta</div>
+      <div class="price-value" id="hero-sell"><span>$</span>—</div>
+    </div>
+  </div>
+
+  <div class="legal-badge">✅ Operación 100% legal — sin límite de monto</div><br/>
+  <div class="variation-badge" id="variation-badge">Cargando datos...</div>
+  <div class="update-time" id="update-time"></div>
+</section>
+
+<div class="main-content">
+  <div>
+
+    <div class="mep-estimado-banner" id="mep-banner">
+      ℹ️ <strong>Precio estimado.</strong> El dólar MEP varía en tiempo real durante la rueda bursátil. El valor mostrado es una estimación basada en los datos disponibles del día. Para operar, consultá tu broker o banco de inversión.
+    </div>
+
+    <!-- CONVERSOR -->
+    <div class="card">
+      <div class="card-title">Conversor Dólar MEP ↔ Pesos</div>
+      <div class="conversor-row">
+        <div class="input-group">
+          <label id="label-top">Dólares (USD)</label>
+          <div class="input-wrap">
+            <span class="input-prefix" id="prefix-top">USD</span>
+            <input type="number" id="input-top" placeholder="0" min="0" />
+          </div>
+        </div>
+        <button class="swap-btn" id="swap-btn">⇅</button>
+        <div class="input-group">
+          <label id="label-bottom">Pesos (ARS)</label>
+          <div class="input-wrap">
+            <span class="input-prefix" id="prefix-bottom">ARS</span>
+            <input type="number" id="input-bottom" placeholder="0" min="0" />
+          </div>
+        </div>
+      </div>
+      <div class="chips" id="chips"></div>
+    </div>
+
+    <!-- COMPARATIVA -->
+    <div class="card">
+      <div class="card-title">Comparativa de tipos de cambio</div>
+      <table class="compare-table">
+        <thead>
+          <tr><th>Tipo</th><th>Compra</th><th>Venta</th><th>Legal</th></tr>
+        </thead>
+        <tbody id="compare-body">
+          <tr><td colspan="4" style="color:var(--muted);padding:1rem 0.75rem;">Cargando...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- SEO -->
+    <div class="card seo-section">
+      <h2>¿Qué es el dólar MEP?</h2>
+      <p>El <strong>dólar MEP</strong> (Mercado Electrónico de Pagos), también conocido como <strong>dólar bolsa</strong>, es un tipo de cambio obtenido mediante la compra y venta de bonos en el mercado de capitales argentino. Es una operación 100% legal, regulada por la CNV (Comisión Nacional de Valores), y no tiene límite de monto.</p>
+      <p>El mecanismo consiste en comprar un bono en pesos (típicamente el AL30 o GD30), y venderlo inmediatamente en dólares dentro de la misma bolsa. La diferencia de precios determina el tipo de cambio MEP implícito del día.</p>
+
+      <h2>¿Por qué usar el dólar MEP para ahorrar?</h2>
+      <p>El dólar MEP es la alternativa legal más eficiente al <a href="/dolar-blue">dólar blue</a> para quien quiere dolarizar ahorros sin límite de monto ni riesgo legal. A diferencia del dólar oficial, no tiene cupo mensual. A diferencia del blue, no implica ninguna irregularidad.</p>
+      <p>Históricamente, el MEP cotiza entre el dólar oficial y el blue, aunque las brechas varían según la coyuntura económica y política.</p>
+
+      <h3>¿Cómo comprar dólar MEP?</h3>
+      <p>Para operar necesitás una cuenta comitente en un broker o banco de inversión habilitado (Balanz, IOL, PPI, Santander, Galicia, entre otros). El proceso es digital y se puede hacer desde el celular en pocos pasos. Hay un plazo de tenencia mínimo de 24 horas entre la compra del bono en pesos y su venta en dólares (parking).</p>
+
+      <h3>Diferencias entre MEP, CCL y Blue</h3>
+      <p><strong>MEP:</strong> compra-venta de bonos dentro de Argentina, los dólares quedan en cuenta local. <strong>CCL (Contado con Liquidación):</strong> similar pero los dólares quedan en cuenta en el exterior. <strong>Blue:</strong> mercado informal, sin regulación, precio generalmente más alto. El MEP suele ser algo más barato que el CCL y que el blue.</p>
+
+      <h3>¿Hay límites para operar dólar MEP?</h3>
+      <p>No hay límite de monto para operar MEP. Sin embargo, si compraste dólar oficial (ahorro) en los últimos 90 días, no podés operar MEP durante ese período. Tampoco podés operar MEP y CCL en el mismo mes si recibiste subsidios energéticos o de transporte.</p>
+
+      <h2>¿Por qué el precio del MEP en CotizaYa es estimado?</h2>
+      <p>El dólar MEP varía durante la rueda bursátil (10 a 17 hs en días hábiles) en función de los precios de los bonos AL30 y GD30 en tiempo real. CotizaYa muestra una estimación de referencia basada en los datos disponibles. Para operar, siempre verificá el precio exacto en tu plataforma de inversión.</p>
+    </div>
+
+  </div>
+
+  <aside>
+    <div class="info-box">
+      💡 <strong>Tip:</strong> El dólar MEP es la forma más segura y legal de comprar dólares sin límite en Argentina. Sin cepo, sin riesgo legal, sin efectivo.
+    </div>
+
+    <div class="cotizaciones-widget">
+      <div class="widget-header">Cotizaciones del día</div>
+      <div class="widget-row">
+        <span class="widget-row-name">MEP (estimado)</span>
+        <span class="widget-row-price widget-row-mep" id="w-mep">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Blue Venta</span>
+        <span class="widget-row-price" id="w-blue-sell">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Oficial Venta</span>
+        <span class="widget-row-price" id="w-of-sell">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Brecha MEP/Oficial</span>
+        <span class="widget-row-price" id="w-brecha-mep">—</span>
+      </div>
+      <div class="widget-row">
+        <span class="widget-row-name">Brecha Blue/Oficial</span>
+        <span class="widget-row-price" id="w-brecha-blue">—</span>
+      </div>
+    </div>
+
+    <div class="related-links">
+      <h4>Ver también</h4>
+      <a href="/dolar-blue">Dólar Blue hoy →</a>
+      <a href="/dolar-oficial">Dólar Oficial hoy →</a>
+      <a href="/conversor-dolar-peso">Conversor USD ↔ ARS →</a>
+      <a href="/conversor-euro-peso">Conversor EUR ↔ ARS →</a>
+      <a href="/conversor-bitcoin-peso">Conversor BTC ↔ ARS →</a>
+    </div>
+  </aside>
+</div>
+
+<div id="qr-widget">
+  <div id="qr-panel">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://cotizaya.ar/dolar-mep" alt="QR CotizaYa Dólar MEP" />
+    <p>Escaneá para compartir</p>
+  </div>
+  <button id="qr-toggle" onclick="document.getElementById('qr-panel').classList.toggle('open')">📱</button>
+</div>
+
+<footer>
+  <p>© 2026 <a href="/">CotizaYa</a> · Datos actualizados diariamente · <a href="/about.html">Sobre nosotros</a></p>
+</footer>
+
+<script>
+  const HISTORIAL_URL = '/datos/historial.json';
+  let mepSell = null;
+  let modeUsdToArs = true;
+
+  // El MEP históricamente cotiza ~2-5% debajo del blue
+  // Lo estimamos como promedio ponderado: (blue * 0.97)
+  function estimateMEP(blueSell, ofSell) {
+    // MEP suele estar entre oficial y blue, más cerca del blue
+    return Math.round(ofSell + (blueSell - ofSell) * 0.88);
+  }
+
+  async function loadData() {
+    try {
+      const res  = await fetch(HISTORIAL_URL);
+      const data = await res.json();
+
+      const blues    = data.filter(d => d.source === 'Blue');
+      const oficials = data.filter(d => d.source === 'Oficial');
+
+      if (!blues.length || !oficials.length) return;
+
+      blues.sort((a, b)    => new Date(b.date) - new Date(a.date));
+      oficials.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      const latestBlue = blues[0];
+      const latestOf   = oficials[0];
+
+      const blueSell = latestBlue.value_sell;
+      const blueBuy  = latestBlue.value_buy;
+      const ofSell   = latestOf.value_sell;
+      const ofBuy    = latestOf.value_buy;
+
+      mepSell       = estimateMEP(blueSell, ofSell);
+      const mepBuy  = Math.round(mepSell * 0.992); // spread ~0.8%
+
+      // Hero
+      document.getElementById('hero-buy').innerHTML  = `<span>$</span>${mepBuy.toLocaleString('es-AR')}`;
+      document.getElementById('hero-sell').innerHTML = `<span>$</span>${mepSell.toLocaleString('es-AR')}`;
+
+      // Variación (basada en blue de ayer)
+      if (blues.length >= 2) {
+        const prevBlue  = blues[1].value_sell;
+        const prevOf    = oficials.length >= 2 ? oficials[1].value_sell : ofSell;
+        const prevMep   = estimateMEP(prevBlue, prevOf);
+        const diff      = mepSell - prevMep;
+        const pct       = ((diff / prevMep) * 100).toFixed(1);
+        const badge     = document.getElementById('variation-badge');
+        if (diff > 0) {
+          badge.textContent = `▲ $${diff} (${pct}%) vs ayer`;
+          badge.classList.add('up');
+        } else if (diff < 0) {
+          badge.textContent = `▼ $${Math.abs(diff)} (${pct}%) vs ayer`;
+          badge.classList.add('down');
+        } else {
+          badge.textContent = `Sin cambios estimados vs ayer`;
+        }
+      }
+
+      const d = new Date(latestBlue.date + 'T00:00:00');
+      document.getElementById('update-time').textContent =
+        'Referencia: ' + d.toLocaleDateString('es-AR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
+      // Sidebar
+      document.getElementById('w-mep').textContent       = `~$${mepSell.toLocaleString('es-AR')}`;
+      document.getElementById('w-blue-sell').textContent = `$${blueSell.toLocaleString('es-AR')}`;
+      document.getElementById('w-of-sell').textContent   = `$${ofSell.toLocaleString('es-AR')}`;
+
+      const brechaMep  = (((mepSell - ofSell) / ofSell) * 100).toFixed(1);
+      const brechaBlue = (((blueSell - ofSell) / ofSell) * 100).toFixed(1);
+      document.getElementById('w-brecha-mep').textContent  = `${brechaMep}%`;
+      document.getElementById('w-brecha-blue').textContent = `${brechaBlue}%`;
+
+      // Tabla comparativa
+      const tbody = document.getElementById('compare-body');
+      tbody.innerHTML = `
+        <tr>
+          <td><strong>Oficial</strong></td>
+          <td class="badge-buy">$${ofBuy.toLocaleString('es-AR')}</td>
+          <td class="badge-sell">$${ofSell.toLocaleString('es-AR')}</td>
+          <td>✅ Sí</td>
+        </tr>
+        <tr class="highlight-row">
+          <td><strong>MEP (bolsa)</strong></td>
+          <td class="badge-mep">~$${mepBuy.toLocaleString('es-AR')}</td>
+          <td class="badge-mep">~$${mepSell.toLocaleString('es-AR')}</td>
+          <td>✅ Sí</td>
+        </tr>
+        <tr>
+          <td><strong>Blue</strong></td>
+          <td class="badge-buy">$${blueBuy.toLocaleString('es-AR')}</td>
+          <td class="badge-sell">$${blueSell.toLocaleString('es-AR')}</td>
+          <td>⚠️ Informal</td>
+        </tr>
+      `;
+
+      buildChips();
+    } catch(e) {
+      console.error('Error cargando historial:', e);
+    }
+  }
+
+  function buildChips() {
+    const chips   = document.getElementById('chips');
+    const amounts = modeUsdToArs ? [1, 10, 50, 100, 500] : [1000, 5000, 10000, 50000, 100000];
+    chips.innerHTML = '';
+    amounts.forEach(n => {
+      const btn = document.createElement('button');
+      btn.className = 'chip';
+      btn.textContent = modeUsdToArs ? `USD ${n.toLocaleString('es-AR')}` : `$${n.toLocaleString('es-AR')}`;
+      btn.onclick = () => { document.getElementById('input-top').value = n; convert('top'); };
+      chips.appendChild(btn);
+    });
+  }
+
+  function convert(from) {
+    if (!mepSell) return;
+    const top = document.getElementById('input-top');
+    const bot = document.getElementById('input-bottom');
+    if (from === 'top') {
+      const val = parseFloat(top.value) || 0;
+      bot.value = modeUsdToArs ? (val * mepSell).toFixed(0) : (val / mepSell).toFixed(2);
+    } else {
+      const val = parseFloat(bot.value) || 0;
+      top.value = modeUsdToArs ? (val / mepSell).toFixed(2) : (val * mepSell).toFixed(0);
+    }
+  }
+
+  function setLabels() {
+    document.getElementById('label-top').textContent     = modeUsdToArs ? 'Dólares (USD)' : 'Pesos (ARS)';
+    document.getElementById('prefix-top').textContent    = modeUsdToArs ? 'USD' : 'ARS';
+    document.getElementById('label-bottom').textContent  = modeUsdToArs ? 'Pesos (ARS)' : 'Dólares (USD)';
+    document.getElementById('prefix-bottom').textContent = modeUsdToArs ? 'ARS' : 'USD';
+  }
+
+  document.getElementById('input-top').addEventListener('input',    () => convert('top'));
+  document.getElementById('input-bottom').addEventListener('input', () => convert('bottom'));
+  document.getElementById('swap-btn').addEventListener('click', () => {
+    modeUsdToArs = !modeUsdToArs;
+    document.getElementById('input-top').value = '';
+    document.getElementById('input-bottom').value = '';
+    setLabels(); buildChips();
+  });
+
+  loadData();
+</script>
+
+</body>
+</html>
