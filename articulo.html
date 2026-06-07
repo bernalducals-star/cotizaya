@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="page-title">Artículo — CotizaYa</title>
+  <meta name="description" id="meta-desc" content="Análisis y noticias financieras de Argentina" />
+  <link rel="canonical" id="canonical" href="https://cotizaya.ar/articulo.html" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" id="og-title" content="Artículo — CotizaYa" />
+  <meta property="og:description" id="og-desc" content="Análisis financiero Argentina" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="CotizaYa" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --bg:        #0a0c0f;
+      --bg2:       #0f1218;
+      --bg3:       #141920;
+      --border:    #1e2530;
+      --border2:   #2a3340;
+      --text:      #e8edf2;
+      --text2:     #8a96a8;
+      --text3:     #5a6472;
+      --accent:    #00d4aa;
+      --accent2:   #0099ff;
+      --gold:      #f0b429;
+      --red:       #ff4d6d;
+      --serif:     'Playfair Display', Georgia, serif;
+      --body:      'Source Serif 4', Georgia, serif;
+      --mono:      'JetBrains Mono', monospace;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--body);
+      font-size: 18px;
+      line-height: 1.8;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10,12,15,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      font-family: var(--mono);
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: 0.05em;
+    }
+    .logo span { color: var(--text2); }
+
+    .header-nav {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+    .header-nav a {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text3);
+      text-decoration: none;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .header-nav a:hover { color: var(--text); }
+
+    /* ── LOADING ── */
+    #loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      gap: 20px;
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 2px solid var(--border2);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #loading p {
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--text3);
+      letter-spacing: 0.06em;
+    }
+
+    /* ── ERROR ── */
+    #error {
+      display: none;
+      max-width: 600px;
+      margin: 80px auto;
+      padding: 40px;
+      text-align: center;
+    }
+    #error h2 {
+      font-family: var(--serif);
+      font-size: 28px;
+      color: var(--red);
+      margin-bottom: 12px;
+    }
+    #error p { color: var(--text2); font-size: 16px; }
+    #error a {
+      display: inline-block;
+      margin-top: 24px;
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--accent);
+      text-decoration: none;
+      border: 1px solid var(--accent);
+      padding: 10px 24px;
+      border-radius: 4px;
+      transition: all 0.2s;
+    }
+    #error a:hover { background: var(--accent); color: var(--bg); }
+
+    /* ── ARTICLE LAYOUT ── */
+    #article-container {
+      display: none;
+      animation: fadeUp 0.6s ease both;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Hero */
+    .article-hero {
+      position: relative;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      padding: 72px 24px 56px;
+      overflow: hidden;
+    }
+
+    .article-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 20% 50%, rgba(0,212,170,0.05) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 80% at 80% 20%, rgba(0,153,255,0.04) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      max-width: 800px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .article-category {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 24px;
+    }
+    .article-category::before {
+      content: '';
+      display: block;
+      width: 20px;
+      height: 1px;
+      background: var(--accent);
+    }
+
+    .article-title {
+      font-family: var(--serif);
+      font-size: clamp(32px, 5vw, 52px);
+      font-weight: 900;
+      line-height: 1.15;
+      color: var(--text);
+      margin-bottom: 20px;
+      letter-spacing: -0.01em;
+    }
+
+    .article-subtitle {
+      font-family: var(--body);
+      font-size: 19px;
+      font-weight: 300;
+      font-style: italic;
+      color: var(--text2);
+      line-height: 1.6;
+      margin-bottom: 32px;
+      max-width: 680px;
+    }
+
+    .article-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text3);
+      letter-spacing: 0.04em;
+    }
+    .meta-item svg { opacity: 0.6; }
+
+    .meta-divider {
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: var(--border2);
+    }
+
+    .tag-pill {
+      font-family: var(--mono);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--border2);
+      color: var(--text3);
+      transition: all 0.2s;
+    }
+    .tag-pill:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* Progress bar */
+    .reading-progress {
+      position: fixed;
+      top: 56px;
+      left: 0;
+      height: 2px;
+      background: var(--accent);
+      z-index: 99;
+      transition: width 0.1s linear;
+      width: 0%;
+    }
+
+    /* ── ARTICLE BODY ── */
+    .article-layout {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 64px 24px;
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 64px;
+      align-items: start;
+    }
+
+    @media (max-width: 860px) {
+      .article-layout {
+        grid-template-columns: 1fr;
+        gap: 48px;
+        padding: 40px 20px;
+      }
+      .sidebar { order: -1; }
+    }
+
+    /* Article content */
+    .article-content {
+      font-size: 18px;
+      line-height: 1.85;
+      color: var(--text);
+    }
+
+    .article-content p {
+      margin-bottom: 28px;
+      font-weight: 300;
+    }
+
+    .article-content p:first-child::first-letter {
+      font-family: var(--serif);
+      font-size: 72px;
+      font-weight: 900;
+      float: left;
+      line-height: 0.85;
+      margin: 8px 12px 0 0;
+      color: var(--accent);
+    }
+
+    .article-content h2 {
+      font-family: var(--serif);
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text);
+      margin: 52px 0 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+      line-height: 1.3;
+    }
+
+    .article-content h3 {
+      font-family: var(--serif);
+      font-size: 21px;
+      font-weight: 700;
+      color: var(--text);
+      margin: 36px 0 14px;
+    }
+
+    .article-content ul, .article-content ol {
+      margin: 0 0 28px 0;
+      padding-left: 0;
+      list-style: none;
+    }
+
+    .article-content ul li, .article-content ol li {
+      position: relative;
+      padding-left: 24px;
+      margin-bottom: 10px;
+      font-weight: 300;
+    }
+
+    .article-content ul li::before {
+      content: '—';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-family: var(--mono);
+    }
+
+    .article-content ol {
+      counter-reset: item;
+    }
+    .article-content ol li::before {
+      content: counter(item, decimal-leading-zero);
+      counter-increment: item;
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 500;
+      top: 4px;
+    }
+
+    .article-content blockquote {
+      margin: 40px 0;
+      padding: 24px 28px;
+      border-left: 3px solid var(--accent);
+      background: var(--bg2);
+      border-radius: 0 8px 8px 0;
+    }
+    .article-content blockquote p {
+      font-style: italic;
+      font-size: 19px;
+      color: var(--text2);
+      margin: 0;
+    }
+    .article-content blockquote p::first-letter { all: unset; }
+
+    .article-content strong { color: var(--text); font-weight: 600; }
+    .article-content em { font-style: italic; color: var(--text2); }
+
+    /* Data highlight box */
+    .data-box {
+      background: var(--bg3);
+      border: 1px solid var(--border2);
+      border-radius: 8px;
+      padding: 24px;
+      margin: 32px 0;
+      font-family: var(--mono);
+    }
+    .data-box-label {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+    .data-box-value {
+      font-size: 32px;
+      font-weight: 500;
+      color: var(--text);
+    }
+    .data-box-sub {
+      font-size: 12px;
+      color: var(--text3);
+      margin-top: 6px;
+    }
+
+    /* Source link */
+    .article-source {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--accent2);
+      text-decoration: none;
+      margin-top: 8px;
+      transition: opacity 0.2s;
+    }
+    .article-source:hover { opacity: 0.7; }
+
+    /* ── SIDEBAR ── */
+    .sidebar {
+      position: sticky;
+      top: 80px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .sidebar-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+    }
+
+    .sidebar-title {
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+
+    /* Table of contents */
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .toc-list a {
+      font-family: var(--body);
+      font-size: 14px;
+      color: var(--text2);
+      text-decoration: none;
+      line-height: 1.4;
+      transition: color 0.2s;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .toc-list a::before {
+      content: '';
+      display: block;
+      width: 6px;
+      height: 1px;
+      background: var(--border2);
+      margin-top: 11px;
+      flex-shrink: 0;
+      transition: background 0.2s, width 0.2s;
+    }
+    .toc-list a:hover { color: var(--text); }
+    .toc-list a:hover::before { background: var(--accent); width: 12px; }
+
+    /* Cotizaciones rápidas */
+    .quick-rates {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .rate-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: var(--mono);
+      font-size: 13px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .rate-row:last-child { border: none; padding: 0; }
+    .rate-name { color: var(--text2); font-size: 12px; }
+    .rate-value { color: var(--text); font-weight: 500; }
+    .rate-change { font-size: 11px; }
+    .rate-up { color: var(--accent); }
+    .rate-down { color: var(--red); }
+
+    /* CTA sidebar */
+    .sidebar-cta {
+      background: linear-gradient(135deg, rgba(0,212,170,0.08), rgba(0,153,255,0.06));
+      border: 1px solid rgba(0,212,170,0.2);
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+    }
+    .sidebar-cta p {
+      font-size: 13px;
+      color: var(--text2);
+      line-height: 1.5;
+      margin-bottom: 14px;
+    }
+    .cta-btn {
+      display: block;
+      background: var(--accent);
+      color: var(--bg);
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-decoration: none;
+      padding: 10px 16px;
+      border-radius: 4px;
+      transition: opacity 0.2s;
+    }
+    .cta-btn:hover { opacity: 0.85; }
+
+    /* ── FOOTER ARTICLE ── */
+    .article-footer {
+      max-width: 800px;
+      margin: 0 auto 80px;
+      padding: 0 24px;
+    }
+
+    .article-footer-divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin-bottom: 40px;
+    }
+
+    .footer-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 40px;
+    }
+
+    .related-title {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 20px;
+    }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--text2);
+      text-decoration: none;
+      border: 1px solid var(--border2);
+      padding: 12px 20px;
+      border-radius: 4px;
+      transition: all 0.2s;
+    }
+    .back-link:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── SITE FOOTER ── */
+    .site-footer {
+      background: var(--bg2);
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      text-align: center;
+    }
+    .site-footer p {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text3);
+      line-height: 1.8;
+    }
+    .site-footer a { color: var(--text2); text-decoration: none; }
+    .site-footer a:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+
+  <!-- Reading progress -->
+  <div class="reading-progress" id="reading-progress"></div>
+
+  <!-- Header -->
+  <header class="site-header">
+    <a href="/" class="logo">Cotiza<span>Ya</span></a>
+    <nav class="header-nav">
+      <a href="/">Inicio</a>
+      <a href="/noticia.html">Noticias</a>
+      <a href="/index.html#cotizaciones">Cotizaciones</a>
+    </nav>
+  </header>
+
+  <!-- Loading -->
+  <div id="loading">
+    <div class="spinner"></div>
+    <p>Cargando artículo...</p>
+  </div>
+
+  <!-- Error -->
+  <div id="error">
+    <h2>Artículo no encontrado</h2>
+    <p>No pudimos cargar el artículo solicitado. Puede que haya sido movido o eliminado.</p>
+    <a href="/">← Volver al inicio</a>
+  </div>
+
+  <!-- Article -->
+  <div id="article-container">
+
+    <!-- Hero -->
+    <div class="article-hero">
+      <div class="hero-inner">
+        <div class="article-category" id="art-category">Economía</div>
+        <h1 class="article-title" id="art-title">Cargando...</h1>
+        <p class="article-subtitle" id="art-summary"></p>
+        <div class="article-meta">
+          <span class="meta-item">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            <span id="art-date">—</span>
+          </span>
+          <div class="meta-divider"></div>
+          <span class="meta-item">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span id="art-read-time">— min de lectura</span>
+          </span>
+          <div class="meta-divider"></div>
+          <span class="meta-item" id="art-source-meta"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Layout: content + sidebar -->
+    <div class="article-layout">
+
+      <!-- Content -->
+      <main>
+        <article class="article-content" id="art-body">
+          <!-- contenido dinámico -->
+        </article>
+
+        <!-- Source link -->
+        <div id="art-source-container" style="margin-top: 16px; margin-bottom: 40px;"></div>
+      </main>
+
+      <!-- Sidebar -->
+      <aside class="sidebar">
+
+        <!-- TOC -->
+        <div class="sidebar-card" id="toc-card">
+          <div class="sidebar-title">En este artículo</div>
+          <ul class="toc-list" id="toc-list"></ul>
+        </div>
+
+        <!-- Cotizaciones rápidas -->
+        <div class="sidebar-card">
+          <div class="sidebar-title">Cotizaciones ahora</div>
+          <div class="quick-rates" id="quick-rates">
+            <div class="rate-row">
+              <span class="rate-name">Dólar Blue</span>
+              <span class="rate-value" id="rate-blue">Cargando...</span>
+            </div>
+            <div class="rate-row">
+              <span class="rate-name">Dólar Oficial</span>
+              <span class="rate-value" id="rate-oficial">—</span>
+            </div>
+            <div class="rate-row">
+              <span class="rate-name">Dólar MEP</span>
+              <span class="rate-value" id="rate-mep">—</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="sidebar-cta">
+          <p>Seguí todas las cotizaciones en tiempo real desde CotizaYa</p>
+          <a href="/" class="cta-btn">Ver cotizaciones →</a>
+        </div>
+
+      </aside>
+    </div>
+
+    <!-- Article footer -->
+    <footer class="article-footer">
+      <hr class="article-footer-divider" />
+      <div class="footer-tags" id="art-tags"></div>
+      <a href="/noticia.html" class="back-link">← Ver más artículos</a>
+    </footer>
+
+  </div>
+
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <p>
+      © 2026 <a href="/">CotizaYa</a> · Cotizaciones en tiempo real para Argentina ·
+      <a href="/privacidad.html">Privacidad</a> · <a href="/terminos.html">Términos</a>
+    </p>
+    <p style="margin-top:6px;">Información con fines informativos. No constituye asesoramiento financiero.</p>
+  </footer>
+
+  <script>
+    // ── UTILS ──
+    function getParam(key) {
+      return new URLSearchParams(window.location.search).get(key);
+    }
+
+    function formatDate(str) {
+      if (!str) return '—';
+      try {
+        const d = new Date(str);
+        return d.toLocaleDateString('es-AR', { day: 'numeric', month: 'long', year: 'numeric' });
+      } catch { return str; }
+    }
+
+    function readingTime(text) {
+      const words = (text || '').split(/\s+/).filter(Boolean).length;
+      return Math.max(1, Math.round(words / 200));
+    }
+
+    function setText(id, val) {
+      const el = document.getElementById(id);
+      if (el) el.textContent = val || '';
+    }
+
+    // ── READING PROGRESS ──
+    window.addEventListener('scroll', () => {
+      const doc = document.documentElement;
+      const scrolled = doc.scrollTop;
+      const total = doc.scrollHeight - doc.clientHeight;
+      const pct = total > 0 ? (scrolled / total) * 100 : 0;
+      document.getElementById('reading-progress').style.width = pct + '%';
+    });
+
+    // ── RENDER ARTICLE ──
+    function renderArticle(data) {
+      // Meta
+      const title = data.titulo || data.title || 'Sin título';
+      const summary = data.resumen || data.summary || data.descripcion || '';
+      const body = data.contenido || data.content || data.cuerpo || '';
+      const category = data.categoria || data.category || 'Economía';
+      const date = data.fecha || data.date || data.publishedAt || '';
+      const tags = data.tags || data.etiquetas || [];
+      const sourceUrl = data.url_fuente || data.source_url || data.fuente || '';
+      const sourceName = data.fuente_nombre || data.source_name || 'Fuente original';
+
+      // Page meta
+      document.getElementById('page-title').textContent = title + ' — CotizaYa';
+      document.getElementById('meta-desc').setAttribute('content', summary);
+      document.getElementById('og-title').setAttribute('content', title);
+      document.getElementById('og-desc').setAttribute('content', summary);
+
+      // Hero
+      setText('art-category', category.toUpperCase());
+      setText('art-title', title);
+      setText('art-summary', summary);
+      setText('art-date', formatDate(date));
+      setText('art-read-time', readingTime(body) + ' min de lectura');
+
+      if (sourceUrl) {
+        document.getElementById('art-source-meta').innerHTML =
+          `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+           <a class="article-source" href="${sourceUrl}" target="_blank" rel="noopener">${sourceName}</a>`;
+        document.getElementById('art-source-container').innerHTML =
+          `<a class="article-source" href="${sourceUrl}" target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Ver fuente original — ${sourceName}
+          </a>`;
+      }
+
+      // Body content
+      const bodyEl = document.getElementById('art-body');
+      if (body) {
+        // Si el contenido ya tiene HTML, usarlo; sino convertir saltos de línea a párrafos
+        if (body.trim().startsWith('<')) {
+          bodyEl.innerHTML = body;
+        } else {
+          const paras = body.split(/\n\n+/).filter(Boolean);
+          bodyEl.innerHTML = paras.map(p => {
+            p = p.trim();
+            if (p.startsWith('## ')) return `<h2>${p.slice(3)}</h2>`;
+            if (p.startsWith('### ')) return `<h3>${p.slice(4)}</h3>`;
+            if (p.startsWith('> ')) return `<blockquote><p>${p.slice(2)}</p></blockquote>`;
+            if (p.startsWith('- ') || p.startsWith('* ')) {
+              const items = p.split('\n').map(li => `<li>${li.replace(/^[-*]\s/, '')}</li>`).join('');
+              return `<ul>${items}</ul>`;
+            }
+            return `<p>${p}</p>`;
+          }).join('\n');
+        }
+      } else {
+        bodyEl.innerHTML = '<p>Contenido no disponible.</p>';
+      }
+
+      // TOC — detectar h2 en el cuerpo
+      const headings = bodyEl.querySelectorAll('h2');
+      const tocCard = document.getElementById('toc-card');
+      const tocList = document.getElementById('toc-list');
+      if (headings.length > 0) {
+        headings.forEach((h, i) => {
+          const id = 'section-' + i;
+          h.id = id;
+          const li = document.createElement('li');
+          li.innerHTML = `<a href="#${id}">${h.textContent}</a>`;
+          tocList.appendChild(li);
+        });
+      } else {
+        tocCard.style.display = 'none';
+      }
+
+      // Tags
+      const tagsEl = document.getElementById('art-tags');
+      if (tags.length > 0) {
+        tagsEl.innerHTML = tags.map(t => `<span class="tag-pill">${t}</span>`).join('');
+      }
+
+      // Show article
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('article-container').style.display = 'block';
+    }
+
+    // ── COTIZACIONES SIDEBAR ──
+    async function loadRates() {
+      try {
+        const r = await fetch('https://api.bluelytics.com.ar/v2/latest');
+        const d = await r.json();
+        const fmt = v => v ? '$' + v.toLocaleString('es-AR') : '—';
+        document.getElementById('rate-blue').textContent = fmt(d.blue?.sell);
+        document.getElementById('rate-oficial').textContent = fmt(d.oficial?.sell);
+        document.getElementById('rate-mep').textContent = fmt(d.blue_euro?.sell) || '—';
+      } catch {
+        document.getElementById('rate-blue').textContent = '—';
+      }
+    }
+
+    // ── MAIN ──
+    async function init() {
+      const slug = getParam('slug') || getParam('id');
+
+      if (!slug) {
+        // Sin slug: mostrar error
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').style.display = 'block';
+        return;
+      }
+
+      try {
+        // Intentar cargar desde /articulos/{slug}.json
+        const res = await fetch(`/articulos/${slug}.json`);
+        if (!res.ok) throw new Error('not found');
+        const data = await res.json();
+        renderArticle(data);
+      } catch {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error').style.display = 'block';
+      }
+
+      // Cotizaciones sidebar (no bloqueante)
+      loadRates();
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
