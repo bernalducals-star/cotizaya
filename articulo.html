@@ -842,12 +842,23 @@
     // ── COTIZACIONES SIDEBAR ──
     async function loadRates() {
       try {
-        const r = await fetch('https://api.bluelytics.com.ar/v2/latest');
-        const d = await r.json();
-        const fmt = v => v ? '$' + v.toLocaleString('es-AR') : '—';
-        document.getElementById('rate-blue').textContent = fmt(d.blue?.sell);
-        document.getElementById('rate-oficial').textContent = fmt(d.oficial?.sell);
-        document.getElementById('rate-mep').textContent = fmt(d.blue_euro?.sell) || '—';
+        const r = await fetch('/datos/historial.json');
+        const data = await r.json();
+        const fmt = v => v ? '$' + Number(v).toLocaleString('es-AR') : '—';
+
+        // Tomar el registro más reciente de cada tipo
+        const latest = {};
+        for (const item of data) {
+          const src = (item.source || '').toLowerCase();
+          if (!latest[src] || item.date > latest[src].date) {
+            latest[src] = item;
+          }
+        }
+
+        document.getElementById('rate-blue').textContent = fmt(latest['blue']?.value_sell);
+        document.getElementById('rate-oficial').textContent = fmt(latest['oficial']?.value_sell);
+        // MEP no está en historial, mostramos Oficial compra como referencia
+        document.getElementById('rate-mep').textContent = fmt(latest['oficial']?.value_buy) || '—';
       } catch {
         document.getElementById('rate-blue').textContent = '—';
       }
