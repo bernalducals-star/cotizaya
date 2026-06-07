@@ -5,15 +5,17 @@ import path from "path";
 
 const parser = new RSSParser();
 
+// Solo fuentes en español — removemos CoinDesk, CoinTelegraph y Decrypt
 const FEEDS = [
   { url: "https://www.ambito.com/rss/economia.xml", source: "Ámbito", category: "economia" },
   { url: "https://www.ambito.com/rss/dolar.xml", source: "Ámbito Dólar", category: "economia" },
+  { url: "https://www.ambito.com/rss/finanzas.xml", source: "Ámbito Finanzas", category: "economia" },
   { url: "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml", source: "Infobae", category: "economia" },
   { url: "https://www.cronista.com/rss/economia/", source: "El Cronista", category: "economia" },
   { url: "https://www.iprofesional.com/rss/economia", source: "iProfesional", category: "economia" },
-  { url: "https://feeds.coindesk.com/coindesk/rss", source: "CoinDesk", category: "cripto" },
-  { url: "https://cointelegraph.com/rss", source: "CoinTelegraph", category: "cripto" },
-  { url: "https://decrypt.co/feed", source: "Decrypt", category: "cripto" },
+  { url: "https://www.iprofesional.com/rss/finanzas", source: "iProfesional Finanzas", category: "economia" },
+  { url: "https://criptotendencia.com/feed/", source: "CriptoTendencia", category: "cripto" },
+  { url: "https://www.criptonoticias.com/feed/", source: "CriptoNoticias", category: "cripto" },
 ];
 
 const MAX_ITEMS = 50;
@@ -64,11 +66,23 @@ function inferTags(title, category) {
 
   return [...new Set([...base, ...found])].slice(0, 4);
 }
+
+// Detectar si el texto está en inglés
+function isEnglish(text) {
+  if (!text) return false;
+  const englishWords = ["the", "and", "for", "with", "that", "this", "from", "are", "has", "was", "will", "have", "been", "its", "not", "but", "they", "new", "says", "still", "below", "risks", "could", "would", "market", "bitcoin", "crypto"];
+  const words = text.toLowerCase().split(/\s+/);
+  const englishCount = words.filter(w => englishWords.includes(w)).length;
+  return englishCount >= 3; // Si tiene 3+ palabras inglesas comunes, es inglés
+}
+
 function isRelevant(title, category) {
+  // Filtrar noticias en inglés
+  if (isEnglish(title)) return false;
+  
   if (category === "cripto") return true;
   const t = title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   
-  // Excluir explícitamente noticias irrelevantes
   const exclude = [
     "spacex", "colombia", "venezuela", "chile", "mexico", "brasil",
     "uribe", "petro", "maduro", "trump", "biden", "eeuu", "china",
@@ -88,6 +102,7 @@ function isRelevant(title, category) {
   ];
   return keywords.some(k => t.includes(k));
 }
+
 async function fetchFeed(feed) {
   try {
     const response = await fetch(feed.url, {
