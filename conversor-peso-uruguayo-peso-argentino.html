@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conversor Peso Uruguayo a Peso Argentino — CotizaYa</title>
+  <meta name="description" content="Convertí pesos uruguayos a pesos argentinos al instante. Cotización actualizada. Conversor gratis sin registración." />
+  <link rel="canonical" href="https://cotizaya.ar/conversor-peso-uruguayo-peso-argentino" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Conversor Peso Uruguayo Peso Argentino","url":"https://cotizaya.ar/conversor-peso-uruguayo-peso-argentino","applicationCategory":"FinanceApplication"}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&family=Bebas+Neue&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f0f4f8;
+      --bg2: #ffffff;
+      --bg3: #e8eef5;
+      --bg4: #dce6f0;
+      --border: #c5d4e3;
+      --text: #0f2137;
+      --text2: #4a6080;
+      --text3: #8aa0b8;
+      --uy: #0038a8;
+      --uy2: #fcd116;
+      --ar: #74acdf;
+      --display: 'Bebas Neue', sans-serif;
+      --body: 'Space Grotesk', sans-serif;
+      --mono: 'Space Mono', monospace;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: var(--body); min-height: 100vh; }
+
+    .site-header {
+      background: var(--uy);
+      padding: 0 24px;
+      height: 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo { font-family: var(--mono); font-size: 14px; font-weight: 700; color: #fff; text-decoration: none; letter-spacing: 0.05em; }
+    .logo span { color: var(--uy2); }
+    .header-nav { display: flex; gap: 20px; }
+    .header-nav a { font-family: var(--mono); font-size: 11px; color: rgba(255,255,255,0.6); text-decoration: none; letter-spacing: 0.08em; text-transform: uppercase; transition: color 0.2s; }
+    .header-nav a:hover { color: #fff; }
+
+    .hero {
+      background: var(--uy);
+      padding: 56px 24px 48px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: '🇺🇾';
+      position: absolute;
+      right: -20px;
+      bottom: -20px;
+      font-size: 160px;
+      opacity: 0.08;
+      pointer-events: none;
+    }
+    .hero-tag {
+      display: inline-block;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--uy2);
+      border: 1px solid rgba(252,209,22,0.3);
+      padding: 4px 14px;
+      border-radius: 2px;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-family: var(--display);
+      font-size: clamp(40px, 7vw, 72px);
+      letter-spacing: 0.02em;
+      color: #fff;
+      line-height: 1;
+      margin-bottom: 10px;
+    }
+    .hero h1 span { color: var(--uy2); }
+    .hero p { font-size: 15px; color: rgba(255,255,255,0.65); }
+
+    .conversor-wrap { max-width: 540px; margin: -28px auto 0; padding: 0 24px; position: relative; z-index: 2; }
+
+    .conversor-card {
+      background: var(--bg2);
+      border-radius: 4px;
+      box-shadow: 0 20px 60px rgba(0,56,168,0.15);
+      overflow: hidden;
+    }
+
+    .rate-bar {
+      background: var(--uy2);
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .rate-bar-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--uy); font-weight: 700; }
+    .rate-bar-val { font-family: var(--display); font-size: 20px; letter-spacing: 0.05em; color: var(--uy); }
+
+    .input-area { padding: 24px 20px; }
+
+    .field-label {
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .input-wrap { position: relative; margin-bottom: 8px; }
+    .input-field {
+      width: 100%;
+      background: var(--bg3);
+      border: 2px solid var(--border);
+      border-radius: 2px;
+      padding: 14px 56px 14px 16px;
+      font-family: var(--display);
+      font-size: 32px;
+      letter-spacing: 0.02em;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s;
+      -moz-appearance: textfield;
+    }
+    .input-field::-webkit-outer-spin-button, .input-field::-webkit-inner-spin-button { -webkit-appearance: none; }
+    .input-field::placeholder { color: var(--text3); }
+    .input-field:focus { border-color: var(--uy); }
+    .input-curr { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-family: var(--mono); font-size: 12px; color: var(--text3); pointer-events: none; }
+
+    .swap-row { display: flex; align-items: center; gap: 10px; margin: 8px 0; }
+    .swap-line { flex: 1; height: 1px; background: var(--border); }
+    .swap-btn {
+      width: 32px; height: 32px; border-radius: 2px;
+      border: 2px solid var(--border); background: var(--bg2);
+      color: var(--text2); cursor: pointer; display: flex; align-items: center; justify-content: center;
+      transition: all 0.2s; font-size: 14px;
+    }
+    .swap-btn:hover { border-color: var(--uy); color: var(--uy); }
+
+    .result-box {
+      background: var(--bg3);
+      border: 2px solid var(--border);
+      border-radius: 2px;
+      padding: 14px 16px;
+    }
+    .result-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 4px; }
+    .result-value { font-family: var(--display); font-size: 36px; letter-spacing: 0.02em; color: var(--uy); }
+    .result-value.zero { color: var(--text3); }
+
+    .quick-amounts { padding: 0 20px 20px; border-top: 1px solid var(--border); }
+    .quick-title { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); padding: 14px 0 8px; }
+    .quick-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .quick-chip {
+      font-family: var(--mono); font-size: 12px; padding: 8px 4px;
+      border: 1px solid var(--border); background: var(--bg3); color: var(--text2);
+      cursor: pointer; text-align: center; transition: all 0.15s; border-radius: 2px;
+    }
+    .quick-chip:hover { border-color: var(--uy); color: var(--uy); background: rgba(0,56,168,0.05); }
+
+    .info-wrap { max-width: 540px; margin: 16px auto 0; padding: 0 24px; }
+    .info-card {
+      background: var(--bg2);
+      border-left: 3px solid var(--uy);
+      padding: 16px;
+      font-size: 13px;
+      color: var(--text2);
+      line-height: 1.6;
+    }
+    .info-card strong { color: var(--text); }
+
+    .seo-section { max-width: 600px; margin: 48px auto 0; padding: 0 24px 72px; }
+    .seo-section h2 { font-family: var(--display); font-size: 28px; letter-spacing: 0.03em; color: var(--text); margin: 36px 0 12px; }
+    .seo-section h2:first-child { margin-top: 0; }
+    .seo-section p { font-size: 15px; line-height: 1.75; color: var(--text2); margin-bottom: 14px; }
+    .faq-item { border-top: 1px solid var(--border); padding: 16px 0; }
+    .faq-q { font-weight: 500; color: var(--text); margin-bottom: 6px; font-size: 15px; }
+    .faq-a { font-size: 14px; color: var(--text2); line-height: 1.7; }
+
+    .site-footer { background: var(--uy); padding: 24px; text-align: center; }
+    .site-footer p { font-family: var(--mono); font-size: 11px; color: rgba(255,255,255,0.5); line-height: 1.8; }
+    .site-footer a { color: var(--uy2); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="logo">Cotiza<span>Ya</span></a>
+    <nav class="header-nav">
+      <a href="/">Inicio</a>
+      <a href="/conversor-dolar-peso">$ Dólar</a>
+      <a href="/conversor-euro-peso">€ Euro</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-tag">Actualizado diariamente</div>
+    <h1>PESO <span>URUGUAYO</span><br>A PESO ARG</h1>
+    <p>Escribí el monto y el resultado aparece al instante</p>
+  </section>
+
+  <div class="conversor-wrap">
+    <div class="conversor-card">
+      <div class="rate-bar">
+        <span class="rate-bar-label">1 UYU =</span>
+        <span class="rate-bar-val" id="rate-display">Cargando...</span>
+      </div>
+      <div class="input-area">
+        <div class="field-label"><span>🇺🇾</span><span id="label-from">Pesos Uruguayos (UYU)</span></div>
+        <div class="input-wrap">
+          <input class="input-field" id="input-from" type="text" inputmode="numeric" placeholder="0" autocomplete="off" />
+          <span class="input-curr" id="currency-from">UYU</span>
+        </div>
+        <div class="swap-row">
+          <div class="swap-line"></div>
+          <button class="swap-btn" id="swap-btn">⇅</button>
+          <div class="swap-line"></div>
+        </div>
+        <div class="field-label"><span>🇦🇷</span><span id="label-to">Pesos Argentinos (ARS)</span></div>
+        <div class="result-box">
+          <div class="result-label">Resultado</div>
+          <div class="result-value zero" id="result-value">0</div>
+        </div>
+      </div>
+      <div class="quick-amounts">
+        <div class="quick-title">Montos rápidos</div>
+        <div class="quick-grid" id="quick-grid">
+          <button class="quick-chip" data-amount="100">100</button>
+          <button class="quick-chip" data-amount="500">500</button>
+          <button class="quick-chip" data-amount="1000">1.000</button>
+          <button class="quick-chip" data-amount="5000">5.000</button>
+          <button class="quick-chip" data-amount="10000">10.000</button>
+          <button class="quick-chip" data-amount="50000">50.000</button>
+          <button class="quick-chip" data-amount="100000">100.000</button>
+          <button class="quick-chip" data-amount="500000">500.000</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="info-wrap">
+    <div class="info-card">
+      La cotización se calcula usando el tipo de cambio <strong>UYU/USD</strong> del mercado internacional cruzado con el dólar oficial argentino. El peso uruguayo cotiza alrededor de <strong>40–42 UYU por dólar</strong>, lo que lo hace una moneda relativamente estable en la región.
+    </div>
+  </div>
+
+  <section class="seo-section">
+    <h2>¿Cuánto vale el peso uruguayo en Argentina?</h2>
+    <p>El peso uruguayo (UYU) es la moneda oficial de Uruguay y tiene una relación directa con el dólar estadounidense. Para calcular su equivalente en pesos argentinos, se toma el tipo de cambio UYU/USD del mercado internacional y se multiplica por la cotización del dólar oficial en Argentina.</p>
+    <h2>Preguntas frecuentes</h2>
+    <div>
+      <div class="faq-item">
+        <div class="faq-q">¿Puedo cambiar pesos uruguayos en Argentina?</div>
+        <div class="faq-a">Sí, algunas casas de cambio en ciudades fronterizas como Gualeguaychú o Concordia aceptan pesos uruguayos. En Buenos Aires es más difícil — lo más conveniente es cambiarlos a dólares primero.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Conviene cruzar a Uruguay a comprar?</div>
+        <div class="faq-a">Depende del momento. Cuando la brecha cambiaria argentina es alta, muchos argentinos cruzan a comprar electrónica, ropa y otros productos en Uruguay pagando con dólares o tarjeta.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Con qué frecuencia se actualiza la cotización?</div>
+        <div class="faq-a">La cotización se actualiza diariamente usando datos del dólar oficial argentino y la paridad UYU/USD del mercado internacional.</div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>© 2026 <a href="/">CotizaYa</a> · <a href="/privacidad.html">Privacidad</a> · <a href="/terminos.html">Términos</a></p>
+    <p>Información con fines informativos. No constituye asesoramiento financiero.</p>
+  </footer>
+
+  <script>
+    // UYU/USD aproximado
+    const UYU_USD = 41.5;
+    let arsOficial = 0;
+    let direction = 'from-uyu';
+
+    function fmt(n) { return '$' + Number(n).toLocaleString('es-AR', {minimumFractionDigits:0, maximumFractionDigits:2}); }
+    function fmtNum(n) { return Number(n).toLocaleString('es-AR'); }
+    function formatInput(v) {
+      let c = v.replace(/\./g,'').replace(/[^0-9,]/g,'');
+      const p = c.split(','); let i = p[0]||''; const d = p[1]!==undefined?','+p[1].slice(0,2):'';
+      return i.replace(/\B(?=(\d{3})+(?!\d))/g,'.')+d;
+    }
+    function parseInput(v) { return parseFloat(v.replace(/\./g,'').replace(',','.'))||0; }
+
+    function getRate() { return arsOficial / UYU_USD; } // ARS por 1 UYU
+
+    async function loadRates() {
+      try {
+        const r = await fetch('/datos/historial.json');
+        const data = await r.json();
+        const latest = {};
+        for (const item of data) {
+          const src = (item.source||'').toLowerCase();
+          if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+        }
+        arsOficial = latest['oficial']?.value_sell || 1462;
+      } catch { arsOficial = 1462; }
+      const rate = getRate();
+      document.getElementById('rate-display').textContent = fmt(rate.toFixed(2));
+      convert();
+    }
+
+    function convert() {
+      const raw = parseInput(document.getElementById('input-from').value);
+      const rate = getRate() || 1;
+      let result = direction === 'from-uyu' ? raw * rate : raw / rate;
+      const el = document.getElementById('result-value');
+      if (raw === 0) { el.textContent = '0'; el.classList.add('zero'); }
+      else {
+        el.textContent = direction === 'from-uyu' ? fmt(Math.round(result)) : 'UYU ' + result.toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2});
+        el.classList.remove('zero');
+      }
+    }
+
+    function updateLabels() {
+      const f = direction === 'from-uyu';
+      document.getElementById('label-from').textContent = f ? 'Pesos Uruguayos (UYU)' : 'Pesos Argentinos (ARS)';
+      document.getElementById('label-to').textContent = f ? 'Pesos Argentinos (ARS)' : 'Pesos Uruguayos (UYU)';
+      document.getElementById('currency-from').textContent = f ? 'UYU' : 'ARS';
+      const amounts = f ? [100,500,1000,5000,10000,50000,100000,500000] : [10000,50000,100000,500000,1000000,5000000,10000000,50000000];
+      document.querySelectorAll('.quick-chip').forEach((b,i) => { b.dataset.amount=amounts[i]; b.textContent=fmtNum(amounts[i]); });
+    }
+
+    document.getElementById('input-from').addEventListener('input', function() {
+      const p=this.selectionStart, ol=this.value.length;
+      this.value=formatInput(this.value);
+      const nl=this.value.length; this.setSelectionRange(p+(nl-ol),p+(nl-ol)); convert();
+    });
+    document.getElementById('swap-btn').addEventListener('click', function() {
+      direction = direction==='from-uyu'?'from-ars':'from-uyu';
+      document.getElementById('input-from').value='';
+      document.getElementById('result-value').textContent='0';
+      document.getElementById('result-value').classList.add('zero');
+      updateLabels(); convert();
+    });
+    document.getElementById('quick-grid').addEventListener('click', function(e) {
+      const c=e.target.closest('.quick-chip'); if(!c) return;
+      document.getElementById('input-from').value=formatInput(String(c.dataset.amount)); convert();
+    });
+
+    updateLabels(); loadRates();
+  </script>
+</body>
+</html>
