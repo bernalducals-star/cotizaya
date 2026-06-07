@@ -1,5 +1,126 @@
 [
   {
+    "title": "Plazo fijo versus billeteras virtuales: ¿qué formato de ahorro genera mayor interés?",
+    "slug": "plazo-fijo-versus-billeteras-virtuales-que-formato-de-ahorro",
+    "category": "economia",
+    "date": "2026-06-07",
+    "summary": "Conocé cómo se organizan los porcentajes de TNA, según cada entidad bancaria para elegir la opción con mejor rendimiento.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-versus-billeteras-virtuales-que-formato-ahorro-genera-mayor-interes-n6285595",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Diego Coatz: \"Argentina ya construyó un consenso sobre la estabilidad, ahora necesita un consenso productivo\"",
+    "slug": "diego-coatz-argentina-ya-construyo-un-consenso-sobre-la-esta",
+    "category": "economia",
+    "date": "2026-06-07",
+    "summary": "El exdirector ejecutivo de la UIA advirtió por el avance de la informalidad y el riesgo de una \"latinoamericanización\" de la economía argentina.",
+    "link": "https://www.ambito.com/economia/diego-coatz-argentina-ya-construyo-un-consenso-la-estabilidad-ahora-necesita-un-consenso-productivo-n6285903",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Diego Ferro, de M2M Capital: “Si Luis Caputo estuviese del otro lado, me pregunto si se creería a sí mismo”",
+    "slug": "diego-ferro-de-m2m-capital-si-luis-caputo-estuviese-del-otro",
+    "category": "economia",
+    "date": "2026-06-07",
+    "summary": "El economista celebra los avances macroeconómicos pero advierte por la necesidad de mayor cintura política de cara a las elecciones.",
+    "link": "https://www.ambito.com/economia/diego-ferro-si-luis-caputo-estuviese-del-otro-lado-me-pregunto-si-se-creeria-si-mismo-n6285873",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Sin gastar un solo dólar: 7 atracciones gratis para visitar en Kansas City",
+    "slug": "sin-gastar-un-solo-dolar-7-atracciones-gratis-para-visitar-e",
+    "category": "economia",
+    "date": "2026-06-07",
+    "summary": "Entre paseos, arte y espacios históricos, existen propuestas ideales para descubrir un destino sin tener que abrir la billetera.",
+    "link": "https://www.ambito.com/economia/sin-gastar-un-solo-dolar-7-atracciones-gratis-visitar-kansas-city-n6285175",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
+    "slug": "bitcoin-risks-new-purge-with-bear-market-losses-still-35b-be",
+    "category": "cripto",
+    "date": "2026-06-07",
+    "summary": "Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
+    "link": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "CoinTelegraph",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+    "slug": "frontier-ai-models-can-find-cryptos-biggest-bugs-experts-war",
+    "category": "cripto",
+    "date": "2026-06-07",
+    "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4. 8 signals a shift in who may discover critical flaws first.",
+    "link": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
+    "slug": "wall-street-is-coming-for-hyperliquids-perps-crown-arthur-ha",
+    "category": "cripto",
+    "date": "2026-06-07",
+    "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
+    "link": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
+    "slug": "claude-opus-48-review-better-at-whats-it-good-at-worse-at-wh",
+    "category": "cripto",
+    "date": "2026-06-07",
+    "summary": "Anthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt.  We ran it through six tests, and here's how it did.",
+    "link": "https://decrypt.co/370128/claude-opus-4-8-review",
+    "source": "Decrypt",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Cuánto sale armar un \"rincón de café\" para este invierno: precios y alternativas en junio 2026",
     "slug": "cuanto-sale-armar-un-rincon-de-cafe-para-este-invierno-preci",
     "category": "economia",
@@ -25,84 +146,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Miguel Kiguel advirtió sobre un factor clave en el programa económico de Javier Milei",
-    "slug": "miguel-kiguel-advirtio-sobre-un-factor-clave-en-el-programa-",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Kiguel llamó a considerar políticas para el corto plazo y así recuperar el consumo.  Así, hizo hincapié en que las dificultades del crédito mantienen deprimida a la economía doméstica y retrasan la recuperación de la actividad.",
-    "link": "https://www.ambito.com/economia/miguel-kiguel-advirtio-un-factor-clave-el-programa-economico-javier-milei-n6285891",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en junio 2026: cuánto gano si deposito $450.000 a 30 días",
-    "slug": "plazo-fijo-en-junio-2026-cuanto-gano-si-deposito-450000-a-30",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Las tasas siguen bajas y cada vez se necesita más capital para alcanzar ganancias mensuales significativas.  Conocé cuánto genera menos de medio millón de pesos.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-junio-2026-cuanto-gano-si-deposito-450000-30-dias-n6285176",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La contracara de la caída del crédito a las familias: crece el financiamiento al sector público, y a grandes empresas",
-    "slug": "la-contracara-de-la-caida-del-credito-a-las-familias-crece-e",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "La contracción del crédito privado en pesos convive con un fuerte avance del financiamiento al Estado y con un boom de los préstamos en dólares concentrado en grandes compañías.",
-    "link": "https://www.ambito.com/economia/la-contracara-la-caida-del-credito-las-familias-crece-el-financiamiento-al-sector-publico-y-grandes-empresas-n6285559",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Estiman que el Gobierno redujo la deuda flotante en mayo tras acelerar pagos a proveedores del Estado",
-    "slug": "estiman-que-el-gobierno-redujo-la-deuda-flotante-en-mayo-tra",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Se trata del gasto abonado durante el mes que creció 1,9%.  En cambio, el devengado cayó un 4,1%, lo que sería una señal de actualización de pagos atrasados.",
-    "link": "https://www.ambito.com/economia/estiman-que-el-gobierno-redujo-la-deuda-flotante-mayo-acelerar-pagos-proveedores-del-estado-n6285723",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los métodos más efectivos para ahorrar en dólares: 5 formas que pueden cambiar tu economía",
-    "slug": "los-metodos-mas-efectivos-para-ahorrar-en-dolares-5-formas-q",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Por más que parezca imposible, existen algunas maneras de generar ahorros mensuales, eso sí, requieren de buena conducta.",
-    "link": "https://www.ambito.com/economia/los-metodos-mas-efectivos-ahorrar-dolares-5-formas-que-pueden-cambiar-tu-n6284915",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -145,21 +188,6 @@
     "date": "2026-06-06",
     "summary": "IEB propone una estrategia donde las energéticas y entidades financieras ganan terreno tras la fuerte suba del mercado local en junio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/456057-sociedad-de-bolsa-revela-su-estrategia-para-invertir-1-millon-de-pesos-en-11-acciones-argentinas",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Black Hawk para Argentina: se avanzará con la compra de los emblemáticos helicópteros de EE.UU.",
-    "slug": "black-hawk-para-argentina-se-avanzara-con-la-compra-de-los-e",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "La negociación con el país norteamericano volvió a retomarse con fuerza y se busca recuperar capacidad aérea perdida.  Cuánto cuestan los helicópteros (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/negocios/456140-black-hawk-para-argentina-avanzaran-con-la-compra-de-emblematicos-helicopteros-de-eeuu",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -364,21 +392,6 @@
     "related": []
   },
   {
-    "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-    "slug": "pumpfun-bounty-platform-pays-users-to-tattoo-tokens-and-chas",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Pump. fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
-    "link": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
     "slug": "zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
     "category": "cripto",
@@ -419,52 +432,6 @@
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?",
-    "slug": "zcash-crash-just-wiped-billions-from-the-privacy-coins-marke",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "The price of Zcash cratered following the disclosure of a serious vulnerability for the privacy coin.  Can ZEC make a comeback anytime soon?",
-    "link": "https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
-    "slug": "congress-gets-7-new-crypto-tax-bills-heres-whats-in-them",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "The crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
-    "link": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
-    "slug": "tom-lees-ethereum-treasury-bitmine-prices-preferred-shares-w",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.",
-    "link": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
     ],
     "featured": false,
     "related": []
