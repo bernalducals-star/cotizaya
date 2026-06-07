@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conversor Bitcoin a Peso Argentino — CotizaYa</title>
+  <meta name="description" content="Convertí Bitcoin a pesos argentinos al instante. Precio BTC en tiempo real. Calculá cuánto valen tus satoshis en ARS." />
+  <link rel="canonical" href="https://cotizaya.ar/conversor-bitcoin-peso-argentino" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Conversor Bitcoin Peso Argentino","url":"https://cotizaya.ar/conversor-bitcoin-peso-argentino","applicationCategory":"FinanceApplication"}</script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --bg:      #050507;
+      --bg2:     #0a0a0f;
+      --bg3:     #0f0f18;
+      --bg4:     #161625;
+      --border:  #1e1e35;
+      --border2: #2a2a45;
+      --text:    #f0f0ff;
+      --text2:   #7070a0;
+      --text3:   #3a3a60;
+      --btc:     #f7931a;
+      --btc2:    #ffb74d;
+      --green:   #00e676;
+      --red:     #ff1744;
+      --purple:  #7c4dff;
+      --display: 'Orbitron', monospace;
+      --body:    'Inter', sans-serif;
+      --mono:    'JetBrains Mono', monospace;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { background: var(--bg); color: var(--text); font-family: var(--body); min-height: 100vh; overflow-x: hidden; }
+
+    /* Animated background grid */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(247,147,26,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(247,147,26,0.03) 1px, transparent 1px);
+      background-size: 48px 48px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(5,5,7,0.95);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px; height: 56px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .logo { font-family: var(--mono); font-size: 14px; font-weight: 700; color: var(--btc); text-decoration: none; letter-spacing: 0.05em; }
+    .logo span { color: var(--text2); }
+    .header-nav { display: flex; gap: 20px; }
+    .header-nav a { font-family: var(--mono); font-size: 11px; color: var(--text3); text-decoration: none; letter-spacing: 0.08em; text-transform: uppercase; transition: color 0.2s; }
+    .header-nav a:hover { color: var(--text); }
+
+    /* ── HERO ── */
+    .hero {
+      position: relative; z-index: 1;
+      padding: 56px 24px 40px;
+      text-align: center;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -100px; left: 50%; transform: translateX(-50%);
+      width: 600px; height: 400px;
+      background: radial-gradient(ellipse, rgba(247,147,26,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .btc-symbol {
+      font-family: var(--display);
+      font-size: 64px;
+      font-weight: 900;
+      color: var(--btc);
+      line-height: 1;
+      margin-bottom: 16px;
+      text-shadow: 0 0 60px rgba(247,147,26,0.4);
+      animation: glow 3s ease-in-out infinite;
+    }
+    @keyframes glow {
+      0%, 100% { text-shadow: 0 0 40px rgba(247,147,26,0.3); }
+      50% { text-shadow: 0 0 80px rgba(247,147,26,0.6), 0 0 120px rgba(247,147,26,0.2); }
+    }
+
+    .hero h1 {
+      font-family: var(--display);
+      font-size: clamp(20px, 4vw, 36px);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .hero h1 em { font-style: normal; color: var(--btc); }
+
+    .live-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--green);
+      background: rgba(0,230,118,0.08);
+      border: 1px solid rgba(0,230,118,0.2);
+      padding: 5px 14px;
+      border-radius: 20px;
+      margin-top: 12px;
+    }
+    .live-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--green);
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(0.7)} }
+
+    /* ── PRICE TICKER ── */
+    .ticker-wrap { max-width: 600px; margin: 32px auto 0; padding: 0 24px; position: relative; z-index: 1; }
+    .ticker-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .ticker-main {}
+    .ticker-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); margin-bottom: 4px; }
+    .ticker-usd {
+      font-family: var(--display);
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--btc);
+      letter-spacing: 0.02em;
+    }
+    .ticker-ars { font-family: var(--mono); font-size: 13px; color: var(--text2); margin-top: 2px; }
+
+    .ticker-right { text-align: right; }
+    .ticker-change {
+      font-family: var(--display);
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    .ticker-change.up { color: var(--green); }
+    .ticker-change.down { color: var(--red); }
+    .ticker-change-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); margin-top: 2px; }
+
+    .ticker-stats {
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+    .stat-item { text-align: center; }
+    .stat-label { font-family: var(--mono); font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); margin-bottom: 4px; }
+    .stat-value { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--text2); }
+
+    /* ── CONVERSOR ── */
+    .conversor-wrap { max-width: 600px; margin: 20px auto 0; padding: 0 24px; position: relative; z-index: 1; }
+    .conversor-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+
+    /* Mode selector */
+    .mode-selector {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      border-bottom: 1px solid var(--border);
+    }
+    .mode-btn {
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 12px 8px;
+      background: none;
+      border: none;
+      border-right: 1px solid var(--border);
+      color: var(--text3);
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+    }
+    .mode-btn:last-child { border-right: none; }
+    .mode-btn.active { background: rgba(247,147,26,0.08); color: var(--btc); }
+    .mode-btn:hover:not(.active) { color: var(--text2); background: var(--bg3); }
+
+    .input-area { padding: 24px 20px; }
+    .field-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+
+    .input-wrap { position: relative; margin-bottom: 8px; }
+    .input-field {
+      width: 100%; background: var(--bg3); border: 1px solid var(--border2); border-radius: 8px;
+      padding: 14px 72px 14px 16px; font-family: var(--display); font-size: 26px; font-weight: 700;
+      color: var(--text); outline: none; transition: border-color 0.2s; -moz-appearance: textfield;
+      letter-spacing: 0.02em;
+    }
+    .input-field::-webkit-outer-spin-button, .input-field::-webkit-inner-spin-button { -webkit-appearance: none; }
+    .input-field::placeholder { color: var(--text3); }
+    .input-field:focus { border-color: var(--btc); box-shadow: 0 0 0 2px rgba(247,147,26,0.1); }
+    .input-curr { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-family: var(--mono); font-size: 12px; font-weight: 500; color: var(--text3); pointer-events: none; }
+
+    .swap-row { display: flex; align-items: center; gap: 10px; margin: 8px 0; }
+    .swap-line { flex: 1; height: 1px; background: var(--border); }
+    .swap-btn { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border2); background: var(--bg4); color: var(--text2); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s; font-size: 15px; }
+    .swap-btn:hover { border-color: var(--btc); color: var(--btc); transform: rotate(180deg); }
+
+    .result-box { background: var(--bg3); border: 1px solid var(--border); border-radius: 8px; padding: 16px; position: relative; overflow: hidden; }
+    .result-box::before { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(247,147,26,0.04) 0%, transparent 60%); pointer-events: none; }
+    .result-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 6px; }
+    .result-value { font-family: var(--display); font-size: 32px; font-weight: 700; color: var(--btc); letter-spacing: 0.02em; transition: all 0.2s; }
+    .result-value.zero { color: var(--text3); }
+    .result-sub { font-family: var(--mono); font-size: 12px; color: var(--text3); margin-top: 4px; }
+
+    /* Quick amounts */
+    .quick-amounts { padding: 0 20px 20px; border-top: 1px solid var(--border); }
+    .quick-title { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); padding: 14px 0 8px; }
+    .quick-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .quick-chip { font-family: var(--mono); font-size: 11px; font-weight: 500; padding: 8px 4px; border: 1px solid var(--border2); background: var(--bg3); color: var(--text2); cursor: pointer; text-align: center; transition: all 0.15s; border-radius: 6px; }
+    .quick-chip:hover { border-color: var(--btc); color: var(--btc); background: rgba(247,147,26,0.06); }
+
+    /* ── SAT CALCULATOR ── */
+    .sat-wrap { max-width: 600px; margin: 16px auto 0; padding: 0 24px; position: relative; z-index: 1; }
+    .sat-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+    .sat-title { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); margin-bottom: 16px; }
+    .sat-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .sat-item { background: var(--bg3); border: 1px solid var(--border); border-radius: 8px; padding: 14px; }
+    .sat-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text3); margin-bottom: 6px; }
+    .sat-val { font-family: var(--display); font-size: 16px; font-weight: 700; color: var(--btc); }
+    .sat-ars { font-family: var(--mono); font-size: 11px; color: var(--text2); margin-top: 3px; }
+
+    /* ── SEO ── */
+    .seo-section { max-width: 640px; margin: 48px auto 0; padding: 0 24px 80px; position: relative; z-index: 1; }
+    .seo-section h2 { font-family: var(--display); font-size: 20px; font-weight: 700; letter-spacing: 0.04em; color: var(--text); margin: 36px 0 12px; }
+    .seo-section h2:first-child { margin-top: 0; }
+    .seo-section p { font-size: 15px; line-height: 1.75; color: var(--text2); margin-bottom: 14px; }
+    .faq-item { border-top: 1px solid var(--border); padding: 16px 0; }
+    .faq-q { font-weight: 500; color: var(--text); margin-bottom: 6px; font-size: 15px; }
+    .faq-a { font-size: 14px; color: var(--text2); line-height: 1.7; }
+
+    /* ── FOOTER ── */
+    .site-footer { background: var(--bg2); border-top: 1px solid var(--border); padding: 24px; text-align: center; position: relative; z-index: 1; }
+    .site-footer p { font-family: var(--mono); font-size: 11px; color: var(--text3); line-height: 1.8; }
+    .site-footer a { color: var(--text2); text-decoration: none; }
+    .site-footer a:hover { color: var(--btc); }
+
+    /* Loading state */
+    .loading-shimmer { animation: shimmer 1.5s infinite; }
+    @keyframes shimmer { 0%,100%{opacity:0.4} 50%{opacity:1} }
+
+    @media (max-width: 480px) {
+      .quick-grid { grid-template-columns: repeat(3, 1fr); }
+      .sat-grid { grid-template-columns: 1fr; }
+      .ticker-stats { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="/" class="logo">Cotiza<span>Ya</span></a>
+    <nav class="header-nav">
+      <a href="/">Inicio</a>
+      <a href="/conversor-dolar-peso">$ Dólar</a>
+      <a href="/conversor-euro-peso">€ Euro</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="btc-symbol">₿</div>
+    <h1>Bitcoin a<br><em>Peso Argentino</em></h1>
+    <div class="live-badge">
+      <div class="live-dot"></div>
+      Precio en tiempo real
+    </div>
+  </section>
+
+  <!-- Price ticker -->
+  <div class="ticker-wrap">
+    <div class="ticker-card">
+      <div class="ticker-main">
+        <div class="ticker-label">Bitcoin (BTC)</div>
+        <div class="ticker-usd loading-shimmer" id="btc-usd">Cargando...</div>
+        <div class="ticker-ars" id="btc-ars-equiv">— ARS</div>
+      </div>
+      <div class="ticker-right">
+        <div class="ticker-change" id="btc-change">—</div>
+        <div class="ticker-change-label">Últimas 24hs</div>
+      </div>
+      <div class="ticker-stats">
+        <div class="stat-item">
+          <div class="stat-label">Máx 24hs</div>
+          <div class="stat-value" id="btc-high">—</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Mín 24hs</div>
+          <div class="stat-value" id="btc-low">—</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Actualizado</div>
+          <div class="stat-value" id="btc-updated">—</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Conversor -->
+  <div class="conversor-wrap">
+    <div class="conversor-card">
+
+      <!-- Mode: BTC / mBTC / SAT -->
+      <div class="mode-selector">
+        <button class="mode-btn active" data-mode="btc" id="mode-btc">BTC</button>
+        <button class="mode-btn" data-mode="mbtc" id="mode-mbtc">mBTC</button>
+        <button class="mode-btn" data-mode="sat" id="mode-sat">Satoshis</button>
+      </div>
+
+      <div class="input-area">
+        <div class="field-label">
+          <span>₿</span>
+          <span id="label-from">Bitcoin (BTC)</span>
+        </div>
+        <div class="input-wrap">
+          <input class="input-field" id="input-from" type="text" inputmode="decimal" placeholder="0" autocomplete="off" />
+          <span class="input-curr" id="currency-from">BTC</span>
+        </div>
+
+        <div class="swap-row">
+          <div class="swap-line"></div>
+          <button class="swap-btn" id="swap-btn">⇅</button>
+          <div class="swap-line"></div>
+        </div>
+
+        <div class="field-label"><span>🇦🇷</span><span id="label-to">Pesos Argentinos (ARS)</span></div>
+        <div class="result-box">
+          <div class="result-label">Resultado</div>
+          <div class="result-value zero" id="result-value">0</div>
+          <div class="result-sub" id="result-sub"></div>
+        </div>
+      </div>
+
+      <!-- Quick amounts -->
+      <div class="quick-amounts">
+        <div class="quick-title">Montos rápidos</div>
+        <div class="quick-grid" id="quick-grid">
+          <button class="quick-chip" data-amount="0.001">0.001</button>
+          <button class="quick-chip" data-amount="0.01">0.01</button>
+          <button class="quick-chip" data-amount="0.1">0.1</button>
+          <button class="quick-chip" data-amount="0.5">0.5</button>
+          <button class="quick-chip" data-amount="1">1</button>
+          <button class="quick-chip" data-amount="2">2</button>
+          <button class="quick-chip" data-amount="5">5</button>
+          <button class="quick-chip" data-amount="10">10</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Sat calculator -->
+  <div class="sat-wrap">
+    <div class="sat-card">
+      <div class="sat-title">¿Cuánto valen tus satoshis?</div>
+      <div class="sat-grid">
+        <div class="sat-item">
+          <div class="sat-label">1.000 SAT (1k sats)</div>
+          <div class="sat-val" id="sat-1k">—</div>
+          <div class="sat-ars" id="sat-1k-ars">—</div>
+        </div>
+        <div class="sat-item">
+          <div class="sat-label">10.000 SAT (10k sats)</div>
+          <div class="sat-val" id="sat-10k">—</div>
+          <div class="sat-ars" id="sat-10k-ars">—</div>
+        </div>
+        <div class="sat-item">
+          <div class="sat-label">100.000 SAT (100k)</div>
+          <div class="sat-val" id="sat-100k">—</div>
+          <div class="sat-ars" id="sat-100k-ars">—</div>
+        </div>
+        <div class="sat-item">
+          <div class="sat-label">1.000.000 SAT (1M)</div>
+          <div class="sat-val" id="sat-1m">—</div>
+          <div class="sat-ars" id="sat-1m-ars">—</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SEO -->
+  <section class="seo-section">
+    <h2>Bitcoin en pesos argentinos — precio hoy</h2>
+    <p>El precio de Bitcoin se obtiene en tiempo real desde la API pública de CoinGecko. Para calcular el equivalente en pesos argentinos, multiplicamos el precio en dólares por el tipo de cambio oficial del dólar en Argentina.</p>
+
+    <h2>¿Qué son los satoshis?</h2>
+    <p>Un satoshi (SAT) es la unidad mínima de Bitcoin. 1 BTC = 100.000.000 satoshis. Se llaman así en honor a Satoshi Nakamoto, el creador anónimo de Bitcoin. Muchas aplicaciones Lightning Network operan en satoshis.</p>
+
+    <h2>Preguntas frecuentes</h2>
+    <div>
+      <div class="faq-item">
+        <div class="faq-q">¿Con qué frecuencia se actualiza el precio de Bitcoin?</div>
+        <div class="faq-a">El precio se actualiza cada vez que abrís o refrescás la página, consultando la API pública de CoinGecko en tiempo real. Bitcoin cotiza las 24 horas del día, los 7 días de la semana.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Puedo comprar Bitcoin en Argentina?</div>
+        <div class="faq-a">Sí. Podés comprar BTC en exchanges locales como Lemon, Ripio, Belo o Buenbit, o en exchanges internacionales como Binance o Coinbase. El precio puede variar levemente entre plataformas.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Por qué difiere el precio de Bitcoin en pesos según el exchange?</div>
+        <div class="faq-a">Cada exchange aplica su propio spread (diferencia entre compra y venta) y usa su propio tipo de cambio USD/ARS. Algunos usan el oficial, otros el MEP o un valor propio.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Qué es mBTC?</div>
+        <div class="faq-a">1 mBTC (milibitcoin) = 0.001 BTC = 100.000 satoshis. Es una unidad útil para montos pequeños que evita trabajar con muchos decimales.</div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>© 2026 <a href="/">CotizaYa</a> · Precio BTC via CoinGecko · <a href="/privacidad.html">Privacidad</a> · <a href="/terminos.html">Términos</a></p>
+    <p>Información con fines informativos. No constituye asesoramiento financiero.</p>
+  </footer>
+
+  <script>
+    // ── STATE ──
+    let btcUsd = 0;
+    let arsOficial = 0;
+    let currentMode = 'btc'; // btc | mbtc | sat
+    let direction = 'from-btc'; // from-btc | from-ars
+
+    // ── FORMAT ──
+    function fmtUsd(n) { return '$' + Number(n).toLocaleString('en-US', {minimumFractionDigits:0,maximumFractionDigits:0}); }
+    function fmtArs(n) { return '$' + Number(n).toLocaleString('es-AR', {minimumFractionDigits:0,maximumFractionDigits:0}); }
+    function fmtArsShort(n) {
+      if (n >= 1e9) return '$' + (n/1e9).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2}) + 'B';
+      if (n >= 1e6) return '$' + (n/1e6).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2}) + 'M';
+      return fmtArs(n);
+    }
+    function fmtNum(n, decimals=8) { return Number(n).toLocaleString('es-AR',{minimumFractionDigits:0,maximumFractionDigits:decimals}); }
+
+    function formatInput(v) {
+      // Para BTC permitir hasta 8 decimales con punto o coma
+      let clean = v.replace(/[^0-9.,]/g,'');
+      // Normalizar separador decimal
+      const hasDot = clean.includes('.');
+      const hasComma = clean.includes(',');
+      if (hasDot && !hasComma) {
+        const parts = clean.split('.');
+        let i = parts[0].replace(/,/g,'');
+        return i + '.' + (parts[1]||'').slice(0,8);
+      }
+      if (hasComma) {
+        const parts = clean.split(',');
+        let i = parts[0].replace(/\./g,'').replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+        return i + ',' + (parts[1]||'').slice(0,8);
+      }
+      return clean.replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+    }
+
+    function parseInput(v) {
+      return parseFloat(v.replace(/\./g,'').replace(',','.')) || 0;
+    }
+
+    // ── BTC in current mode ──
+    function getBtcFromInput(raw) {
+      if (currentMode === 'btc') return raw;
+      if (currentMode === 'mbtc') return raw / 1000;
+      if (currentMode === 'sat') return raw / 1e8;
+      return raw;
+    }
+    function getArsPerUnit() {
+      const arsPerBtc = btcUsd * arsOficial;
+      if (currentMode === 'btc') return arsPerBtc;
+      if (currentMode === 'mbtc') return arsPerBtc / 1000;
+      if (currentMode === 'sat') return arsPerBtc / 1e8;
+      return arsPerBtc;
+    }
+
+    // ── LOAD DATA ──
+    async function loadAll() {
+      await Promise.all([loadBtcPrice(), loadArsRate()]);
+      updateTicker();
+      updateSatCalculator();
+      convert();
+    }
+
+    async function loadBtcPrice() {
+      try {
+        const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true&include_24hr_vol=true&include_high_24h=true&include_low_24h=true');
+        const d = await r.json();
+        btcUsd = d.bitcoin.usd || 0;
+        window._btcData = d.bitcoin;
+      } catch {
+        btcUsd = 95000; // fallback
+        window._btcData = { usd: 95000, usd_24h_change: 0, usd_24h_high: 95000, usd_24h_low: 93000 };
+      }
+    }
+
+    async function loadArsRate() {
+      try {
+        const r = await fetch('/datos/historial.json');
+        const data = await r.json();
+        const latest = {};
+        for (const item of data) {
+          const src = (item.source||'').toLowerCase();
+          if (!latest[src]||item.date>latest[src].date) latest[src]=item;
+        }
+        arsOficial = latest['oficial']?.value_sell || 1462;
+      } catch { arsOficial = 1462; }
+    }
+
+    function updateTicker() {
+      const d = window._btcData || {};
+      const arsPerBtc = btcUsd * arsOficial;
+
+      document.getElementById('btc-usd').textContent = fmtUsd(btcUsd);
+      document.getElementById('btc-usd').classList.remove('loading-shimmer');
+      document.getElementById('btc-ars-equiv').textContent = fmtArsShort(arsPerBtc) + ' ARS';
+
+      const change = d.usd_24h_change || 0;
+      const changeEl = document.getElementById('btc-change');
+      changeEl.textContent = (change >= 0 ? '+' : '') + change.toFixed(2) + '%';
+      changeEl.className = 'ticker-change ' + (change >= 0 ? 'up' : 'down');
+
+      document.getElementById('btc-high').textContent = d.usd_24h_high ? fmtUsd(d.usd_24h_high) : '—';
+      document.getElementById('btc-low').textContent  = d.usd_24h_low  ? fmtUsd(d.usd_24h_low)  : '—';
+
+      const now = new Date();
+      document.getElementById('btc-updated').textContent = now.toLocaleTimeString('es-AR', {hour:'2-digit',minute:'2-digit'});
+    }
+
+    function updateSatCalculator() {
+      const arsPerBtc = btcUsd * arsOficial;
+      const satAmounts = [1000, 10000, 100000, 1000000];
+      const ids = ['1k','10k','100k','1m'];
+      satAmounts.forEach((sats, i) => {
+        const btc = sats / 1e8;
+        const usd = btc * btcUsd;
+        const ars = btc * arsPerBtc / btcUsd * btcUsd; // = btc * arsPerBtc / btcUsd * btcUsd simplificado
+        const arsVal = btc * arsOficial * btcUsd / btcUsd * btcUsd; // simplificado: sats/1e8 * btcUsd * arsOficial
+        const arsCalc = (sats / 1e8) * btcUsd * arsOficial;
+        document.getElementById('sat-'+ids[i]).textContent = 'USD ' + usd.toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:4});
+        document.getElementById('sat-'+ids[i]+'-ars').textContent = fmtArsShort(arsCalc);
+      });
+    }
+
+    // ── CONVERT ──
+    function convert() {
+      if (!btcUsd || !arsOficial) return;
+      const raw = parseInput(document.getElementById('input-from').value);
+      const arsPerUnit = getArsPerUnit();
+      const arsPerBtc = btcUsd * arsOficial;
+
+      let result = 0;
+      let subText = '';
+
+      if (direction === 'from-btc') {
+        result = raw * arsPerUnit;
+        const btcAmount = getBtcFromInput(raw);
+        if (raw > 0) {
+          subText = '≈ USD ' + (btcAmount * btcUsd).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2});
+          if (currentMode !== 'sat') {
+            subText += ' · ' + Math.round(btcAmount * 1e8).toLocaleString('es-AR') + ' SAT';
+          }
+        }
+      } else {
+        // from ARS
+        result = raw / arsPerUnit;
+        const btcResult = result / (currentMode==='btc'?1:currentMode==='mbtc'?1/1000:1/1e8);
+        if (raw > 0) subText = '≈ USD ' + (btcResult * btcUsd).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2});
+      }
+
+      const el = document.getElementById('result-value');
+      const subEl = document.getElementById('result-sub');
+
+      if (raw === 0) {
+        el.textContent = '0'; el.classList.add('zero'); subEl.textContent = '';
+      } else {
+        if (direction === 'from-btc') {
+          el.textContent = fmtArsShort(result);
+        } else {
+          const decimals = currentMode === 'sat' ? 0 : currentMode === 'mbtc' ? 5 : 8;
+          el.textContent = fmtNum(result, decimals) + ' ' + (currentMode === 'btc' ? 'BTC' : currentMode === 'mbtc' ? 'mBTC' : 'SAT');
+        }
+        el.classList.remove('zero');
+        subEl.textContent = subText;
+      }
+    }
+
+    // ── LABELS & CHIPS ──
+    function updateLabels() {
+      const fromBtc = direction === 'from-btc';
+      const modeLabel = currentMode === 'btc' ? 'Bitcoin (BTC)' : currentMode === 'mbtc' ? 'milibitcoin (mBTC)' : 'Satoshis (SAT)';
+      const modeCurr  = currentMode === 'btc' ? 'BTC' : currentMode === 'mbtc' ? 'mBTC' : 'SAT';
+
+      document.getElementById('label-from').textContent = fromBtc ? modeLabel : 'Pesos Argentinos (ARS)';
+      document.getElementById('label-to').textContent   = fromBtc ? 'Pesos Argentinos (ARS)' : modeLabel;
+      document.getElementById('currency-from').textContent = fromBtc ? modeCurr : 'ARS';
+    }
+
+    function updateChips() {
+      const fromBtc = direction === 'from-btc';
+      let amounts;
+      if (fromBtc) {
+        if (currentMode === 'btc')   amounts = [0.001, 0.01, 0.1, 0.5, 1, 2, 5, 10];
+        if (currentMode === 'mbtc')  amounts = [1, 10, 100, 500, 1000, 5000, 10000, 100000];
+        if (currentMode === 'sat')   amounts = [1000, 10000, 100000, 1000000, 10000000, 50000000, 100000000, 1000000000];
+      } else {
+        amounts = [10000, 50000, 100000, 500000, 1000000, 5000000, 10000000, 50000000];
+      }
+      document.querySelectorAll('.quick-chip').forEach((b,i) => {
+        b.dataset.amount = amounts[i];
+        b.textContent = fromBtc && currentMode !== 'sat'
+          ? Number(amounts[i]).toLocaleString('es-AR', {maximumFractionDigits:3})
+          : Number(amounts[i]).toLocaleString('es-AR');
+      });
+    }
+
+    // ── EVENTS ──
+    document.getElementById('input-from').addEventListener('input', function() {
+      const p=this.selectionStart, ol=this.value.length;
+      this.value = formatInput(this.value);
+      const nl=this.value.length; this.setSelectionRange(p+(nl-ol),p+(nl-ol));
+      convert();
+    });
+
+    document.getElementById('swap-btn').addEventListener('click', function() {
+      direction = direction === 'from-btc' ? 'from-ars' : 'from-btc';
+      document.getElementById('input-from').value = '';
+      document.getElementById('result-value').textContent = '0';
+      document.getElementById('result-value').classList.add('zero');
+      document.getElementById('result-sub').textContent = '';
+      updateLabels(); updateChips(); convert();
+    });
+
+    document.querySelectorAll('.mode-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        currentMode = this.dataset.mode;
+        document.getElementById('input-from').value = '';
+        document.getElementById('result-value').textContent = '0';
+        document.getElementById('result-value').classList.add('zero');
+        updateLabels(); updateChips(); convert();
+      });
+    });
+
+    document.getElementById('quick-grid').addEventListener('click', function(e) {
+      const c = e.target.closest('.quick-chip'); if (!c) return;
+      const val = c.dataset.amount;
+      // Para BTC/mBTC usar punto decimal
+      document.getElementById('input-from').value = direction==='from-btc' && currentMode!=='sat'
+        ? val
+        : formatInput(val);
+      convert();
+    });
+
+    // ── INIT ──
+    updateLabels(); updateChips(); loadAll();
+  </script>
+
+</body>
+</html>
