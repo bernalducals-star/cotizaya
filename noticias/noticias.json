@@ -1,5 +1,438 @@
 [
   {
+    "title": "ANMAT: actualizan el código alimentario y fijan nuevos límites de arsénico en el arroz y sus derivados",
+    "slug": "anmat-actualizan-el-codigo-alimentario-y-fijan-nuevos-limite",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "La medida fue oficializada este lunes por la Secretaría de Agricultura, Ganadería y Pesca para incorporar una normativa del Mercosur al Código Alimentario Argentino.",
+    "link": "https://www.ambito.com/economia/anmat-actualizan-el-codigo-alimentario-y-fijan-nuevos-limites-arsenico-el-arroz-y-sus-derivados-n6286200",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street: el rally bursátil se detiene ante la suba de tasas, y el empleo presiona a la inflación",
+    "slug": "wall-street-el-rally-bursatil-se-detiene-ante-la-suba-de-tas",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Lo que no pudo la guerra, lo puede la sólida creación de empleo.  Wall Street ve una suba de tasas en su camino y el rally sufre un parate brusco.",
+    "link": "https://www.ambito.com/economia/wall-street-el-rally-bursatil-se-detiene-la-suba-tasas-y-el-empleo-presiona-la-inflacion-n6286153",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los 3 métodos antiguos, pero eficaces para hacer realidad tu ahorro en dólares",
+    "slug": "los-3-metodos-antiguos-pero-eficaces-para-hacer-realidad-tu-",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Estas tres estrategias tradicionales siguen vigentes y te permiten ordenar las cuentas con hábitos que son muy fáciles de aplicar cada mes.",
+    "link": "https://www.ambito.com/economia/los-3-metodos-antiguos-pero-eficaces-hacer-realidad-tu-ahorro-dolares-n6285269",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 8 de junio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-8-junio-n6286207",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar mayorista arranca la semana en su nivel más alto desde febrero",
+    "slug": "el-dolar-mayorista-arranca-la-semana-en-su-nivel-mas-alto-de",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Con el dólar mayorista alcanzando su pico desde febrero, el BCRA observa una desaceleración en las compras oficiales a pesar de haber cumplido su meta anual.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-arranca-la-semana-su-nivel-mas-alto-febrero-n6286240",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este lunes 8 de junio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-lunes-8-de-junio",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-8-junio-n6286193",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este lunes 8 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-8-de-junio",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-8-junio-n6286194",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este lunes 8 de junio",
+    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-lunes-8-de-jun",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
+    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-lunes-8-junio-n6286144",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este domingo 7 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-7-de-junio",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-7-junio-n6285988",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este domingo 7 de junio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-7-de-junio",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-7-junio-n6285987",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El ciberataque al Gobierno de Melilla, causado por una contraseña comprada por 5 euros",
+    "slug": "el-ciberataque-al-gobierno-de-melilla-causado-por-una-contra",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/06/08/el-ciberataque-al-gobierno-de-melilla-causado-por-una-contrasena-comprada-por-5-euros/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un estudio prevé la reducción drástica de reservas de agua en Canarias hasta fin de siglo",
+    "slug": "un-estudio-preve-la-reduccion-drastica-de-reservas-de-agua-e",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/06/08/un-estudio-preve-la-reduccion-drastica-de-reservas-de-agua-en-canarias-hasta-fin-de-siglo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "MInería: la lluvia de dólares saltó 86% en abril y las exportaciones vuelven a ser récord",
+    "slug": "mineria-la-lluvia-de-dolares-salto-86-en-abril-y-las-exporta",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Con un crecimiento mensual del 86,3% y un acumulado récord del 161%, el sector potencia el gran momento del agro, la energía y blinda las reservas del BCRA (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/energia/456699-mineria-la-lluvia-de-dolares-salto-86-en-abril-y-las-exportaciones-vuelven-a-ser-record",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Qué acciones argentinas pueden escalar fuerte si Morgan Stanley mejora la nota de Argentina",
+    "slug": "que-acciones-argentinas-pueden-escalar-fuerte-si-morgan-stan",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "La expectativa por MSCI vuelve a poner al Merval bajo la lupa.  Los papeles que quedaron con más recorrido según importante sociedad de bolsa de la City (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456645-que-acciones-argentinas-escalaran-fuerte-si-morgan-stanley-mejora-la-nota-de-argentina",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Análisis: ¿por qué BEAT se disparó un 730% en un mes?",
+    "slug": "analisis-por-que-beat-se-disparo-un-730-en-un-mes",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia BEAT se dispara un 730% en un mes y se acerca a máximos históricos impulsado por IA, GameFi y quema de tokens.  La entrada Análisis: ¿por qué BEAT se disparó un 730% en un mes?",
+    "link": "https://criptotendencia.com/2026/06/08/analisis-por-que-beat-se-disparo-un-730-en-un-mes-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy refuerza su apuesta por Bitcoin tras una nueva compra de BTC",
+    "slug": "strategy-refuerza-su-apuesta-por-bitcoin-tras-una-nueva-comp",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia Strategy mantiene su estrategia de acumulación de Bitcoin mientras crece el interés institucional por incorporar BTC en tesorerías.  La entrada Strategy refuerza su apuesta por Bitcoin tras una nueva compra de BTC se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/strategy-refuerza-su-apuesta-por-bitcoin-tras-una-nueva-compra-de-btc-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Goldman Sachs advierte sobre una presión vendedora récord en Corea del Sur",
+    "slug": "goldman-sachs-advierte-sobre-una-presion-vendedora-record-en",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia Goldman Sachs advierte sobre presiones técnicas y ventas obligatorias en Corea del Sur que podrían aumentar la volatilidad bursátil.  La entrada Goldman Sachs advierte sobre una presión vendedora récord en Corea del Sur se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/goldman-sachs-advierte-sobre-una-presion-vendedora-record-en-corea-del-sur-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dogecoin vale más que Cardano y el mercado tiene razones para hacerlo",
+    "slug": "dogecoin-vale-mas-que-cardano-y-el-mercado-tiene-razones-par",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia ADA cayó debajo de los 0,20 dólares por primera vez en cinco años mientras DOGE ya cotiza con ETF propio en Nasdaq.  La entrada Dogecoin vale más que Cardano y el mercado tiene razones para hacerlo se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/dogecoin-vale-mas-que-cardano-y-el-mercado-tiene-razones-para-hacerlo/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Lunes negro en Asia: las tecnológicas se hunden entre el miedo a una nueva subida de la Fed y misiles iraníes",
+    "slug": "lunes-negro-en-asia-las-tecnologicas-se-hunden-entre-el-mied",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia El KOSPI activa cortocircuitos y el Nikkei se hunde 2. 600 puntos en una jornada marcada por la Fed, Irán y un sismo en Filipinas.",
+    "link": "https://criptotendencia.com/2026/06/08/lunes-negro-en-asia-las-tecnologicas-se-hunden-entre-el-miedo-a-una-nueva-subida-de-la-fed-y-misiles-iranies/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nvidia quiere convertir hogares en minicentros de datos para impulsar la inteligencia artificial",
+    "slug": "nvidia-quiere-convertir-hogares-en-minicentros-de-datos-para",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia Un proyecto vinculado a Nvidia busca instalar minicentros de datos en hogares para ampliar la infraestructura de IA.  La entrada Nvidia quiere convertir hogares en minicentros de datos para impulsar la inteligencia artificial se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/nvidia-quiere-convertir-hogares-en-minicentros-de-datos-para-impulsar-la-inteligencia-artificial-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Estadio Azteca: el coloso que abre su tercer Mundial con un récord imbatible",
+    "slug": "estadio-azteca-el-coloso-que-abre-su-tercer-mundial-con-un-r",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia El Azteca será el primer estadio en abrir tres Mundiales en la historia, un récord que ya ningún otro recinto podrá igualar.  La entrada Estadio Azteca: el coloso que abre su tercer Mundial con un récord imbatible se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/estadio-azteca-el-coloso-que-abre-su-tercer-mundial-con-un-record-imbatible/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Semana de contrastes en el metaverso: entre utopías futbolísticas y relevos silenciosos",
+    "slug": "semana-de-contrastes-en-el-metaverso-entre-utopias-futbolist",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "CriptoTendencia El metaverso vive una semana de contrastes entre el Bernabéu Infinito, cambios en Meta, microdramas y el cierre de Spatial Creator.  La entrada Semana de contrastes en el metaverso: entre utopías futbolísticas y relevos silenciosos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/semana-de-contrastes-en-el-metaverso-entre-utopias-futbolisticas-y-relevos-silenciosos-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Rusia impone un «cepo» a las criptomonedas: limitará el mercado minorista a bitcoin y USDT",
+    "slug": "rusia-impone-un-cepo-a-las-criptomonedas-limitara-el-mercado",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "La reforma de la Duma obliga a entregar la custodia digital al Estado y abre una incómoda dependencia hacia la Reserva Federal de EE.  UU.",
+    "link": "https://www.criptonoticias.com/regulacion/rusia-cepo-criptomonedas-bitcon-ethereum-usdt/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "cepo"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El RSI de Ethereum se desplomó al peor nivel de su historia con el precio a USD 1.500",
+    "slug": "el-rsi-de-ethereum-se-desplomo-al-peor-nivel-de-su-historia-",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "La criptomoenda ETH entró en lo que se clasifica como \"zona de sobreventa\", de acuerdo con el índice de fuerza relativa.  La entrada El RSI de Ethereum se desplomó al peor nivel de su historia con el precio a USD 1.",
+    "link": "https://www.criptonoticias.com/mercados/rsi-ethereum-desplomo-peor-nivel-historia-precio-usd1500/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mintean 5.000 millones de Syscoin de la nada tras falla en validación",
+    "slug": "mintean-5000-millones-de-syscoin-de-la-nada-tras-falla-en-va",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "El equipo pausó el puente, contacta exchanges para congelar fondos y prepara corrección mientras rastrea las direcciones afectadas.  La entrada Mintean 5.",
+    "link": "https://www.criptonoticias.com/tecnologia/mintean-5000-millones-syscoin-nada-tras-falla-validacion/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "JPMorgan aconseja a Strategy cómo recuperar la confianza perdida tras la venta de 32 BTC",
+    "slug": "jpmorgan-aconseja-a-strategy-como-recuperar-la-confianza-per",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "\"Podría ser necesario reconstruir las reservas en dólares para reducir la preocupación de los inversores\", dicen analistas del banco estadounidense.  La entrada JPMorgan aconseja a Strategy cómo recuperar la confianza perdida tras la venta de 32 BTC se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/jpmorgan-aconseja-strategy-recuperar-confianza-perdida-venta-32-btc/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Saylor rechazó pagar salarios en Bitcoin para no «competir con el dólar»: Leopoldo Bebchuk",
+    "slug": "saylor-rechazo-pagar-salarios-en-bitcoin-para-no-competir-co",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "Conversamos con Leopoldo Bebchuk sobre su experiencia como Gerente de Producto en Strategy, la mayor empresa de tesorería de Bitcoin.  La entrada Saylor rechazó pagar salarios en Bitcoin para no «competir con el dólar»: Leopoldo Bebchuk se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/saylor-rechazo-pagar-salarios-bitcoin-competir-dolar-lepoldo-bebchuk/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy compra 1.500 BTC; sube el precio de bitcoin",
+    "slug": "strategy-compra-1500-btc-sube-el-precio-de-bitcoin",
+    "category": "cripto",
+    "date": "2026-06-08",
+    "summary": "Esta compra se realiza una semana después de la venta de 32 bitcoin por parte de Strategy.  La entrada Strategy compra 1.",
+    "link": "https://www.criptonoticias.com/mercados/michael-saylor-nueva-compra-bitcoin-strategy-sube-precio-btc/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Plazo fijo versus billeteras virtuales: ¿qué formato de ahorro genera mayor interés?",
     "slug": "plazo-fijo-versus-billeteras-virtuales-que-formato-de-ahorro",
     "category": "economia",
@@ -45,13 +478,13 @@
     "related": []
   },
   {
-    "title": "Sin gastar un solo dólar: 7 atracciones gratis para visitar en Kansas City",
-    "slug": "sin-gastar-un-solo-dolar-7-atracciones-gratis-para-visitar-e",
+    "title": "Dólar hoy: a cuánto cerró este viernes 5 de junio",
+    "slug": "dolar-hoy-a-cuanto-cerro-este-viernes-5-de-junio",
     "category": "economia",
     "date": "2026-06-07",
-    "summary": "Entre paseos, arte y espacios históricos, existen propuestas ideales para descubrir un destino sin tener que abrir la billetera.",
-    "link": "https://www.ambito.com/economia/sin-gastar-un-solo-dolar-7-atracciones-gratis-visitar-kansas-city-n6285175",
-    "source": "Ámbito",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-5-junio-n6285658",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -61,13 +494,13 @@
     "related": []
   },
   {
-    "title": "What happens to Bitcoin if the Nasdaq falls further?",
-    "slug": "what-happens-to-bitcoin-if-the-nasdaq-falls-further",
+    "title": "Reporte semanal sobre la actividad comercial de las ballenas de Bitcoin",
+    "slug": "reporte-semanal-sobre-la-actividad-comercial-de-las-ballenas",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "Bitcoin eyes a rally toward $92,630 as BTC defends key long-term support while the Nasdaq flashes deeper correction risks.",
-    "link": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
+    "summary": "CriptoTendencia En este reporte se hace un repaso detallado por la actividad comercial de las grandes carteras de Bitcoin conocidas como ballenas.  La entrada Reporte semanal sobre la actividad comercial de las ballenas de Bitcoin se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/07/reporte-semanal-sobre-la-actividad-comercial-de-las-ballenas-de-bitcoin-4/",
+    "source": "CriptoTendencia",
     "tags": [
       "cripto",
       "bitcoin"
@@ -76,13 +509,13 @@
     "related": []
   },
   {
-    "title": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms",
-    "slug": "strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-d",
+    "title": "Vietnam acelera sus planes para crear un mercado regulado de criptomonedas",
+    "slug": "vietnam-acelera-sus-planes-para-crear-un-mercado-regulado-de",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "Strategy’s top execs took to social media on Sunday to tout its Bitcoin strategy while shareholders cast final votes on a proposal for twice-monthly preferred stock dividend paymen",
-    "link": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
+    "summary": "CriptoTendencia Vietnam prepara un mercado piloto de activos digitales para regular la creciente adopción cripto y atraer innovación financiera.  La entrada Vietnam acelera sus planes para crear un mercado regulado de criptomonedas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/07/vietnam-acelera-sus-planes-para-crear-un-mercado-regulado-de-criptomonedas/",
+    "source": "CriptoTendencia",
     "tags": [
       "cripto",
       "bitcoin"
@@ -91,13 +524,13 @@
     "related": []
   },
   {
-    "title": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
-    "slug": "bitcoin-risks-new-purge-with-bear-market-losses-still-35b-be",
+    "title": "HTX suspende trading de WLFI y USD1, tokens vinculados a la familia Trump",
+    "slug": "htx-suspende-trading-de-wlfi-y-usd1-tokens-vinculados-a-la-f",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
-    "link": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
+    "summary": "El bloqueo de HTX por WLFI, ligado a Trump, reaviva el debate sobre el control unilateral de activos en stablecoins como USD1.  La entrada HTX suspende trading de WLFI y USD1, tokens vinculados a la familia Trump se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/htx-suspende-wlfi-usd1-vinculados-trump-congelacion-direcciones/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -106,13 +539,13 @@
     "related": []
   },
   {
-    "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
-    "slug": "frontier-ai-models-can-find-cryptos-biggest-bugs-experts-war",
+    "title": "BTC de era Satoshi se mueven y desafían demanda que los declaraba «abandonados»",
+    "slug": "btc-de-era-satoshi-se-mueven-y-desafian-demanda-que-los-decl",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4. 8 signals a shift in who may discover critical flaws first.",
-    "link": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
-    "source": "Decrypt",
+    "summary": "Dos wallets listadas en el caso realizaron transacciones on-chain en junio, mientras el proceso avanza hacia una audiencia clave el 14 de julio.  La entrada BTC de era Satoshi se mueven y desafían demanda que los declaraba «abandonados» se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/btc-satoshi-mueven-desafian-demanda-declaraba-abandonados/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -121,13 +554,13 @@
     "related": []
   },
   {
-    "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
-    "slug": "wall-street-is-coming-for-hyperliquids-perps-crown-arthur-ha",
+    "title": "Ironwood: la apuesta de Zcash para que usuarios verifiquen el suministro de ZEC",
+    "slug": "ironwood-la-apuesta-de-zcash-para-que-usuarios-verifiquen-el",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
-    "link": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-    "source": "Decrypt",
+    "summary": "Datos on-chain revelan que, pese a la salida de 380. 000 ZEC del pool Orchard, solo 47.",
+    "link": "https://www.criptonoticias.com/tecnologia/ironwood-apuesta-zcash-para-usuarios-verifiquen-suministro-zec/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -136,46 +569,16 @@
     "related": []
   },
   {
-    "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
-    "slug": "claude-opus-48-review-better-at-whats-it-good-at-worse-at-wh",
+    "title": "El mercado de Bitcoin sangra la caída de su ídolo",
+    "slug": "el-mercado-de-bitcoin-sangra-la-caida-de-su-idolo",
     "category": "cripto",
     "date": "2026-06-07",
-    "summary": "Anthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt.  We ran it through six tests, and here's how it did.",
-    "link": "https://decrypt.co/370128/claude-opus-4-8-review",
-    "source": "Decrypt",
+    "summary": "Strategy vendió el 0,004% de su tesorería y el precio se desplomó.  El protocolo no se movió: lo que se derrumbó fue una narrativa.",
+    "link": "https://www.criptonoticias.com/editorial/mercado-bitcoin-sangra-caida-idolo/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuánto sale armar un \"rincón de café\" para este invierno: precios y alternativas en junio 2026",
-    "slug": "cuanto-sale-armar-un-rincon-de-cafe-para-este-invierno-preci",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Una gran opción para afrontar el frío, brindarle calidez y buen aroma a tu hogar en la estación venidera",
-    "link": "https://www.ambito.com/economia/cuanto-sale-armar-un-rincon-cafe-este-invierno-precios-y-alternativas-junio-2026-n6285366",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentina se consolida como tercer mayor exportador del agro, con el impulso de tres cultivos",
-    "slug": "argentina-se-consolida-como-tercer-mayor-exportador-del-agro",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "El país embarcó 97,5 millones de toneladas en la campaña 2024/25 y quedó sólo detrás de Brasil y Estados Unidos.",
-    "link": "https://www.ambito.com/economia/argentina-se-consolida-como-tercer-mayor-exportador-del-agro-el-impulso-tres-cultivos-n6285911",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -187,26 +590,10 @@
     "date": "2026-06-06",
     "summary": "El FMI reveló la intención de Caputo en su última evaluación sobre Argentina, una antigua consigna del equipo oficial que no pudo materializarse todavía (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/456644-caputo-empuja-una-jugada-financiera-arriesgada-que-pone-nervioso-al-fmi",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Vuelve una estatal: el plan de Milei para reactivar Fabricaciones Militares y proveer a la defensa",
-    "slug": "vuelve-una-estatal-el-plan-de-milei-para-reactivar-fabricaci",
-    "category": "economia",
-    "date": "2026-06-06",
-    "summary": "Tras aplicar un ajuste feroz y evaluar la posibilidad de una venta a la OTAN, el Gobierno ahora retomará la actividad en la estatal.  Los detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/negocios/455971-vuelve-una-estatal-el-plan-de-milei-para-reactivar-la-estrategica-fabricaciones-militares",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
     ],
     "featured": false,
     "related": []
@@ -218,7 +605,7 @@
     "date": "2026-06-06",
     "summary": "IEB propone una estrategia donde las energéticas y entidades financieras ganan terreno tras la fuerte suba del mercado local en junio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/456057-sociedad-de-bolsa-revela-su-estrategia-para-invertir-1-millon-de-pesos-en-11-acciones-argentinas",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -227,211 +614,64 @@
     "related": []
   },
   {
-    "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
-    "slug": "bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70",
-    "category": "cripto",
+    "title": "Consultora de Eduardo Costantini revela su nueva y completa estrategia de inversión",
+    "slug": "consultora-de-eduardo-costantini-revela-su-nueva-y-completa-",
+    "category": "economia",
     "date": "2026-06-06",
-    "summary": "Bitcoin’s latest oversold RSI mirrors 2020 and February 2026 setups that preceded 50% and 30% rebounds, putting $70K back in focus.",
-    "link": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
+    "summary": "La sociedad de bolsa de Eduardo Costantini reacomodó su cartera y decidió reforzar la apuesta por instrumentos muy específicos.  Los detalles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455817-consultora-de-eduardo-costantini-ya-definio-su-nueva-estrategia-de-inversion",
+    "source": "iProfesional Finanzas",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
-    "slug": "ai-is-helping-discover-tech-vulnerabilitiesand-zcash-is-just",
-    "category": "cripto",
+    "title": "Cuantas reservas internacionales quieren acumular Milei y Caputo para evitar el riesgo K en 2027",
+    "slug": "cuantas-reservas-internacionales-quieren-acumular-milei-y-ca",
+    "category": "economia",
     "date": "2026-06-06",
-    "summary": "Frontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
-    "link": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
-    "source": "Decrypt",
+    "summary": "Las cuentas oficiales muestran una acumulación de divisas récord impulsada por sectores clave, con expectativas renovadas sobre el contexto financiero (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456651-cuantas-reservas-internacionales-quieren-acumular-milei-y-caputo-para-evitar-riesgo-k-2027",
+    "source": "iProfesional Finanzas",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina",
+      "reservas",
+      "milei"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
-    "slug": "claude-code-vulnerability-could-let-attackers-steal-credenti",
-    "category": "cripto",
+    "title": "Se viene el \"efecto aguinaldo\": el Gobierno y bancos palpitan un salto en la compra de dólares",
+    "slug": "se-viene-el-efecto-aguinaldo-el-gobierno-y-bancos-palpitan-u",
+    "category": "economia",
     "date": "2026-06-06",
-    "summary": "Researchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.",
-    "link": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
-    "source": "Decrypt",
+    "summary": "La compra de dólares por parte de ahorristas viene en ascenso, y en el corto plazo confluyen factores que harán subir el nivel de demanda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/456214-se-viene-el-efecto-aguinaldo-bancos-palpitan-un-salto-en-la-compra-de-dolares",
+    "source": "iProfesional Finanzas",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
-    "slug": "bitcoin-has-dumped-all-of-its-gains-since-trump-was-reelecte",
-    "category": "cripto",
+    "title": "Qué pasa si debés $1 millón a Mercado Pago, Ualá u otra billetera virtual y no pagás",
+    "slug": "que-pasa-si-debes-1-millon-a-mercado-pago-uala-u-otra-billet",
+    "category": "economia",
     "date": "2026-06-06",
-    "summary": "Bitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025.  Now it's down more than 50% from that peak.",
-    "link": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
-    "source": "Decrypt",
+    "summary": "La cantidad de usuarios que no paga el financiamiento en cuotas o préstamos desde una Fintech es de 27% de la cartera total.  Qué pasa si se entra en mora (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/455307-que-pasa-si-debes-1-millon-de-pesos-a-mercado-pago-uala-u-otra-billetera-virtual-y-no-pagas",
+    "source": "iProfesional Finanzas",
     "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Meet the Guys Still Clinging To the Terra Luna That Do Kwon Abandoned",
-    "slug": "meet-the-guys-still-clinging-to-the-terra-luna-that-do-kwon-",
-    "category": "cripto",
-    "date": "2026-06-06",
-    "summary": "Terra Luna Classic was left behind after an epic collapse almost four years ago.  But there’s a community of believers who haven’t given up.",
-    "link": "https://decrypt.co/370189/meet-guys-still-clinging-terra-luna-do-kwon",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-    "slug": "eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months.",
-    "link": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Travala lets AI agents book hotels with USDC on Base",
-    "slug": "travala-lets-ai-agents-book-hotels-with-usdc-on-base",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.",
-    "link": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-    "slug": "crypto-tax-proposals-weighed-ahead-of-tuesday-house-hearing",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.",
-    "link": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
-    "slug": "bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-s",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Bitcoin bears piled into short positions as BTC price slid to $60,000.  Will the $2.",
-    "link": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Kraken offers SpaceX IPO access through xStocks",
-    "slug": "kraken-offers-spacex-ipo-access-through-xstocks",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.",
-    "link": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
-    "slug": "crypto-tax-in-illinois-fy2027-budget-is-one-step-away-from-b",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0. 2% tax on crypto transactions on a registered broker.",
-    "link": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "CoinTelegraph",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
-    "slug": "zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Fallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.",
-    "link": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
-    "slug": "strategy-shares-fall-to-4-month-low-as-strc-dips-and-bitcoin",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "Strategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.",
-    "link": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
-    "slug": "anthropic-is-helping-the-nsa-hack-china-it-also-wants-everyo",
-    "category": "cripto",
-    "date": "2026-06-05",
-    "summary": "The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
-    "link": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
-    "source": "Decrypt",
-    "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
