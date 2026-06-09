@@ -1,5 +1,358 @@
 [
   {
+    "title": "Oro: los bancos centrales reanudaron las compras netas en abril",
+    "slug": "oro-los-bancos-centrales-reanudaron-las-compras-netas-en-abr",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Los bancos centrales restablecieron las compras netas del metal amarillo para sus reservas en abril.  Esto implica una recuperación de la tendencia respecto a las importantes ventas netas registradas en marzo pasado.",
+    "link": "https://www.ambito.com/economia/oro-los-bancos-centrales-reanudaron-las-compras-netas-abril-n6286588",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo recuperar tus dólares con el Tax Free: la guía para turistas en Estados Unidos",
+    "slug": "como-recuperar-tus-dolares-con-el-tax-free-la-guia-para-turi",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Este truco poco conocido es seguro y te permite obtener reintegros sobre ciertas compras que haces en tus viajes.",
+    "link": "https://www.ambito.com/economia/como-recuperar-tus-dolares-el-tax-free-la-guia-turistas-estados-unidos-n6286411",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 9 de junio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-9-junio-n6286646",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este martes 9 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-martes-9-de-junio",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-9-junio-n6286621",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este martes 9 de junio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-martes-9-de-junio",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-9-junio-n6286620",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este martes 9 de junio",
+    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-martes-9-de-ju",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
+    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-martes-9-junio-n6286525",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Juan Cuattromo, presidente de Banco Provincia: \"El salto en la mora responde a un problema macroeconómico\"",
+    "slug": "juan-cuattromo-presidente-de-banco-provincia-el-salto-en-la-",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "El presidente del Banco Provincia atribuyó el deterioro de los indicadores crediticios a desequilibrios de la economía y advirtió sobre el riesgo de consolidar una \"economía dual\".  Además, defendió el rol de la banca pública y anticipó nuevas medidas para asistir a hogares y empresas.",
+    "link": "https://www.ambito.com/finanzas/juan-cuattromo-presidente-banco-provincia-el-salto-la-mora-responde-un-problema-macroeconomico-n6286227",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El BCRA ya compró más de u$s500 millones en junio, pero las reservas cayeron por cuarta rueda consecutiva",
+    "slug": "el-bcra-ya-compro-mas-de-us500-millones-en-junio-pero-las-re",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "La autoridad monetaria adquirió otros u$s71 millones y llevó el saldo comprador mensual a u$s508 millones.  Sin embargo, las reservas brutas bajaron u$s70 millones y quedaron en u$s47.",
+    "link": "https://www.ambito.com/finanzas/el-bcra-ya-compro-mas-us500-millones-junio-pero-las-reservas-cayeron-cuarta-rueda-consecutiva-n6286521",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Iustitia Europa ve que hay pruebas para una posible condena a todos los acusados en el juicio contra David Sánchez",
+    "slug": "iustitia-europa-ve-que-hay-pruebas-para-una-posible-condena-",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/06/09/iustitia-europa-ve-que-hay-pruebas-para-una-posible-condena-a-todos-los-acusados-en-el-juicio-contra-david-sanchez/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Pese a la reforma laboral, desaceleran fuerte las expectativas de empleo en las empresas grandes",
+    "slug": "pese-a-la-reforma-laboral-desaceleran-fuerte-las-expectativa",
+    "category": "economia",
+    "date": "2026-06-09",
+    "summary": "Las intenciones de contratar en empresas de Argentina siguen en plano positivo pero decrecen.  ¿Cuáles son los sectores que seguirán buscando empleados?",
+    "link": "https://www.iprofesional.com/management/456766-reforma-laboral-desaceleran-fuerte-las-expectativas-de-empleo-en-empresas-grandes",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los cinco consejos de oro de Jesse Livermore para hacer dinero",
+    "slug": "los-cinco-consejos-de-oro-de-jesse-livermore-para-hacer-dine",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia Cinco principios atemporales del especulador más legendario del siglo XX, aplicados a la lógica de inversión del ecosistema cripto actual.  La entrada Los cinco consejos de oro de Jesse Livermore para hacer dinero se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/los-cinco-consejos-de-oro-de-jesse-livermore-para-hacer-dinero/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Por qué Bitcoin Cash (BCH) se desploma? Las claves detrás de su caída",
+    "slug": "por-que-bitcoin-cash-bch-se-desploma-las-claves-detras-de-su",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia Bitcoin Cash enfrenta un escenario bajista mientras el mercado espera datos macroeconómicos clave y nuevos catalizadores.  La entrada ¿Por qué Bitcoin Cash (BCH) se desploma?",
+    "link": "https://criptotendencia.com/2026/06/09/por-que-bitcoin-cash-bch-se-desploma-las-claves-detras-de-su-caida-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El S&P 500 parece imparable, aunque perdió el 70% de su valor frente al oro",
+    "slug": "el-sp-500-parece-imparable-aunque-perdio-el-70-de-su-valor-f",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia Una comparación entre el S&P 500 y el oro reabre el debate sobre riqueza real, inflación monetaria y preservación de valor.  La entrada El S&P 500 parece imparable, aunque perdió el 70% de su valor frente al oro se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/el-sp-500-parece-imparable-aunque-perdio-el-70-de-su-valor-frente-al-oro-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bonos del Tesoro enfrentan una prueba clave mientras crece la deuda de EE. UU.",
+    "slug": "los-bonos-del-tesoro-enfrentan-una-prueba-clave-mientras-cre",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia The Economist advierte que el mayor riesgo para los bonos del Tesoro de EE.  UU.",
+    "link": "https://criptotendencia.com/2026/06/09/los-bonos-del-tesoro-enfrentan-una-prueba-clave-mientras-crece-la-deuda-de-ee-uu-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "bonos",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "OpenAI confirma su salida a Bolsa y completa el trío billonario que pondrá a prueba a Wall Street",
+    "slug": "openai-confirma-su-salida-a-bolsa-y-completa-el-trio-billona",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia OpenAI presenta su salida a Bolsa y completa con Anthropic y SpaceX un trío billonario que pondrá a prueba el apetito real de Wall Street por la IA.  La entrada OpenAI confirma su salida a Bolsa y completa el trío billonario que pondrá a prueba a Wall Street se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/openai-confirma-su-salida-a-bolsa-y-completa-el-trio-billonario-que-pondra-a-prueba-a-wall-street/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Web Summit Rio 2026: Lázaro Ramos alerta sobre los peligros de la IA para la salud mental de los jóvenes",
+    "slug": "web-summit-rio-2026-lazaro-ramos-alerta-sobre-los-peligros-d",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia Durante la jornada de apertura del Web Summit Rio 2026, el actor y experto mediático Lázaro Ramos alertó sobre los peligros de la IA.  La entrada Web Summit Rio 2026: Lázaro Ramos alerta sobre los peligros de la IA para la salud mental de los jóvenes se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/web-summit-rio-2026-lazaro-ramos-alerta-sobre-los-peligros-de-la-ia-para-la-salud-mental-de-los-jovenes/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Goldman Sachs usó un sistema creado para ajedrecistas y eligió al campeón del Mundial 2026",
+    "slug": "goldman-sachs-uso-un-sistema-creado-para-ajedrecistas-y-elig",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia El modelo de Goldman Sachs para el Mundial 2026: España campeona y un posible Messi-Cristiano en cuartos.  La entrada Goldman Sachs usó un sistema creado para ajedrecistas y eligió al campeón del Mundial 2026 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/goldman-sachs-uso-un-sistema-creado-para-ajedrecistas-y-eligio-al-campeon-del-mundial-2026/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "«No somos un casino»: cofundadora de Kalshi remarca las cualidades del mercado de predicciones durante el Web Summit Rio 2026",
+    "slug": "no-somos-un-casino-cofundadora-de-kalshi-remarca-las-cualida",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "CriptoTendencia Este lunes arrancaron las actividades del Web Summit Rio 2026, uno de los eventos tecnológicos más importantes de Latinoamérica este año.  La entrada «No somos un casino»: cofundadora de Kalshi remarca las cualidades del mercado de predicciones durante el Web Summit Rio 2026 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/09/no-somos-un-casino-cofundadora-de-kalshi-remarca-las-cualidades-del-mercado-de-predicciones-durante-el-web-summit-rio-2026/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin dijo presente en el Congreso de la República Dominicana",
+    "slug": "bitcoin-dijo-presente-en-el-congreso-de-la-republica-dominic",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "Pedro Vital, de Bitcoin Dominicana, y Giuliano Simó, de Bitcoin RD, se reunieron con los diputados de la Comisión de Hacienda.  La entrada Bitcoin dijo presente en el Congreso de la República Dominicana se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/regulacion/bitcoin-presente-congreso-republica-dominicana/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El precio de bitcoin entró a la zona de «mejor oportunidad de inversión»: Charles Edwards",
+    "slug": "el-precio-de-bitcoin-entro-a-la-zona-de-mejor-oportunidad-de",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "El CEO de Capriole, una firma de inversiones, muestra que bitcoin cotiza cerca del costo promedio de producción de los mineros.  La entrada El precio de bitcoin entró a la zona de «mejor oportunidad de inversión»: Charles Edwards se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/bitcoin-zona-mejor-oportunidad-inversion-charles-edwards/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Caída de Bitcoin: el mercado entra en pánico, pero no todos están vendiendo",
+    "slug": "caida-de-bitcoin-el-mercado-entra-en-panico-pero-no-todos-es",
+    "category": "cripto",
+    "date": "2026-06-09",
+    "summary": "Bitcoin cayó cerca de los USD 59. 000 en medio de salidas de ETF y presión macroeconómica, pero el interés institucional se mantiene firme.",
+    "link": "https://www.criptonoticias.com/mercados/caida-bitcoin-mercado-entra-panico-no-todos-vendiendo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mirgor aplicará el primer banco de horas tras la reforma laboral y busca evitar despidos en el sector",
+    "slug": "mirgor-aplicara-el-primer-banco-de-horas-tras-la-reforma-lab",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "La compañía acordó con SMATA un esquema de compensación de jornadas en sus plantas bonaerenses.  La medida llega en medio de una fuerte caída de la actividad autopartista y la pérdida de miles de empleos.",
+    "link": "https://www.ambito.com/economia/mirgor-aplicara-el-primer-banco-horas-la-reforma-laboral-y-busca-evitar-despidos-el-sector-n6286553",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo por el piso: cuánto rinde invertir $900.000",
+    "slug": "plazo-fijo-por-el-piso-cuanto-rinde-invertir-900000",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Las tasas siguen en niveles bajos durante junio y los rendimientos mensuales siguen lejos de los registrados meses atrás.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-el-piso-cuanto-rinde-invertir-900000-n6286469",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Rebote del dólar: las cuatro claves que explican la tendencia alcista en el inicio de junio",
     "slug": "rebote-del-dolar-las-cuatro-claves-que-explican-la-tendencia",
     "category": "economia",
@@ -16,13 +369,45 @@
     "related": []
   },
   {
-    "title": "Créditos en mora: los bancos privados buscan resolver atrasos con sus clientes caso por caso",
-    "slug": "creditos-en-mora-los-bancos-privados-buscan-resolver-atrasos",
+    "title": "Las importaciones siguen en el freezer y la City ya habla del fin de la \"restricción de dólares\"",
+    "slug": "las-importaciones-siguen-en-el-freezer-y-la-city-ya-habla-de",
     "category": "economia",
     "date": "2026-06-08",
-    "summary": "Fuentes del sector indicaron a Ámbito que se ofrecen soluciones individuales.  Siguen altas las tasas.",
-    "link": "https://www.ambito.com/economia/creditos-mora-los-bancos-privados-buscan-resolver-atrasos-sus-clientes-caso-caso-n6286282",
-    "source": "Ámbito",
+    "summary": "La encuesta REM revisó a la baja la previsión de importación, mientras la industria sigue recesiva.  Para los analistas, se siente la \"enfermedad holandesa\" (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/456791-importaciones-siguen-en-el-freezer-y-la-city-ya-habla-del-fin-de-la-restriccion-de-dolares",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tradicional bodega familiar de Mendoza acumula deudas por $17.000 millones con unos 10 bancos",
+    "slug": "tradicional-bodega-familiar-de-mendoza-acumula-deudas-por-17",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "En un contexto de exigencias crecientes, la firma mendocina obtuvo respaldo transitorio para negociar deudas y evitar conflictos mayores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/negocios/456802-tradicional-bodega-familiar-de-mendoza-acumula-deudas-por-17000-millones-de-pesos-con-10-bancos",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Debuta el primer REIT en la bolsa argentina: de qué se trata esta innovadora inversión inmobiliaria",
+    "slug": "debuta-el-primer-reit-en-la-bolsa-argentina-de-que-se-trata-",
+    "category": "economia",
+    "date": "2026-06-08",
+    "summary": "Se trata de un vehículo financiero que permite acceder al negocio inmobiliario de manera indirecta, desde un Fondo Común de Inversión Cerrado.  Cómo es (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456806-debuta-el-primer-reit-en-la-bolsa-argentina-de-que-se-trata-esta-inversion-inmobiliaria",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina"
@@ -31,173 +416,17 @@
     "related": []
   },
   {
-    "title": "La inflación de CABA desaceleró al 2,1% en mayo con ayuda de los precios estacionales",
-    "slug": "la-inflacion-de-caba-desacelero-al-21-en-mayo-con-ayuda-de-l",
+    "title": "Pelea por Ingresos Brutos: BCRA permite a los bancos abrir cuentas en provincias que cobren menos",
+    "slug": "pelea-por-ingresos-brutos-bcra-permite-a-los-bancos-abrir-cu",
     "category": "economia",
     "date": "2026-06-08",
-    "summary": "La suba general de precios en la Ciudad de Buenos Aires marcó una merma respecto al mes pasado cuando la medición marcó un 2,5%.",
-    "link": "https://www.ambito.com/economia/la-inflacion-caba-desacelero-al-21-mayo-n6286303",
-    "source": "Ámbito",
+    "summary": "La medida facilita que entidades financieras asignen libremente la ubicación de las cuentas digitales, optimizando la carga tributaria local (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/456808-ingresos-brutos-bcra-permite-a-los-bancos-abrir-cuentas-en-provincias-que-cobren-menos",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo: así abrieron las tasas de los principales bancos hoy, lunes 8 de junio",
-    "slug": "plazo-fijo-asi-abrieron-las-tasas-de-los-principales-bancos-",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Las entidades financieras mantienen rendimientos dispares para quienes buscan resguardar capital mediante colocaciones tradicionales.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-asi-abrieron-las-tasas-los-principales-bancos-hoy-lunes-8-junio-n6286284",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "ANMAT: actualizan el código alimentario y fijan nuevos límites de arsénico en el arroz y sus derivados",
-    "slug": "anmat-actualizan-el-codigo-alimentario-y-fijan-nuevos-limite",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "La medida fue oficializada este lunes por la Secretaría de Agricultura, Ganadería y Pesca para incorporar una normativa del Mercosur al Código Alimentario Argentino.",
-    "link": "https://www.ambito.com/economia/anmat-actualizan-el-codigo-alimentario-y-fijan-nuevos-limites-arsenico-el-arroz-y-sus-derivados-n6286200",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 8 de junio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-8-junio-n6286207",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 8 de junio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-8-de-junio",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-8-junio-n6286194",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este lunes 8 de junio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-lunes-8-de-junio",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-8-junio-n6286193",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar mayorista encadenó su segunda suba al hilo y tocó un máximo de cuatro meses",
-    "slug": "el-dolar-mayorista-encadeno-su-segunda-suba-al-hilo-y-toco-u",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "El tipo de cambio oficial alcanzó su nivel más alto desde febrero, al tiempo que existe una desaceleración en las compras de divisas en el MULC.",
-    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-arranca-la-semana-su-nivel-mas-alto-febrero-n6286240",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Más de 12 Cedears pagan dividendos en dólares esta semana: cuáles son y cuánto reparten",
-    "slug": "mas-de-12-cedears-pagan-dividendos-en-dolares-esta-semana-cu",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Entre los Cedears se encuentran Exxon y Chevron, las dos petroleras más grandes de EEUU y dos de las compañías que mejores dividendos pagan.",
-    "link": "https://www.ambito.com/finanzas/mas-12-cedears-pagan-dividendos-dolares-esta-semana-cuales-son-y-cuanto-reparten-n6286371",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Evacuaron el Ministerio de Economía por una amenaza de bomba",
-    "slug": "evacuaron-el-ministerio-de-economia-por-una-amenaza-de-bomba",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "La cartera de Hacienda se vio sacudida este lunes por la orden de desalojar de inmediato, ante una amenaza",
-    "link": "https://www.infobae.com/economia/2026/06/08/evacuaron-el-ministerio-de-economia-por-una-amenaza-de-bomba/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El controvertido análisis de un famoso periodista español sobre las chances de Argentina en el Mundial: “Creo poco”",
-    "slug": "el-controvertido-analisis-de-un-famoso-periodista-espanol-so",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Maldini expresó su escepticismo sobre el equipo de Lionel Scaloni y remarcó que ve a Lionel Messi por debajo de 2022. Proyectó cuatro semifinalistas europeos",
-    "link": "https://www.infobae.com/deportes/2026/06/08/el-controvertido-analisis-de-un-famoso-periodista-espanol-sobre-las-chances-de-argentina-en-el-mundial-creo-poco/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El brent sube un 1,25 %, hasta los 94,25 dólares, ante la tensión en Oriente Medio",
-    "slug": "el-brent-sube-un-125-hasta-los-9425-dolares-ante-la-tension-",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/06/08/el-brent-sube-un-125-hasta-los-9425-dolares-ante-la-tension-en-oriente-medio/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
+      "bcra"
     ],
     "featured": false,
     "related": []
@@ -209,7 +438,7 @@
     "date": "2026-06-08",
     "summary": "En los pocos días del mes, el billete estadounidense está avanzando más de lo que paga un depósito en pesos en 30 días.  Qué pasará ahora, según economistas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/456544-el-plazo-fijo-tradicional-puede-recibir-un-golpe-de-nocaut-del-dolar-que-dice-la-city",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -225,7 +454,7 @@
     "date": "2026-06-08",
     "summary": "Antes del cobro de los pesos extras salariales, propuestas para invertir el dinero en acciones, bonos, fondos comunes, ON y CEDEAR, en pesos y dólares (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/456625-fintech-cocos-revela-3-planes-de-inversion-diferentes-para-los-pesos-del-aguinaldo",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -241,7 +470,7 @@
     "date": "2026-06-08",
     "summary": "El Certificado de Depósito Argentino (CEDEAR) se compra en pesos y representa una fracción de una acción mundial de una empresa que cotiza en dólares.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/456408-produce-autos-electricos-y-su-cedear-puede-subir-hasta-50-en-dolares-no-es-tesla-ni-byd",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -257,7 +486,7 @@
     "date": "2026-06-08",
     "summary": "Con señales favorables en los mercados y bajo impacto del dólar e inflación, analistas proponen opciones estratégicas para aprovechar el aguinaldo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/456182-llega-el-aguinaldo-y-la-city-recomienda-como-invertirlo-en-acciones-cedear-y-bonos",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -273,7 +502,7 @@
     "date": "2026-06-08",
     "summary": "El Banco Nación destinará 100. 000 millones de pesos a préstamos en una provincia en particular con el objetivo de aportar capital de trabajo a baja tasa (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/economia/456784-creditos-para-pymes-de-hasta-300-millones-con-una-tasa-inedita-quienes-pueden-acceder",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -288,36 +517,6 @@
     "date": "2026-06-08",
     "summary": "El rendimiento de los depósitos en pesos está en la mira por un alza en el precio del dólar y una inflación alta.  Cuánto se gana con $2 millones en 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/456637-plazo-fijo-banco-galicia-con-tasa-en-alerta-dolar-cuanto-ganas-al-invertir-2-millones-pesos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Burger King cierra un emblemático local en Argentina: qué pasa con su plan de negocios en el país",
-    "slug": "burger-king-cierra-un-emblematico-local-en-argentina-que-pas",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "La cadena viene de bajar las persianas en un punto de venta clave en La Plata y en los últimos meses aplicó otros cierres.  El traspaso que no fue (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/negocios/456129-burger-king-cierra-iconico-local-en-argentina-tras-no-poder-vender-activos-en-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "VIDEO | Panorama económico financiero de hoy en menos de 90 segundos",
-    "slug": "video-panorama-economico-financiero-de-hoy-en-menos-de-90-se",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "La minería exportó u$s817 millones en abril, pero el consumo pyme sigue flojo y la industria textil apenas usa 40% de su capacidad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456763-panorama-financiero-de-hoy-8-junio-2026-en-menos-de-90-segundos",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -327,45 +526,12 @@
     "related": []
   },
   {
-    "title": "Bonos suben y empresas energéticas lideran: qué pasa con el riesgo país",
-    "slug": "bonos-suben-y-empresas-energeticas-lideran-que-pasa-con-el-r",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "La mejora del clima financiero internacional impulsa a los activos argentinos, mientras el mercado sigue de cerca las tensiones en Medio Oriente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456769-bonos-suben-y-empresas-energeticas-lideran-ganancias-que-pasa-con-riesgo-pais",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Gurú de la City que acertó lo que pasaría con el dólar, ahora lanza predicción clave",
-    "slug": "el-guru-de-la-city-que-acerto-lo-que-pasaria-con-el-dolar-ah",
-    "category": "economia",
-    "date": "2026-06-08",
-    "summary": "Es muy probable que lleguen buenas noticias de Morgan Stanley y esto generará un mayor flujo de fondos que se dirigirán a activos financieros argentinos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456613-el-guru-de-la-city-que-acerto-lo-que-pasaria-con-el-dolar-ahora-lanza-prediccion-clave",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "MetaMask impulsa la economía de agentes de IA mientras avanza la adopción institucional de las criptomonedas",
-    "slug": "metamask-impulsa-la-economia-de-agentes-de-ia-mientras-avanz",
+    "title": "Restaking omnichain: la nueva amenaza silenciosa para la Web3",
+    "slug": "restaking-omnichain-la-nueva-amenaza-silenciosa-para-la-web3",
     "category": "cripto",
     "date": "2026-06-08",
-    "summary": "CriptoTendencia MetaMask lanza una cartera para agentes de IA, mientras Reino Unido, Strategy y HTX marcan la agenda cripto.  La entrada MetaMask impulsa la economía de agentes de IA mientras avanza la adopción institucional de las criptomonedas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/08/metamask-impulsa-la-economia-de-agentes-de-ia-mientras-avanza-la-adopcion-institucional-de-las-criptomonedas-2/",
+    "summary": "CriptoTendencia El restaking omnichain reusa el mismo colateral en múltiples redes, creando una amenaza silenciosa para la estabilidad de DeFi y toda la Web3.  La entrada Restaking omnichain: la nueva amenaza silenciosa para la Web3 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/restaking-omnichain-la-nueva-amenaza-silenciosa-para-la-web3/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -375,12 +541,12 @@
     "related": []
   },
   {
-    "title": "Bernstein defiende el valor de Bitcoin como reserva a largo plazo",
-    "slug": "bernstein-defiende-el-valor-de-bitcoin-como-reserva-a-largo-",
+    "title": "La inteligencia artificial dispara la demanda eléctrica en Estados Unidos",
+    "slug": "la-inteligencia-artificial-dispara-la-demanda-electrica-en-e",
     "category": "cripto",
     "date": "2026-06-08",
-    "summary": "CriptoTendencia Bernstein sostiene que la reciente caída de Bitcoin no limita su valor como reserva a largo plazo ante la maduración institucional.  La entrada Bernstein defiende el valor de Bitcoin como reserva a largo plazo se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/08/bernstein-defiende-el-valor-de-bitcoin-como-reserva-a-largo-plazo-2/",
+    "summary": "CriptoTendencia El auge de la inteligencia artificial impulsa un fuerte aumento del consumo eléctrico en Texas y Virginia, según datos de la EIA.  La entrada La inteligencia artificial dispara la demanda eléctrica en Estados Unidos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/08/la-inteligencia-artificial-dispara-la-demanda-electrica-en-estados-unidos-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -390,13 +556,13 @@
     "related": []
   },
   {
-    "title": "Litecoin intenta recuperar terreno: ¿pueden los alcistas impulsar a LTC hacia los $48?",
-    "slug": "litecoin-intenta-recuperar-terreno-pueden-los-alcistas-impul",
+    "title": "ETH alcanza su valoración más baja en casi siete años",
+    "slug": "eth-alcanza-su-valoracion-mas-baja-en-casi-siete-anos",
     "category": "cripto",
     "date": "2026-06-08",
-    "summary": "CriptoTendencia Litecoin muestra señales de recuperación mientras los funding rates vuelven a terreno positivo y el precio apunta hacia los $48.  La entrada Litecoin intenta recuperar terreno: ¿pueden los alcistas impulsar a LTC hacia los $48?",
-    "link": "https://criptotendencia.com/2026/06/08/litecoin-intenta-recuperar-terreno-pueden-los-alcistas-impulsar-a-ltc-hacia-los-48-2/",
-    "source": "CriptoTendencia",
+    "summary": "El indicador on-chain más seguido de ETH vuelve a niveles extremos, pero el mercado aún no define dirección.  La entrada ETH alcanza su valoración más baja en casi siete años se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/ether-alcanza-valoracion-mas-baja-en-casi-siete-anos/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -405,104 +571,13 @@
     "related": []
   },
   {
-    "title": "La computación cuántica y su amenaza más allá de las criptomonedas",
-    "slug": "la-computacion-cuantica-y-su-amenaza-mas-alla-de-las-criptom",
+    "title": "Cada vez más wallets incorporan agentes de IA para automatizar operaciones",
+    "slug": "cada-vez-mas-wallets-incorporan-agentes-de-ia-para-automatiz",
     "category": "cripto",
     "date": "2026-06-08",
-    "summary": "CriptoTendencia En esta entrega de Alerta Digital se analizan los peligros de la computación cuántica en sectores clave más allá de las criptomonedas.  La entrada La computación cuántica y su amenaza más allá de las criptomonedas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/08/la-computacion-cuantica-y-su-amenaza-mas-alla-de-las-criptomonedas/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El 71% de las reservas en Travala se pagaron con criptomonedas durante mayo",
-    "slug": "el-71-de-las-reservas-en-travala-se-pagaron-con-criptomoneda",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia Travala cerró mayo de 2026 con $7. 60M en reservas y un 71% pagado en criptomonedas.",
-    "link": "https://criptotendencia.com/2026/06/08/el-71-de-las-reservas-en-travala-se-pagaron-con-criptomonedas-durante-mayo/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los cinco consejos de oro de John D. Rockefeller para hacer dinero",
-    "slug": "los-cinco-consejos-de-oro-de-john-d-rockefeller-para-hacer-d",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia Cinco principios atemporales del primer multimillonario de la historia moderna, aplicados a la lógica de inversión del ecosistema cripto actual.  La entrada Los cinco consejos de oro de John D.",
-    "link": "https://criptotendencia.com/2026/06/08/los-cinco-consejos-de-oro-de-john-d-rockefeller-para-hacer-dinero/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Es posible que el precio de Bitcoin se desplome hasta los $35k?",
-    "slug": "es-posible-que-el-precio-de-bitcoin-se-desplome-hasta-los-35",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia La situación actual del mercado de criptomonedas hace temer sobre un posible desplome del precio de Bitcoin hasta los $35. 000 por moneda.",
-    "link": "https://criptotendencia.com/2026/06/08/es-posible-que-el-precio-de-bitcoin-se-desplome-hasta-los-35k/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los mercados de Corea, Japón y Taiwán se desploman por temor a subida de tasas en EE.UU.",
-    "slug": "los-mercados-de-corea-japon-y-taiwan-se-desploman-por-temor-",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia Una posible subida de las tasas de interés en los Estados Unidos provocó una reacción a la baja en los principales mercados asiáticos.  La entrada Los mercados de Corea, Japón y Taiwán se desploman por temor a subida de tasas en EE.",
-    "link": "https://criptotendencia.com/2026/06/08/los-mercados-de-corea-japon-y-taiwan-se-desploman-por-temor-a-subida-de-tasas-en-ee-uu/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "DES 2026 arranca mañana en Málaga: cinco claves para no perder de vista",
-    "slug": "des-2026-arranca-manana-en-malaga-cinco-claves-para-no-perde",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia DES 2026 abre mañana en Málaga con 15. 000 ejecutivos, 637 speakers y China como Guest Country Partner.",
-    "link": "https://criptotendencia.com/2026/06/08/des-2026-arranca-manana-en-malaga-cinco-claves-para-no-perder-de-vista/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Kraken abre la participación en la IPO de SpaceX a inversores españoles mediante tokens xStocks",
-    "slug": "kraken-abre-la-participacion-en-la-ipo-de-spacex-a-inversore",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "CriptoTendencia Kraken abre la IPO de SpaceX a inversores españoles mediante tokens xStocks SPCXx negociables 24/7.  La entrada Kraken abre la participación en la IPO de SpaceX a inversores españoles mediante tokens xStocks se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/08/kraken-abre-la-participacion-en-la-ipo-de-spacex-a-inversores-espanoles-mediante-tokens-xstocks/",
-    "source": "CriptoTendencia",
+    "summary": "La automatización financiera avanza en las criptomonedas mientras persisten preguntas sobre seguridad y regulación.  La entrada Cada vez más wallets incorporan agentes de IA para automatizar operaciones se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/cada-vez-mas-wallets-incorporan-agentes-ia-para-automatizar-operaciones/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -577,82 +652,6 @@
     "date": "2026-06-08",
     "summary": "Aunque fueron rescatados, los NFT permanecerán bajo custodia temporal de Yuga Labs hasta que exista una solución segura para devolverlos La entrada Yuga Labs usa falla de millonari",
     "link": "https://www.criptonoticias.com/tecnologia/yuga-labs-rescata-nft-hackeo/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ballena de Ethereum vendió ETH, wstETH y wBTC justo antes del desplome de precios",
-    "slug": "ballena-de-ethereum-vendio-eth-wsteth-y-wbtc-justo-antes-del",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "Luego de la caída, este inversionista volvió a acumular tokens a precios más bajos.  La entrada Ballena de Ethereum vendió ETH, wstETH y wBTC justo antes del desplome de precios se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/ballena-ethereum-vendio-eth-wsteth-wbtc-antes-desplome-precios/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "5 aspectos clave de la ley para regular las criptomonedas en Costa Rica",
-    "slug": "5-aspectos-clave-de-la-ley-para-regular-las-criptomonedas-en",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "La propuesta, que será elevada ante la Asamblea Legislativa del país centroamericano, abarca gran parte del ecosistema de las criptomonedas.  La entrada 5 aspectos clave de la ley para regular las criptomonedas en Costa Rica se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/regulacion/aspectos-clave-ley-regular-criptomonedas-costa-rica/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tom Lee hace su compra de ETH más grande de 2026 a pesar de pérdidas milmillonarias",
-    "slug": "tom-lee-hace-su-compra-de-eth-mas-grande-de-2026-a-pesar-de-",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "La compañía Bitmine adquirió 126. 971 unidades de la criptomoneda de Ethereum por un total de 214 millones de dólares.",
-    "link": "https://www.criptonoticias.com/mercados/tom-lee-compra-eth-mas-grande-2026-perdidas-milmillonarias/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sanción a HTX genera barreras para mover criptomonedas en exchanges sin KYC",
-    "slug": "sancion-a-htx-genera-barreras-para-mover-criptomonedas-en-ex",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "El caso genera un efecto dominó regulatorio que afecta a servicios más allá de los exchanges centrales.  La entrada Sanción a HTX genera barreras para mover criptomonedas en exchanges sin KYC se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/regulacion/sanciones-htx-genera-barreras-mover-criptomonedas-exchange-kyc-fixedfloat/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Bitcoin a USD 64.000 está en una trampa alcista o una subida consolidada? Traders opinan",
-    "slug": "bitcoin-a-usd-64000-esta-en-una-trampa-alcista-o-una-subida-",
-    "category": "cripto",
-    "date": "2026-06-08",
-    "summary": "La moneda digital se enfrenta a un mercado que envía señales mixtas, donde conviven el optimismo y la prudencia.  La entrada ¿Bitcoin a USD 64.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-usd-64000-trampa-alcista-subida-consolidada-traders-opinan/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
