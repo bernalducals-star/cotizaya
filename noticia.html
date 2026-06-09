@@ -297,5 +297,21 @@
 
     loadNoticia();
   </script>
+<!-- Widget QR -->
+<div id="qr-widget" style="position:fixed;bottom:20px;right:20px;z-index:9999;">
+  <button id="qr-toggle" onclick="document.getElementById('qr-panel').classList.toggle('open')" style="background:#111827;border:none;border-radius:12px;padding:10px;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.3);">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#00b894" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="3" height="3"/></svg>
+  </button>
+  <div id="qr-panel" style="display:none;position:absolute;bottom:50px;right:0;background:#111827;border-radius:16px;padding:16px;box-shadow:0 8px 32px rgba(0,0,0,0.4);text-align:center;width:180px;">
+    <img src="https://quickchart.io/qr?text=https://cotizaya.ar&size=140" width="140" height="140" style="border-radius:8px;display:block;margin:0 auto 8px;" loading="lazy" alt="QR CotizaYa"/>
+    <div style="font-size:11px;color:rgba(255,255,255,0.4);font-family:monospace;text-transform:uppercase;letter-spacing:0.08em;">cotizaya.ar</div>
+  </div>
+</div>
+<script>
+  document.getElementById('qr-toggle').addEventListener('click',function(){
+    var p=document.getElementById('qr-panel');
+    p.style.display=p.style.display==='none'?'block':'none';
+  });
+</script>
 </body>
 </html>
