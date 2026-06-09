@@ -22835,4 +22835,20 @@
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
+
+  <url>
+    <loc>https://cotizaya.ar/dolar-blue.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cotizaya.ar/dolar-oficial.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cotizaya.ar/dolar-mep.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
