@@ -22848,6 +22848,11 @@
   </url>
   <url>
     <loc>https://cotizaya.ar/dolar-mep.html</loc>
+    </url>
+    <url>
+        <loc>https://cotizaya.ar/about.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
   </url>
