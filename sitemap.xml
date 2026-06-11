@@ -22851,6 +22851,11 @@
     </url>
     <url>
         <loc>https://cotizaya.ar/about.html</loc>
+    </url>
+    <url>
+        <loc>https://cotizaya.ar/articulos/que-es-el-dolar-blue.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     <changefreq>hourly</changefreq>
