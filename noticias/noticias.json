@@ -1,5 +1,558 @@
 [
   {
+    "title": "Todd Martínez, responsable de la calificación de Fitch, alertó: \"Las reservas mejoran, pero siguen siendo bajas y vence mucha deuda en dólares en 2027\"",
+    "slug": "todd-martinez-responsable-de-la-calificacion-de-fitch-alerto",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Pese a la reciente suba de la nota para Argentina, la calificadora de riesgo advierte que persisten las vulnerabilidades económicas.  La celebración del rumbo y su visión sobre el dólar, el eventual peligro de “enfermedad holandesa” y el “riesgo político”.",
+    "link": "https://www.ambito.com/economia/todd-martinez-responsable-la-calificacion-fitch-alerto-las-reservas-mejoran-pero-siguen-siendo-bajas-y-vence-mucha-deuda-dolares-2027-n6287570",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "ARCA reglamentó el nuevo blanqueo laboral: cómo funcionará el régimen para regularizar empleados no registrados con quitas de hasta 90% de deuda",
+    "slug": "arca-reglamento-el-nuevo-blanqueo-laboral-como-funcionara-el",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "La Agencia de Recaudación y Control Aduanero estableció el procedimiento para que empresas privadas regularicen empleados no registrados o con registración deficiente.  El esquema prevé condonaciones de aportes y contribuciones y planes de pago de hasta 72 cuotas.",
+    "link": "https://www.ambito.com/economia/arca-reglamento-el-nuevo-blanqueo-laboral-como-funcionara-el-regimen-regularizar-empleados-no-registrados-quitas-90-deuda-n6287556",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Exfuncionarios del PJ y de JxC cuestionaron el nivel del dólar y reclamaron más protagonismo para la industria",
+    "slug": "exfuncionarios-del-pj-y-de-jxc-cuestionaron-el-nivel-del-dol",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Durante un encuentro empresario, referentes económicos advirtieron sobre los problemas de competitividad y plantearon la necesidad de impulsar un crecimiento más equilibrado, con m",
+    "link": "https://www.ambito.com/economia/exfuncionarios-del-pj-y-jxc-cuestionaron-el-nivel-del-dolar-y-reclamaron-mas-protagonismo-la-industria-n6287495",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El INDEC da a conocer la inflación de mayo: las consultoras prevén una nueva desaceleración en torno al 2%",
+    "slug": "el-indec-da-a-conocer-la-inflacion-de-mayo-las-consultoras-p",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "La desaceleración del IPC no es homogénea, ya que alimentos, transporte, salud y servicios regulados continúan concentrando buena parte de las presiones sobre los precios.",
+    "link": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-mayo-las-consultoras-preven-una-nueva-desaceleracion-torno-al-2-n6287482",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vivir viajando y ganando en dólares: qué es un nómada digital y cuáles son lo mejores destinos",
+    "slug": "vivir-viajando-y-ganando-en-dolares-que-es-un-nomada-digital",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Cada vez más personas eligen una modalidad de empleo que les permite cambiar de país sin dejar de generar ingresos desde internet.",
+    "link": "https://www.ambito.com/economia/vivir-viajando-y-ganando-dolares-que-es-un-nomada-digital-y-cuales-son-lo-mejores-destinos-n6286874",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Advierten que la incertidumbre económica sigue alta y crece la preocupación por el deterioro del mercado laboral",
+    "slug": "advierten-que-la-incertidumbre-economica-sigue-alta-y-crece-",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "La incertidumbre por el empleo avanza a paso firme y ya concentra el 22% de las preocupaciones, en medio de un mercado laboral que aún no logra recuperar la generación de puestos d",
+    "link": "https://www.ambito.com/economia/advierten-que-la-incertidumbre-economica-sigue-alta-y-crece-la-preocupacion-el-deterioro-del-mercado-laboral-n6287453",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 11 de junio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-11-junio-n6287559",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar frenó su repunte y ahora la city evalúa cómo continúa la tendencia",
+    "slug": "el-dolar-freno-su-repunte-y-ahora-la-city-evalua-como-contin",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Tras alcanzar máximos de varios meses, las cotizaciones del dólar corrigieron a la baja este miércoles.  El blue retrocedió a $1.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-freno-su-repunte-y-ahora-la-city-evalua-como-continua-la-tendencia-n6287564",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bonos en dólares se disparan hasta 3,5% y el riesgo país perfora los 500 puntos",
+    "slug": "los-bonos-en-dolares-se-disparan-hasta-35-y-el-riesgo-pais-p",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "La mejora de la calificación crediticia de la Argentina por parte de Standard & Poor’s impulsó una fuerte reacción en el mercado: los bonos soberanos en dólares avanzan hasta 3,5%",
+    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-se-disparan-35-y-el-riesgo-pais-perfora-los-500-puntos-n6287578",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mundial 2026: las 6 acciones que Wall Street cree que pueden ganar fuera de la cancha",
+    "slug": "mundial-2026-las-6-acciones-que-wall-street-cree-que-pueden-",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "El Mundial de Fútbol arranca y podría dar un impulso de 40. 000 millones de dólares a la economía global.",
+    "link": "https://www.ambito.com/finanzas/mundial-2026-las-6-acciones-que-wall-street-cree-que-pueden-ganar-fuera-la-cancha-n6287521",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este jueves 11 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-jueves-11-de-junio",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-11-junio-n6287541",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este jueves 11 de junio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-11-de-junio",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-11-junio-n6287540",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este jueves 11 de junio",
+    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-jueves-11-de-j",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
+    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-jueves-11-junio-n6287438",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bancos prevén una baja de la mora y apuestan a una recuperación del crédito en el segundo semestre",
+    "slug": "los-bancos-preven-una-baja-de-la-mora-y-apuestan-a-una-recup",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "El presidente de ADEBA, Javier Bolzico, aseguró que \"la cartera irregular comenzará a bajar para ir convergiendo a niveles normales\".  Además, reclamó una menor carga tributaria sobre la actividad financiera y planteó la necesidad de atraer al sistema los u$s330.",
+    "link": "https://www.ambito.com/finanzas/los-bancos-preven-una-baja-la-mora-y-apuestan-una-recuperacion-del-credito-el-segundo-semestre-n6287497",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El ministro España anima a opositores de Hacienda a solicitar becas de 7.000 euros antes de este viernes",
+    "slug": "el-ministro-espana-anima-a-opositores-de-hacienda-a-solicita",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "",
+    "link": "https://www.infobae.com/america/agencias/2026/06/11/el-ministro-espana-anima-a-opositores-de-hacienda-a-solicitar-becas-de-7000-euros-antes-de-este-viernes/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Filipinas investiga ahogamiento de dos jugadores de baloncesto durante actividad deportiva",
+    "slug": "filipinas-investiga-ahogamiento-de-dos-jugadores-de-balonces",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/06/11/filipinas-investiga-ahogamiento-de-dos-jugadores-de-baloncesto-durante-actividad-deportiva/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "\"Con Inocencia Fiscal no voy a blanquear ni un solo dólar\": las diez frases más fuertes de Adorni",
+    "slug": "con-inocencia-fiscal-no-voy-a-blanquear-ni-un-solo-dolar-las",
+    "category": "economia",
+    "date": "2026-06-11",
+    "summary": "Luego de presentar su declaración jurada, el Jefe de Gabinete brindó una entrevista en la que dejó varias frases.  \"Le presenté la renuncia a Milei\", dijo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/politica/457065-con-inocencia-fiscal-no-voy-a-blanquear-ni-un-solo-dolar-diez-frases-de-adorni",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Qué sabe China que el mercado no? Sus compras de oro vuelven a acelerarse",
+    "slug": "que-sabe-china-que-el-mercado-no-sus-compras-de-oro-vuelven-",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia Las compras de oro de China siguen acelerándose cerca de máximos históricos y generan preguntas sobre su estrategia financiera.  La entrada ¿Qué sabe China que el mercado no?",
+    "link": "https://criptotendencia.com/2026/06/11/que-sabe-china-que-el-mercado-no-sus-compras-de-oro-vuelven-a-acelerarse-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El indicador favorito de Warren Buffett alcanza niveles nunca antes vistos",
+    "slug": "el-indicador-favorito-de-warren-buffett-alcanza-niveles-nunc",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia El indicador favorito de Warren Buffett marca máximos históricos y alerta sobre valoraciones extremas en el mercado bursátil.  La entrada El indicador favorito de Warren Buffett alcanza niveles nunca antes vistos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/11/el-indicador-favorito-de-warren-buffett-alcanza-niveles-nunca-antes-vistos-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "RENDER enfrenta una señal bajista, ¿qué sigue?",
+    "slug": "render-enfrenta-una-senal-bajista-que-sigue",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia RENDER muestra debilidad frente al mercado.  Descubre los niveles técnicos más importantes y las últimas novedades fundamentales.",
+    "link": "https://criptotendencia.com/2026/06/11/render-enfrenta-una-senal-bajista-que-sigue/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Automotrices europeas luchan por recuperar el mercado de multimillonarios chinos",
+    "slug": "automotrices-europeas-luchan-por-recuperar-el-mercado-de-mul",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia Grandes fabricantes de coches de lujo como Ferrari y Rolls-Royce luchan por recuperar su posición en el mercado de multimillonarios chinos.  La entrada Automotrices europeas luchan por recuperar el mercado de multimillonarios chinos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/11/automotrices-europeas-luchan-por-recuperar-el-mercado-de-multimillonarios-chinos-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El CEO de Ripple respalda la visión institucional de XRP frente a Wall Street",
+    "slug": "el-ceo-de-ripple-respalda-la-vision-institucional-de-xrp-fre",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia El director ejecutivo (CEO) de Ripple, Brad Garlinghouse, coincide en que la industria cripto intenta replicar el enfoque bancario de XRP.  La entrada El CEO de Ripple respalda la visión institucional de XRP frente a Wall Street se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/11/el-ceo-de-ripple-respalda-la-vision-institucional-de-xrp-frente-a-wall-street/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Manuel Adorni declaró US$ 513.000 en Bitcoin para justificar su patrimonio ante la justicia argentina",
+    "slug": "manuel-adorni-declaro-us-513000-en-bitcoin-para-justificar-s",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia El jefe de Gabinete presentó su declaración jurada rectificativa con tenencias de BTC adquiridas entre 2013 y 2018.  La entrada Manuel Adorni declaró US$ 513.",
+    "link": "https://criptotendencia.com/2026/06/11/manuel-adorni-declaro-us-513-000-en-bitcoin-para-justificar-su-patrimonio-ante-la-justicia-argentina/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿El fin de los chatbots? Nvidia presentó el gran salto hacia la IA agéntica en el Web Summit Rio 2026",
+    "slug": "el-fin-de-los-chatbots-nvidia-presento-el-gran-salto-hacia-l",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia La gigante de los chips y la inteligencia artificial, Nvidia, presentó la nueva era de la IA agéntica durante el Web Summit Rio 2026.  La entrada ¿El fin de los chatbots?",
+    "link": "https://criptotendencia.com/2026/06/11/el-fin-de-los-chatbots-nvidia-presento-el-gran-salto-hacia-la-ia-agentica-en-el-web-summit-rio-2026/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dark Web3: el movimiento que busca rescatar la privacidad perdida de las criptomonedas",
+    "slug": "dark-web3-el-movimiento-que-busca-rescatar-la-privacidad-per",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia Dark Web3 surge como una respuesta tecnológica a la vigilancia financiera, la censura digital y la pérdida de privacidad en el ecosistema cripto.  La entrada Dark Web3: el movimiento que busca rescatar la privacidad perdida de las criptomonedas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/11/dark-web3-el-movimiento-que-busca-rescatar-la-privacidad-perdida-de-las-criptomonedas/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mastercard presenta Agent Pay for Machines para impulsar los pagos entre agentes de IA",
+    "slug": "mastercard-presenta-agent-pay-for-machines-para-impulsar-los",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "CriptoTendencia Mastercard presenta Agent Pay for Machines, una plataforma para que agentes de IA realicen pagos autónomos con soporte para stablecoins.  La entrada Mastercard presenta Agent Pay for Machines para impulsar los pagos entre agentes de IA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/11/mastercard-presenta-agent-pay-for-machines-para-impulsar-los-pagos-entre-agentes-de-ia-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La IA convierte a Bitcoin en una «prisión de datos»: informe",
+    "slug": "la-ia-convierte-a-bitcoin-en-una-prision-de-datos-informe",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Un documento técnico revela cómo el análisis forense automatizado elimina el anonimato financiero y acelera los planes de control estatal.  La entrada La IA convierte a Bitcoin en una «prisión de datos»: informe se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/inteligencia-artificial-bitcoin-prision-datos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "CEO de Anthropic: nuestra IA puede destruir infraestructura financiera y de seguridad",
+    "slug": "ceo-de-anthropic-nuestra-ia-puede-destruir-infraestructura-f",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Dario Amodei admite que Mythos ya alteró la ciberseguridad global y exige regulación vinculante para la IA.  La entrada CEO de Anthropic: nuestra IA puede destruir infraestructura financiera y de seguridad se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/ceo-anthropic-ia-puede-destruir-infraestructura-financiera-seguridad/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La salida a bolsa de SpaceX sería un golpe mayor para el precio de bitcoin",
+    "slug": "la-salida-a-bolsa-de-spacex-seria-un-golpe-mayor-para-el-pre",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Este viernes 12 de junio está previsto que la empresa de Elon Musk comience a cotizar en Nasdaq.  La entrada La salida a bolsa de SpaceX sería un golpe mayor para el precio de bitcoin se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/salida-bolsa-spacex-golpe-mayor-precio-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿En qué beneficia el acuerdo UE-Mercosur a las fintechs de criptomonedas?",
+    "slug": "en-que-beneficia-el-acuerdo-ue-mercosur-a-las-fintechs-de-cr",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Diversas plataformas de criptomonedas activas en la región ofrecen la apertura de un corredor comercial entre Latinoamérica y el viejo continente.  La entrada ¿En qué beneficia el acuerdo UE-Mercosur a las fintechs de criptomonedas?",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/acuerdo-ue-mercosur-fintechs-criptomonedas-latinoamerica/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Banco más grande de Singapur venderá oro tokenizado",
+    "slug": "banco-mas-grande-de-singapur-vendera-oro-tokenizado",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "DBS Group será la primera plataforma de Singapur en ofrecer acceso minorista a oro físico tokenizado.  La entrada Banco más grande de Singapur venderá oro tokenizado se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/banco-grande-singapur-dbs-oro-tokenizado/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "«Perdí USD 15.000 en memecoins»: cuando el trading se convierte en ludopatía",
+    "slug": "perdi-usd-15000-en-memecoins-cuando-el-trading-se-convierte-",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Traders de criptomonedas comentan sobre la obsesión por la especulación financiera y las consecuencias que ha tenido en sus vidas.  La entrada «Perdí USD 15.",
+    "link": "https://www.criptonoticias.com/mercados/perdi-usd-15000-memecoins-3-meses-trading-ludopatia/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Olvida el fútbol, las criptomonedas son el show del Mundial FIFA 2026",
+    "slug": "olvida-el-futbol-las-criptomonedas-son-el-show-del-mundial-f",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "Fan tokens, memecoins y entradas en blockchain convierten al Mundial 2026 en el mayor escaparate de criptomonedas de la historia.  La entrada Olvida el fútbol, las criptomonedas son el show del Mundial FIFA 2026 se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/futbol-criptomonedas-mundial-fifa-2026/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tim Payne, entre fenómeno orgánico o shitcoin de moda",
+    "slug": "tim-payne-entre-fenomeno-organico-o-shitcoin-de-moda",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "El caso de Tim Payne nos habla más sobre la shitcoinización que trae la viralidad que sobre su oficio como futbolista.  La entrada Tim Payne, entre fenómeno orgánico o shitcoin de moda se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/opinion/tim-payne-fenomeno-organico-shitcoin-moda/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin podría tocar piso en USD 53.600 en medio de demanda debilitada, dice CryptoQuant",
+    "slug": "bitcoin-podria-tocar-piso-en-usd-53600-en-medio-de-demanda-d",
+    "category": "cripto",
+    "date": "2026-06-11",
+    "summary": "La demanda de bitcoin se desploma y aún no hay señales claras de capitulación en el mercado.  La entrada Bitcoin podría tocar piso en USD 53.",
+    "link": "https://www.criptonoticias.com/mercados/bitcoin-piso-usd-53-600-demanda-debilitada-cryptoquant/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo en la cuerda floja: cuánto generan $500.000 a 30 días",
+    "slug": "plazo-fijo-en-la-cuerda-floja-cuanto-generan-500000-a-30-dia",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "El rendimiento depende del canal elegido para realizar la operación y puede variar de manera significativa entre sucursal y home banking.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-la-cuerda-floja-cuanto-generan-500000-30-dias-n6287340",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "El dólar mayorista bajó por segundo día consecutivo y anotó su recorte más pronunciado en un mes",
     "slug": "el-dolar-mayorista-bajo-por-segundo-dia-consecutivo-y-anoto-",
     "category": "economia",
@@ -16,121 +569,12 @@
     "related": []
   },
   {
-    "title": "José Luis Daza: \"Argentina ya cambió para siempre porque la sociedad entendió el plan económico\"",
-    "slug": "jose-luis-daza-argentina-ya-cambio-para-siempre-porque-la-so",
+    "title": "Mercado de capitales: la CNV oficializó el \"big bang\" regulatorio y se agilizan las emisiones con autorizaciones automáticas",
+    "slug": "mercado-de-capitales-la-cnv-oficializo-el-big-bang-regulator",
     "category": "economia",
     "date": "2026-06-10",
-    "summary": "El viceministro de Economía vinculó la historia de déficit fiscal del país con la resistencia social al ajuste.  “Ahora hay un cambio estructural en esa idea de la sociedad”, afirmó.",
-    "link": "https://www.ambito.com/economia/jose-luis-daza-argentina-ya-cambio-siempre-porque-la-sociedad-entendio-el-plan-economico-n6287204",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Aguinaldo 2026: cuánto podés ganar si lo invertís en un plazo fijo a 30 días",
-    "slug": "aguinaldo-2026-cuanto-podes-ganar-si-lo-invertis-en-un-plazo",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Con el pago de la primera cuota del aguinaldo cada vez más cerca, muchos trabajadores evalúan alternativas para resguardar esos pesos.  Cuáles son las tasas que ofrecen los principales bancos y cuánto rinde una inversión de hasta $1 millón.",
-    "link": "https://www.ambito.com/economia/aguinaldo-2026-cuanto-podes-ganar-si-lo-invertis-un-plazo-fijo-30-dias-n6287182",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El plazo fijo no repunta: cómo siguen las tasas de los principales bancos hoy, miércoles 10 de junio",
-    "slug": "el-plazo-fijo-no-repunta-como-siguen-las-tasas-de-los-princi",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Los rendimientos continúan en niveles reducidos y los ahorristas siguen atentos a los movimientos del sistema financiero.",
-    "link": "https://www.ambito.com/economia/el-plazo-fijo-no-repunta-como-siguen-las-tasas-los-principales-bancos-hoy-miercoles-10-junio-n6287183",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 10 de junio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-10-junio-n6287107",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El riesgo país vuelve a superar los 500 puntos pero las acciones avanzan",
-    "slug": "el-riesgo-pais-vuelve-a-superar-los-500-puntos-pero-las-acci",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "El S&P Merval opera al alza, aunque en Wall Street las acciones argentinas cotizan dispares.",
-    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-extienden-bajas-y-el-riesgo-pais-roza-los-500-puntos-basicos-n6287211",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este miércoles 10 de junio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-miercoles-10-de-junio",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-10-junio-n6287076",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este miércoles 10 de junio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-miercoles-10-de-junio",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-10-junio-n6287077",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los Cedears tecnológicos dominan las carteras de los argentinos: cuáles son las acciones más operadas",
-    "slug": "los-cedears-tecnologicos-dominan-las-carteras-de-los-argenti",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "Los Cedears de acciones y ETF vinculados a empresas tecnológicas se encuentran entre los más operados de las últimas ruedas.",
-    "link": "https://www.ambito.com/finanzas/los-cedears-tecnologicos-dominan-las-carteras-los-argentinos-cuales-son-las-acciones-mas-operadas-n6287314",
+    "summary": "El organismo aprobó el tramo final de una reforma que cambia el modo de entrada a la oferta pública. Desde el viernes, buena parte de las gestiones dejará de depender de una aproba",
+    "link": "https://www.ambito.com/finanzas/mercado-capitales-la-cnv-oficializo-el-big-bang-regulatorio-y-se-agilizan-las-emisiones-autorizaciones-automaticas-n6287460",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -140,12 +584,12 @@
     "related": []
   },
   {
-    "title": "El vice de Caputo dijo que el peso se \"va a convertir en una de las más fuertes del continente\"",
-    "slug": "el-vice-de-caputo-dijo-que-el-peso-se-va-a-convertir-en-una-",
+    "title": "El mercado ya definió cuál es el mejor plazo fijo para invertir los pesos hasta fin de año",
+    "slug": "el-mercado-ya-definio-cual-es-el-mejor-plazo-fijo-para-inver",
     "category": "economia",
     "date": "2026-06-10",
-    "summary": "Funcionarios estiman ingresos récord por exportaciones y resaltan la llegada de inversiones que respaldan la confianza en la política económica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/457034-el-vice-de-luis-caputo-anticipo-a-empresarios-que-pasara-con-el-dolar",
+    "summary": "Los pronósticos de menor inflación para los próximos meses y baja en las tasas de interés, reaviva la pregunta sobre qué tipo de depósito será más rentable (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456797-cual-es-el-mejor-plazo-fijo-para-invertir-los-pesos-hasta-fin-de-ano",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -156,13 +600,91 @@
     "related": []
   },
   {
-    "title": "Crece el temor a estadios sin llenar durante el Mundial: ¿la FIFA sufre \"falla de mercado\"?",
-    "slug": "crece-el-temor-a-estadios-sin-llenar-durante-el-mundial-la-f",
+    "title": "Caputo patea deuda para después de las elecciones y sigue absorbiendo pesos del mercado",
+    "slug": "caputo-patea-deuda-para-despues-de-las-elecciones-y-sigue-ab",
     "category": "economia",
     "date": "2026-06-10",
-    "summary": "Las entradas para ver a Argentina, entre las más cotizadas del nuevo sistema de reventas instaurado por FIFA.  Arrancan en torno a u$s1.",
-    "link": "https://www.iprofesional.com/economia/456918-crece-el-temor-a-estadios-vacios-en-el-mundial-2026-la-fifa-sufre-falla-de-mercado",
+    "summary": "Si bien no había un gran desafío en cuanto al volumen de vencimiento, el Gobierno cumplió una de las metas que se había fijado Finanzas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/457056-luis-caputo-patea-deuda-para-despues-de-las-elecciones-y-sigue-absorbiendo-pesos-del-mercado",
     "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las dudas crecen entre empresarios y se enfrían las inversiones",
+    "slug": "las-dudas-crecen-entre-empresarios-y-se-enfrian-las-inversio",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "Aunque la mayoría espera una mejora de la economía, se reducen los planes de inversión, contratación de personal y expansión de negocios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/457054-empresarios-mas-cautos-crecen-dudas-sobre-rentabilidad-y-se-enfrian-inversiones",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La fintech Cocos ya puede operar como banco: cuál es su plan y qué servicios ofrecerá",
+    "slug": "la-fintech-cocos-ya-puede-operar-como-banco-cual-es-su-plan-",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "Los bancos y las fintech se está reacomodando al nuevo escenario financiero para no perder usuarios e intentar brindar todo tipo de productos y servicios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457038-la-fintech-cocos-ya-puede-operar-como-banco-cual-es-su-plan-y-que-servicios-ofrecera",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Reforma laboral: gremio de bancarios pide suba de sueldo, en plena revisión de convenios",
+    "slug": "reforma-laboral-gremio-de-bancarios-pide-suba-de-sueldo-en-p",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "En los próximos días se actualizarán los sueldos, según la inflación.  Luego, deberán acordar si los aumentos son mensuales o cambia la modalidad.",
+    "link": "https://www.iprofesional.com/economia/457045-reforma-laboral-gremio-empleados-bancarios-pide-suba-salarial-en-plena-revision-de-convenios",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Otra calificadora de riesgo mejoró la nota de deuda de Argentina: qué implica para la economía",
+    "slug": "otra-calificadora-de-riesgo-mejoro-la-nota-de-deuda-de-argen",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "La calificadora norteamericana elevó la calificación de CCC+ a B-, en una decisión que fue celebrada por el ministro de Economía Luis Caputo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457047-otra-calificadora-de-riesgo-mejoro-la-nota-de-deuda-de-argentina-que-implica-para-la-economia",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Edenor presentó balance y broker estima cuánto ganaría el inversor que ponga $500.000 en acciones",
+    "slug": "edenor-presento-balance-y-broker-estima-cuanto-ganaria-el-in",
+    "category": "economia",
+    "date": "2026-06-10",
+    "summary": "Edenor presentó balance y una poderosa sociedad de bolsa mantuvo su recomendación de compra, con un potencial de alza superior al 100% (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/456960-cuanto-puede-ganar-el-inversor-que-apueste-500000-pesos-en-acciones-de-edenor-segun-broker",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -177,36 +699,6 @@
     "date": "2026-06-10",
     "summary": "Vaca Muerta y minería ya aportan casi lo mismo que el agro, pero abril dejó caída en industria y construcción y alimentos otra vez en alza (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/457000-panorama-financiero-de-hoy-10-junio-2026-en-menos-de-90-segundos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Qué acciones argentinas escalarán fuerte si Morgan Stanley mejora la nota de Argentina",
-    "slug": "que-acciones-argentinas-escalaran-fuerte-si-morgan-stanley-m",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "La expectativa por MSCI vuelve a poner al Merval bajo la lupa.  Los papeles que quedaron con más recorrido según importante sociedad de bolsa de la City (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456645-que-acciones-argentinas-escalaran-fuerte-si-morgan-stanley-mejora-la-nota-de-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Aerolíneas Argentinas firmó un acuerdo clave para turistas argentinos: cómo aprovecharlo",
-    "slug": "aerolineas-argentinas-firmo-un-acuerdo-clave-para-turistas-a",
-    "category": "economia",
-    "date": "2026-06-10",
-    "summary": "La aerolínea de bandera anunció que se asoció con una de las compañías aéreas de Europa que operan una región a la que muchos turistas sueñan conocer (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456876-aerolineas-argentinas-firmo-un-acuerdo-clave-para-turistas-argentinos-como-aprovecharlo",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -216,12 +708,12 @@
     "related": []
   },
   {
-    "title": "Los cinco consejos de oro de Maquiavelo para sobrevivir en el mercado cripto",
-    "slug": "los-cinco-consejos-de-oro-de-maquiavelo-para-sobrevivir-en-e",
+    "title": "Web Summit Rio 2026: el impacto de la generación Z y la IA en los mercados",
+    "slug": "web-summit-rio-2026-el-impacto-de-la-generacion-z-y-la-ia-en",
     "category": "cripto",
     "date": "2026-06-10",
-    "summary": "CriptoTendencia Cinco principios atemporales del autor de El Príncipe, aplicados a la lógica de supervivencia del inversor cripto contemporáneo.  La entrada Los cinco consejos de oro de Maquiavelo para sobrevivir en el mercado cripto se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/los-cinco-consejos-de-oro-de-maquiavelo-para-sobrevivir-en-el-mercado-cripto/",
+    "summary": "CriptoTendencia Durante la jornada de este miércoles en la Web Summit Rio 2026, se debatió el papel de la IA y la generación Z en los mercados.  La entrada Web Summit Rio 2026: el impacto de la generación Z y la IA en los mercados se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/10/web-summit-rio-2026-el-impacto-de-la-generacion-z-y-la-ia-en-los-mercados/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -231,370 +723,16 @@
     "related": []
   },
   {
-    "title": "Las stablecoins se consolidan como infraestructura financiera y América Latina marca el ritmo de la adopción",
-    "slug": "las-stablecoins-se-consolidan-como-infraestructura-financier",
+    "title": "Parlamento de Venezuela evalúa reformas a la regulación de las criptomonedas",
+    "slug": "parlamento-de-venezuela-evalua-reformas-a-la-regulacion-de-l",
     "category": "cripto",
     "date": "2026-06-10",
-    "summary": "CriptoTendencia Stablecoins ya operan como infraestructura financiera en América Latina: $ 324. 000 millones movidos en 2025 y adopción institucional en marcha La entrada Las stablecoins se consolidan como infraestructura financiera y América Latina marca el ritmo de la adopción se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/las-stablecoins-se-consolidan-como-infraestructura-financiera-y-america-latina-marca-el-ritmo-de-la-adopcion/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La industria de criptomonedas redobla la presión sobre el Senado para la aprobación de CLARITY",
-    "slug": "la-industria-de-criptomonedas-redobla-la-presion-sobre-el-se",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Una coalición de exchanges y otras firmas de la industria de criptomonedas presionan al Senado estadounidense para la aprobación de CLARITY.  La entrada La industria de criptomonedas redobla la presión sobre el Senado para la aprobación de CLARITY se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/la-industria-de-criptomonedas-redobla-la-presion-sobre-el-senado-para-la-aprobacion-de-clarity/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cecabank activa su servicio de custodia de criptoactivos para entidades financieras junto a Bit2Me y Renta 4 Banco",
-    "slug": "cecabank-activa-su-servicio-de-custodia-de-criptoactivos-par",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Cecabank lanza su servicio de custodia de criptoactivos para entidades financieras junto a Bit2Me, con Renta 4 Banco como primer cliente bajo marco MiCA La entrada",
-    "link": "https://criptotendencia.com/2026/06/10/cecabank-activa-su-servicio-de-custodia-de-criptoactivos-para-entidades-financieras-junto-a-bit2me-y-renta-4-banco/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La mitad de todo el suministro de Bitcoin está en números rojos ahora",
-    "slug": "la-mitad-de-todo-el-suministro-de-bitcoin-esta-en-numeros-ro",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Según un reciente estudio de la firma K33, más del 50% de todo el suministro monetario de Bitcoin está ahora en posición de pérdidas.  La entrada La mitad de todo el suministro de Bitcoin está en números rojos ahora se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/la-mitad-de-todo-el-suministro-de-bitcoin-esta-en-numeros-rojos-ahora/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La inflación del IPC de EE. UU. subió en mayo hasta el 4.2% y las criptomonedas reaccionan a la baja",
-    "slug": "la-inflacion-del-ipc-de-ee-uu-subio-en-mayo-hasta-el-42-y-la",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Tras conocerse los datos de inflación del IPC en los Estados Unidos en mayo, las criptomonedas reaccionan con un retroceso generalizado.  La entrada La inflación del IPC de EE.",
-    "link": "https://criptotendencia.com/2026/06/10/la-inflacion-del-ipc-de-ee-uu-subio-en-mayo-hasta-el-4-2-y-las-criptomonedas-reaccionan-a-la-baja/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Web Summit Rio 2026: IBM y Banco do Brasil revelan que el factor humano es el epicentro de la IA",
-    "slug": "web-summit-rio-2026-ibm-y-banco-do-brasil-revelan-que-el-fac",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Durante el Web Summit Rio 2026 representantes de IBM y del Banco do Brasil hablaron tendidamente sobre los fundamentos de la IA.  La entrada Web Summit Rio 2026: IBM y Banco do Brasil revelan que el factor humano es el epicentro de la IA se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/web-summit-rio-2026-ibm-y-banco-do-brasil-revelan-que-el-factor-humano-es-el-epicentro-de-la-ia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Anthropic lanza Claude Fable 5, el primer modelo público de clase Mythos",
-    "slug": "anthropic-lanza-claude-fable-5-el-primer-modelo-publico-de-c",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Anthropic presenta Claude Fable 5, su IA más potente para el público, con barreras de seguridad ante consultas de alto riesgo.  La entrada Anthropic lanza Claude Fable 5, el primer modelo público de clase Mythos se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/anthropic-lanza-claude-fable-5-el-primer-modelo-publico-de-clase-mythos-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Web Summit Rio 2026: Nvidia y Claro anuncian una alianza que democratiza la IA en América Latina",
-    "slug": "web-summit-rio-2026-nvidia-y-claro-anuncian-una-alianza-que-",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Durante la segunda jornada del Web Summit Rio 2026, Claro y Nvidia anunciaron una alianza de enorme relevancia para Latinoamérica.  La entrada Web Summit Rio 2026: Nvidia y Claro anuncian una alianza que democratiza la IA en América Latina se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/web-summit-rio-2026-nvidia-y-claro-anuncian-una-alianza-que-democratiza-la-ia-en-america-latina/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bank of America activa el 70% de sus señales bajistas y aconseja tomar ganancias",
-    "slug": "bank-of-america-activa-el-70-de-sus-senales-bajistas-y-acons",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "CriptoTendencia Bank of America alerta sobre siete señales históricas de mercado bajista y recomienda mayor prudencia tras el rally del S&P 500.  La entrada Bank of America activa el 70% de sus señales bajistas y aconseja tomar ganancias se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/10/bank-of-america-activa-el-70-de-sus-senales-bajistas-y-aconseja-tomar-ganancias-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La IA viene por las finanzas, ¿están listos los activos digitales?",
-    "slug": "la-ia-viene-por-las-finanzas-estan-listos-los-activos-digita",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "Un grupo de 16 economistas de élite ven las finanzas como el gran ganador de la IA y los activos digitales están en esa ecuación.  La entrada La IA viene por las finanzas, ¿están listos los activos digitales?",
-    "link": "https://www.criptonoticias.com/comunidad/adopcion/ia-finanzas-activos-digitales-empleo/",
+    "summary": "El diputado Genkerve Tovar afirmó a CriptoNoticias que han establecido mesas de trabajo para avanzar en un eventual proyecto de ley.  La entrada Parlamento de Venezuela evalúa reformas a la regulación de las criptomonedas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/regulacion/parlamento-venezuela-reformas-regulacion-criptomonedas/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentino ofrece 0,5 BTC de recompensa a quien descifre la contraseña de una wallet",
-    "slug": "argentino-ofrece-05-btc-de-recompensa-a-quien-descifre-la-co",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "La wallet de Bitcoin Core lleva más de 12 años cifrada; la recompensa pasó de 0,23 a 0,5 BTC tras un año sin resultados.  La entrada Argentino ofrece 0,5 BTC de recompensa a quien descifre la contraseña de una wallet se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/argentino-ofrece-05-btc-recompensa-descifre-contrasena-wallet/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "CME lanza índice de futuros que incluye bitcoin, XRP y solana",
-    "slug": "cme-lanza-indice-de-futuros-que-incluye-bitcoin-xrp-y-solana",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "La mayor bolsa de derivados del mundo amplía su oferta con un producto ligado a un índice diversificado.  La entrada CME lanza índice de futuros que incluye bitcoin, XRP y solana se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/cme-lanza-indice-futuros-bitcoin-xrp-y-solana/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cambió el presidente de la FED, pero no las expectativas sobre tasas de interés",
-    "slug": "cambio-el-presidente-de-la-fed-pero-no-las-expectativas-sobr",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "Kevin Warsh, el enviado de Donald Trump, no anunciaría un recorte de tasas en la reunión de la próxima semana.  La entrada Cambió el presidente de la FED, pero no las expectativas sobre tasas de interés se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/cambio-presidente-fed-expectativas-tasas-interes/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Liberan la IA más avanzada del mercado pero impiden usarla para hackear seguridad",
-    "slug": "liberan-la-ia-mas-avanzada-del-mercado-pero-impiden-usarla-p",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "El lanzamiento de Fable 5 ocurre cuando los modelos Mythos ya detectaron más de 10. 000 vulnerabilidades críticas en software de infraestructura global.",
-    "link": "https://www.criptonoticias.com/tecnologia/anthropic-libera-su-ia-mas-avanzada-pero-bloquea-consultas-de-ciberseguridad/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "PAXG y XAUT estarían dando una oportunidad dorada con su caída a 4.100 dólares",
-    "slug": "paxg-y-xaut-estarian-dando-una-oportunidad-dorada-con-su-cai",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "Analistas como Samuel Smith prevén que el precio del oro tenga nuevos repuntes tras salir de la actual zona de corrección.  La entrada PAXG y XAUT estarían dando una oportunidad dorada con su caída a 4.",
-    "link": "https://www.criptonoticias.com/mercados/paxg-xaut-oportunidad-dorada-caida-4100-dolares/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "«Bitcoin es más seguro que el dólar porque la cuántica hackeará los bancos primero”",
-    "slug": "bitcoin-es-mas-seguro-que-el-dolar-porque-la-cuantica-hackea",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "Mientras el inversor Tim Draper habla, el sistema bancario acelera su migración a cifrado post-cuántico ante la amenaza.  La entrada «Bitcoin es más seguro que el dólar porque la cuántica hackeará los bancos primero” se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/bitcoin-dolar-cuantica-hackeara-bancos-timdraper/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Si EE.UU. blinda su reserva de bitcoin ¿qué efecto tendría esto en Latinoamérica?",
-    "slug": "si-eeuu-blinda-su-reserva-de-bitcoin-que-efecto-tendria-esto",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "El abogado argentino Jorge Paternó habla sobre los avances legislativos que se están proponiendo en el país norteamericano.  La entrada Si EE.",
-    "link": "https://www.criptonoticias.com/comunidad/blindar-reserva-bitcoin-estados-unidos-latinoamerica/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ballenas de bitcoin aprovecharon la caída a USD 60.000 para recargar sus wallets",
-    "slug": "ballenas-de-bitcoin-aprovecharon-la-caida-a-usd-60000-para-r",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "A diferencia de los minoristas que entraron en pánico, los grandes poseedores de bitcoin ejecutaron una agresiva campaña de compras.  La entrada Ballenas de bitcoin aprovecharon la caída a USD 60.",
-    "link": "https://www.criptonoticias.com/mercados/ballenas-bitcoin-caida-usd-60000-recargar-wallets/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Qué cambia el 1 de julio en España para las criptomonedas?",
-    "slug": "que-cambia-el-1-de-julio-en-espana-para-las-criptomonedas",
-    "category": "cripto",
-    "date": "2026-06-10",
-    "summary": "Finaliza el régimen transitorio de MiCA en España, forzando el cierre de plataformas sin licencia en medio del avance bancario.  La entrada ¿Qué cambia el 1 de julio en España para las criptomonedas?",
-    "link": "https://www.criptonoticias.com/regulacion/cambia-1-julio-espana-criptomonedas-mica/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Buena noticia para Caputo: 45 consultoras de la City y Wall Street recortan suba prevista del dólar",
-    "slug": "buena-noticia-para-caputo-45-consultoras-de-la-city-y-wall-s",
-    "category": "economia",
-    "date": "2026-06-09",
-    "summary": "El ingreso de divisas del agro y la energía contiene las expectativas de devaluación.  Cuál es el precio promedio que prevé el mercado para fin de año (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456929-la-excelente-noticia-sobre-el-dolar-que-le-dieron-45-consultoras-a-caputo",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "ADRs escalaron hasta 6,7%, pero cayeron los bonos y el riesgo país se acercó a los 500 puntos",
-    "slug": "adrs-escalaron-hasta-67-pero-cayeron-los-bonos-y-el-riesgo-p",
-    "category": "economia",
-    "date": "2026-06-09",
-    "summary": "Las acciones argentinas subieron con fuerza en Nueva York, encabezadas por Vaca Muerta.  Los bonos soberanos no tuvieron el mismo desempeño (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456893-adrs-escalaron-hasta-6-7-por-ciento-pero-cayeron-los-bonos-y-el-riesgo-pais-se-acerco-a-500-puntos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Debuta el primer REIT en la bolsa argentina: de qué se trata esta innovadora inversión inmobiliaria",
-    "slug": "debuta-el-primer-reit-en-la-bolsa-argentina-de-que-se-trata-",
-    "category": "economia",
-    "date": "2026-06-09",
-    "summary": "Se trata de un vehículo financiero que permite acceder al negocio inmobiliario de manera indirecta, desde un Fondo Común de Inversión Cerrado.  Cómo es (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456806-debuta-el-primer-reit-en-la-bolsa-argentina-de-que-se-trata-esta-inversion-inmobiliaria",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Caputo le canjeó bonos al BCRA por u$s7.500 millones para facilitar el pago de deuda",
-    "slug": "caputo-le-canjeo-bonos-al-bcra-por-us7500-millones-para-faci",
-    "category": "economia",
-    "date": "2026-06-09",
-    "summary": "La operatoria busca fortalecer las reservas internacionales y mejorar la posición del Banco Central ante compromisos financieros del segundo semestre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/456912-luis-caputo-le-canjeo-bonos-al-banco-central-argentina-por-7500-dolares-millones-para-facilitar-el-pago-de-deuda",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Precio más alto del dólar que prevén 15 consultoras para las que no alcanza con la \"lluvia verde\"",
-    "slug": "precio-mas-alto-del-dolar-que-preven-15-consultoras-para-las",
-    "category": "economia",
-    "date": "2026-06-09",
-    "summary": "Pese a que los ingresos por Vaca Muerta y el RIGI son récord, una parte de los analistas de la City y de Wall Street ve señales amarillas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/455185-precio-mas-alto-del-dolar-que-preven-15-consultoras-que-ven-senales-amarillas",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
