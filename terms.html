@@ -4,62 +4,300 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Términos y Condiciones | CotizaYa</title>
+  <meta name="description" content="Términos y condiciones de uso de CotizaYa. Información orientativa sobre cotizaciones de monedas y criptomonedas." />
   <meta name="robots" content="index,follow" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #0a0a0f;
+      --bg2:     #0e0e16;
+      --card:    #13131c;
+      --border:  #1e1e30;
+      --accent:  #00d4aa;
+      --accent2: #0099cc;
+      --text:    #eeeef5;
+      --sub:     #8888aa;
+      --muted:   #3a3a55;
+      --warn:    #f5a623;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 15px; line-height: 1.75; min-height: 100vh;
+    }
+
+    /* ── NAV ── */
+    nav {
+      position:sticky; top:0; z-index:100;
+      background:rgba(10,10,15,0.92); backdrop-filter:blur(12px);
+      border-bottom:1px solid var(--border);
+      padding:0 24px; height:56px;
+      display:flex; align-items:center; justify-content:space-between;
+    }
+    .nav-logo { font-size:18px; font-weight:700; color:var(--text); text-decoration:none; }
+    .nav-logo span { color:var(--accent); }
+    .nav-back { font-size:13px; color:var(--sub); text-decoration:none;
+      display:flex; align-items:center; gap:6px; transition:color .2s; }
+    .nav-back:hover { color:var(--accent); }
+    .nav-back svg { width:14px; height:14px; }
+
+    /* ── HERO ── */
+    .hero {
+      background:linear-gradient(160deg,#0e0e1a 0%,#0a0a0f 60%);
+      border-bottom:1px solid var(--border);
+      padding:60px 24px 48px; text-align:center;
+      position:relative; overflow:hidden;
+    }
+    .hero::before {
+      content:''; position:absolute; top:-80px; left:50%; transform:translateX(-50%);
+      width:500px; height:300px;
+      background:radial-gradient(ellipse,rgba(0,212,170,.07) 0%,transparent 70%);
+      pointer-events:none;
+    }
+    .hero-icon {
+      width:56px; height:56px;
+      background:linear-gradient(135deg,rgba(0,212,170,.15),rgba(0,153,204,.1));
+      border:1px solid rgba(0,212,170,.25); border-radius:16px;
+      display:flex; align-items:center; justify-content:center;
+      margin:0 auto 20px; font-size:24px;
+    }
+    .hero h1 { font-size:clamp(26px,5vw,36px); font-weight:700; margin-bottom:12px; }
+    .hero-meta { display:flex; align-items:center; justify-content:center; gap:16px;
+      flex-wrap:wrap; margin-top:16px; }
+    .hero-badge {
+      display:inline-flex; align-items:center; gap:6px;
+      font-size:12px; color:var(--sub);
+      background:rgba(255,255,255,.04); border:1px solid var(--border);
+      border-radius:20px; padding:5px 12px;
+    }
+    .hero-badge .dot { width:6px;height:6px;border-radius:50%;background:var(--accent); }
+
+    /* ── DISCLAIMER banner ── */
+    .disclaimer-banner {
+      max-width:760px; margin:32px auto 0; padding:0 24px;
+    }
+    .disclaimer-inner {
+      display:flex; gap:14px; align-items:flex-start;
+      background:rgba(245,166,35,.06); border:1px solid rgba(245,166,35,.25);
+      border-radius:12px; padding:18px 20px;
+    }
+    .disclaimer-icon { font-size:20px; flex-shrink:0; }
+    .disclaimer-text { font-size:13px; color:var(--sub); }
+    .disclaimer-text strong { color:var(--warn); }
+
+    /* ── TOC ── */
+    .toc-wrap { max-width:760px; margin:20px auto 0; padding:0 24px; }
+    .toc { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:24px 28px; }
+    .toc-title { font-size:12px; font-weight:600; color:var(--sub);
+      text-transform:uppercase; letter-spacing:.08em; margin-bottom:14px; }
+    .toc-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:6px; }
+    .toc-link { display:flex; align-items:center; gap:8px;
+      font-size:13px; color:var(--sub); text-decoration:none;
+      padding:7px 10px; border-radius:7px; transition:background .15s,color .15s; }
+    .toc-link:hover { background:rgba(0,212,170,.07); color:var(--accent); }
+    .toc-num { font-size:11px; font-weight:700; color:var(--muted); min-width:18px; }
+
+    /* ── CONTENT ── */
+    .content {
+      max-width:760px; margin:32px auto 80px; padding:0 24px;
+      display:flex; flex-direction:column; gap:16px;
+    }
+
+    .section { background:var(--card); border:1px solid var(--border); border-radius:14px; overflow:hidden; }
+    .section-header {
+      display:flex; align-items:center; gap:14px;
+      padding:20px 24px 16px; border-bottom:1px solid var(--border);
+    }
+    .section-num {
+      min-width:32px; height:32px; border-radius:8px;
+      background:rgba(0,212,170,.1); border:1px solid rgba(0,212,170,.2);
+      display:flex; align-items:center; justify-content:center;
+      font-size:13px; font-weight:700; color:var(--accent);
+    }
+    .section-title { font-size:16px; font-weight:600; color:var(--text); }
+    .section-body { padding:20px 24px; }
+    .section-body p { color:var(--sub); font-size:14px; margin-bottom:12px; }
+    .section-body p:last-child { margin-bottom:0; }
+    .section-body strong { color:var(--text); font-weight:600; }
+
+    .highlight {
+      display:flex; gap:12px; align-items:flex-start;
+      background:rgba(0,212,170,.05); border:1px solid rgba(0,212,170,.15);
+      border-radius:10px; padding:14px 16px; margin-top:8px;
+    }
+    .highlight-icon { font-size:16px; flex-shrink:0; margin-top:1px; }
+    .highlight p { color:var(--sub); font-size:13px; margin:0 !important; }
+
+    .warn-box {
+      display:flex; gap:12px; align-items:flex-start;
+      background:rgba(245,166,35,.05); border:1px solid rgba(245,166,35,.2);
+      border-radius:10px; padding:14px 16px; margin-top:8px;
+    }
+    .warn-box p { color:var(--sub); font-size:13px; margin:0 !important; }
+    .warn-box strong { color:var(--warn) !important; }
+
+    /* ── FOOTER ── */
+    footer { border-top:1px solid var(--border); padding:24px; text-align:center; font-size:12px; color:var(--muted); }
+    footer a { color:var(--sub); text-decoration:none; }
+    footer a:hover { color:var(--accent); }
+  </style>
 </head>
 <body>
-  <main style="max-width:900px;margin:0 auto;padding:24px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.6;">
+
+  <nav>
+    <a href="/" class="nav-logo">Cotiza<span>Ya</span></a>
+    <a href="/" class="nav-back">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+      Volver al inicio
+    </a>
+  </nav>
+
+  <div class="hero">
+    <div class="hero-icon">📜</div>
     <h1>Términos y Condiciones</h1>
-    <p><strong>Última actualización:</strong> <span id="d"></span></p>
+    <div class="hero-meta">
+      <span class="hero-badge"><span class="dot"></span>Última actualización: <span id="d"></span></span>
+      <span class="hero-badge">🇦🇷 Argentina</span>
+      <span class="hero-badge">Solo fines informativos</span>
+    </div>
+  </div>
 
-    <h2>1) Uso del sitio</h2>
-    <p>
-      CotizaYa es una herramienta informativa para consultar cotizaciones de monedas y criptomonedas,
-      realizar conversiones y visualizar titulares de contexto económico. Al usar el sitio, aceptás estos términos.
-    </p>
+  <div class="disclaimer-banner">
+    <div class="disclaimer-inner">
+      <span class="disclaimer-icon">⚠️</span>
+      <p class="disclaimer-text">
+        <strong>Aviso importante:</strong> La información publicada en CotizaYa es <strong>orientativa</strong>.
+        No constituye asesoramiento financiero, legal ni de inversión. Verificá siempre los datos antes de tomar decisiones económicas.
+      </p>
+    </div>
+  </div>
 
-    <h2>2) Descargo de responsabilidad</h2>
-    <p>
-      La información publicada en CotizaYa es <strong>orientativa</strong> y tiene fines informativos y educativos.
-      <strong>No constituye asesoramiento financiero, legal ni de inversión.</strong>
-    </p>
-    <p>
-      Los datos provienen de fuentes públicas y APIs de terceros y pueden diferir de los valores reales de mercado.
-      El usuario es responsable de verificar la información antes de tomar decisiones económicas.
-    </p>
-    <p>
-      CotizaYa no se responsabiliza por pérdidas, daños o decisiones tomadas en base a la información mostrada en el sitio.
-    </p>
+  <div class="toc-wrap">
+    <div class="toc">
+      <div class="toc-title">Contenido</div>
+      <div class="toc-grid">
+        <a href="#s1" class="toc-link"><span class="toc-num">01</span>Uso del sitio</a>
+        <a href="#s2" class="toc-link"><span class="toc-num">02</span>Descargo de responsabilidad</a>
+        <a href="#s3" class="toc-link"><span class="toc-num">03</span>Disponibilidad y exactitud</a>
+        <a href="#s4" class="toc-link"><span class="toc-num">04</span>Contenido de terceros</a>
+        <a href="#s5" class="toc-link"><span class="toc-num">05</span>Propiedad intelectual</a>
+        <a href="#s6" class="toc-link"><span class="toc-num">06</span>Cambios</a>
+      </div>
+    </div>
+  </div>
 
-    <h2>3) Disponibilidad y exactitud</h2>
-    <p>
-      El sitio puede presentar demoras, interrupciones o fallas temporales. No garantizamos disponibilidad continua ni exactitud absoluta de los datos.
-    </p>
+  <div class="content">
 
-    <h2>4) Contenido de terceros y enlaces</h2>
-    <p>
-      CotizaYa puede mostrar enlaces a sitios externos (por ejemplo, noticias). No controlamos su contenido ni sus prácticas.
-      El acceso a enlaces externos es responsabilidad del usuario.
-    </p>
+    <div class="section" id="s1">
+      <div class="section-header">
+        <div class="section-num">01</div>
+        <div class="section-title">Uso del sitio</div>
+      </div>
+      <div class="section-body">
+        <p>
+          <strong>CotizaYa</strong> es una herramienta informativa para consultar cotizaciones de monedas y criptomonedas,
+          realizar conversiones y visualizar titulares de contexto económico.
+        </p>
+        <p>Al usar el sitio, aceptás estos términos y condiciones en su totalidad.</p>
+      </div>
+    </div>
 
-    <h2>5) Propiedad intelectual</h2>
-    <p>
-      El diseño, marca y contenido propio de CotizaYa están protegidos. No se permite su reproducción total o parcial sin autorización,
-      salvo uso personal y no comercial.
-    </p>
+    <div class="section" id="s2">
+      <div class="section-header">
+        <div class="section-num">02</div>
+        <div class="section-title">Descargo de responsabilidad</div>
+      </div>
+      <div class="section-body">
+        <div class="warn-box">
+          <span style="font-size:16px;flex-shrink:0;">⚠️</span>
+          <p><strong>La información publicada es orientativa y tiene fines informativos y educativos. No constituye asesoramiento financiero, legal ni de inversión.</strong></p>
+        </div>
+        <p style="margin-top:14px;">
+          Los datos provienen de fuentes públicas y APIs de terceros y pueden diferir de los valores reales de mercado.
+          El usuario es responsable de verificar la información antes de tomar decisiones económicas.
+        </p>
+        <p>
+          CotizaYa no se responsabiliza por pérdidas, daños o decisiones tomadas en base a la información mostrada en el sitio.
+        </p>
+      </div>
+    </div>
 
-    <h2>6) Cambios</h2>
-    <p>
-      Podemos actualizar estos términos para mejorar el servicio o por cambios normativos. La versión vigente será la publicada en esta página.
-    </p>
+    <div class="section" id="s3">
+      <div class="section-header">
+        <div class="section-num">03</div>
+        <div class="section-title">Disponibilidad y exactitud</div>
+      </div>
+      <div class="section-body">
+        <p>
+          El sitio puede presentar demoras, interrupciones o fallas temporales. No garantizamos disponibilidad
+          continua ni exactitud absoluta de los datos mostrados.
+        </p>
+        <div class="highlight">
+          <span class="highlight-icon">💡</span>
+          <p>Para operaciones críticas, siempre consultá fuentes oficiales como el BCRA o tu entidad bancaria.</p>
+        </div>
+      </div>
+    </div>
 
-    <p style="margin-top:28px;">
-      <a href="/" rel="nofollow">Volver al inicio</a>
-    </p>
-  </main>
+    <div class="section" id="s4">
+      <div class="section-header">
+        <div class="section-num">04</div>
+        <div class="section-title">Contenido de terceros y enlaces</div>
+      </div>
+      <div class="section-body">
+        <p>
+          CotizaYa puede mostrar enlaces a sitios externos (por ejemplo, noticias). No controlamos su contenido
+          ni sus prácticas. El acceso a enlaces externos es responsabilidad del usuario.
+        </p>
+      </div>
+    </div>
+
+    <div class="section" id="s5">
+      <div class="section-header">
+        <div class="section-num">05</div>
+        <div class="section-title">Propiedad intelectual</div>
+      </div>
+      <div class="section-body">
+        <p>
+          El diseño, marca y contenido propio de CotizaYa están protegidos por derechos de propiedad intelectual.
+          No se permite su reproducción total o parcial sin autorización expresa, salvo uso personal y no comercial.
+        </p>
+      </div>
+    </div>
+
+    <div class="section" id="s6">
+      <div class="section-header">
+        <div class="section-num">06</div>
+        <div class="section-title">Cambios en los términos</div>
+      </div>
+      <div class="section-body">
+        <p>
+          Podemos actualizar estos términos para mejorar el servicio o por cambios normativos.
+          La versión vigente siempre será la publicada en esta página.
+        </p>
+        <p>
+          Para consultas sobre estos términos, escribinos a
+          <a href="mailto:cotizayaargentina@gmail.com" style="color:var(--accent);text-decoration:none;">cotizayaargentina@gmail.com</a>
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    © <span id="yr"></span> CotizaYa · La información publicada es orientativa y no constituye asesoramiento financiero ·
+    <a href="/contact">Contacto</a> · <a href="/privacy">Privacidad</a>
+  </footer>
 
   <script>
     document.getElementById("d").textContent = new Date().toLocaleDateString("es-AR");
+    document.getElementById("yr").textContent = new Date().getFullYear();
   </script>
 </body>
 </html>

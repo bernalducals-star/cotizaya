@@ -4,31 +4,270 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Contacto | CotizaYa</title>
+  <meta name="description" content="Contactá al equipo de CotizaYa para reportar errores, sugerir mejoras o consultar sobre el sitio." />
   <meta name="robots" content="index,follow" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #0a0a0f;
+      --bg2:     #0e0e16;
+      --card:    #13131c;
+      --card2:   #17172200;
+      --border:  #1e1e30;
+      --accent:  #00d4aa;
+      --accent2: #0099cc;
+      --text:    #eeeef5;
+      --sub:     #8888aa;
+      --muted:   #3a3a55;
+      --green:   #00d4aa;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 15px;
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    /* ── NAV ── */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(10,10,15,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      height: 56px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo {
+      font-size: 18px; font-weight: 700;
+      color: var(--text); text-decoration: none;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-back {
+      font-size: 13px; color: var(--sub);
+      text-decoration: none;
+      display: flex; align-items: center; gap: 6px;
+      transition: color .2s;
+    }
+    .nav-back:hover { color: var(--accent); }
+    .nav-back svg { width:14px; height:14px; }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(160deg, #0e0e1a 0%, #0a0a0f 60%);
+      border-bottom: 1px solid var(--border);
+      padding: 60px 24px 48px;
+      text-align: center;
+      position: relative; overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; top: -80px; left: 50%; transform: translateX(-50%);
+      width: 500px; height: 300px;
+      background: radial-gradient(ellipse, rgba(0,212,170,.07) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-icon {
+      width: 56px; height: 56px;
+      background: linear-gradient(135deg, rgba(0,212,170,.15), rgba(0,153,204,.1));
+      border: 1px solid rgba(0,212,170,.25);
+      border-radius: 16px;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 20px;
+      font-size: 24px;
+    }
+    .hero h1 {
+      font-size: clamp(26px, 5vw, 36px);
+      font-weight: 700; color: var(--text);
+      margin-bottom: 12px;
+    }
+    .hero p {
+      color: var(--sub); font-size: 15px;
+      max-width: 480px; margin: 0 auto;
+    }
+
+    /* ── LAYOUT ── */
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    @media (max-width: 600px) {
+      .container { grid-template-columns: 1fr; padding: 32px 16px 60px; }
+    }
+
+    /* ── CARDS ── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 28px;
+      transition: border-color .2s, transform .2s;
+    }
+    .card:hover { border-color: rgba(0,212,170,.3); transform: translateY(-2px); }
+    .card.full { grid-column: 1 / -1; }
+
+    .card-icon {
+      width: 40px; height: 40px;
+      background: rgba(0,212,170,.1);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px; margin-bottom: 16px;
+    }
+    .card h2 {
+      font-size: 14px; font-weight: 600;
+      color: var(--sub); text-transform: uppercase;
+      letter-spacing: .08em; margin-bottom: 12px;
+    }
+
+    /* email pill */
+    .email-pill {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: rgba(0,212,170,.07);
+      border: 1px solid rgba(0,212,170,.2);
+      border-radius: 10px;
+      padding: 12px 18px;
+      text-decoration: none;
+      transition: background .2s, border-color .2s;
+      width: 100%;
+      margin-top: 4px;
+    }
+    .email-pill:hover {
+      background: rgba(0,212,170,.13);
+      border-color: rgba(0,212,170,.4);
+    }
+    .email-pill svg { flex-shrink: 0; color: var(--accent); }
+    .email-pill-text { display: flex; flex-direction: column; }
+    .email-pill-label { font-size: 11px; color: var(--sub); }
+    .email-pill-addr { font-size: 14px; font-weight: 600; color: var(--accent); word-break: break-all; }
+
+    /* checklist */
+    .checklist { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .checklist li {
+      display: flex; align-items: flex-start; gap: 10px;
+      font-size: 14px; color: var(--sub);
+    }
+    .check-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent); flex-shrink: 0; margin-top: 7px;
+    }
+    .checklist li strong { color: var(--text); }
+
+    /* response time */
+    .meta-row {
+      display: flex; align-items: center; gap: 10px;
+      padding: 14px 16px;
+      background: rgba(0,212,170,.04);
+      border-radius: 8px; margin-top: 8px;
+      font-size: 13px; color: var(--sub);
+    }
+    .meta-dot { width:8px;height:8px;border-radius:50%;background:var(--green);flex-shrink:0;
+      box-shadow: 0 0 8px var(--green); }
+
+    /* legal links */
+    .legal-links {
+      display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px;
+    }
+    .legal-link {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 13px; color: var(--sub);
+      text-decoration: none; padding: 8px 14px;
+      border: 1px solid var(--border); border-radius: 8px;
+      transition: color .2s, border-color .2s;
+    }
+    .legal-link:hover { color: var(--accent); border-color: rgba(0,212,170,.3); }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 24px;
+      text-align: center;
+      font-size: 12px; color: var(--muted);
+    }
+    footer a { color: var(--sub); text-decoration: none; }
+    footer a:hover { color: var(--accent); }
+  </style>
 </head>
 <body>
-  <main style="max-width:900px;margin:0 auto;padding:24px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.6;">
+
+  <nav>
+    <a href="/" class="nav-logo">Cotiza<span>Ya</span></a>
+    <a href="/" class="nav-back">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+      Volver al inicio
+    </a>
+  </nav>
+
+  <div class="hero">
+    <div class="hero-icon">✉️</div>
     <h1>Contacto</h1>
-    <p>
-      Si querés reportar un error, sugerir una mejora o consultar sobre el sitio, podés contactarnos por email.
-    </p>
+    <p>Reportá un error, sugerí una mejora o consultanos lo que necesites.</p>
+  </div>
 
-    <h2>Email</h2>
-    <p>
-      <strong>contacto@cotizaya.com</strong> (reemplazalo por tu email real)
-    </p>
+  <div class="container">
 
-    <h2>Qué incluir</h2>
-    <ul>
-      <li>Qué estabas viendo (sección o moneda)</li>
-      <li>Qué pasó (error o problema)</li>
-      <li>Captura de pantalla (si aplica)</li>
-    </ul>
+    <!-- Email -->
+    <div class="card">
+      <div class="card-icon">📬</div>
+      <h2>Escribinos</h2>
+      <a href="mailto:cotizayaargentina@gmail.com" class="email-pill">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="2" y="4" width="20" height="16" rx="2"/>
+          <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+        </svg>
+        <span class="email-pill-text">
+          <span class="email-pill-label">Email de contacto</span>
+          <span class="email-pill-addr">cotizayaargentina@gmail.com</span>
+        </span>
+      </a>
+      <div class="meta-row">
+        <span class="meta-dot"></span>
+        Respondemos en menos de 48 hs hábiles
+      </div>
+    </div>
 
-    <p style="margin-top:28px;">
-      <a href="/" rel="nofollow">Volver al inicio</a>
-    </p>
-  </main>
+    <!-- Qué incluir -->
+    <div class="card">
+      <div class="card-icon">📋</div>
+      <h2>¿Qué incluir en tu mensaje?</h2>
+      <ul class="checklist">
+        <li><span class="check-dot"></span><span><strong>Sección o moneda</strong> que estabas consultando</span></li>
+        <li><span class="check-dot"></span><span><strong>Descripción del problema</strong> o sugerencia</span></li>
+        <li><span class="check-dot"></span><span><strong>Captura de pantalla</strong> si aplica</span></li>
+        <li><span class="check-dot"></span><span><strong>Dispositivo y navegador</strong> que usás</span></li>
+      </ul>
+    </div>
+
+    <!-- Otros documentos -->
+    <div class="card full">
+      <div class="card-icon">📄</div>
+      <h2>Documentos legales</h2>
+      <div class="legal-links">
+        <a href="/privacy" class="legal-link">🔒 Política de Privacidad</a>
+        <a href="/terms" class="legal-link">📜 Términos y Condiciones</a>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    © <span id="yr"></span> CotizaYa · Información orientativa, no constituye asesoramiento financiero ·
+    <a href="/privacy">Privacidad</a> · <a href="/terms">Términos</a>
+  </footer>
+
+  <script>
+    document.getElementById("yr").textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
