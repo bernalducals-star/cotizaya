@@ -316,6 +316,7 @@ async function fetchFiatRatesWithFallback() {
   eur: "https://dolarapi.com/v1/cotizaciones/eur",
   brl: "https://dolarapi.com/v1/cotizaciones/brl",
   uyu: "https://dolarapi.com/v1/cotizaciones/uyu",
+  clp: "https://dolarapi.com/v1/cotizaciones/clp",
 };
 
   const out = {
@@ -325,6 +326,7 @@ async function fetchFiatRatesWithFallback() {
     eur: null,
     brl: null,
     uyu: null,
+    clp: null,
   };
 
   const results = await Promise.allSettled([
@@ -334,9 +336,10 @@ async function fetchFiatRatesWithFallback() {
     fetchJSON(endpoints.eur),
     fetchJSON(endpoints.brl),
     fetchJSON(endpoints.uyu),
+    fetchJSON(endpoints.clp),
   ]);
 
- const [rOf, rBl, rMep, rEur, rBrl, rUyu] = results;
+ const [rOf, rBl, rMep, rEur, rBrl, rUyu, rClp] = results;
 
   if (rOf.status === "fulfilled") out.usd_oficial = pickCompraVenta(rOf.value);
   if (rBl.status === "fulfilled") out.usd_blue = pickCompraVenta(rBl.value);
@@ -344,6 +347,7 @@ async function fetchFiatRatesWithFallback() {
   if (rEur.status === "fulfilled") out.eur = pickCompraVenta(rEur.value);
   if (rBrl.status === "fulfilled") out.brl = pickCompraVenta(rBrl.value);
   if (rUyu.status === "fulfilled") out.uyu = pickCompraVenta(rUyu.value);
+if (rClp.status === "fulfilled") out.clp = pickCompraVenta(rClp.value);
 
  /*
   // MXN: cruce USD ARS / USD MXN
@@ -377,6 +381,7 @@ async function fetchFiatRatesWithFallback() {
   out.eur         = out.eur         || mock.eur;
   out.brl         = out.brl         || mock.brl;
   out.uyu         = out.uyu         || mock.uyu;
+  out.clp = out.clp || mock.clp;
   out.mxn_ars     = (Number.isFinite(out.mxn_ars) && out.mxn_ars > 0) ? out.mxn_ars : mock.mxn_ars;
   // pyg_ars puede quedar null si no hay fuente, no rompe nada
 
@@ -398,6 +403,7 @@ function getFiatRatesMock() {
     eur: { compra: 950, venta: 1000 },
     brl: { compra: 180, venta: 190 },
     uyu: { compra: 25, venta: 28 },
+    clp: { compra: 1, venta: 1.2 },
     mxn_ars: 55
   };
 }
@@ -429,6 +435,9 @@ function updateFiatUI(fiat, prevFiat) {
 
   paintValueWithDelta("uyu_compra", fiat.uyu?.compra, p.uyu?.compra, (n)=>formatMoneyARS(n));
   paintValueWithDelta("uyu_venta",  fiat.uyu?.venta,  p.uyu?.venta,  (n)=>formatMoneyARS(n));
+
+paintValueWithDelta("clp_compra", fiat.clp?.compra, p.clp?.compra, (n)=>formatMoneyARS(n));
+paintValueWithDelta("clp_venta",  fiat.clp?.venta,  p.clp?.venta,  (n)=>formatMoneyARS(n));
 
   if (Number.isFinite(fiat.mxn_ars) && fiat.mxn_ars > 0) {
     setText("mxn_ref", `1 MXN ≈ ${formatMoneyARS(fiat.mxn_ars)}`);
