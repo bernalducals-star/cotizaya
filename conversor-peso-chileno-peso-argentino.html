@@ -11,22 +11,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;900&family=Plus+Jakarta+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #0c0c0c;
-      --bg2: #141414;
-      --bg3: #1c1c1c;
-      --bg4: #242424;
-      --border: #2a2a2a;
-      --text: #f5f5f5;
-      --text2: #888;
-      --text3: #555;
-      --mx-green: #D52B1E;
-      --mx-red: #D52B1E;
-      --mx-white: #f5f5f5;
-      --accent: #00c46a;
-      --display: 'Unbounded', sans-serif;
-      --body: 'Plus Jakarta Sans', sans-serif;
-      --mono: 'IBM Plex Mono', monospace;
-    }
+    --bg: #0a1628;
+    --bg2: #0d1f3c;
+    --bg3: #1a2f50;
+    --bg4: #243a5e;
+    --border: #2a4a7f;
+    --text: #f0f4ff;
+    --text2: #8aa4cc;
+    --text3: #5a7aaa;
+    --cl-red: #D52B1E;
+    --cl-blue: #0032A0;
+    --cl-white: #ffffff;
+    --accent: #0032A0;
+    --display: "Unbounded", sans-serif;
+    --body: "Plus Jakarta Sans", sans-serif;
+    --mono: "IBM Plex Mono", monospace;
+  }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body { background: var(--bg); color: var(--text); font-family: var(--body); min-height: 100vh; }
 
@@ -53,7 +53,7 @@
       content: '';
       position: absolute;
       top: 0; left: 0; right: 0; height: 3px;
-      background: linear-gradient(90deg, var(--cl-green), var(--cl-white), var(--cl-red));
+      background: linear-gradient(90deg, var(--cl-red), var(--cl-white), var(--cl-red));
     }
     .flag-strip {
       display: flex;
@@ -398,5 +398,7 @@
 
 </body>
 </html>
+
+
 
 
