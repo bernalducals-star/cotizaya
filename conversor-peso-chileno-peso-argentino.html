@@ -1,0 +1,401 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conversor Peso Chileno a Peso Argentino — CotizaYa</title>
+  <meta name="description" content="Convertí pesos chilenos a pesos argentinos al instante. Cotización actualizada. Conversor gratis sin registración." />
+  <link rel="canonical" href="https://cotizaya.ar/conversor-peso-chileno-peso-argentino" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Conversor Peso Chileno Peso Argentino","url":"https://cotizaya.ar/conversor-peso-chileno-peso-argentino","applicationCategory":"FinanceApplication"}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;900&family=Plus+Jakarta+Sans:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0c0c0c;
+      --bg2: #141414;
+      --bg3: #1c1c1c;
+      --bg4: #242424;
+      --border: #2a2a2a;
+      --text: #f5f5f5;
+      --text2: #888;
+      --text3: #555;
+      --mx-green: #006847;
+      --mx-red: #ce1126;
+      --mx-white: #f5f5f5;
+      --accent: #00c46a;
+      --display: 'Unbounded', sans-serif;
+      --body: 'Plus Jakarta Sans', sans-serif;
+      --mono: 'IBM Plex Mono', monospace;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: var(--body); min-height: 100vh; }
+
+    .site-header {
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px; height: 56px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .logo { font-family: var(--mono); font-size: 14px; font-weight: 500; color: var(--accent); text-decoration: none; letter-spacing: 0.05em; }
+    .logo span { color: var(--text2); }
+    .header-nav { display: flex; gap: 20px; }
+    .header-nav a { font-family: var(--mono); font-size: 11px; color: var(--text3); text-decoration: none; letter-spacing: 0.08em; text-transform: uppercase; transition: color 0.2s; }
+    .header-nav a:hover { color: var(--text); }
+
+    .hero {
+      padding: 56px 24px 40px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(180deg, #0a1a0f 0%, var(--bg) 100%);
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 3px;
+      background: linear-gradient(90deg, var(--mx-green), var(--mx-white), var(--mx-red));
+    }
+    .flag-strip {
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+      margin-bottom: 24px;
+    }
+    .flag-block { height: 4px; width: 32px; border-radius: 2px; }
+
+    .hero-tag {
+      display: inline-block;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+    .hero h1 {
+      font-family: var(--display);
+      font-size: clamp(24px, 5vw, 48px);
+      font-weight: 900;
+      color: var(--text);
+      line-height: 1.1;
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    }
+    .hero h1 em { font-style: normal; color: var(--accent); }
+    .hero p { font-size: 14px; color: var(--text2); }
+
+    .conversor-wrap { max-width: 540px; margin: 32px auto 0; padding: 0 24px; }
+    .conversor-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+
+    .rate-bar {
+      padding: 16px 20px;
+      background: var(--bg3);
+      border-bottom: 1px solid var(--border);
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .rate-bar-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); }
+    .rate-bar-val { font-family: var(--display); font-size: 20px; font-weight: 700; color: var(--accent); }
+
+    .input-area { padding: 24px 20px; }
+    .field-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+    .input-wrap { position: relative; margin-bottom: 8px; }
+    .input-field {
+      width: 100%; background: var(--bg3); border: 1px solid var(--border); border-radius: 8px;
+      padding: 14px 56px 14px 16px; font-family: var(--display); font-size: 30px; font-weight: 700;
+      color: var(--text); outline: none; transition: border-color 0.2s; -moz-appearance: textfield;
+    }
+    .input-field::-webkit-outer-spin-button, .input-field::-webkit-inner-spin-button { -webkit-appearance: none; }
+    .input-field::placeholder { color: var(--text3); }
+    .input-field:focus { border-color: var(--accent); }
+    .input-curr { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-family: var(--mono); font-size: 12px; color: var(--text3); pointer-events: none; }
+
+    .swap-row { display: flex; align-items: center; gap: 10px; margin: 8px 0; }
+    .swap-line { flex: 1; height: 1px; background: var(--border); }
+    .swap-btn { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border); background: var(--bg4); color: var(--text2); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s; font-size: 15px; }
+    .swap-btn:hover { border-color: var(--accent); color: var(--accent); transform: rotate(180deg); }
+
+    .result-box { background: var(--bg3); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
+    .result-label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 4px; }
+    .result-value { font-family: var(--display); font-size: 36px; font-weight: 700; color: var(--accent); }
+    .result-value.zero { color: var(--text3); }
+
+    .quick-amounts { padding: 0 20px 20px; border-top: 1px solid var(--border); }
+    .quick-title { font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); padding: 14px 0 8px; }
+    .quick-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+    .quick-chip { font-family: var(--mono); font-size: 12px; padding: 8px 4px; border: 1px solid var(--border); background: var(--bg3); color: var(--text2); cursor: pointer; text-align: center; transition: all 0.15s; border-radius: 6px; }
+    .quick-chip:hover { border-color: var(--accent); color: var(--accent); }
+
+    .info-wrap { max-width: 540px; margin: 16px auto 0; padding: 0 24px; }
+    .info-card { background: var(--bg2); border: 1px solid var(--border); border-left: 3px solid var(--accent); padding: 16px; font-size: 13px; color: var(--text2); line-height: 1.6; border-radius: 0 8px 8px 0; }
+    .info-card strong { color: var(--text); }
+
+    .seo-section { max-width: 600px; margin: 48px auto 0; padding: 0 24px 72px; }
+    .seo-section h2 { font-family: var(--display); font-size: 22px; font-weight: 700; color: var(--text); margin: 36px 0 12px; letter-spacing: -0.01em; }
+    .seo-section h2:first-child { margin-top: 0; }
+    .seo-section p { font-size: 15px; line-height: 1.75; color: var(--text2); margin-bottom: 14px; }
+    .faq-item { border-top: 1px solid var(--border); padding: 16px 0; }
+    .faq-q { font-weight: 500; color: var(--text); margin-bottom: 6px; font-size: 15px; }
+    .faq-a { font-size: 14px; color: var(--text2); line-height: 1.7; }
+
+    .site-footer { background: var(--bg2); border-top: 1px solid var(--border); padding: 24px; text-align: center; }
+    .site-footer p { font-family: var(--mono); font-size: 11px; color: var(--text3); line-height: 1.8; }
+    .site-footer a { color: var(--text2); text-decoration: none; }
+    .site-footer a:hover { color: var(--accent); }
+  </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="logo">Cotiza<span>Ya</span></a>
+    <nav class="header-nav">
+      <a href="/">Inicio</a>
+      <a href="/conversor-dolar-peso">$ Dólar</a>
+      <a href="/conversor-euro-peso">€ Euro</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="flag-strip">
+      <div class="flag-block" style="background:#006847"></div>
+      <div class="flag-block" style="background:#f5f5f5"></div>
+      <div class="flag-block" style="background:#ce1126"></div>
+    </div>
+    <div class="hero-tag">● Actualizado diariamente</div>
+    <h1>Peso <em>chileno</em><br>a Peso Argentino</h1>
+    <p>Escribí el monto y el resultado aparece al instante</p>
+  </section>
+
+  <div class="conversor-wrap">
+    <div class="conversor-card">
+      <div class="rate-bar">
+        <span class="rate-bar-label">1 CLP =</span>
+        <span class="rate-bar-val" id="rate-display">Cargando...</span>
+      </div>
+      <div class="input-area">
+        <div class="field-label"><span>🇨🇱</span><span id="label-from">Pesos chilenos (CLP)</span></div>
+        <div class="input-wrap">
+          <input class="input-field" id="input-from" type="text" inputmode="numeric" placeholder="0" autocomplete="off" />
+          <span class="input-curr" id="currency-from">CLP</span>
+        </div>
+        <div class="swap-row">
+          <div class="swap-line"></div>
+          <button class="swap-btn" id="swap-btn">⇅</button>
+          <div class="swap-line"></div>
+        </div>
+        <div class="field-label"><span>🇦🇷</span><span id="label-to">Pesos Argentinos (ARS)</span></div>
+        <div class="result-box">
+          <div class="result-label">Resultado</div>
+          <div class="result-value zero" id="result-value">0</div>
+        </div>
+      </div>
+      <div class="quick-amounts">
+        <div class="quick-title">Montos rápidos</div>
+        <div class="quick-grid" id="quick-grid">
+          <button class="quick-chip" data-amount="100">100</button>
+          <button class="quick-chip" data-amount="500">500</button>
+          <button class="quick-chip" data-amount="1000">1.000</button>
+          <button class="quick-chip" data-amount="5000">5.000</button>
+          <button class="quick-chip" data-amount="10000">10.000</button>
+          <button class="quick-chip" data-amount="50000">50.000</button>
+          <button class="quick-chip" data-amount="100000">100.000</button>
+          <button class="quick-chip" data-amount="500000">500.000</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="info-wrap">
+    <div class="info-card">
+      La cotización se calcula usando la paridad <strong>CLP/USD</strong> del mercado internacional (aprox. 17–18 CLP por dólar) cruzada con el dólar oficial argentino. El Peso Chileno es una de las monedas más operadas de América Latina.
+    </div>
+  </div>
+
+  <section class="seo-section">
+    <h2>¿Cuánto vale el Peso Chileno en Argentina?</h2>
+    <p>El Peso Chileno (CLP) es una de las monedas más líquidas de América Latina. Para convertirlo a pesos argentinos, se usa la paridad CLP/USD del mercado cambiario internacional y se multiplica por el tipo de cambio oficial del dólar en Argentina.</p>
+    <h2>Preguntas frecuentes</h2>
+    <div>
+      <div class="faq-item">
+        <div class="faq-q">¿Puedo cambiar pesos chilenos en Argentina?</div>
+        <div class="faq-a">No es común. La mayoría de las casas de cambio en Argentina no operan con pesos chilenos directamente. Lo más práctico es cambiarlos a dólares en Chile antes de viajar.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Por qué varía la relación CLP/ARS?</div>
+        <div class="faq-a">Porque ambas monedas fluctúan contra el dólar de manera independiente. Cuando Argentina devalúa el peso oficial, el ARS cae y se necesitan más pesos para comprar un CLP.</div>
+      </div>
+      <div class="faq-item">
+        <div class="faq-q">¿Con qué frecuencia se actualiza?</div>
+        <div class="faq-a">La cotización se actualiza diariamente usando el dólar oficial argentino y la paridad CLP/USD del mercado internacional.</div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>© 2026 <a href="/">CotizaYa</a> · <a href="/privacidad.html">Privacidad</a> · <a href="/terminos.html">Términos</a></p>
+    <p>Información con fines informativos. No constituye asesoramiento financiero.</p>
+  </footer>
+
+  <script>
+    const CLP_USD = 17.5;
+    let arsOficial = 0;
+    let direction = 'from-CLP';
+
+    function fmt(n) { return '$' + Number(n).toLocaleString('es-AR', {minimumFractionDigits:0,maximumFractionDigits:2}); }
+    function fmtNum(n) { return Number(n).toLocaleString('es-AR'); }
+    function formatInput(v) {
+      let c=v.replace(/\./g,'').replace(/[^0-9,]/g,'');
+      const p=c.split(','); let i=p[0]||''; const d=p[1]!==undefined?','+p[1].slice(0,2):'';
+      return i.replace(/\B(?=(\d{3})+(?!\d))/g,'.')+d;
+    }
+    function parseInput(v) { return parseFloat(v.replace(/\./g,'').replace(',','.'))||0; }
+    function getRate() { return arsOficial / CLP_USD; }
+
+    async function loadRates() {
+      try {
+        const r = await fetch('/datos/historial.json');
+        const data = await r.json();
+        const latest = {};
+        for (const item of data) {
+          const src=(item.source||'').toLowerCase();
+          if (!latest[src]||item.date>latest[src].date) latest[src]=item;
+        }
+        arsOficial = latest['oficial']?.value_sell || 1462;
+      } catch { arsOficial = 1462; }
+      document.getElementById('rate-display').textContent = fmt(getRate().toFixed(2));
+      convert();
+    }
+
+    function convert() {
+      const raw = parseInput(document.getElementById('input-from').value);
+      const rate = getRate() || 1;
+      let result = direction==='from-CLP' ? raw*rate : raw/rate;
+      const el = document.getElementById('result-value');
+      if (raw===0) { el.textContent='0'; el.classList.add('zero'); }
+      else {
+        el.textContent = direction==='from-CLP' ? fmt(Math.round(result)) : 'CLP '+result.toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2});
+        el.classList.remove('zero');
+      }
+    }
+
+    function updateLabels() {
+      const f=direction==='from-CLP';
+      document.getElementById('label-from').textContent = f?'Pesos chilenos (CLP)':'Pesos Argentinos (ARS)';
+      document.getElementById('label-to').textContent = f?'Pesos Argentinos (ARS)':'Pesos chilenos (CLP)';
+      document.getElementById('currency-from').textContent = f?'CLP':'ARS';
+      const amounts = f?[100,500,1000,5000,10000,50000,100000,500000]:[10000,50000,100000,500000,1000000,5000000,10000000,50000000];
+      document.querySelectorAll('.quick-chip').forEach((b,i)=>{b.dataset.amount=amounts[i];b.textContent=fmtNum(amounts[i]);});
+    }
+
+    document.getElementById('input-from').addEventListener('input', function() {
+      const p=this.selectionStart,ol=this.value.length;
+      this.value=formatInput(this.value);
+      const nl=this.value.length; this.setSelectionRange(p+(nl-ol),p+(nl-ol)); convert();
+    });
+    document.getElementById('swap-btn').addEventListener('click', function() {
+      direction=direction==='from-CLP'?'from-ars':'from-CLP';
+      document.getElementById('input-from').value='';
+      document.getElementById('result-value').textContent='0';
+      document.getElementById('result-value').classList.add('zero');
+      updateLabels(); convert();
+    });
+    document.getElementById('quick-grid').addEventListener('click', function(e) {
+      const c=e.target.closest('.quick-chip'); if(!c) return;
+      document.getElementById('input-from').value=formatInput(String(c.dataset.amount)); convert();
+    });
+
+    updateLabels(); loadRates();
+  </script>
+
+<!-- QR Widget styles -->
+<style>
+.qr-widget {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 999;
+  font-family: 'DM Mono', 'JetBrains Mono', monospace;
+}
+.qr-trigger {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: rgba(15,15,20,0.92);
+  border: 1px solid rgba(255,255,255,0.12);
+  backdrop-filter: blur(12px);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  margin-left: auto;
+}
+.qr-trigger:hover { transform: scale(1.08); border-color: rgba(255,255,255,0.25); }
+.qr-trigger svg { width: 22px; height: 22px; opacity: 0.85; }
+.qr-panel {
+  position: absolute;
+  bottom: 60px;
+  right: 0;
+  background: rgba(10,10,15,0.97);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 16px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  opacity: 0;
+  transform: translateY(8px) scale(0.96);
+  pointer-events: none;
+  transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.qr-panel.open { opacity: 1; transform: translateY(0) scale(1); pointer-events: all; }
+.qr-panel img { border-radius: 8px; display: block; margin: 0 auto 10px; }
+.qr-label { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.4); margin-bottom: 4px; }
+.qr-url { font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.85); }
+.qr-hint { font-size: 10px; color: rgba(255,255,255,0.25); margin-top: 8px; line-height: 1.4; }
+</style>
+
+<div class="qr-widget" id="qr-widget">
+  <div class="qr-panel" id="qr-panel">
+    <div class="qr-label">Escaneá para abrir</div>
+    <img id="qr-img" width="160" height="160" alt="QR cotizaya.ar" style="border-radius:8px;display:block;margin:0 auto 10px;" />
+    <div class="qr-url">cotizaya.ar</div>
+    <div class="qr-hint">Apuntá la cámara de tu celular al código</div>
+  </div>
+  <button class="qr-trigger" id="qr-trigger" title="Abrir en tu celular">
+    <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
+      <rect x="3" y="14" width="7" height="7" rx="1"/>
+      <rect x="5" y="5" width="3" height="3" fill="white" stroke="none"/>
+      <rect x="16" y="5" width="3" height="3" fill="white" stroke="none"/>
+      <rect x="5" y="16" width="3" height="3" fill="white" stroke="none"/>
+      <path d="M14 14h3v3h-3z" fill="white" stroke="none"/>
+      <path d="M17 17h4"/><path d="M21 14v3"/><path d="M14 17v4"/><path d="M17 21h4"/>
+    </svg>
+  </button>
+</div>
+<script>
+(function() {
+  var loaded = false;
+  document.getElementById('qr-trigger').addEventListener('click', function(e) {
+    e.stopPropagation();
+    var panel = document.getElementById('qr-panel');
+    var isOpen = panel.classList.contains('open');
+    panel.classList.toggle('open');
+    if (!isOpen && !loaded) {
+      document.getElementById('qr-img').src = 'https://quickchart.io/qr?text=https%3A%2F%2Fcotizaya.ar&size=160&margin=1&dark=ffffff&light=0a0a0f';
+      loaded = true;
+    }
+  });
+  document.addEventListener('click', function(e) {
+    if (!document.getElementById('qr-widget').contains(e.target)) {
+      document.getElementById('qr-panel').classList.remove('open');
+    }
+  });
+})();
+</script>
+
+</body>
+</html>
+
