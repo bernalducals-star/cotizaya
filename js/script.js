@@ -450,7 +450,7 @@ function updateFiatUI(fiat, prevFiat) {
   }
 
   if (Number.isFinite(fiat.mxn_ars) && fiat.mxn_ars > 0) {
-    setText("mxn_ref", `1 MXN ≈ ${formatMoneyARS(fiat.mxn_ars)}`);
+    setText("mxn_ref", formatMoneyARS(fiat.mxn_ars));
   } else {
     setText("mxn_ref", "–");
   }
