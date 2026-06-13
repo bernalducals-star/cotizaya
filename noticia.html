@@ -221,9 +221,35 @@
       const container = document.getElementById('noticia-content');
 
       try {
-        const res = await fetch('/noticias/noticias.json');
-        const noticias = await res.json();
-        const noticia = noticias.find(n => n.slug === slug);
+        // Buscar primero en noticias.json (GitHub Actions)
+        let noticia = null;
+        let noticias = [];
+        try {
+          const res = await fetch('/noticias/noticias.json');
+          noticias = await res.json();
+          noticia = noticias.find(n => n.slug === slug);
+        } catch(e) {}
+
+        // Si no encontró, buscar en /articulos/ (Make.com)
+        if (!noticia && slug) {
+          try {
+            const res2 = await fetch(`/articulos/${slug}.json`);
+            if (res2.ok) {
+              const art = await res2.json();
+              noticia = {
+                slug: art.slug || slug,
+                title: art.title || art.titulo,
+                summary: art.summary || art.resumen,
+                category: art.category || art.categoria || 'economia',
+                source: art.source || art.fuente_nombre || 'CotizaYa',
+                date: art.date || art.fecha,
+                tags: art.tags || [],
+                originalLink: art.originalLink || art.url_fuente || '',
+                content: art.content || ''
+              };
+            }
+          } catch(e) {}
+        }
 
         if (!noticia) {
           container.innerHTML = `
