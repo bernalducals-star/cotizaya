@@ -268,9 +268,32 @@ function safeSetLocal(key, value) {
    Cotizaciones (Fiat + Cripto)
    ========================= */
 
+async function loadYesterdayRates() {
+  try {
+    const r = await fetch('/datos/historial.json', { cache: 'no-store' });
+    const data = await r.json();
+    const fechas = [...new Set(data.map(i => i.date))].sort();
+    if (fechas.length < 2) return null;
+    const ayer = fechas[fechas.length - 2];
+    const deAyer = data.filter(i => i.date === ayer);
+    const bySource = {};
+    for (const item of deAyer) bySource[(item.source || '').toLowerCase()] = item;
+    const usdOfAyer = bySource['oficial'];
+    const usdBlAyer = bySource['blue'];
+    return {
+      usd_oficial: usdOfAyer ? { compra: toNum(usdOfAyer.value_buy), venta: toNum(usdOfAyer.value_sell) } : null,
+      usd_blue:    usdBlAyer ? { compra: toNum(usdBlAyer.value_buy), venta: toNum(usdBlAyer.value_sell) } : null,
+      usd_mep: null, eur: null, brl: null, uyu_ars: null, clp_ars: null, mxn_ars: null
+    };
+  } catch (e) {
+    console.warn('loadYesterdayRates: error', e);
+    return null;
+  }
+}
+
 async function loadQuotes({ silent = false } = {}) {
-  // Guardar prev para variaciones
-  const prevFiat = prev.fiat ? structuredClone(prev.fiat) : null;
+  // Guardar prev para variaciones — si es primera carga, usar ayer del historial
+  const prevFiat = prev.fiat ? structuredClone(prev.fiat) : await loadYesterdayRates();
   const prevCrypto = prev.crypto ? structuredClone(prev.crypto) : null;
 
   // Fiat (API real con fallback)
