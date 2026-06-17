@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora Histórica del Dólar | CotizaYa</title>
+  <meta name="description" content="¿Qué habría pasado con tus pesos? Calculá cuánto valdrían hoy si los hubieras convertido a dólar blue u oficial en cualquier fecha desde 2011.">
+  <link rel="canonical" href="https://cotizaya.ar/calculadora/">
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    /* ── Tokens ── */
+    :root {
+      --c-bg: #0d0f12;
+      --c-surface: #151820;
+      --c-border: #1e2330;
+      --c-accent: #00c896;
+      --c-accent-dim: rgba(0,200,150,0.12);
+      --c-warn: #f5a623;
+      --c-text: #e8eaf0;
+      --c-muted: #7a8099;
+      --c-red: #e05555;
+      --radius: 12px;
+      --radius-sm: 8px;
+      --font-display: 'Georgia', 'Times New Roman', serif;
+      --font-body: system-ui, -apple-system, sans-serif;
+      --font-mono: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--c-bg);
+      color: var(--c-text);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    /* ── Layout ── */
+    .page-wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 0 20px 80px;
+    }
+
+    /* ── Header ── */
+    .site-header {
+      padding: 20px 0 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .site-header a {
+      color: var(--c-muted);
+      text-decoration: none;
+      font-size: .9rem;
+      transition: color .2s;
+    }
+    .site-header a:hover { color: var(--c-accent); }
+
+    /* ── Hero ── */
+    .hero {
+      padding: 48px 0 36px;
+      border-bottom: 1px solid var(--c-border);
+      margin-bottom: 40px;
+    }
+    .hero-eyebrow {
+      font-size: .75rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--c-accent);
+      font-weight: 600;
+      margin-bottom: 14px;
+    }
+    .hero h1 {
+      font-family: var(--font-display);
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.1;
+      color: var(--c-text);
+      margin-bottom: 16px;
+    }
+    .hero h1 em {
+      font-style: normal;
+      color: var(--c-accent);
+    }
+    .hero-sub {
+      color: var(--c-muted);
+      font-size: 1rem;
+      max-width: 520px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--c-surface);
+      border: 1px solid var(--c-border);
+      border-radius: var(--radius);
+      padding: 28px;
+      margin-bottom: 24px;
+    }
+
+    /* ── Form ── */
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    @media (max-width: 520px) {
+      .form-row { grid-template-columns: 1fr; }
+    }
+    .field label {
+      display: block;
+      font-size: .8rem;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--c-muted);
+      margin-bottom: 8px;
+    }
+    .field input,
+    .field select {
+      width: 100%;
+      background: var(--c-bg);
+      border: 1px solid var(--c-border);
+      border-radius: var(--radius-sm);
+      color: var(--c-text);
+      font-size: 1.05rem;
+      padding: 11px 14px;
+      font-family: var(--font-body);
+      transition: border-color .2s;
+      -webkit-appearance: none;
+    }
+    .field input:focus,
+    .field select:focus {
+      outline: none;
+      border-color: var(--c-accent);
+    }
+    .field select option { background: #1a1d26; }
+
+    .btn-calc {
+      width: 100%;
+      background: var(--c-accent);
+      color: #0d0f12;
+      font-weight: 700;
+      font-size: 1rem;
+      border: none;
+      border-radius: var(--radius-sm);
+      padding: 14px;
+      cursor: pointer;
+      transition: opacity .15s, transform .1s;
+      letter-spacing: .03em;
+    }
+    .btn-calc:hover { opacity: .9; }
+    .btn-calc:active { transform: scale(.98); }
+    .btn-calc:disabled { opacity: .4; cursor: not-allowed; }
+
+    /* ── Resultado ── */
+    #resultado { display: none; }
+
+    .resultado-fecha {
+      font-size: .85rem;
+      color: var(--c-muted);
+      margin-bottom: 20px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--c-border);
+    }
+    .resultado-fecha strong { color: var(--c-text); }
+
+    .historia-intro {
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      color: var(--c-muted);
+      margin-bottom: 24px;
+      line-height: 1.5;
+    }
+    .historia-intro strong { color: var(--c-text); }
+
+    .escenarios {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+
+    .escenario {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      background: var(--c-bg);
+      border: 1px solid var(--c-border);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      transition: border-color .2s;
+    }
+    .escenario.destacado {
+      border-color: var(--c-accent);
+      background: var(--c-accent-dim);
+    }
+    .escenario-icon {
+      font-size: 1.5rem;
+      line-height: 1;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .escenario-body { flex: 1; }
+    .escenario-label {
+      font-size: .78rem;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--c-muted);
+      margin-bottom: 4px;
+    }
+    .escenario.destacado .escenario-label { color: var(--c-accent); }
+    .escenario-valor {
+      font-family: var(--font-mono);
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--c-text);
+      line-height: 1.2;
+    }
+    .escenario-sub {
+      font-size: .82rem;
+      color: var(--c-muted);
+      margin-top: 3px;
+    }
+    .escenario-badge {
+      font-size: .75rem;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      align-self: center;
+    }
+    .badge-ganó { background: rgba(0,200,150,.15); color: var(--c-accent); }
+    .badge-perdió { background: rgba(224,85,85,.15); color: var(--c-red); }
+
+    /* ── Métrica días trabajados ── */
+    .dias-trabajados {
+      background: var(--c-bg);
+      border: 1px solid var(--c-border);
+      border-radius: var(--radius-sm);
+      padding: 16px 18px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 28px;
+    }
+    .dias-icon { font-size: 1.4rem; flex-shrink: 0; }
+    .dias-text { font-size: .93rem; color: var(--c-muted); line-height: 1.5; }
+    .dias-text strong { color: var(--c-warn); }
+
+    /* ── Métricas técnicas ── */
+    .metricas-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    @media (max-width: 480px) {
+      .metricas-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .metrica {
+      background: var(--c-bg);
+      border: 1px solid var(--c-border);
+      border-radius: var(--radius-sm);
+      padding: 12px 14px;
+    }
+    .metrica-label {
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--c-muted);
+      margin-bottom: 4px;
+    }
+    .metrica-valor {
+      font-family: var(--font-mono);
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--c-text);
+    }
+
+    /* ── Share ── */
+    .share-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 1px solid var(--c-border);
+    }
+    .btn-share {
+      flex: 1;
+      min-width: 120px;
+      background: var(--c-border);
+      color: var(--c-text);
+      border: none;
+      border-radius: var(--radius-sm);
+      padding: 10px 14px;
+      font-size: .88rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .2s;
+      text-align: center;
+    }
+    .btn-share:hover { background: #262d3d; }
+    .btn-share.copy-ok { background: var(--c-accent-dim); color: var(--c-accent); }
+
+    /* ── Loading ── */
+    #loading-bar {
+      height: 2px;
+      background: var(--c-accent);
+      width: 0%;
+      transition: width .4s ease;
+      position: fixed;
+      top: 0; left: 0;
+    }
+
+    /* ── Error ── */
+    .error-msg {
+      background: rgba(224,85,85,.1);
+      border: 1px solid rgba(224,85,85,.3);
+      border-radius: var(--radius-sm);
+      padding: 12px 16px;
+      color: var(--c-red);
+      font-size: .9rem;
+      display: none;
+      margin-top: 12px;
+    }
+
+    /* ── Footer note ── */
+    .nota {
+      font-size: .8rem;
+      color: var(--c-muted);
+      margin-top: 12px;
+      line-height: 1.5;
+    }
+
+    /* ── Separador entre secciones ── */
+    .section-title {
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--c-muted);
+      margin-bottom: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div id="loading-bar"></div>
+
+  <div class="page-wrap">
+
+    <header class="site-header">
+      <a href="/">← CotizaYa</a>
+    </header>
+
+    <section class="hero">
+      <p class="hero-eyebrow">Calculadora histórica</p>
+      <h1>¿Qué habría pasado<br>con <em>tus pesos</em>?</h1>
+      <p class="hero-sub">Ingresá una fecha y un monto. Te mostramos cuánto valdría hoy según cada decisión que pudiste haber tomado.</p>
+    </section>
+
+    <!-- Formulario -->
+    <div class="card">
+      <div class="form-row">
+        <div class="field">
+          <label for="fecha">Fecha de la inversión</label>
+          <input type="date" id="fecha" min="2011-01-03" max="" />
+        </div>
+        <div class="field">
+          <label for="monto">Monto en pesos</label>
+          <input type="text" id="monto" placeholder="Ej: 100.000" inputmode="numeric" />
+        </div>
+      </div>
+      <button class="btn-calc" id="btn-calcular" onclick="calcular()">Calcular</button>
+      <div class="error-msg" id="error-msg"></div>
+    </div>
+
+    <!-- Resultado -->
+    <div class="card" id="resultado">
+      <p class="resultado-fecha" id="resultado-fecha"></p>
+      <p class="historia-intro" id="historia-intro"></p>
+
+      <p class="section-title" style="margin-bottom:12px">Escenarios</p>
+      <div class="escenarios" id="escenarios"></div>
+
+      <div class="dias-trabajados" id="dias-trabajados"></div>
+
+      <p class="section-title">Datos de la fecha</p>
+      <div class="metricas-grid" id="metricas-grid"></div>
+      <p class="nota">Fuente: Bluelytics / CotizaYa. Valores de venta. El MEP histórico no está disponible en este período.</p>
+
+      <div class="share-row">
+        <button class="btn-share" id="btn-copy" onclick="copiarTexto()">📋 Copiar resultado</button>
+        <button class="btn-share" onclick="compartirTwitter()">🐦 Compartir en X</button>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // ── Datos ──────────────────────────────────────────────
+    let HISTORIAL = null;
+    let COTIZACION_HOY = null;
+
+    const SALARIO_PROMEDIO_ARS = 800000; // salario promedio estimado 2026
+    const DIAS_HABILES_MES = 22;
+
+    async function cargarDatos() {
+      const bar = document.getElementById('loading-bar');
+      bar.style.width = '40%';
+      try {
+        const r = await fetch('/datos/historial.json', { cache: 'no-store' });
+        HISTORIAL = await r.json();
+        bar.style.width = '80%';
+
+        // Cotización hoy = último registro Blue
+        const fechas = [...new Set(HISTORIAL.map(i => i.date))].sort();
+        const hoy = fechas[fechas.length - 1];
+        const registrosHoy = HISTORIAL.filter(i => i.date === hoy);
+        const blue = registrosHoy.find(i => i.source === 'Blue');
+        const oficial = registrosHoy.find(i => i.source === 'Oficial');
+        COTIZACION_HOY = {
+          fecha: hoy,
+          blue_sell: blue?.value_sell || null,
+          oficial_sell: oficial?.value_sell || null,
+        };
+
+        // Setear fecha máxima del input
+        const maxFecha = fechas[fechas.length - 2]; // ayer como máximo
+        document.getElementById('fecha').max = maxFecha;
+        document.getElementById('fecha').value = '2019-11-10'; // fecha ejemplo memorable
+
+        bar.style.width = '100%';
+        setTimeout(() => bar.style.opacity = '0', 300);
+      } catch(e) {
+        bar.style.background = '#e05555';
+        bar.style.width = '100%';
+        mostrarError('No se pudo cargar el historial de cotizaciones.');
+      }
+    }
+
+    function toNum(v) {
+      if (!v) return NaN;
+      let s = String(v).trim().replace(/\s/g,'').replace(/\$/g,'');
+      if (s.includes(',')) s = s.replace(/\./g,'').replace(',','.');
+      else if (s.includes('.')) {
+        const parts = s.split('.');
+        if (parts.slice(1).every(p => /^\d{3}$/.test(p))) s = s.replace(/\./g,'');
+      }
+      return Number(s);
+    }
+
+    function formatARS(n) {
+      if (!Number.isFinite(n)) return '–';
+      return '$\u00a0' + n.toLocaleString('es-AR', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    }
+
+    function formatFecha(iso) {
+      const [y,m,d] = iso.split('-');
+      const meses = ['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
+      return `${parseInt(d)} de ${meses[parseInt(m)-1]} de ${y}`;
+    }
+
+    function buscarCotizacion(fecha) {
+      const items = HISTORIAL.filter(i => i.date === fecha);
+      if (!items.length) return null;
+      const blue = items.find(i => i.source === 'Blue');
+      const oficial = items.find(i => i.source === 'Oficial');
+      return {
+        blue_sell: blue?.value_sell || null,
+        blue_buy: blue?.value_buy || null,
+        oficial_sell: oficial?.value_sell || null,
+        oficial_buy: oficial?.value_buy || null,
+      };
+    }
+
+    function buscarFechaMasCercana(fechaTarget) {
+      // Buscar la fecha disponible más cercana
+      const fechas = [...new Set(HISTORIAL.map(i => i.date))].sort();
+      const target = new Date(fechaTarget).getTime();
+      let mejor = null;
+      let menorDif = Infinity;
+      for (const f of fechas) {
+        const dif = Math.abs(new Date(f).getTime() - target);
+        if (dif < menorDif) { menorDif = dif; mejor = f; }
+      }
+      return mejor;
+    }
+
+    function calcular() {
+      if (!HISTORIAL) { mostrarError('Los datos aún están cargando. Esperá un momento.'); return; }
+
+      const fechaInput = document.getElementById('fecha').value;
+      const montoInput = document.getElementById('monto').value;
+
+      if (!fechaInput) { mostrarError('Elegí una fecha.'); return; }
+      const monto = toNum(montoInput);
+      if (!Number.isFinite(monto) || monto <= 0) { mostrarError('Ingresá un monto válido (ej: 100000).'); return; }
+
+      limpiarError();
+
+      // Buscar cotización exacta o más cercana
+      let cot = buscarCotizacion(fechaInput);
+      let fechaUsada = fechaInput;
+      if (!cot) {
+        fechaUsada = buscarFechaMasCercana(fechaInput);
+        cot = buscarCotizacion(fechaUsada);
+      }
+      if (!cot) { mostrarError('No hay datos para esa fecha. Probá con otra.'); return; }
+
+      renderResultado(monto, fechaInput, fechaUsada, cot);
+    }
+
+    function renderResultado(monto, fechaOriginal, fechaUsada, cot) {
+      const hoy = COTIZACION_HOY;
+      const fechaHoy = hoy.fecha;
+
+      // ── Cálculos ──
+      // Pesos guardados: erosionados por inflación
+      // Usamos la variación del oficial como proxy de inflación (simplificado)
+      const ratioInflacion = hoy.oficial_sell / cot.oficial_sell;
+      const pesosHoy = monto; // nominalmente igual, pero con menos poder adquisitivo
+      const poderAdquisitivoHoy = monto / ratioInflacion; // en pesos de aquella época
+
+      // Escenario Blue: cuántos USD compró, cuánto valen hoy
+      let resultadoBlue = null;
+      if (cot.blue_sell && hoy.blue_sell) {
+        const usd = monto / cot.blue_sell;
+        resultadoBlue = usd * hoy.blue_sell;
+      }
+
+      // Escenario Oficial
+      let resultadoOficial = null;
+      if (cot.oficial_sell && hoy.oficial_sell) {
+        const usd = monto / cot.oficial_sell;
+        resultadoOficial = usd * hoy.oficial_sell;
+      }
+
+      // Días trabajados perdidos (diferencia entre guardar pesos vs blue)
+      let diasPerdidos = null;
+      if (resultadoBlue && Number.isFinite(resultadoBlue)) {
+        const diferencia = resultadoBlue - monto;
+        if (diferencia > 0) {
+          const salarioDiario = SALARIO_PROMEDIO_ARS / DIAS_HABILES_MES;
+          diasPerdidos = Math.round(diferencia / salarioDiario);
+        }
+      }
+
+      // ── Render ──
+      const avisoFecha = fechaUsada !== fechaOriginal
+        ? ` <span style="color:var(--c-warn);font-size:.82rem">(usando ${formatFecha(fechaUsada)}, la más cercana disponible)</span>`
+        : '';
+
+      document.getElementById('resultado-fecha').innerHTML =
+        `Resultado para <strong>${formatFecha(fechaUsada)}</strong>${avisoFecha}`;
+
+      document.getElementById('historia-intro').innerHTML =
+        `Si el <strong>${formatFecha(fechaUsada)}</strong> hubieras tenido <strong>${formatARS(monto)}</strong> en la mano…`;
+
+      // Escenarios
+      const mejorEscenario = resultadoBlue && resultadoOficial
+        ? (resultadoBlue >= resultadoOficial ? 'blue' : 'oficial')
+        : (resultadoBlue ? 'blue' : 'oficial');
+
+      const escenariosHtml = `
+        ${renderEscenario('📦', 'Guardaste los pesos', pesosHoy, monto,
+          `Nominalmente tenés lo mismo, pero el poder adquisitivo cayó ${Math.round((1 - 1/ratioInflacion)*100)}%`,
+          false)}
+        ${resultadoOficial ? renderEscenario('🏦', 'Compraste dólar oficial', resultadoOficial, monto,
+          `${formatARS(Math.round(monto / cot.oficial_sell * 100)/100).replace('$\u00a0','').trim()} USD × $${cot.oficial_sell} → hoy a $${hoy.oficial_sell}`,
+          mejorEscenario === 'oficial') : ''}
+        ${resultadoBlue ? renderEscenario('💵', 'Compraste dólar blue', resultadoBlue, monto,
+          `${(monto / cot.blue_sell).toFixed(0)} USD × $${cot.blue_sell} → hoy a $${hoy.blue_sell}`,
+          mejorEscenario === 'blue') : ''}
+      `;
+      document.getElementById('escenarios').innerHTML = escenariosHtml;
+
+      // Días trabajados
+      if (diasPerdidos !== null && diasPerdidos > 0) {
+        document.getElementById('dias-trabajados').innerHTML = `
+          <div class="dias-icon">⏳</div>
+          <div class="dias-text">
+            Guardar los pesos en vez de comprar blue te costó el equivalente a
+            <strong>~${diasPerdidos.toLocaleString('es-AR')} días de trabajo</strong>
+            al salario promedio de 2026.
+          </div>
+        `;
+        document.getElementById('dias-trabajados').style.display = 'flex';
+      } else {
+        document.getElementById('dias-trabajados').style.display = 'none';
+      }
+
+      // Métricas
+      document.getElementById('metricas-grid').innerHTML = `
+        <div class="metrica">
+          <div class="metrica-label">Blue ${fechaUsada.slice(0,4)}</div>
+          <div class="metrica-valor">$${cot.blue_sell?.toLocaleString('es-AR') || '–'}</div>
+        </div>
+        <div class="metrica">
+          <div class="metrica-label">Oficial ${fechaUsada.slice(0,4)}</div>
+          <div class="metrica-valor">$${cot.oficial_sell?.toLocaleString('es-AR') || '–'}</div>
+        </div>
+        <div class="metrica">
+          <div class="metrica-label">Brecha</div>
+          <div class="metrica-valor">${cot.blue_sell && cot.oficial_sell ? Math.round((cot.blue_sell/cot.oficial_sell - 1)*100) + '%' : '–'}</div>
+        </div>
+        <div class="metrica">
+          <div class="metrica-label">Blue hoy</div>
+          <div class="metrica-valor">$${hoy.blue_sell?.toLocaleString('es-AR') || '–'}</div>
+        </div>
+        <div class="metrica">
+          <div class="metrica-label">Oficial hoy</div>
+          <div class="metrica-valor">$${hoy.oficial_sell?.toLocaleString('es-AR') || '–'}</div>
+        </div>
+        <div class="metrica">
+          <div class="metrica-label">Multiplicó x</div>
+          <div class="metrica-valor">${resultadoBlue ? (resultadoBlue/monto).toFixed(1) + 'x' : '–'}</div>
+        </div>
+      `;
+
+      document.getElementById('resultado').style.display = 'block';
+      document.getElementById('resultado').scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+      // Guardar para compartir
+      window._ultimoResultado = { monto, fechaUsada, resultadoBlue, resultadoOficial, cot, hoy };
+    }
+
+    function renderEscenario(icon, label, valorFinal, montoInicial, sub, destacado) {
+      const ganancia = valorFinal - montoInicial;
+      const pct = ((valorFinal / montoInicial) - 1) * 100;
+      const gano = ganancia > 0;
+      const badgeClass = gano ? 'badge-ganó' : 'badge-perdió';
+      const badgeText = gano
+        ? `+${pct.toFixed(0)}%`
+        : `${pct.toFixed(0)}%`;
+
+      return `
+        <div class="escenario${destacado ? ' destacado' : ''}">
+          <div class="escenario-icon">${icon}</div>
+          <div class="escenario-body">
+            <div class="escenario-label">${label}</div>
+            <div class="escenario-valor">${formatARS(Math.round(valorFinal))}</div>
+            <div class="escenario-sub">${sub}</div>
+          </div>
+          <span class="escenario-badge ${badgeClass}">${badgeText}</span>
+        </div>
+      `;
+    }
+
+    function copiarTexto() {
+      const r = window._ultimoResultado;
+      if (!r) return;
+      const texto = `💰 CotizaYa — Calculadora Histórica\n` +
+        `Si el ${formatFecha(r.fechaUsada)} tenías ${formatARS(r.monto)}:\n` +
+        `📦 Guardados en pesos → ${formatARS(r.monto)} (perdiste poder adquisitivo)\n` +
+        `💵 Comprando blue → ${formatARS(Math.round(r.resultadoBlue))}\n` +
+        `🏦 Comprando oficial → ${formatARS(Math.round(r.resultadoOficial))}\n` +
+        `\ncotizaya.ar/calculadora/`;
+
+      navigator.clipboard.writeText(texto).then(() => {
+        const btn = document.getElementById('btn-copy');
+        btn.textContent = '✅ Copiado';
+        btn.classList.add('copy-ok');
+        setTimeout(() => { btn.textContent = '📋 Copiar resultado'; btn.classList.remove('copy-ok'); }, 2000);
+      });
+    }
+
+    function compartirTwitter() {
+      const r = window._ultimoResultado;
+      if (!r) return;
+      const texto = encodeURIComponent(
+        `Si el ${formatFecha(r.fechaUsada)} tenías ${formatARS(r.monto)} y los pasaste a blue, hoy tendrías ${formatARS(Math.round(r.resultadoBlue))} 🇦🇷\n\ncotizaya.ar/calculadora/`
+      );
+      window.open(`https://twitter.com/intent/tweet?text=${texto}`, '_blank');
+    }
+
+    function mostrarError(msg) {
+      const el = document.getElementById('error-msg');
+      el.textContent = msg;
+      el.style.display = 'block';
+    }
+    function limpiarError() {
+      document.getElementById('error-msg').style.display = 'none';
+    }
+
+    // ── Input: formatear monto al salir ──
+    document.addEventListener('DOMContentLoaded', () => {
+      const inp = document.getElementById('monto');
+      inp.addEventListener('blur', () => {
+        const n = toNum(inp.value);
+        if (Number.isFinite(n) && n > 0) {
+          inp.value = n.toLocaleString('es-AR', { maximumFractionDigits: 0 });
+        }
+      });
+      inp.addEventListener('keydown', e => {
+        if (e.key === 'Enter') calcular();
+      });
+      cargarDatos();
+    });
+  </script>
+</body>
+</html>
