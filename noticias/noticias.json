@@ -1,87 +1,27 @@
 [
   {
-    "title": "El Banco Mundial aprobó la garantía de u$s2.000 millones para la Argentina",
-    "slug": "el-banco-mundial-aprobo-la-garantia-de-us2000-millones-para-",
+    "title": "El BCRA confirmó un nuevo récord de la morosidad en familias: en préstamos personales rozó el 15%",
+    "slug": "el-bcra-confirmo-un-nuevo-record-de-la-morosidad-en-familias",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "A su vez, el miércoles, el Banco Interamericano de Desarrollo (BID) trataría otra garantía aunque por un monto inferior de u$s550 millones.",
-    "link": "https://www.ambito.com/economia/el-banco-mundial-define-los-detalles-la-garantia-us2000-millones-la-argentina-n6289361",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Semáforo de economías regionales: solo hay cuatro actividades en verde y la mayoría no logra repuntar",
-    "slug": "semaforo-de-economias-regionales-solo-hay-cuatro-actividades",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El análisis considera negocio, aspecto productivo y mercado de cada actividad.  Los detalles del informe sobre el sector agropecuario, en la nota.",
-    "link": "https://www.ambito.com/economia/semaforo-s-regionales-solo-hay-cuatro-actividades-verde-y-la-mayoria-no-logra-repuntar-n6289235",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Domingo Cavallo pidió \"remover completamente el cepo cambiario\" y planteó que es el mejor momento para hacerlo",
-    "slug": "domingo-cavallo-pidio-remover-completamente-el-cepo-cambiari",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Anticipó qué pasaría con el dólar si se concreta ese paso y dijo que el BCRA tiene que comprar más divisas.  Además, criticó al RIGI.",
-    "link": "https://www.ambito.com/economia/domingo-cavallo-pidio-remover-completamente-el-cepo-cambiario-y-planteo-que-es-el-mejor-momento-hacerlo-n6289214",
+    "date": "2026-06-20",
+    "summary": "A nivel agregado, la morosidad trepó al 7,3% en abril: fue del 12,1% en familias y del 3,3% en empresas, aunque en ambos casos con un deterioro tanto mensual como interanual.",
+    "link": "https://www.ambito.com/economia/el-bcra-confirmo-un-nuevo-record-la-morosidad-familias-prestamos-personales-rozo-el-15-n6290892",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
-      "cepo"
+      "bcra"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Chau plazo fijo: así operan los principales bancos hoy, martes 16 de junio",
-    "slug": "chau-plazo-fijo-asi-operan-los-principales-bancos-hoy-martes",
+    "title": "Dólar hoy: a cuánto cotiza este sábado 20 de junio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-20-de-junio",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Las entidades actualizaron sus tasas de interés y ofrecen mejores beneficios para quienes eligen operar de forma online.",
-    "link": "https://www.ambito.com/economia/chau-plazo-fijo-asi-operan-los-principales-bancos-hoy-martes-16-junio-n6289224",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Impuesto a las Ganancias: a cuánto subirá el mínimo no imponible para los trabajadores en el segundo semestre",
-    "slug": "impuesto-a-las-ganancias-a-cuanto-subira-el-minimo-no-imponi",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "La última reforma de la cuarta categoría de este tributo establece que las escalas y las deducciones se ajustan por el IPC semestral.",
-    "link": "https://www.ambito.com/economia/impuesto-las-ganancias-cuanto-subira-el-minimo-no-imponible-los-trabajadores-el-segundo-semestre-n6289171",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Se recalentó el dólar blue: alcanzó su valor más alto desde fines de enero",
-    "slug": "se-recalento-el-dolar-blue-alcanzo-su-valor-mas-alto-desde-f",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "La cotización informal volvió a avanzar y quedó en máximos desde el 30 de enero de 2026.  En este contexto, el mercado sigue atento a la dinámica de la oferta privada de divisas, la demanda por cobertura y el margen del Banco Central para sostener la acumulación de reservas.",
-    "link": "https://www.ambito.com/finanzas/se-recalento-el-dolar-blue-alcanzo-su-valor-mas-alto-fines-enero-n6289392",
+    "date": "2026-06-20",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-20-junio-n6290919",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -92,13 +32,29 @@
     "related": []
   },
   {
-    "title": "La estabilidad financiera repuntó en la última semana, tras dato de inflación, nota de S&P y menor tensión en Medio Oriente",
-    "slug": "la-estabilidad-financiera-repunto-en-la-ultima-semana-tras-d",
+    "title": "Dólar blue hoy: a cuánto opera este sábado 20 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-sabado-20-de-junio",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El indicador, que mide la consultora Analytica, mejoró 0,8% y en 2026 acumula un alza de 13,5%.  Sin embargo, se ubicó 1,9% debajo del promedio de mayo.",
-    "link": "https://www.ambito.com/finanzas/la-estabilidad-financiera-repunto-la-ultima-semana-dato-inflacion-nota-sp-y-menor-tension-medio-oriente-n6289363",
+    "date": "2026-06-20",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-20-junio-n6290920",
     "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuál fue la provincia argentina con menos inflación: ranking completo",
+    "slug": "cual-fue-la-provincia-argentina-con-menos-inflacion-ranking-",
+    "category": "economia",
+    "date": "2026-06-20",
+    "summary": "El análisis sobre las 10 jurisdicciones medidas muestra realidades dispares dentro del mapa nacional.  En algunos lugares el registro saltó a 3,6 mensual.",
+    "link": "https://www.iprofesional.com/index.php/economia/457668-cual-fue-la-provincia-argentina-con-menos-inflacion-ranking-completo",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
@@ -108,126 +64,137 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cerró este martes 16 de junio",
-    "slug": "dolar-hoy-a-cuanto-cerro-este-martes-16-de-junio",
+    "title": "Está todo dado para que bajen los precios en pesos pero suba el dólar: cómo posicionarse",
+    "slug": "esta-todo-dado-para-que-bajen-los-precios-en-pesos-pero-suba",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-martes-16-junio-n6289377",
-    "source": "Ámbito Finanzas",
+    "date": "2026-06-20",
+    "summary": "La reconfiguración internacional tras el acuerdo en Medio Oriente impulsa cambios en la economía argentina, con nuevas variables en juego (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457819-el-ultimo-aviso-del-guru-de-la-city-sobre-el-dolar-vamos-a-un-nuevo-punto-de-equilibrio",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "dólar"
+      "dólar",
+      "peso"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto cerró este martes 16 de junio",
-    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-martes-16-de-junio",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-martes-16-junio-n6289378",
-    "source": "Ámbito Finanzas",
+    "title": "El repliegue noruego: Oslo veta la IA generativa en primaria y reabre la puerta al libro impreso",
+    "slug": "el-repliegue-noruego-oslo-veta-la-ia-generativa-en-primaria-",
+    "category": "cripto",
+    "date": "2026-06-20",
+    "summary": "CriptoTendencia Noruega veta la IA generativa en primaria, restringe su uso en secundaria y financia el regreso del libro impreso a las aulas.  La entrada El repliegue noruego: Oslo veta la IA generativa en primaria y reabre la puerta al libro impreso se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/20/el-repliegue-noruego-oslo-veta-la-ia-generativa-en-primaria-y-reabre-la-puerta-al-libro-impreso/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "dólar"
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El dólar oficial rebotó tras el feriado, pero se sostuvo por debajo de los $1.440",
-    "slug": "el-dolar-oficial-reboto-tras-el-feriado-pero-se-sostuvo-por-",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El mercado sigue de cerca la liquidación del agro, la demanda por viajes al Mundial y el rol del BCRA en la acumulación de reservas.",
-    "link": "https://www.ambito.com/economia/el-dolar-se-mantiene-contenido-pese-al-inicio-del-mundial-2026-y-la-brecha-el-techo-la-banda-se-expandio-al-24-n6289082",
-    "source": "Ámbito Finanzas",
+    "title": "Consejos de oro: las tres cosas que Steve Jobs le enseñó a Kevin O’Leary",
+    "slug": "consejos-de-oro-las-tres-cosas-que-steve-jobs-le-enseno-a-ke",
+    "category": "cripto",
+    "date": "2026-06-20",
+    "summary": "CriptoTendencia Kevin O'Leary asegura que una frase de Steve Jobs sobre señal y ruido explica cómo se construye disciplina patrimonial.  La entrada Consejos de oro: las tres cosas que Steve Jobs le enseñó a Kevin O’Leary se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/20/consejos-de-oro-las-tres-cosas-que-steve-jobs-le-enseno-a-kevin-oleary/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "dólar"
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este martes 16 de junio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-martes-16-de-junio",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-16-junio-n6289057",
-    "source": "Ámbito Finanzas",
+    "title": "OpenAI marca límites a la automatización total: «sería peligroso e insatisfactorio»",
+    "slug": "openai-marca-limites-a-la-automatizacion-total-seria-peligro",
+    "category": "cripto",
+    "date": "2026-06-20",
+    "summary": "CriptoTendencia Sam Altman y el científico jefe de OpenAI advierten: un mundo totalmente automatizado sería peligroso e insatisfactorio.  La entrada OpenAI marca límites a la automatización total: «sería peligroso e insatisfactorio» se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/20/openai-marca-limites-a-la-automatizacion-total-seria-peligroso-e-insatisfactorio/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "dólar"
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este martes 16 de junio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-martes-16-de-junio",
+    "title": "Las importaciones para la producción sumaron su séptima caída al hilo y están 20% debajo de 2023",
+    "slug": "las-importaciones-para-la-produccion-sumaron-su-septima-caid",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-16-junio-n6289056",
-    "source": "Ámbito Finanzas",
+    "date": "2026-06-19",
+    "summary": "En términos generales, las cantidades importadas muestran un estancamiento desde noviembre del año pasado.  Solo se ven subas en pocos segmentos, como en las importaciones \"puerta a puerta\".",
+    "link": "https://www.ambito.com/economia/las-importaciones-la-produccion-sumaron-su-septima-caida-al-hilo-y-estan-20-debajo-2023-n6290861",
+    "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina",
-      "dólar"
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 16 de junio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "Morosidad récord: Banco Nación lanza línea de hasta 10 años, mientras entidades privadas buscan resolver \"caso por caso\"",
+    "slug": "morosidad-record-banco-nacion-lanza-linea-de-hasta-10-anos-m",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-16-junio-n6289076",
-    "source": "Ámbito Finanzas",
+    "date": "2026-06-19",
+    "summary": "El BNA prensentó un plan de refinanciación de hasta 10 años para clientes endeudados, al tiempo que se aprobó en la Legislatura un proyecto que se aplicará a través del Banco Ciudad.  Las posibilidades de que adhieran las entidades privadas.",
+    "link": "https://www.ambito.com/economia/morosidad-record-banco-nacion-lanza-linea-10-anos-mientras-entidades-privadas-buscan-resolver-caso-caso-n6290792",
+    "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina",
-      "dólar"
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El S&P Merval toma ganancias, los bonos operan mixtos y el riesgo país supera los 430 puntos",
-    "slug": "el-sp-merval-toma-ganancias-los-bonos-operan-mixtos-y-el-rie",
+    "title": "La \"inversioneta\": el original metódo del Banco Provincia para acercar las inversiones al hincha argentino durante el Mundial",
+    "slug": "la-inversioneta-el-original-metodo-del-banco-provincia-para-",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "La deuda soberana de la Argentina continúa en alza impulsada por la mejora de las calificaciones crediticias y un contexto internacional más favorable tras la tregua entre EEUU e I",
-    "link": "https://www.ambito.com/finanzas/los-bonos-soberanos-extienden-rebote-y-el-riesgo-pais-se-mantiene-cerca-los-400-puntos-n6289204",
-    "source": "Ámbito Finanzas",
+    "date": "2026-06-19",
+    "summary": "Banco Provincia lanzó una iniciativa que usa la analogía del fútbol para explicar inversiones de manera accesible.  A través de tres perfiles, defensor, mediocampista y delantero, busca desmitificar las finanzas y la toma de decisiones inteligentes a quienes dan sus primeros pasos como inversores.",
+    "link": "https://www.ambito.com/economia/la-inversioneta-el-original-metodo-del-banco-provincia-acercar-las-inversiones-al-hincha-argentino-el-mundial-n6290727",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Provincias: las calificadoras descartan una pronta suba de nota en sus bonos pese al alza de la deuda soberana",
+    "slug": "provincias-las-calificadoras-descartan-una-pronta-suba-de-no",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Algunos distritos ya tenían mejor calificación que el soberano desde 2025.  Las que tenían problemas no han hecho progresos.",
+    "link": "https://www.ambito.com/economia/provincias-las-calificadoras-descartan-una-pronta-suba-nota-sus-bonos-pese-al-alza-la-deuda-soberana-n6290606",
+    "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
       "bonos",
-      "riesgo país"
+      "deuda"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El asado y la barbacoa marcan la previa del debut de Argentina en Kansas City",
-    "slug": "el-asado-y-la-barbacoa-marcan-la-previa-del-debut-de-argenti",
+    "title": "Plazo fijo en la cuerda floja: cuánto genera un depósito de $500.000 a 30 días",
+    "slug": "plazo-fijo-en-la-cuerda-floja-cuanto-genera-un-deposito-de-5",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "La llegada de hinchas albicelestes por el Mundial instaló un duelo culinario con el barbecue local, con filas en Joe’s Kansas City Bar-B-Que y parrillas armadas en Mill Creek Park,",
-    "link": "https://www.infobae.com/estados-unidos/2026/06/16/el-asado-y-la-barbacoa-marcan-la-previa-del-debut-de-argentina-en-kansas-city/",
-    "source": "Infobae",
+    "date": "2026-06-19",
+    "summary": "Las tasas de interés siguen en niveles bajos y obligan a los inversores a replantearse la utilidad de esta herramienta.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-la-cuerda-floja-cuanto-genera-un-deposito-500000-30-dias-n6290287",
+    "source": "Ámbito",
     "tags": [
       "economía",
       "argentina"
@@ -236,12 +203,109 @@
     "related": []
   },
   {
-    "title": "Empresa argentina echó a 900 empleados y a todos les hizo la misma pregunta: resultado desolador",
-    "slug": "empresa-argentina-echo-a-900-empleados-y-a-todos-les-hizo-la",
+    "title": "Morosidad récord: punto por punto, cómo es la ley para refinanciar las deudas familiares que se aprobó en CABA",
+    "slug": "morosidad-record-punto-por-punto-como-es-la-ley-para-refinan",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "TN&Platex, de la familia Karagozian, hizo un relevamiento entre sus exempleados y el resultado muestra el drama de quedarse sin trabajo en Argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/management/457057-empresa-argentina-echo-a-900-personas-a-todos-les-hizo-esta-pregunta-resultado-desolador",
+    "date": "2026-06-19",
+    "summary": "Se trata de un plan para rescatar financiamientos con tarjeta de crédito y préstamos personales en situación irregular.  Se implementará a través del Banco Ciudad y habrá beneficios fiscales para intentar que las entidades privadas se adhieran.",
+    "link": "https://www.ambito.com/economia/morosidad-record-punto-punto-como-es-la-ley-refinanciar-las-deudas-familiares-que-se-aprobo-caba-n6290504",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las compras del BCRA marcaron su peor semana desde enero y las reservas cayeron por cuarta rueda seguida",
+    "slug": "las-compras-del-bcra-marcaron-su-peor-semana-desde-enero-y-l",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "La autoridad monetaria compró u$s50 millones este viernes y cerró la semana con un saldo positivo de u$s233 millones, el más bajo desde enero, en tanto, las reservas brutas retroce",
+    "link": "https://www.ambito.com/finanzas/las-compras-del-bcra-marcaron-su-peor-semana-enero-y-las-reservas-cayeron-cuarta-rueda-seguida-n6290824",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mercado cripto: Bitcoin recupera el nivel de los u$s63.000 y borra buena parte de su caída semanal",
+    "slug": "mercado-cripto-bitcoin-recupera-el-nivel-de-los-us63000-y-bo",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "La incertidumbre en torno al acuerdo de paz entre Estados Unidos e Irán, sumada al tono restrictivo de la Reserva Federal, golpeó el apetito por los activos de riesgo en los último",
+    "link": "https://www.ambito.com/finanzas/bitcoin-retrocede-us62600-y-encamina-cerrar-otra-semana-perdidas-n6290571",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 19 de junio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-19-junio-n6290483",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar blue cerró su sexta semana al alza y se acercó a los $1.500",
+    "slug": "el-dolar-blue-cerro-su-sexta-semana-al-alza-y-se-acerco-a-lo",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "El tipo de cambio informal avanzó $20 contra el viernes anterior y recortó parte de la pérdida acumulada en el año.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-blue-cerro-su-sexta-semana-al-alza-y-se-acerco-los-1500-n6290823",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este viernes 19 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-viernes-19-de-junio",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-viernes-19-junio-n6290796",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Conflicto en puerta?: el Gobierno cuestiona un cálculo del FMI que pone en duda el superávit fiscal",
+    "slug": "conflicto-en-puerta-el-gobierno-cuestiona-un-calculo-del-fmi",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "En el equipo de Toto Caputo sostienen que el organismo interpreta mal el resultado fiscal en su último informe.  Y da pie a quienes dicen que hay déficit (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/457830-el-gobierno-cuestiona-un-calculo-del-fmi-que-pone-en-duda-el-superavit",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -251,12 +315,12 @@
     "related": []
   },
   {
-    "title": "De Pablo: por qué la llegada masiva de dólares podría ser en un problema para la economía",
-    "slug": "de-pablo-por-que-la-llegada-masiva-de-dolares-podria-ser-en-",
+    "title": "Precio del dólar alcanza el nivel más alto desde febrero y la City estima cuánto más puede escalar",
+    "slug": "precio-del-dolar-alcanza-el-nivel-mas-alto-desde-febrero-y-l",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Con el ingreso masivo de divisas por exportaciones de energía y agro, economistas alertan sobre riesgos de retroceso en empleo fabril argentino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/457341-avalancha-dolares-industria-argentina-riesgo-empleos-fabriles-junio-2026",
+    "date": "2026-06-19",
+    "summary": "La cotización del dólar escala 2,8% en lo que va de junio, superando a la inflación y al plazo fijo.  Cuáles son las causas y a cuánto puede llegar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457726-el-precio-mas-alto-que-puede-alcanzar-el-dolar-en-diciembre-2026-segun-expertos",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -267,12 +331,12 @@
     "related": []
   },
   {
-    "title": "Plazo fijo Banco Provincia con tasa de interés actualizada: cuánto se gana invirtiendo $2 millones",
-    "slug": "plazo-fijo-banco-provincia-con-tasa-de-interes-actualizada-c",
+    "title": "Cuál es el sueldo de un albañil en junio: el costo de mano de obra por hora",
+    "slug": "cual-es-el-sueldo-de-un-albanil-en-junio-el-costo-de-mano-de",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Las colocaciones en pesos muestran rendimientos estables, mientras el precio del dólar avanza más.  Cuánto se gana con un depósito de $2 millones a 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457477-plazo-fijo-banco-provincia-con-tasa-actualizada-cuanto-se-gana-invirtiendo-2-millones",
+    "date": "2026-06-19",
+    "summary": "El entendimiento sindical asegura una actualización en las escalas de remuneración y contribuye con un bono especial para empleados del sector (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/actualidad/457826-cual-es-sueldo-de-albanil-en-junio-2026-el-costo-de-mano-de-obra-por-hora",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -282,16 +346,124 @@
     "related": []
   },
   {
-    "title": "El Gobierno aprobó el ingreso al RIGI de la mayor inversión minera en el país por u$s10.000 millones",
-    "slug": "el-gobierno-aprobo-el-ingreso-al-rigi-de-la-mayor-inversion-",
+    "title": "Cuenta regresiva para el megaproyecto que producirá un insumo clave para el acero sustentable",
+    "slug": "cuenta-regresiva-para-el-megaproyecto-que-producira-un-insum",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Luis Caputo anunció que la iniciativa en San Juan avanza tras conseguir beneficios impositivos de largo plazo, impulsando exportaciones y empleo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/457467-aprueban-ingreso-al-rigi-de-la-mayor-inversion-minera-en-el-pais-por-casi-10000-millones-dolares",
+    "date": "2026-06-19",
+    "summary": "Llegaron los primeros insumos para las pruebas de producción de arrabio verde en un proyecto que prevé generar más de 3. 300 empleos en la provincia (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/energia/457829-megaproyecto-producira-en-argentina-un-insumo-clave-para-el-acero-sustentable",
     "source": "iProfesional",
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El durísimo mensaje de Caputo contra un reconocido periodista: \"Pobrecito, está enfermo\"",
+    "slug": "el-durisimo-mensaje-de-caputo-contra-un-reconocido-periodist",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "El ministro de Economía citó en X un fragmento de una nota periodística y cargó contra el periodista que la escribió: \"Alguien tiene que cuidarlo\" (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/457824-el-durisimo-mensaje-de-caputo-contra-un-reconocido-periodista-pobrecito-esta-enfermo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Este es el sueldo promedio que exige un argentino para entrar a trabajar",
+    "slug": "este-es-el-sueldo-promedio-que-exige-un-argentino-para-entra",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Gerencia y Dirección General, junto con Minería, Petróleo y Gas, serían los sectores y áreas que ofrecen las mejores perspectivas salariales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/management/457768-el-salario-pretendido-para-entrar-a-un-nuevo-trabajo-fue-de-casi-18-millones-en-junio",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "No hay upgrade: Argentina se mantiene en la categoría más baja y sigue sin ser un país confiable",
+    "slug": "no-hay-upgrade-argentina-se-mantiene-en-la-categoria-mas-baj",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "El MSCI publicó su Revisión Global de Accesibilidad a los Mercados y no se observaron mejoras para Argentina con respecto a los últimos años (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457735-no-hay-upgrade-argentina-se-mantiene-en-la-categoria-mas-baja-de-msci-sigue-sin-ser-pais-confiable",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo Banco Santander con tasa nueva: cuánto ganás ahora con $2 millones",
+    "slug": "plazo-fijo-banco-santander-con-tasa-nueva-cuanto-ganas-ahora",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Los depósitos en pesos están presionados por el alza del precio del dólar, pero favorecidos por inflación más baja.  Cuánto ganás con $2 millones en 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457807-plazo-fijo-banco-santander-con-tasa-nueva-cuanto-ganas-ahora-con-2-millones-pesos",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Crece la cantidad de familias con deudas: la mora bancaria alcanzó un nuevo récord",
+    "slug": "crece-la-cantidad-de-familias-con-deudas-la-mora-bancaria-al",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "La cifra se triplicó en un año y se estima que más de 5,3 millones tienen algún crédito en situación irregular en el sistema financiero (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457846-crece-la-cantidad-familias-deudas-mora-bancaria-alcanzo-un-nuevo-record",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Rulo con el dólar: piden levantar secreto fiscal sobre el banquero Juan Nápoli y otros financistas",
+    "slug": "rulo-con-el-dolar-piden-levantar-secreto-fiscal-sobre-el-ban",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "Avanza la investigación sobre una presunta maniobra con el dólar durante el gobierno de Alberto Fernández y hay banqueros y financistas bajo la lupa (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/actualidad/457845-rulo-con-el-dolar-piden-levantar-secreto-fiscal-sobre-el-banquero-juan-napoli",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Banco líder ofrece un préstamo a 10 años para que sus clientes cancelen deudas",
+    "slug": "banco-lider-ofrece-un-prestamo-a-10-anos-para-que-sus-client",
+    "category": "economia",
+    "date": "2026-06-19",
+    "summary": "La propuesta busca ayudar a quienes tienen pagos atrasados, ofreciendo facilidades para reorganizar compromisos financieros y proteger ingresos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457833-banco-lider-ofrece-prestamo-10-anos-para-que-sus-clientes-cancelen-deudas",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
     ],
     "featured": false,
     "related": []
@@ -300,24 +472,9 @@
     "title": "VIDEO | Panorama económico financiero de hoy en menos de 90 segundos",
     "slug": "video-panorama-economico-financiero-de-hoy-en-menos-de-90-se",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Consultoras ven inflación debajo del 2% en junio, pero la carne sigue cara, el consumo cayó 11,1% y la nafta no tendría rebajas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457445-panorama-financiero-de-hoy-16-junio-2026-en-menos-de-90-segundos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Loma Negra presentó balance mejor al esperado: ¿momento de comprar acciones en la bolsa?",
-    "slug": "loma-negra-presento-balance-mejor-al-esperado-momento-de-com",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El informe destacó mejores números operativos en Loma Negra, aunque el margen de suba ya no alcanza para recomendar compra en la City (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457351-loma-negra-presento-balance-mejor-al-esperado-momento-de-comprar-acciones",
+    "date": "2026-06-19",
+    "summary": "Mayo dejó exportaciones récord y superávit histórico, pero el dólar oficial ya sube 2,8% en junio y el consumo lleva seis meses en rojo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457793-panorama-financiero-19-junio-2026-record-de-exportaciones-pero-dolar-se-mueve-y-consumo-sigue-flojo",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -327,60 +484,29 @@
     "related": []
   },
   {
-    "title": "Caputo consiguió una garantía clave del Banco Mundial y queda más cerca de volver a los mercados",
-    "slug": "caputo-consiguio-una-garantia-clave-del-banco-mundial-y-qued",
+    "title": "La verdad detrás del llamativo freno en las compras de dólares del BCRA durante los últimos días",
+    "slug": "la-verdad-detras-del-llamativo-freno-en-las-compras-de-dolar",
     "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El BM aprobó una garantía por u$s2. 000 millones y el mercado señala que esto abre una ventana para que \"el Gobierno evalúa un regreso a los mercados\" (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457473-el-banco-mundial-define-si-aprueba-una-garantia-por-2000-millones-dolares-para-argentina",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Acciones argentinas vuelven a caer y el riesgo país corta su tendencia favorable",
-    "slug": "acciones-argentinas-vuelven-a-caer-y-el-riesgo-pais-corta-su",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "Los papeles argentinos operaron en baja tras el feriado, mientras el petróleo retrocede y los inversores siguieron de cerca la situación en Medio Oriente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457449-acciones-argentinas-vuelven-a-caer-y-riesgo-pais-corta-tendencia-favorable",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cavallo pidió al Gobierno levantar \"completamente\" el cepo y anticipó qué pasaría con el dólar",
-    "slug": "cavallo-pidio-al-gobierno-levantar-completamente-el-cepo-y-a",
-    "category": "economia",
-    "date": "2026-06-16",
-    "summary": "El exministro de Economía se refirió al RIGI y dijo que es el momento ideal para que el Gobierno libere completametne el cepo al dólar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457469-domingo-cavallo-pidio-al-gobierno-levantar-completamente-el-cepo-y-dijo-que-pasara-con-dolar",
+    "date": "2026-06-19",
+    "summary": "A pesar del récord comercial logrado por el agro, el stock de reservas avanza lento y crecen las dudas sobre el rumbo de la política monetaria (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/457744-la-verdad-detras-del-llamativo-freno-en-las-compras-de-dolares-del-bcra-durante-los-ultimos-dias",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar",
-      "cepo"
+      "bcra"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Alivio y escepticismo global ante la frágil tregua en Medio Oriente",
-    "slug": "alivio-y-escepticismo-global-ante-la-fragil-tregua-en-medio-",
+    "title": "El FBI intensifica su ofensiva contra las estafas de criptomonedas",
+    "slug": "el-fbi-intensifica-su-ofensiva-contra-las-estafas-de-criptom",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia La tregua en Medio Oriente ofrece alivio a los mercados financieros, pero las tensiones regionales siguen lejos de resolverse.  La entrada Alivio y escepticismo global ante la frágil tregua en Medio Oriente se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/alivio-y-escepticismo-global-ante-la-fragil-tregua-en-medio-oriente-2/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia Las autoridades estadounidenses redoblan esfuerzos contra las estafas con criptomonedas mientras crecen las pérdidas de los usuarios.  La entrada El FBI intensifica su ofensiva contra las estafas de criptomonedas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/19/el-fbi-intensifica-su-ofensiva-contra-las-estafas-de-criptomonedas-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -390,12 +516,12 @@
     "related": []
   },
   {
-    "title": "El final de «cripto» como categoría aparte: el rediseño de Lemon y el nuevo orden financiero",
-    "slug": "el-final-de-cripto-como-categoria-aparte-el-rediseno-de-lemo",
+    "title": "El EUR/USD cae a mínimos de 3 meses mientras la atención se centra en el próximo discurso del BCE y la FED",
+    "slug": "el-eurusd-cae-a-minimos-de-3-meses-mientras-la-atencion-se-c",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Stripe, Visa, Robinhood y Lemon convergen en la misma dirección: una arquitectura donde la tecnología blockchain ya no se nombra.  La entrada El final de «cripto» como categoría aparte: el rediseño de Lemon y el nuevo orden financiero se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/el-final-de-cripto-como-categoria-aparte-el-rediseno-de-lemon-y-el-nuevo-orden-financiero/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia La atención del mercado se centra en el EUR/USD antes de los PMI y los discursos del BCE y la FED.  ¡Conoce más detalles!",
+    "link": "https://criptotendencia.com/2026/06/19/el-eur-usd-cae-a-minimos-de-3-meses-mientras-la-atencion-se-centra-en-el-proximo-discurso-del-bce-y-la-fed/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -405,12 +531,12 @@
     "related": []
   },
   {
-    "title": "El token de TON cambia oficialmente su nombre a Gram tras votación comunitaria",
-    "slug": "el-token-de-ton-cambia-oficialmente-su-nombre-a-gram-tras-vo",
+    "title": "Resumen Bitcoin: entre la acumulación institucional y la firmeza de la Fed",
+    "slug": "resumen-bitcoin-entre-la-acumulacion-institucional-y-la-firm",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia La blockchain TON renombró oficialmente su token nativo como Gram tras una votación comunitaria y una transición automática.  La entrada El token de TON cambia oficialmente su nombre a Gram tras votación comunitaria se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/el-token-de-ton-cambia-oficialmente-su-nombre-a-gram-tras-votacion-comunitaria-2/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia Resumen semanal de Bitcoin: la firmeza de la Fed arrastra el precio a los $62. 000, mientras Strategy compra $100 millones y BlackRock lanza su ETF.",
+    "link": "https://criptotendencia.com/2026/06/19/resumen-bitcoin-entre-la-acumulacion-institucional-y-la-firmeza-de-la-fed-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -420,12 +546,12 @@
     "related": []
   },
   {
-    "title": "Golvurikenz opiniones 2026: Plataforma oficial de trading con Inteligencia Artificial",
-    "slug": "golvurikenz-opiniones-2026-plataforma-oficial-de-trading-con",
+    "title": "El avance de la IA: entre la privacidad, el comercio agéntico y la biodiversidad",
+    "slug": "el-avance-de-la-ia-entre-la-privacidad-el-comercio-agentico-",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Golvurikenz es una plataforma de trading con inteligencia artificial que ofrece automatización, análisis avanzado y acceso a múltiples mercados desde 250 €.  La entrada Golvurikenz opiniones 2026: Plataforma oficial de trading con Inteligencia Artificial se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/golvurikenz-opiniones-2026-plataforma-oficial-de-trading-con-inteligencia-artificial/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia Descubre las noticias clave de inteligencia artificial: privacidad digital, programación asistida, retail autónomo y conservación ambiental innovadora.  La entrada El avance de la IA: entre la privacidad, el comercio agéntico y la biodiversidad se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/19/el-avance-de-la-ia-entre-la-privacidad-el-comercio-agentico-y-la-biodiversidad-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -435,12 +561,12 @@
     "related": []
   },
   {
-    "title": "Un apostador de Polymarket perdió casi $1 millón tras la sorpresa de Cabo Verde ante España",
-    "slug": "un-apostador-de-polymarket-perdio-casi-1-millon-tras-la-sorp",
+    "title": "La OPI de Kalshi está en marcha: la firma inicia conversaciones con bancos de inversión",
+    "slug": "la-opi-de-kalshi-esta-en-marcha-la-firma-inicia-conversacion",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Tras el sorpresivo empate entre España y Cabo Verde, un operador de Polymarket perdió aproximadamente $1 millón.  La entrada Un apostador de Polymarket perdió casi $1 millón tras la sorpresa de Cabo Verde ante España se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/un-apostador-de-polymarket-perdio-casi-1-millon-tras-la-sorpresa-de-cabo-verde-ante-espana-2/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia La popular compañía de mercados de predicción Kalshi prepara el terreno para una posible oferta pública inicial en EE.  UU.",
+    "link": "https://criptotendencia.com/2026/06/19/la-opi-de-kalshi-esta-en-marcha-la-firma-inicia-conversaciones-con-bancos-de-inversion-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -450,28 +576,12 @@
     "related": []
   },
   {
-    "title": "Ballenas de Ethereum acumulan millones en medio de un fuerte rebote de precio",
-    "slug": "ballenas-de-ethereum-acumulan-millones-en-medio-de-un-fuerte",
+    "title": "SpaceX borra las ganancias recientes de nuevos inversores tras otra jornada de pérdidas en bolsa",
+    "slug": "spacex-borra-las-ganancias-recientes-de-nuevos-inversores-tr",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia La fuerte acumulación que retomaron las ballenas de Ethereum provocó un repunte del precio de ETH hasta los $1. 800 por token.",
-    "link": "https://criptotendencia.com/2026/06/16/ballenas-de-ethereum-acumulan-millones-en-medio-de-un-fuerte-rebote-de-precio/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Hispanos en EEUU: el mercado cripto de 68 millones de personas que casi nadie cubre bien",
-    "slug": "hispanos-en-eeuu-el-mercado-cripto-de-68-millones-de-persona",
-    "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Un mercado de USD 4 billones de PIB estimado, 68 millones de personas y un peso creciente del cripto en remesas que sigue subatendido en español.  La entrada Hispanos en EEUU: el mercado cripto de 68 millones de personas que casi nadie cubre bien se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/hispanos-en-eeuu-el-mercado-cripto-de-68-millones-de-personas-que-casi-nadie-cubre-bien/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia Las ganancias de los inversores recientes de SpaceX se borran rápidamente mientras las acciones de la firma continúan en retroceso.  La entrada SpaceX borra las ganancias recientes de nuevos inversores tras otra jornada de pérdidas en bolsa se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/19/las-ganancias-de-los-inversores-recientes-de-spacex-desaparecen-tras-segundo-dia-de-caidas-en-bolsa-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -481,43 +591,12 @@
     "related": []
   },
   {
-    "title": "Nvidia lidera el mercado mientras crece la apuesta institucional por Bitcoin y Ethereum",
-    "slug": "nvidia-lidera-el-mercado-mientras-crece-la-apuesta-instituci",
+    "title": "Las microtransacciones de Bitcoin aumentan hasta el punto de dominar la actividad en la red",
+    "slug": "las-microtransacciones-de-bitcoin-aumentan-hasta-el-punto-de",
     "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Nvidia, Ethereum y Bitcoin marcan el rumbo de los mercados con millonarias inversiones y fuerte demanda institucional.  La entrada Nvidia lidera el mercado mientras crece la apuesta institucional por Bitcoin y Ethereum se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/16/nvidia-lidera-el-mercado-mientras-crece-la-apuesta-institucional-por-bitcoin-y-ethereum-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitso inaugura la Stablecoin Conference 2026 y declara el inicio de la era de las Finanzas Híbridas en América Latina",
-    "slug": "bitso-inaugura-la-stablecoin-conference-2026-y-declara-el-in",
-    "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia Bitso reveló en CDMX que las stablecoins ya superan a Bitcoin en compras regionales y que el 60% de sus nuevos clientes son bancos La entrada Bitso inaugura la Stab",
-    "link": "https://criptotendencia.com/2026/06/16/bitso-inaugura-la-stablecoin-conference-2026-y-declara-el-inicio-de-la-era-de-las-finanzas-hibridas-en-america-latina/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El pulso del mercado: World subió con fuerza el fin de semana, pero ahora podría buscar un retroceso",
-    "slug": "el-pulso-del-mercado-world-subio-con-fuerza-el-fin-de-semana",
-    "category": "cripto",
-    "date": "2026-06-16",
-    "summary": "CriptoTendencia World subió un 25% y ahora pone a prueba un soporte clave tras encontrar resistencia.  ¿Se acerca un nuevo retroceso?",
-    "link": "https://criptotendencia.com/2026/06/16/el-pulso-del-mercado-world-subio-con-fuerza-el-fin-de-semana-pero-ahora-podria-buscar-un-retroceso-2/",
+    "date": "2026-06-19",
+    "summary": "CriptoTendencia Las microtransacciones en la blockchain de Bitcoin representan actualmente un sorprendente 80% de toda la actividad en esa red.  La entrada Las microtransacciones de Bitcoin aumentan hasta el punto de dominar la actividad en la red se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/19/las-microtransacciones-de-bitcoin-aumentan-hasta-el-punto-de-dominar-la-actividad-en-la-red/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
