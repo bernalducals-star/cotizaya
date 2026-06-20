@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es" data-theme="light">
 <head>
   <meta charset="UTF-8" />
@@ -161,23 +161,47 @@
       padding: 60px 20px;
     }
     .noticia-error h2 { margin-bottom: 12px; }
+
+    /* Banner Radar Mundial */
+    .radar-banner {
+      background: #1a6b2e;
+      color: white;
+      text-align: center;
+      padding: 10px 16px;
+      font-size: 14px;
+      position: sticky;
+      top: 0;
+      z-index: 10000;
+    }
+    .radar-banner a {
+      color: #FFD700;
+      font-weight: bold;
+      margin-left: 8px;
+      text-decoration: none;
+    }
+    .radar-banner a:hover { text-decoration: underline; }
   </style>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
-<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "x59cz2mynz");</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "x59cz2mynz");</script>
 </head>
 <body>
+
+  <!-- Banner Radar Mundial -->
+  <div class="radar-banner">
+    ⚽ <strong>Radar Mundial</strong> — Análisis y pronósticos gratis antes de cada partido.
+    <a href="https://whatsapp.com/channel/0029VbAFcmO6GkPNXJ0Mli1l" target="_blank" rel="noopener">→ Unirme gratis</a>
+  </div>
+
+  <!-- NAV ÚNICA -->
   <header class="topbar">
     <div class="container topbar-inner">
       <a href="/" class="logo" style="text-decoration:none;">Cotiza<span>Ya</span></a>
-      <nav>
-    <a href="/" class="nav-logo">CotizaYa</a>
-    <div class="nav-links">
-    <a href="/dolar-blue">Dólar</a>
-      <a href="/conversor-euro-peso.html">Euro</a>
-      <a href="/#cripto">Cripto</a>
-      <a href="/aprender">Aprender</a>
-    </div>
-  </nav>
+      <div class="nav-links">
+        <a href="/dolar-blue">Dólar</a>
+        <a href="/conversor-euro-peso.html">Euro</a>
+        <a href="/#cripto">Cripto</a>
+        <a href="/aprender">Aprender</a>
+      </div>
       <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema">🌞</button>
     </div>
   </header>
@@ -191,8 +215,8 @@
   </main>
 
   <footer>
-  <p>&copy; 2026 <a href="/">CotizaYa</a> &bull; Datos actualizados diariamente &bull; <a href="/about.html">Sobre nosotros</a></p>
-</footer>
+    <p>&copy; 2026 <a href="/">CotizaYa</a> &bull; Datos actualizados diariamente &bull; <a href="/about.html">Sobre nosotros</a></p>
+  </footer>
 
   <script>
     const yearEl = document.getElementById('year'); if (yearEl) yearEl.textContent = new Date().getFullYear();
@@ -212,14 +236,24 @@
 
     // Obtener slug de la URL
     function getSlugFromURL() {
-  const params = new URLSearchParams(window.location.search);
-  return params.get('slug');
-}
+      const params = new URLSearchParams(window.location.search);
+      return params.get('slug');
+    }
 
     // Renderizar noticia
     async function loadNoticia() {
       const slug = getSlugFromURL();
       const container = document.getElementById('noticia-content');
+
+      if (!slug) {
+        container.innerHTML = `
+          <div class="noticia-error">
+            <h2>Noticia no encontrada</h2>
+            <p>No se especificó ningún artículo.</p>
+            <a href="/#noticias" style="color: var(--accent)">← Volver a noticias</a>
+          </div>`;
+        return;
+      }
 
       try {
         // Buscar primero en noticias.json (GitHub Actions)
@@ -227,12 +261,14 @@
         let noticias = [];
         try {
           const res = await fetch('/noticias/noticias.json');
-          noticias = await res.json();
-          noticia = noticias.find(n => n.slug === slug);
+          if (res.ok) {
+            noticias = await res.json();
+            noticia = noticias.find(n => n.slug === slug);
+          }
         } catch(e) {}
 
         // Si no encontró, buscar en /articulos/ (Make.com)
-        if (!noticia && slug) {
+        if (!noticia) {
           try {
             const res2 = await fetch(`/articulos/${slug}.json`);
             if (res2.ok) {
@@ -263,15 +299,18 @@
         }
 
         document.title = `${noticia.title} - CotizaYa`;
-        document.querySelector('meta[name="description"]').setAttribute('content', noticia.summary);
+        document.querySelector('meta[name="description"]').setAttribute('content', noticia.summary || '');
 
-        // Noticias relacionadas (misma categoría, excluyendo la actual)
         const relacionadas = noticias
           .filter(n => n.category === noticia.category && n.slug !== noticia.slug)
           .slice(0, 4);
 
         const iconos = { economia: '📈', cripto: '₿' };
         const icono = iconos[noticia.category] || '📰';
+
+        const fechaStr = noticia.date
+          ? new Date(noticia.date + 'T12:00:00').toLocaleDateString('es-AR', { day: 'numeric', month: 'long', year: 'numeric' })
+          : '';
 
         container.innerHTML = `
           <a href="/#noticias" class="noticia-back">← Volver a noticias</a>
@@ -281,15 +320,15 @@
           <h1 class="noticia-titulo">${noticia.title}</h1>
 
           <div class="noticia-meta">
-            <span>📅 ${new Date(noticia.date + 'T12:00:00').toLocaleDateString('es-AR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+            ${fechaStr ? `<span>📅 ${fechaStr}</span>` : ''}
             <span>📰 ${noticia.source}</span>
           </div>
 
           <div class="noticia-imagen-placeholder">${icono}</div>
 
-          <div class="noticia-resumen">${noticia.summary}</div>
+          <div class="noticia-resumen">${noticia.summary || ''}</div>
 
-          ${noticia.tags.length ? `
+          ${noticia.tags && noticia.tags.length ? `
           <div class="noticia-tags">
             ${noticia.tags.map(t => `<span class="noticia-tag">#${t}</span>`).join('')}
           </div>` : ''}
@@ -324,21 +363,23 @@
 
     loadNoticia();
   </script>
-<!-- Widget QR -->
-<div id="qr-widget" style="position:fixed;bottom:20px;right:20px;z-index:9999;">
-  <button id="qr-toggle" onclick="document.getElementById('qr-panel').classList.toggle('open')" style="background:#111827;border:none;border-radius:12px;padding:10px;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.3);">
-    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#00b894" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="3" height="3"/></svg>
-  </button>
-  <div id="qr-panel" style="display:none;position:absolute;bottom:50px;right:0;background:#111827;border-radius:16px;padding:16px;box-shadow:0 8px 32px rgba(0,0,0,0.4);text-align:center;width:180px;">
-    <img src="https://quickchart.io/qr?text=https://cotizaya.ar&size=140" width="140" height="140" style="border-radius:8px;display:block;margin:0 auto 8px;" loading="lazy" alt="QR CotizaYa"/>
-    <div style="font-size:11px;color:rgba(255,255,255,0.4);font-family:monospace;text-transform:uppercase;letter-spacing:0.08em;">cotizaya.ar</div>
+
+  <!-- Widget QR -->
+  <div id="qr-widget" style="position:fixed;bottom:20px;right:20px;z-index:9999;">
+    <button id="qr-toggle" style="background:#111827;border:none;border-radius:12px;padding:10px;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.3);">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#00b894" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="3" height="3"/></svg>
+    </button>
+    <div id="qr-panel" style="display:none;position:absolute;bottom:50px;right:0;background:#111827;border-radius:16px;padding:16px;box-shadow:0 8px 32px rgba(0,0,0,0.4);text-align:center;width:180px;">
+      <img src="https://quickchart.io/qr?text=https://cotizaya.ar&size=140" width="140" height="140" style="border-radius:8px;display:block;margin:0 auto 8px;" loading="lazy" alt="QR CotizaYa"/>
+      <div style="font-size:11px;color:rgba(255,255,255,0.4);font-family:monospace;text-transform:uppercase;letter-spacing:0.08em;">cotizaya.ar</div>
+    </div>
   </div>
-</div>
-<script>
-  document.getElementById('qr-toggle').addEventListener('click',function(){
-    var p=document.getElementById('qr-panel');
-    p.style.display=p.style.display==='none'?'block':'none';
-  });
-</script>
+  <script>
+    document.getElementById('qr-toggle').addEventListener('click', function(){
+      var p = document.getElementById('qr-panel');
+      p.style.display = p.style.display === 'none' ? 'block' : 'none';
+    });
+  </script>
+
 </body>
 </html>
