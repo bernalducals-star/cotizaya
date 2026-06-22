@@ -1,5 +1,35 @@
 [
   {
+    "title": "SpaceSail, el rival chino de Starlink, busca expandirse y lanza una nueva ronda de financiación",
+    "slug": "spacesail-el-rival-chino-de-starlink-busca-expandirse-y-lanz",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Los fondos se destinarán a construcción de satélites, I+D y expansión.  En el marco de la competencia global con SpaceX, la empresa china busca desplegar 15.",
+    "link": "https://www.ambito.com/economia/spacesail-el-rival-chino-starlink-busca-expandirse-y-lanza-una-nueva-ronda-financiacion-n6291509",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La divergencia estructural: el límite del mercado interno y la urgencia de los incentivos productivos",
+    "slug": "la-divergencia-estructural-el-limite-del-mercado-interno-y-l",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Mientras el sector externo tracciona, el ahogo del consumo y el estrés crediticio exigen calibrar los incentivos para reconvertir la industria sin fracturar el sistema.",
+    "link": "https://www.ambito.com/opiniones/la-divergencia-estructural-el-limite-del-mercado-interno-y-la-urgencia-los-incentivos-productivos-n6291464",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "La canasta de servicios públicos se disparó 10,1% en junio y desde 2023 aumentó el cuádruple que la inflación",
     "slug": "la-canasta-de-servicios-publicos-se-disparo-101-en-junio-y-d",
     "category": "economia",
@@ -47,21 +77,6 @@
     "related": []
   },
   {
-    "title": "La Fed de Kevin Warsh habla poco, pero lo suficiente para señalar una suba de tasas antes de fin de año",
-    "slug": "la-fed-de-kevin-warsh-habla-poco-pero-lo-suficiente-para-sen",
-    "category": "economia",
-    "date": "2026-06-22",
-    "summary": "El flamante titular de la Reserva Federal debutó sin sorpresas.  Mantuvo las tasas sin cambios en el rango 3,50-3,75%, y el mensaje de una probable suba de tasas a fin de año.",
-    "link": "https://www.ambito.com/economia/la-fed-kevin-warsh-habla-poco-pero-lo-suficiente-senalar-una-suba-tasas-antes-fin-ano-n6291238",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Austria apuesta por la Argentina en el \"prode\" económico: es el país de la UE que más aumentó sus inversiones desde 2023",
     "slug": "austria-apuesta-por-la-argentina-en-el-prode-economico-es-el",
     "category": "economia",
@@ -77,11 +92,43 @@
     "related": []
   },
   {
-    "title": "Los bonos en dólares retoman las subas en Wall Street y el riesgo país marca un nuevo mínimo en ocho años",
-    "slug": "los-bonos-en-dolares-retoman-las-subas-en-wall-street-y-el-r",
+    "title": "Dólar hoy: a cuánto cerró este lunes 22 de junio",
+    "slug": "dolar-hoy-a-cuanto-cerro-este-lunes-22-de-junio",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Los títulos soberanos argentinos comienzan la semana al alza luego del feriado del viernes en EEUU.  La city evalúa las chances de un pronto regreso a los mercados internacionales.",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-22-junio-n6291568",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este lunes 22 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-lunes-22-de-junio",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-lunes-22-junio-n6291569",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bonos en dólares suben hasta 1% y el riesgo país se sostiene en mínimos de ocho años",
+    "slug": "los-bonos-en-dolares-suben-hasta-1-y-el-riesgo-pais-se-sosti",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Los títulos soberanos comenzaron la semana al alza luego de lo que fue el feriado del viernes en EEUU.  La city evalúa las chances de un pronto regreso a los mercados internacionales.",
     "link": "https://www.ambito.com/finanzas/los-bonos-dolares-retoman-las-subas-wall-street-y-el-riesgo-pais-marca-un-nuevo-minimo-ocho-anos-n6291418",
     "source": "Ámbito Finanzas",
     "tags": [
@@ -94,28 +141,12 @@
     "related": []
   },
   {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 22 de junio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "El dólar oficial revirtió baja inicial y anotó su sexta suba de forma consecutiva",
+    "slug": "el-dolar-oficial-revirtio-baja-inicial-y-anoto-su-sexta-suba",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-22-junio-n6291304",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 22 de junio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-22-de-junio",
-    "category": "economia",
-    "date": "2026-06-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-22-junio-n6291286",
+    "summary": "Mientras tanto, el BCRA continúa las compras de divisas por más de 100 días consecutivos, pero muestra señales de desaceleración.",
+    "link": "https://www.ambito.com/finanzas/prolonga-las-subas-el-dolar-oficial-arranca-la-semana-su-nivel-mas-alto-enero-n6291360",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -142,12 +173,12 @@
     "related": []
   },
   {
-    "title": "¿Prolonga las subas? El dólar oficial arranca la semana en su nivel más alto desde enero",
-    "slug": "prolonga-las-subas-el-dolar-oficial-arranca-la-semana-en-su-",
+    "title": "Dólar blue hoy: a cuánto opera este lunes 22 de junio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-22-de-junio",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Esta tendencia alcista también se observa en el dólar blue, que acumula seis semanas consecutivas de subas.  Mientras tanto, el BCRA continúa las compras de divisas, pero a un menor ritmo.",
-    "link": "https://www.ambito.com/finanzas/prolonga-las-subas-el-dolar-oficial-arranca-la-semana-su-nivel-mas-alto-enero-n6291360",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-22-junio-n6291286",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -158,27 +189,44 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este lunes 22 de junio",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-lunes-22-de-ju",
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 22 de junio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-lunes-22-junio-n6291225",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-22-junio-n6291304",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 22 de junio, la previa del partido de Argentina y el minuto a minuto de la jornada",
-    "slug": "mundial-2026-en-vivo-ultimas-noticias-de-hoy-22-de-junio-la-",
+    "title": "Deuda: Luis Caputo buscará esta semana completar el cupo de u$s2.000 millones del Bonar 2028",
+    "slug": "deuda-luis-caputo-buscara-esta-semana-completar-el-cupo-de-u",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Los campeones del mundo hacen su segunda presentación en la Copa del Mundo y buscarán sellar su clasificación a la siguiente fase. Una multitud de hinchas albicelestes coparon Dall",
-    "link": "https://www.infobae.com/deportes/2026/06/22/mundial-2026-en-vivo-ultimas-noticias-de-hoy-22-de-junio-la-previa-del-partido-de-argentina-y-el-minuto-a-minuto-de-la-jornada/",
+    "summary": "El Gobierno ya colocó u$s1. 634 millones del bono de legislación argentina en dólares con vencimiento octubre de 2028 y completó el de 2027.",
+    "link": "https://www.ambito.com/finanzas/deuda-luis-caputo-buscara-esta-semana-completar-el-cupo-us2000-millones-bonar-2028-n6291428",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Lionel Scaloni habla en conferencia tras la victoria sobre Austria que clasificó a Argentina a los 16avos del Mundial 2026",
+    "slug": "lionel-scaloni-habla-en-conferencia-tras-la-victoria-sobre-a",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "El entrenador de la Selección analiza la memorable actuación de Lionel Messi en Dallas",
+    "link": "https://www.infobae.com/deportes/2026/06/22/lionel-scaloni-habla-en-conferencia-tras-la-victoria-sobre-austria-que-clasifico-a-argentina-a-los-16avos-del-mundial-2026/",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -188,12 +236,28 @@
     "related": []
   },
   {
-    "title": "Mercado Pago quedó bajo la lupa por los \"torneos entre amigos\"",
-    "slug": "mercado-pago-quedo-bajo-la-lupa-por-los-torneos-entre-amigos",
+    "title": "Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este lunes 22 de junio",
+    "slug": "dolar-hoy-en-vivo-a-cuanto-se-operaron-todas-las-cotizacione",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "ALEA advirtió a Mercado Pago por los torneos de amigos de Fixture 2026 y planteó que podrían encuadrarse como juego de azar no autorizado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457925-mercado-pago-quedo-bajo-la-lupa-por-los-torneos-entre-amigos",
+    "summary": "El billete minorista se mantuvo ofrecido a $1. 480 para la venta en el Banco Nación.",
+    "link": "https://www.infobae.com/economia/2026/06/22/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-22-de-junio/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Billeteras virtuales versus plazo fijo: el nuevo ranking para saber dónde ganar más plata",
+    "slug": "billeteras-virtuales-versus-plazo-fijo-el-nuevo-ranking-para",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "El mapa de tasas cambió otra vez y deja diferencias claras entre billeteras, cuentas remuneradas, FCI money market y plazos fijos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457904-billeteras-virtuales-versus-plazo-fijo-el-nuevo-ranking-para-saber-donde-ganar-mas-plata",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -203,12 +267,12 @@
     "related": []
   },
   {
-    "title": "Energía, IA y futuro: la oportunidad que ve Jorge  Brito para la Argentina",
-    "slug": "energia-ia-y-futuro-la-oportunidad-que-ve-jorge-brito-para-l",
+    "title": "Empleadas domésticas firmaron convenio con el salario dinámico de la reforma laboral: cómo funciona",
+    "slug": "empleadas-domesticas-firmaron-convenio-con-el-salario-dinami",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "El presidente de Genneia afirmó que el país puede posicionarse como hub de energía e inteligencia artificial gracias a Vaca Muerta, renovables y el RIGI.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/tecnologia/457935-la-oportunidad-que-ve-jorge-brito-y-que-mete-a-la-argentina-en-la-carrera-global-de-ia",
+    "summary": "El sindicato de empleadas domésticas fue el primero en cerrar un convenio con el denominado salario dinámico.  Qué significa y cómo se aplica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/actualidad/457588-reforma-laboral-como-funciona-el-salario-dinamico-para-empleadas-domesticas",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -218,32 +282,158 @@
     "related": []
   },
   {
-    "title": "La industria energética impulsa el empleo en economías regionales con sueldos de $2,5 millones",
-    "slug": "la-industria-energetica-impulsa-el-empleo-en-economias-regio",
+    "title": "Qué inversión me conviene más en junio y julio: ¿plazo fijo, dólar o FCI money market?",
+    "slug": "que-inversion-me-conviene-mas-en-junio-y-julio-plazo-fijo-do",
     "category": "economia",
     "date": "2026-06-22",
-    "summary": "Según estimaciones del sector, en 2030 se necesitarán 43. 000 trabajadores directos adicionales para acompañar el crecimiento de la industria energética (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/management/457903-industria-energetica-impulsa-empleo-en-economias-regionales-con-sueldos-de-25-millones",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los 3 factores que anticipan una suba del dólar a mayor ritmo para las próximas semanas",
-    "slug": "los-3-factores-que-anticipan-una-suba-del-dolar-a-mayor-ritm",
-    "category": "economia",
-    "date": "2026-06-22",
-    "summary": "La cotización del dólar se consolida por encima de $1. 400 en el mercado oficial.",
-    "link": "https://www.iprofesional.com/finanzas/457886-3-factores-que-anticipan-una-suba-del-dolar-a-mayor-ritmo-para-las-proximas-semanas",
+    "summary": "Con tasas en pesos moderadas y un dólar que volvió a moverse, expertos analizan qué alternativa resulta más conveniente durante este mes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457825-que-inversion-me-conviene-mas-en-junio-plazo-fijo-dolar-o-fci-money-market",
     "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
       "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Estrategia: cómo invertir 1 millón de pesos en los CEDEAR que están bajo la lupa de la City",
+    "slug": "estrategia-como-invertir-1-millon-de-pesos-en-los-cedear-que",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Expertos financieros presentaron un nuevo portafolio diversificado de activos globales, destacando opciones con potencial de crecimiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457528-estrategia-como-invertir-1-millon-de-pesos-en-los-cedear-que-estan-bajo-la-lupa-de-la-city",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "VIDEO | Panorama económico financiero de hoy en menos de 90 segundos",
+    "slug": "video-panorama-economico-financiero-de-hoy-en-menos-de-90-se",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "El petróleo ya lidera las exportaciones, pero en junio el dólar sube casi 4% y el mercado ya mira un cambio de etapa, no una corrida (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457949-video-panorama-financiero-22-junio-2026-dolar-volvio-a-moverse-pero-no-por-crisis-que-esta-cambiando",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El sueldo que piden los argentinos para aceptar un nuevo trabajo en junio 2026",
+    "slug": "el-sueldo-que-piden-los-argentinos-para-aceptar-un-nuevo-tra",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Los argentinos siguen ajustando sus pretensiones salariales bien por debajo de la inflación.  Las profesiones con los sueldos más altos en junio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/management/457943-el-sueldo-que-piden-los-argentinos-para-aceptar-un-nuevo-trabajo-en-junio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El comportamiento que tendrá el dólar según los principales bancos y consultoras",
+    "slug": "el-comportamiento-que-tendra-el-dolar-segun-los-principales-",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Las consultoras y bancos que releva el Banco Central redujeron sus proyecciones para el dólar y prevén que seguirá corriendo por detrás de la inflación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457951-que-va-a-pasar-con-el-dolar-segun-los-principales-bancos-y-consultoras",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Banco por banco: cuánto sale comprar dólar oficial",
+    "slug": "banco-por-banco-cuanto-sale-comprar-dolar-oficial",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Banco por banco, estos son los precios del dólar oficial y del dólar tarjeta este lunes 22 de junio.  Qué entidad ofrece la cotización más baja (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457953-banco-por-banco-cuanto-sale-comprar-dolar-oficial",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El costo de los servicios públicos creció mucho más que la inflación durante este mes",
+    "slug": "el-costo-de-los-servicios-publicos-crecio-mucho-mas-que-la-i",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Con el invierno y la actualización de tarifas, el costo de mantener servicios esenciales dejó a muchas familias con menor poder adquisitivo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/457948-tarifas-servicios-publicos-cuanto-cuestan-hogar-argentino-gasta-mes-junio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una de las sociedades de bolsa más importantes de la City entra al negocio del real estate",
+    "slug": "una-de-las-sociedades-de-bolsa-mas-importantes-de-la-city-en",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Una fuerte sociedad de bolsa desembarca en el real estate con el piso más exclusivo del Kavanagh, cinco suites y jardines privados en Retiro (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/realestate/457842-una-de-las-sociedades-de-bolsa-mas-importantes-de-la-city-entra-al-negocio-del-real-estate",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuánto ganaría quien invierte $500.000 en la acción de este banco, según pronóstico de bróker",
+    "slug": "cuanto-ganaria-quien-invierte-500000-en-la-accion-de-este-ba",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Banco de Valores aceleró en préstamos y depósitos, y un broker fuerte de la City mantiene una apuesta alcista para sus acciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457413-cuanto-ganaria-quien-invierte-500000-en-la-accion-de-este-banco-segun-pronostico-de-broker",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bonos soberanos extienden ganancias y el riesgo país marca tendencia bajista",
+    "slug": "bonos-soberanos-extienden-ganancias-y-el-riesgo-pais-marca-t",
+    "category": "economia",
+    "date": "2026-06-22",
+    "summary": "Los bonos soberanos en dólares suben y el riesgo país cae a mínimos de 2018, mientras ADRs argentinos en Wall Street operan en baja (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/457950-senales-positivas-para-la-deuda-suben-los-bonos-y-el-riesgo-pais-sigue-en-descenso",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos",
+      "riesgo país"
     ],
     "featured": false,
     "related": []
@@ -255,7 +445,7 @@
     "date": "2026-06-22",
     "summary": "Con el dólar en alza y más tensión en la City, las consultoras con mejor historial de aciertos revelan hasta dónde creen que llegará a fin de año (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/457822-gurues-mas-confiables-de-la-city-revelan-el-precio-del-dolar-que-preven-para-diciembre",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -265,17 +455,106 @@
     "related": []
   },
   {
-    "title": "Compras en dólares con tarjeta: cómo evitar el recargo del 30% al pagar el resumen",
-    "slug": "compras-en-dolares-con-tarjeta-como-evitar-el-recargo-del-30",
-    "category": "economia",
+    "title": "BNB defiende soporte clave y apunta a un posible impulso hacia los $610",
+    "slug": "bnb-defiende-soporte-clave-y-apunta-a-un-posible-impulso-hac",
+    "category": "cripto",
     "date": "2026-06-22",
-    "summary": "La clave para abonar servicios online internacionales y compras desde el exterior sin que se apliquen impuestos extra ni incremento por conversiones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457928-compras-internacionales-con-tarjeta-como-evitar-el-recargo-del-30-por-ciento-al-pagar-el-resumen",
-    "source": "iProfesional Finanzas",
+    "summary": "CriptoTendencia BNB defiende un soporte clave mientras los funding rates muestran optimismo y el precio apunta hacia la zona de los $610.  La entrada BNB defiende soporte clave y apunta a un posible impulso hacia los $610 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/bnb-defiende-soporte-clave-y-apunta-a-un-posible-impulso-hacia-los-610-2/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "dólar"
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La red L2 Taiko insta a retirar fondos de sus puentes tras sufrir un ataque en su vault",
+    "slug": "la-red-l2-taiko-insta-a-retirar-fondos-de-sus-puentes-tras-s",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia La red de segunda capa Taiko instó a retirar fondos de sus puentes tras sufrir un ataque de más de $1 millón.  La entrada La red L2 Taiko insta a retirar fondos de sus puentes tras sufrir un ataque en su vault se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/la-red-l2-taiko-insta-a-retirar-fondos-de-sus-puentes-tras-sufrir-un-ataque-en-su-vault-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La OPI de SpaceX no es competencia para las criptomonedas, según Changpeng Zhao",
+    "slug": "la-opi-de-spacex-no-es-competencia-para-las-criptomonedas-se",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia Según Changpeng Zhao, la OPI de SpaceX no compite con las criptomonedas, sino que refuerza la convergencia financiera.  La entrada La OPI de SpaceX no es competencia para las criptomonedas, según Changpeng Zhao se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/la-opi-de-spacex-no-es-competencia-para-las-criptomonedas-segun-changpeng-zhao-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Fallece a los 100 años Alan Greenspan, expresidente de la Reserva Federal",
+    "slug": "fallece-a-los-100-anos-alan-greenspan-expresidente-de-la-res",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia Según su esposa, Andrea Mitchell, el expresidente de la Reserva Federal Alan Greenspan falleció a los 100 años.  La entrada Fallece a los 100 años Alan Greenspan, expresidente de la Reserva Federal se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/fallece-a-los-100-anos-alan-greenspan-expresidente-de-la-reserva-federal-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Zervulkait opiniones 2026: Análisis real y riesgos",
+    "slug": "zervulkait-opiniones-2026-analisis-real-y-riesgos",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia Zervulkait combina inteligencia artificial, automatización y modo demo para facilitar el trading y la inversión en distintos mercados.  La entrada Zervulkait opiniones 2026: Análisis real y riesgos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/zervulkait-opiniones-2026-analisis-real-y-riesgos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy compró más Bitcoin, pero su prioridad ahora es impulsar a STRC",
+    "slug": "strategy-compro-mas-bitcoin-pero-su-prioridad-ahora-es-impul",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia Strategy volvió a comprar BTC, pero ahora prioriza reforzar sus reservas en dólares para respaldar sus títulos STRC.  La entrada Strategy compró más Bitcoin, pero su prioridad ahora es impulsar a STRC se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/strategy-compro-mas-bitcoin-pero-su-prioridad-ahora-es-impulsar-a-strc-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El índice Nikkei 225 alcanzó máximos históricos impulsado por la IA",
+    "slug": "el-indice-nikkei-225-alcanzo-maximos-historicos-impulsado-po",
+    "category": "cripto",
+    "date": "2026-06-22",
+    "summary": "CriptoTendencia El mayor índice de la bolsa japonesa, Nikkei 225, conquistó este lunes nuevos máximos históricos gracias al impulso de la IA.  La entrada El índice Nikkei 225 alcanzó máximos históricos impulsado por la IA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/22/el-indice-nikkei-225-alcanzo-maximos-historicos-impulsado-por-la-ia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -321,206 +600,6 @@
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Análisis: ¿qué esperar para el precio de Bitcoin la próxima semana?",
-    "slug": "analisis-que-esperar-para-el-precio-de-bitcoin-la-proxima-se",
-    "category": "cripto",
-    "date": "2026-06-22",
-    "summary": "CriptoTendencia Bitcoin se acerca a niveles decisivos mientras los ETF registran salidas de capital y aumentan las expectativas macroeconómicas.  La entrada Análisis: ¿qué esperar para el precio de Bitcoin la próxima semana?",
-    "link": "https://criptotendencia.com/2026/06/22/analisis-que-esperar-para-el-precio-de-bitcoin-la-proxima-semana-18/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Autoridades de Japón están alarmadas ante la caída del yen a mínimos de 40 años",
-    "slug": "autoridades-de-japon-estan-alarmadas-ante-la-caida-del-yen-a",
-    "category": "cripto",
-    "date": "2026-06-22",
-    "summary": "CriptoTendencia El yen japonés experimenta una caída no vista en cuatro décadas frente al dólar, lo que alarma a las autoridades de la nación.  La entrada Autoridades de Japón están alarmadas ante la caída del yen a mínimos de 40 años se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/22/autoridades-de-japon-estan-alarmadas-ante-la-caida-del-yen-a-minimos-de-40-anos/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ahorrá más de 20% en tus gastos en dólares: cómo pagar la tarjeta en junio 2026",
-    "slug": "ahorra-mas-de-20-en-tus-gastos-en-dolares-como-pagar-la-tarj",
-    "category": "economia",
-    "date": "2026-06-21",
-    "summary": "Un método legal y sencillo te permite reducir el costo final del resumen y evitar tener que abonar un sobrecargo muy elevado.",
-    "link": "https://www.ambito.com/economia/ahorra-mas-20-tus-gastos-dolares-como-pagar-la-tarjeta-junio-2026-n6290742",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El plazo fijo, cada vez menos rentable: cuánto rinde una inversión de $750.000",
-    "slug": "el-plazo-fijo-cada-vez-menos-rentable-cuanto-rinde-una-inver",
-    "category": "economia",
-    "date": "2026-06-21",
-    "summary": "Las tasas siguen bajas y cada vez se necesita inmovilizar más capital para generar ganancias importantes.  Conocé los detalles.",
-    "link": "https://www.ambito.com/economia/el-plazo-fijo-cada-vez-menos-rentable-cuanto-rinde-una-inversion-750000-n6290816",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Estrategia: cómo invertir 1 millón de pesos en los CEDEAR que están bajo la lupa de la City",
-    "slug": "estrategia-como-invertir-1-millon-de-pesos-en-los-cedear-que",
-    "category": "economia",
-    "date": "2026-06-21",
-    "summary": "Expertos financieros presentaron un nuevo portafolio diversificado de activos globales, destacando opciones con potencial de crecimiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457528-estrategia-como-invertir-1-millon-de-pesos-en-los-cedear-que-estan-bajo-la-lupa-de-la-city",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sorpresa en el top: la billetera virtual que lidera el rendimiento y supera a Mercado Pago",
-    "slug": "sorpresa-en-el-top-la-billetera-virtual-que-lidera-el-rendim",
-    "category": "economia",
-    "date": "2026-06-21",
-    "summary": "Las fintech ajustan tasas para captar pesos en un contexto de menor rentabilidad y crece el uso de billeteras virtuales como opción de ahorro (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457460-ranking-de-billeteras-virtuales-cual-paga-mas-interes-y-lidera-el-mercado-en-argentina",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar despertó, pero no es la mejor inversión en lo que va de junio: cuál lidera",
-    "slug": "el-dolar-desperto-pero-no-es-la-mejor-inversion-en-lo-que-va",
-    "category": "economia",
-    "date": "2026-06-21",
-    "summary": "Con la divisa en alza y la inflación más contenida, cambió el mapa de las inversiones.  Qué activos sacaron ventaja este mes y en lo que va del año (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457840-dolar-desperto-pero-no-es-mejor-inversion-en-lo-que-va-del-mes-junio-2026-cual-lidera",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El metaverso 2026: de la fantasía del ocio a la utilidad corporativa e inteligente",
-    "slug": "el-metaverso-2026-de-la-fantasia-del-ocio-a-la-utilidad-corp",
-    "category": "cripto",
-    "date": "2026-06-21",
-    "summary": "CriptoTendencia El metaverso evoluciona hacia aplicaciones empresariales con IA, capacitación inmersiva, nuevas gafas XR y ecosistemas interconectados.  La entrada El metaverso 2026: de la fantasía del ocio a la utilidad corporativa e inteligente se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/21/el-metaverso-2026-de-la-fantasia-del-ocio-a-la-utilidad-corporativa-e-inteligente-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street alcanza su nivel de valoración más alto en toda la historia: ¿estamos ante una nueva burbuja?",
-    "slug": "wall-street-alcanza-su-nivel-de-valoracion-mas-alto-en-toda-",
-    "category": "cripto",
-    "date": "2026-06-21",
-    "summary": "CriptoTendencia Wall Street alcanza valoraciones históricas mientras el auge de la IA eleva expectativas y reabre el debate sobre una posible burbuja.  La entrada Wall Street alcanza su nivel de valoración más alto en toda la historia: ¿estamos ante una nueva burbuja?",
-    "link": "https://criptotendencia.com/2026/06/21/wall-street-alcanza-su-nivel-de-valoracion-mas-alto-en-toda-la-historia-estamos-ante-una-nueva-burbuja-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen: las 5 noticias más relevantes de la semana en el sector de minería de Bitcoin",
-    "slug": "resumen-las-5-noticias-mas-relevantes-de-la-semana-en-el-sec",
-    "category": "cripto",
-    "date": "2026-06-21",
-    "summary": "CriptoTendencia La minería de Bitcoin enfrenta estrés creciente, caída de dificultad, compras de MARA y una costosa transición hacia la IA.  La entrada Resumen: las 5 noticias más relevantes de la semana en el sector de minería de Bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/21/resumen-las-5-noticias-mas-relevantes-de-la-semana-en-el-sector-de-mineria-de-bitcoin-2-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuando un informe limpio de IA deje de ser defensa: el giro silencioso en la seguridad cripto",
-    "slug": "cuando-un-informe-limpio-de-ia-deje-de-ser-defensa-el-giro-s",
-    "category": "cripto",
-    "date": "2026-06-21",
-    "summary": "CriptoTendencia Mythos y la IA prometen auditorías cripto baratas y continuas, pero expertos advierten que no cubren los mayores riesgos del sector.  La entrada Cuando un informe limpio de IA deje de ser defensa: el giro silencioso en la seguridad cripto se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/06/21/cuando-un-informe-limpio-de-ia-deje-de-ser-defensa-el-giro-silencioso-en-la-seguridad-cripto/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Solana enfrenta una resistencia decisiva antes de continuar su rally: ¿podrá superarla?",
-    "slug": "solana-enfrenta-una-resistencia-decisiva-antes-de-continuar-",
-    "category": "cripto",
-    "date": "2026-06-21",
-    "summary": "CriptoTendencia Solana enfrenta una resistencia clave mientras los funding rates muestran convicción alcista y el precio conserva soportes relevantes.  La entrada Solana enfrenta una resistencia decisiva antes de continuar su rally: ¿podrá superarla?",
-    "link": "https://criptotendencia.com/2026/06/21/solana-enfrenta-una-resistencia-decisiva-antes-de-continuar-su-rally-podra-superarla-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Está todo dado para que bajen los precios en pesos pero suba el dólar: cómo posicionarse",
-    "slug": "esta-todo-dado-para-que-bajen-los-precios-en-pesos-pero-suba",
-    "category": "economia",
-    "date": "2026-06-20",
-    "summary": "La reconfiguración internacional tras el acuerdo en Medio Oriente impulsa cambios en la economía argentina, con nuevas variables en juego (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457819-el-ultimo-aviso-del-guru-de-la-city-sobre-el-dolar-vamos-a-un-nuevo-punto-de-equilibrio",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "peso"
     ],
     "featured": false,
     "related": []
