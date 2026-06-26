@@ -486,6 +486,62 @@ function updateFiatUI(fiat, prevFiat) {
       setText("pyg_ref", "–");
     }
   }
+
+  // ── Bloques nuevos: resumen de mercado + tabla comparativa ──
+  updateMarketSummary(fiat);
+  updateComparativeTable(fiat);
+}
+
+/**
+ * Genera el texto del "Resumen rápido del mercado" con los datos del día.
+ */
+function updateMarketSummary(fiat) {
+  const el = $("market-summary");
+  if (!el) return;
+
+  const blueVenta = fiat.usd_blue?.venta;
+  const oficialVenta = fiat.usd_oficial?.venta;
+
+  if (!Number.isFinite(blueVenta) || !Number.isFinite(oficialVenta)) {
+    el.textContent = "Cargando resumen del mercado…";
+    return;
+  }
+
+  const brecha = blueVenta - oficialVenta;
+  const brechaPct = ((brecha / oficialVenta) * 100).toFixed(1);
+
+  el.innerHTML = `El foco del día está en el <strong>dólar blue</strong>, que se ubica en ` +
+    `<strong>${formatNumber(blueVenta)}</strong> para la venta. ` +
+    `Frente al oficial (<strong>${formatNumber(oficialVenta)}</strong>), la brecha cambiaria ` +
+    `es de <strong>$${formatNumber(brecha)}</strong>, equivalente a un <strong>${brechaPct}%</strong>. ` +
+    `Acá encontrás todos los valores, la comparación y el contexto en una sola pantalla.`;
+}
+
+/**
+ * Rellena la tabla comparativa con compra / venta / spread.
+ */
+function updateComparativeTable(fiat) {
+  const tbody = $("comparative-table-body");
+  if (!tbody) return;
+
+  const rows = [
+    { name: "Dólar blue",    data: fiat.usd_blue },
+    { name: "Dólar oficial", data: fiat.usd_oficial },
+    { name: "Dólar MEP",     data: fiat.usd_mep },
+    { name: "Euro oficial",  data: fiat.eur },
+  ];
+
+  tbody.innerHTML = rows.map(r => {
+    const compra = r.data?.compra;
+    const venta = r.data?.venta;
+    const spread = (Number.isFinite(compra) && Number.isFinite(venta)) ? venta - compra : null;
+    return `<tr>
+      <td>${r.name}</td>
+      <td>${Number.isFinite(compra) ? "$" + formatNumber(compra) : "–"}</td>
+      <td>${Number.isFinite(venta) ? "$" + formatNumber(venta) : "–"}</td>
+      <td>${Number.isFinite(spread) ? "$" + formatNumber(spread) : "–"}</td>
+    </tr>`;
+  }).join("");
 }
 
 /**
