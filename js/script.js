@@ -510,11 +510,20 @@ function updateMarketSummary(fiat) {
   const brecha = blueVenta - oficialVenta;
   const brechaPct = ((brecha / oficialVenta) * 100).toFixed(1);
 
-  el.innerHTML = `El foco del día está en el <strong>dólar blue</strong>, que se ubica en ` +
-    `<strong>${formatNumber(blueVenta)}</strong> para la venta. ` +
-    `Frente al oficial (<strong>${formatNumber(oficialVenta)}</strong>), la brecha cambiaria ` +
-    `es de <strong>$${formatNumber(brecha)}</strong>, equivalente a un <strong>${brechaPct}%</strong>. ` +
-    `Acá encontrás todos los valores, la comparación y el contexto en una sola pantalla.`;
+  // Actualizar solo los spans internos si ya existen, evita re-render del bloque
+  const spans = el.querySelectorAll("strong[data-ms]");
+  if (spans.length === 4) {
+    spans[0].textContent = formatNumber(blueVenta);
+    spans[1].textContent = formatNumber(oficialVenta);
+    spans[2].textContent = "$" + formatNumber(brecha);
+    spans[3].textContent = brechaPct + "%";
+  } else {
+    el.innerHTML = `El foco del día está en el <strong>dólar blue</strong>, que se ubica en ` +
+      `<strong data-ms="blue">${formatNumber(blueVenta)}</strong> para la venta. ` +
+      `Frente al oficial (<strong data-ms="oficial">${formatNumber(oficialVenta)}</strong>), la brecha cambiaria ` +
+      `es de <strong data-ms="brecha">$${formatNumber(brecha)}</strong>, equivalente a un <strong data-ms="pct">${brechaPct}%</strong>. ` +
+      `Acá encontrás todos los valores, la comparación y el contexto en una sola pantalla.`;
+  }
 }
 
 /**
@@ -525,23 +534,38 @@ function updateComparativeTable(fiat) {
   if (!tbody) return;
 
   const rows = [
-    { name: "Dólar blue",    data: fiat.usd_blue },
-    { name: "Dólar oficial", data: fiat.usd_oficial },
-    { name: "Dólar MEP",     data: fiat.usd_mep },
-    { name: "Euro oficial",  data: fiat.eur },
+    { key: "blue",    name: "Dólar blue",    data: fiat.usd_blue },
+    { key: "oficial", name: "Dólar oficial", data: fiat.usd_oficial },
+    { key: "mep",     name: "Dólar MEP",     data: fiat.usd_mep },
+    { key: "eur",     name: "Euro oficial",  data: fiat.eur },
   ];
 
-  tbody.innerHTML = rows.map(r => {
-    const compra = r.data?.compra;
-    const venta = r.data?.venta;
-    const spread = (Number.isFinite(compra) && Number.isFinite(venta)) ? venta - compra : null;
-    return `<tr>
-      <td>${r.name}</td>
-      <td>${Number.isFinite(compra) ? "$" + formatNumber(compra) : "–"}</td>
-      <td>${Number.isFinite(venta) ? "$" + formatNumber(venta) : "–"}</td>
-      <td>${Number.isFinite(spread) ? "$" + formatNumber(spread) : "–"}</td>
-    </tr>`;
-  }).join("");
+  // Si la tabla ya tiene filas, actualizar celda por celda (sin re-render)
+  const existingRows = tbody.querySelectorAll("tr[data-row]");
+  if (existingRows.length === rows.length) {
+    rows.forEach((r, i) => {
+      const compra = r.data?.compra;
+      const venta = r.data?.venta;
+      const spread = (Number.isFinite(compra) && Number.isFinite(venta)) ? venta - compra : null;
+      const cells = existingRows[i].querySelectorAll("td");
+      if (cells[1]) cells[1].textContent = Number.isFinite(compra) ? "$" + formatNumber(compra) : "–";
+      if (cells[2]) cells[2].textContent = Number.isFinite(venta) ? "$" + formatNumber(venta) : "–";
+      if (cells[3]) cells[3].textContent = Number.isFinite(spread) ? "$" + formatNumber(spread) : "–";
+    });
+  } else {
+    // Primera carga: construir la tabla con data-row para identificar filas
+    tbody.innerHTML = rows.map(r => {
+      const compra = r.data?.compra;
+      const venta = r.data?.venta;
+      const spread = (Number.isFinite(compra) && Number.isFinite(venta)) ? venta - compra : null;
+      return `<tr data-row="${r.key}">
+        <td>${r.name}</td>
+        <td>${Number.isFinite(compra) ? "$" + formatNumber(compra) : "–"}</td>
+        <td>${Number.isFinite(venta) ? "$" + formatNumber(venta) : "–"}</td>
+        <td>${Number.isFinite(spread) ? "$" + formatNumber(spread) : "–"}</td>
+      </tr>`;
+    }).join("");
+  }
 }
 
 /**
