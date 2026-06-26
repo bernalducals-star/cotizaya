@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="light">
+<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -202,7 +202,7 @@
         <a href="/#cripto">Cripto</a>
         <a href="/aprender">Aprender</a>
       </div>
-      <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema">🌞</button>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
     </div>
   </header>
 
@@ -221,18 +221,31 @@
   <script>
     const yearEl = document.getElementById('year'); if (yearEl) yearEl.textContent = new Date().getFullYear();
 
-    // Theme toggle
-    const toggle = document.getElementById('theme-toggle');
-    const savedTheme = localStorage.getItem('theme') || 'light';
-    document.documentElement.setAttribute('data-theme', savedTheme);
-    toggle.textContent = savedTheme === 'dark' ? '🌙' : '🌞';
-    toggle.addEventListener('click', () => {
-      const current = document.documentElement.getAttribute('data-theme');
-      const next = current === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', next);
-      localStorage.setItem('theme', next);
-      toggle.textContent = next === 'dark' ? '🌙' : '🌞';
-    });
+    // Theme toggle — alineado con el resto del sitio (body.dark + cotizaya_theme_v1)
+    (function() {
+      var THEME_KEY = "cotizaya_theme_v1";
+      function moonSVG(c){ return '<svg width="22" height="22" viewBox="0 0 24 24" fill="none"><path d="M21 13.2A7.5 7.5 0 0 1 10.8 3 8.5 8.5 0 1 0 21 13.2Z" stroke="' + c + '" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'; }
+      function sunSVG(c){ return '<svg width="22" height="22" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="4" stroke="' + c + '" stroke-width="2"/><path d="M12 2v2M12 20v2M4 12H2M22 12h-2M5 5l1.5 1.5M17.5 17.5L19 19M19 5l-1.5 1.5M5 19l1.5-1.5" stroke="' + c + '" stroke-width="2" stroke-linecap="round"/></svg>'; }
+      function applyTheme(mode) {
+        var isDark = mode === "dark";
+        document.body.classList.toggle("dark", isDark);
+        var icon = document.getElementById("theme-icon");
+        var btn = document.getElementById("theme-toggle");
+        if (icon) icon.innerHTML = isDark ? sunSVG("#ffffff") : moonSVG("#111111");
+        if (btn) btn.setAttribute("aria-label", isDark ? "Cambiar a modo claro" : "Cambiar a modo oscuro");
+      }
+      var saved = localStorage.getItem(THEME_KEY);
+      var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+      applyTheme(saved || (prefersDark ? "dark" : "light"));
+      document.addEventListener("DOMContentLoaded", function() {
+        var btn = document.getElementById("theme-toggle");
+        if (btn) btn.addEventListener("click", function() {
+          var next = document.body.classList.contains("dark") ? "light" : "dark";
+          applyTheme(next);
+          localStorage.setItem(THEME_KEY, next);
+        });
+      });
+    })();
 
     // Obtener slug de la URL
     function getSlugFromURL() {
