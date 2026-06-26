@@ -371,9 +371,9 @@ async function fetchFiatRatesWithFallback() {
   // UYU, CLP, MXN: cruce via USD oficial (mismo método que los conversores)
   const usdInArs = out.usd_oficial?.venta;
   if (Number.isFinite(usdInArs) && usdInArs > 0) {
-    out.uyu_ars = usdInArs / 40;   // ~40 UYU por USD
-    out.clp_ars = usdInArs / 950;  // ~950 CLP por USD
-    out.mxn_ars = usdInArs / 17.5; // ~17.5 MXN por USD
+    out.uyu_ars = usdInArs / 40;   // ~40 UYU por USD (verificado jun 2026)
+    out.clp_ars = usdInArs / 921;  // ~921 CLP por USD (verificado jun 2026)
+    out.mxn_ars = usdInArs / 18.5; // ~18.5 MXN por USD (verificado jun 2026)
   }
 
  /*
