@@ -1,5 +1,67 @@
 [
   {
+    "title": "El Banco Nación sale al rescate de deudores morosos con un nuevo crédito UVA: quiénes pueden acceder",
+    "slug": "el-banco-nacion-sale-al-rescate-de-deudores-morosos-con-un-n",
+    "category": "economia",
+    "date": "2026-06-27",
+    "summary": "La nueva línea de créditos comienza a regir el 29 de junio.  El objetivo es otorgar una regularización más fácil.",
+    "link": "https://www.ambito.com/economia/el-banco-nacion-sale-al-rescate-deudores-morosos-un-nuevo-credito-uva-quienes-pueden-acceder-n6293483",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo en 2026: ¿Cuánto generan $1.000.000 a 30 días?",
+    "slug": "plazo-fijo-en-2026-cuanto-generan-1000000-a-30-dias",
+    "category": "economia",
+    "date": "2026-06-27",
+    "summary": "Las tasas siguen bajas y obligan a los inversores a inmovilizar cada vez más capital para alcanzar ganancias relevantes al finalizar el plazo.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-2026-cuanto-generan-1000000-30-dias-n6292886",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La caída de la inversión enciende alertas sobre el futuro del crecimiento económico",
+    "slug": "la-caida-de-la-inversion-enciende-alertas-sobre-el-futuro-de",
+    "category": "economia",
+    "date": "2026-06-27",
+    "summary": "El mercado festeja la baja de la inflación y la acumulación de reservas, pero todavía mira de reojo la tasa de crecimiento del PBI.  La inversión cayó al 17% del PBI.",
+    "link": "https://www.ambito.com/economia/la-caida-la-inversion-enciende-alertas-el-futuro-del-crecimiento-economico-n6293318",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar, tasas e inflación: por qué cambia la dinámica en el segundo semestre y qué habrá que mirar",
+    "slug": "dolar-tasas-e-inflacion-por-que-cambia-la-dinamica-en-el-seg",
+    "category": "economia",
+    "date": "2026-06-27",
+    "summary": "Mientras la falta de liquidez presiona para contener la aceleración cambiaria, el mercado relega la inflación a un plano secundario.",
+    "link": "https://www.ambito.com/economia/dolar-tasas-e-inflacion-que-cambia-la-dinamica-el-segundo-semestre-y-que-habra-que-mirar-n6293223",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Dólar hoy: a cuánto cotiza este sábado 27 de junio",
     "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-27-de-junio",
     "category": "economia",
@@ -32,17 +94,47 @@
     "related": []
   },
   {
-    "title": "Horas cruciales en el Gobierno: Milei llega de su viaje a España y definirá el futuro de Adorni como jefe de Gabinete",
-    "slug": "horas-cruciales-en-el-gobierno-milei-llega-de-su-viaje-a-esp",
+    "title": "Cómo ganar $20 millones con Mercado Pago: el paso a paso para quienes cobran ANSES",
+    "slug": "como-ganar-20-millones-con-mercado-pago-el-paso-a-paso-para-",
     "category": "economia",
     "date": "2026-06-27",
-    "summary": "El viernes, mientras el Presidente estaba en Madrid, se aceleraron los movimientos en Casa Rosada y el futuro del ministro coordinador quedó prácticamente sellado con el consenso d",
-    "link": "https://www.infobae.com/politica/2026/06/27/horas-cruciales-en-el-gobierno-milei-llega-de-su-viaje-a-espana-y-definira-el-futuro-de-adorni-como-jefe-de-gabinete/",
-    "source": "Infobae",
+    "summary": "La propuesta estará activa durante junio de 2026, ofrece una suma millonaria y presenta condiciones que excluyen a varias regiones del país (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/458488-mercado-pago-sortea-20-millones-de-pesos-como-participar-si-cobras-una-prestacion-de-anses",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Se recalentó el dólar y el mercado está convencido de que hay margen para que siga subiendo",
+    "slug": "se-recalento-el-dolar-y-el-mercado-esta-convencido-de-que-ha",
+    "category": "economia",
+    "date": "2026-06-27",
+    "summary": "Mientras se acelera el mercado cambiario y cae la inflación, los inversores observan oportunidades que emergen en la bolsa local hoy (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/458450-el-guru-de-la-city-avisa-sobre-el-dolar-hay-margen-para-que-siga-subiendo",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "milei"
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Kalshi lleva los mercados de predicción al Mundial 2026 con una alianza junto a FIFA",
+    "slug": "kalshi-lleva-los-mercados-de-prediccion-al-mundial-2026-con-",
+    "category": "cripto",
+    "date": "2026-06-27",
+    "summary": "CriptoTendencia Kalshi y FIFA sellan una alianza para el Mundial 2026, impulsando la adopción de los mercados de predicción regulados.  La entrada Kalshi lleva los mercados de predicción al Mundial 2026 con una alianza junto a FIFA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/06/27/kalshi-lleva-los-mercados-de-prediccion-al-mundial-2026-con-una-alianza-junto-a-fifa/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -119,53 +211,6 @@
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La compra de dólar ahorro cedió en mayo, pero se mantuvo arriba de los u$s2.000 millones por sexto mes seguido",
-    "slug": "la-compra-de-dolar-ahorro-cedio-en-mayo-pero-se-mantuvo-arri",
-    "category": "economia",
-    "date": "2026-06-26",
-    "summary": "La compra de dólares para atesoramiento volvió a ser la principal fuente de salida de divisas del sistema, aunque fue compensada por las exportaciones y la deuda.  El panorama para junio luce más sombrío.",
-    "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-cedio-mayo-pero-se-mantuvo-arriba-los-us2000-millones-sexto-mes-seguido-n6293329",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Rinde el plazo fijo? Cuánto generan $500.000 en un mes",
-    "slug": "rinde-el-plazo-fijo-cuanto-generan-500000-en-un-mes",
-    "category": "economia",
-    "date": "2026-06-26",
-    "summary": "Conocé cuánto paga el Banco Nación con un depósito de medio millón de pesos a 30 días, según el canal elegido.",
-    "link": "https://www.ambito.com/economia/rinde-el-plazo-fijo-cuanto-generan-500000-un-mes-n6293244",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Deuda flotante: Economía normalizó los pagos en mayo luego cerrar la billetera del primer trimestre",
-    "slug": "deuda-flotante-economia-normalizo-los-pagos-en-mayo-luego-ce",
-    "category": "economia",
-    "date": "2026-06-26",
-    "summary": "La deuda de la administración central bajó 56% en términos interanuales.  En marzo había subido a $4 billones.",
-    "link": "https://www.ambito.com/economia/deuda-flotante-normalizo-los-pagos-mayo-luego-cerrar-la-billetera-del-primer-trimestre-n6293197",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
     ],
     "featured": false,
     "related": []
@@ -348,22 +393,6 @@
     "related": []
   },
   {
-    "title": "El Banco Nación suma una línea UVA para regularizar deudas en mora",
-    "slug": "el-banco-nacion-suma-una-linea-uva-para-regularizar-deudas-e",
-    "category": "economia",
-    "date": "2026-06-26",
-    "summary": "El Banco Nación lanzó una nueva línea de refinanciación para deudores en mora avanzada con plazos de hasta 10 años y tasas diferenciadas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/458407-el-banco-nacion-suma-una-linea-uva-para-regularizar-deudas-en-mora",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "El dólar aflojó tras el rally pero hay 5 factores clave que siguen presionando en el mercado",
     "slug": "el-dolar-aflojo-tras-el-rally-pero-hay-5-factores-clave-que-",
     "category": "economia",
@@ -471,43 +500,12 @@
     "related": []
   },
   {
-    "title": "Money Expo Colombia 2026 cierra su edición con más de 4.500 asistentes y participación de veinte países",
-    "slug": "money-expo-colombia-2026-cierra-su-edicion-con-mas-de-4500-a",
-    "category": "cripto",
-    "date": "2026-06-26",
-    "summary": "CriptoTendencia Money Expo Colombia 2026 se consolidó en Bogotá como una de las principales exhibiciones financieras de América Latina tras dos jornadas de trading, fintech e inversión.  La entrada Money Expo Colombia 2026 cierra su edición con más de 4.",
-    "link": "https://criptotendencia.com/2026/06/26/money-expo-colombia-2026-cierra-su-edicion-con-mas-de-4-500-asistentes-y-participacion-de-veinte-paises/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Juan Carlos De Pablo sobre la suba del dólar: \"Todavía estamos muy lejos...\"",
     "slug": "juan-carlos-de-pablo-sobre-la-suba-del-dolar-todavia-estamos",
     "category": "economia",
     "date": "2026-06-25",
     "summary": "El economista señaló que la reciente suba del dólar es compatible con un escenario de inflación y descartó una devaluación.  Qué le sugirió a las empresas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/458360-juan-carlos-de-pablo-sobre-suba-dolar-todavia-estamos-muy-lejos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ni plazo fijo ni dólar: las mejores alternativas para invertir el aguinaldo",
-    "slug": "ni-plazo-fijo-ni-dolar-las-mejores-alternativas-para-inverti",
-    "category": "economia",
-    "date": "2026-06-25",
-    "summary": "Con el cobro del aguinaldo, especialistas recomiendan mirar más allá del plazo fijo y el dólar para buscar mejores rendimientos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/457835-ni-plazo-fijo-ni-dolar-las-mejores-alternativas-para-invertir-el-aguinaldo",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
