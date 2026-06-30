@@ -160,7 +160,7 @@
     <div class="container topbar-inner">
       <div class="logo">Cotiza<span>Ya</span></div>
 
-      <nav class="nav">
+      <nav class="nav" id="main-nav">
         <a href="#dolar">Dólar</a>
         <a href="#euro">Euro</a>
         <a href="#cripto">Cripto</a>
@@ -170,9 +170,17 @@
         <a href="/calculadora">¿Qué hubiera pasado?</a>
       </nav>
 
-      <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
+      <div class="topbar-actions">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
+        <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
     </div>
   </header>
+  <div class="nav-overlay" id="nav-overlay"></div>
 
   <main class="container">
     <!-- HERO -->
@@ -504,6 +512,47 @@
     if (!document.getElementById('qr-widget').contains(e.target)) {
       document.getElementById('qr-panel').classList.remove('open');
     }
+  });
+})();
+</script>
+<script>
+// ===== Menú mobile (hamburguesa) =====
+(function () {
+  const menuToggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('main-nav');
+  const overlay = document.getElementById('nav-overlay');
+
+  if (!menuToggle || !nav || !overlay) return;
+
+  function openMenu() {
+    nav.classList.add('open');
+    overlay.classList.add('open');
+    menuToggle.classList.add('open');
+    menuToggle.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeMenu() {
+    nav.classList.remove('open');
+    overlay.classList.remove('open');
+    menuToggle.classList.remove('open');
+    menuToggle.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+
+  menuToggle.addEventListener('click', function () {
+    const isOpen = nav.classList.contains('open');
+    isOpen ? closeMenu() : openMenu();
+  });
+
+  overlay.addEventListener('click', closeMenu);
+
+  nav.querySelectorAll('a').forEach(function (link) {
+    link.addEventListener('click', closeMenu);
+  });
+
+  window.addEventListener('resize', function () {
+    if (window.innerWidth > 768) closeMenu();
   });
 })();
 </script>
