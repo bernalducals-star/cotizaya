@@ -438,6 +438,15 @@
     .faq-q { font-size: 15px; font-weight: 500; color: var(--text); margin-bottom: 8px; }
     .faq-a { font-size: 14px; color: var(--text2); line-height: 1.7; }
 
+    .rate-table-wrap { overflow-x: auto; margin: 20px 0 36px; border: 1px solid var(--border); border-radius: 2px; background: var(--bg2); }
+    .rate-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .rate-table caption { caption-side: top; text-align: left; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); padding: 12px 16px; border-bottom: 1px solid var(--border); }
+    .rate-table th { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text3); text-align: left; padding: 10px 16px; background: var(--bg3); }
+    .rate-table td { padding: 10px 16px; border-top: 1px solid var(--border); color: var(--text2); }
+    .rate-table td.rt-from { color: var(--text); }
+    .rate-table td.rt-ars { font-weight: 700; color: var(--text); }
+    .rate-table tbody tr:hover { background: var(--bg3); }
+
     /* ── FOOTER ── */
     .site-footer {
       background: var(--bg2);
@@ -579,6 +588,20 @@
     <h2>¿Hay dólar blue para el euro?</h2>
     <p>No existe formalmente un "euro blue" en Argentina. Los pocos turistas europeos que quieren cambiar euros en el mercado informal generalmente lo hacen convirtiendo primero a dólares (dado que el mercado informal opera principalmente en dólares estadounidenses) y luego cambiando al tipo blue.</p>
 
+    <h2>Tabla de conversión: euros a pesos argentinos</h2>
+    <p>Estos son los montos más consultados de EUR a ARS, actualizados con la cotización del día:</p>
+    <div class="rate-table-wrap">
+      <table class="rate-table" id="rate-table">
+        <caption>Cotización actualizada del día</caption>
+        <thead>
+          <tr><th>Euros (EUR)</th><th>Pesos argentinos (ARS)</th></tr>
+        </thead>
+        <tbody id="rate-table-body">
+          <!-- se completa con JS -->
+        </tbody>
+      </table>
+    </div>
+
     <h2>Preguntas frecuentes</h2>
     <div>
       <div class="faq-item">
@@ -655,6 +678,17 @@
       document.getElementById('eur-oficial-rate').textContent = fmtMoney(Math.round(eurArs));
 
       convert();
+      buildRateTable(eurArs);
+    }
+
+    function buildRateTable(rate) {
+      const amounts = [1, 10, 50, 100, 200, 500, 1000, 5000];
+      const tbody = document.getElementById('rate-table-body');
+      if (!tbody || !rate) return;
+      tbody.innerHTML = amounts.map(a => {
+        const result = a * rate;
+        return '<tr><td class="rt-from">' + fmtNum(a) + ' EUR</td><td class="rt-ars">' + fmtMoney(Math.round(result)) + '</td></tr>';
+      }).join('');
     }
 
     function getEurArs() {

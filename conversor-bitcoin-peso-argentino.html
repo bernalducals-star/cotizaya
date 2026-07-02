@@ -257,6 +257,15 @@
     .faq-q { font-weight: 500; color: var(--text); margin-bottom: 6px; font-size: 15px; }
     .faq-a { font-size: 14px; color: var(--text2); line-height: 1.7; }
 
+    .rate-table-wrap { overflow-x: auto; margin: 20px 0 36px; border: 1px solid var(--border); border-radius: 2px; background: var(--bg2); }
+    .rate-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .rate-table caption { caption-side: top; text-align: left; font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text3); padding: 12px 16px; border-bottom: 1px solid var(--border); }
+    .rate-table th { font-family: var(--mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text3); text-align: left; padding: 10px 16px; background: var(--bg3); }
+    .rate-table td { padding: 10px 16px; border-top: 1px solid var(--border); color: var(--text2); }
+    .rate-table td.rt-from { font-family: var(--mono); color: var(--text); }
+    .rate-table td.rt-ars { font-family: var(--mono); font-weight: 700; color: var(--text); }
+    .rate-table tbody tr:hover { background: var(--bg3); }
+
     /* ── FOOTER ── */
     .site-footer { background: var(--bg2); border-top: 1px solid var(--border); padding: 24px; text-align: center; position: relative; z-index: 1; }
     .site-footer p { font-family: var(--mono); font-size: 11px; color: var(--text3); line-height: 1.8; }
@@ -411,11 +420,29 @@
     <h2>Bitcoin en pesos argentinos — precio hoy</h2>
     <p>El precio de Bitcoin se obtiene en tiempo real desde la API pública de CoinGecko. Para calcular el equivalente en pesos argentinos, multiplicamos el precio en dólares por el tipo de cambio oficial del dólar en Argentina.</p>
 
+    <h2>Tabla de conversión: Bitcoin a pesos argentinos</h2>
+    <p>Estos son los montos más consultados de BTC a ARS, actualizados con el precio del momento:</p>
+    <div class="rate-table-wrap">
+      <table class="rate-table" id="rate-table">
+        <caption>Actualizado en tiempo real con el precio de CoinGecko</caption>
+        <thead>
+          <tr><th>Bitcoin (BTC)</th><th>Pesos argentinos (ARS)</th></tr>
+        </thead>
+        <tbody id="rate-table-body">
+          <!-- se completa con JS -->
+        </tbody>
+      </table>
+    </div>
+
     <h2>¿Qué son los satoshis?</h2>
     <p>Un satoshi (SAT) es la unidad mínima de Bitcoin. 1 BTC = 100.000.000 satoshis. Se llaman así en honor a Satoshi Nakamoto, el creador anónimo de Bitcoin. Muchas aplicaciones Lightning Network operan en satoshis.</p>
 
     <h2>Preguntas frecuentes</h2>
     <div>
+      <div class="faq-item">
+        <div class="faq-q">¿Cuánto es 1 Bitcoin en pesos argentinos?</div>
+        <div class="faq-a">Podés verlo en la tabla de arriba o en el conversor, siempre actualizado con el precio en vivo de Bitcoin y el dólar oficial argentino.</div>
+      </div>
       <div class="faq-item">
         <div class="faq-q">¿Con qué frecuencia se actualiza el precio de Bitcoin?</div>
         <div class="faq-a">El precio se actualiza cada vez que abrís o refrescás la página, consultando la API pública de CoinGecko en tiempo real. Bitcoin cotiza las 24 horas del día, los 7 días de la semana.</div>
@@ -510,6 +537,17 @@
       updateTicker();
       updateSatCalculator();
       convert();
+      buildRateTable(btcUsd * arsOficial);
+    }
+
+    function buildRateTable(arsPerBtc) {
+      const amounts = [0.001, 0.01, 0.1, 0.5, 1, 2, 5, 10];
+      const tbody = document.getElementById('rate-table-body');
+      if (!tbody) return;
+      tbody.innerHTML = amounts.map(a => {
+        const result = a * arsPerBtc;
+        return '<tr><td class="rt-from">' + fmtNum(a, 3) + ' BTC</td><td class="rt-ars">$' + Math.round(result).toLocaleString('es-AR') + '</td></tr>';
+      }).join('');
     }
 
     async function loadBtcPrice() {
