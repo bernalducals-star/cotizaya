@@ -22896,4 +22896,14 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://cotizaya.ar/noticia?slug=como-comprar-usdt-argentina</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cotizaya.ar/noticia?slug=dolar-ahorro-argentina</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
