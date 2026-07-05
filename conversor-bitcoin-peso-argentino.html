@@ -563,6 +563,15 @@
     }
 
     async function loadArsRate() {
+      // Intento 1: DolarAPI (datos en vivo)
+      try {
+        const r = await fetch('https://dolarapi.com/v1/dolares/oficial');
+        if (r.ok) {
+          const data = await r.json();
+          if (data.venta > 0) { arsOficial = data.venta; return; }
+        }
+      } catch(e) {}
+      // Intento 2: historial.json (fallback)
       try {
         const r = await fetch('/datos/historial.json');
         const data = await r.json();

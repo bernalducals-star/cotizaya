@@ -221,6 +221,7 @@
         <span class="rate-bar-label">1 UYU =</span>
         <span class="rate-bar-val" id="rate-display">Cargando...</span>
       </div>
+      <div style="text-align:center;font-size:11px;color:var(--text3);margin-top:4px;font-family:var(--mono,monospace)" id="rate-timestamp"></div>
       <div class="input-area">
         <div class="field-label"><span>🇺🇾</span><span id="label-from">Pesos Uruguayos (UYU)</span></div>
         <div class="input-wrap">
@@ -309,9 +310,10 @@
   </footer>
 
   <script>
-    // UYU/USD aproximado
-    const UYU_USD = 41.5;
+    // Fallback values
+    const UYU_USD_FALLBACK = 41.5;
     let arsOficial = 0;
+    let currentRate = 0;
     let direction = 'from-uyu';
 
     function fmt(n) { return '$' + Number(n).toLocaleString('es-AR', {minimumFractionDigits:0, maximumFractionDigits:2}); }
@@ -323,21 +325,48 @@
     }
     function parseInput(v) { return parseFloat(v.replace(/\./g,'').replace(',','.'))||0; }
 
-    function getRate() { return arsOficial / UYU_USD; } // ARS por 1 UYU
+    function getRate() { return currentRate; }
 
     async function loadRates() {
+      let rate = null;
+      let timestamp = null;
+
+      // Intento 1: DolarAPI (datos en vivo)
       try {
-        const r = await fetch('/datos/historial.json');
-        const data = await r.json();
-        const latest = {};
-        for (const item of data) {
-          const src = (item.source||'').toLowerCase();
-          if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+        const r = await fetch('https://dolarapi.com/v1/cotizaciones/uyu');
+        if (r.ok) {
+          const data = await r.json();
+          if (data.venta && data.venta > 0) {
+            rate = data.venta;
+            timestamp = data.fechaActualizacion || null;
+          }
         }
-        arsOficial = latest['oficial']?.value_sell || 1462;
-      } catch { arsOficial = 1462; }
-      const rate = getRate();
+      } catch(e) { /* silencioso, va al fallback */ }
+
+      // Intento 2: historial.json (fallback)
+      if (!rate) {
+        try {
+          const r = await fetch('/datos/historial.json');
+          const data = await r.json();
+          const latest = {};
+          for (const item of data) {
+            const src = (item.source||'').toLowerCase();
+            if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+          }
+          arsOficial = latest['oficial']?.value_sell || 1462;
+          rate = arsOficial / UYU_USD_FALLBACK;
+          timestamp = latest['oficial']?.date || null;
+        } catch {
+          rate = 1462 / UYU_USD_FALLBACK;
+        }
+      }
+
+      currentRate = rate;
       document.getElementById('rate-display').textContent = fmt(rate.toFixed(2));
+      if (timestamp) {
+        const tsEl = document.getElementById('rate-timestamp');
+        if (tsEl) tsEl.textContent = 'Actualizado: ' + new Date(timestamp).toLocaleString('es-AR');
+      }
       convert();
       buildRateTable(rate);
     }

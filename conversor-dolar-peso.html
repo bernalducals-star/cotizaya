@@ -574,6 +574,7 @@
         </div>
         <div style="text-align:right">
           <div class="rate-value" id="rate-display">Cargando...</div>
+          <div style="text-align:center;font-size:11px;color:var(--text3);margin-top:4px;font-family:var(--mono,monospace)" id="rate-timestamp"></div>
         </div>
       </div>
 
@@ -741,23 +742,50 @@
 
     // ── LOAD RATES ──
     async function loadRates() {
+      let timestamp = null;
+      let gotLive = false;
+
+      // Intento 1: DolarAPI (datos en vivo)
       try {
-        const r = await fetch('/datos/historial.json');
-        const data = await r.json();
-        const latest = {};
-        for (const item of data) {
-          const src = (item.source || '').toLowerCase();
-          if (!latest[src] || item.date > latest[src].date) {
-            latest[src] = item;
-          }
+        const [oficialRes, blueRes, mepRes] = await Promise.all([
+          fetch('https://dolarapi.com/v1/dolares/oficial'),
+          fetch('https://dolarapi.com/v1/dolares/blue'),
+          fetch('https://dolarapi.com/v1/dolares/bolsa')
+        ]);
+        if (oficialRes.ok) {
+          const d = await oficialRes.json();
+          if (d.venta > 0) { rates.oficial = d.venta; timestamp = d.fechaActualizacion; gotLive = true; }
         }
-        rates.blue    = latest['blue']?.value_sell    || 0;
-        rates.oficial = latest['oficial']?.value_sell || 0;
-        rates.mep     = latest['oficial']?.value_buy  || 0; // aproximación MEP
-      } catch {
-        // fallback valores aproximados
-        rates.blue = 1435; rates.oficial = 1462; rates.mep = 1411;
+        if (blueRes.ok) {
+          const d = await blueRes.json();
+          if (d.venta > 0) { rates.blue = d.venta; gotLive = true; }
+        }
+        if (mepRes.ok) {
+          const d = await mepRes.json();
+          if (d.venta > 0) { rates.mep = d.venta; }
+        }
+      } catch(e) {}
+
+      // Intento 2: historial.json (fallback)
+      if (!gotLive) {
+        try {
+          const r = await fetch('/datos/historial.json');
+          const data = await r.json();
+          const latest = {};
+          for (const item of data) {
+            const src = (item.source || '').toLowerCase();
+            if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+          }
+          rates.blue    = latest['blue']?.value_sell    || 1435;
+          rates.oficial = latest['oficial']?.value_sell || 1462;
+          rates.mep     = latest['oficial']?.value_buy  || 1411;
+          timestamp = latest['oficial']?.date;
+        } catch {
+          rates.blue = 1435; rates.oficial = 1462; rates.mep = 1411;
+        }
       }
+
+      if (timestamp) { const ts = document.getElementById('rate-timestamp'); if (ts) ts.textContent = 'Actualizado: ' + new Date(timestamp).toLocaleString('es-AR'); }
       updateRateDisplay();
       updateComparativa();
       convert();

@@ -498,6 +498,7 @@
         </div>
         <div style="text-align:right">
           <div class="rate-value" id="rate-display">Cargando...</div>
+          <div style="text-align:center;font-size:11px;color:var(--text3);margin-top:4px;font-family:var(--mono,monospace)" id="rate-timestamp"></div>
         </div>
       </div>
 
@@ -629,10 +630,11 @@
   </footer>
 
   <script>
-    // EUR/USD aproximado — se puede mejorar con una API pública
-    const EUR_USD = 1.08;
+    const EUR_USD_FALLBACK = 1.08;
 
     const rates = { oficial: 0, blue: 0 };
+    let eurArsRate = 0;
+    let eurBlueRate = 0;
     let direction = 'from-eur';
 
     function fmtNum(n) {
@@ -654,31 +656,59 @@
     }
 
     async function loadRates() {
+      let timestamp = null;
+      let gotLive = false;
+
+      // Intento 1: DolarAPI (datos en vivo)
       try {
-        const r = await fetch('/datos/historial.json');
-        const data = await r.json();
-        const latest = {};
-        for (const item of data) {
-          const src = (item.source || '').toLowerCase();
-          if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+        const [eurRes, blueRes] = await Promise.all([
+          fetch('https://dolarapi.com/v1/cotizaciones/eur'),
+          fetch('https://dolarapi.com/v1/dolares/blue')
+        ]);
+        if (eurRes.ok) {
+          const eurData = await eurRes.json();
+          if (eurData.venta > 0) {
+            eurArsRate = eurData.venta;
+            timestamp = eurData.fechaActualizacion;
+            gotLive = true;
+          }
         }
-        rates.oficial = latest['oficial']?.value_sell || 0;
-        rates.blue    = latest['blue']?.value_sell    || 0;
-      } catch {
-        rates.oficial = 1462; rates.blue = 1435;
+        if (blueRes.ok) {
+          const blueData = await blueRes.json();
+          if (blueData.venta > 0) {
+            eurBlueRate = blueData.venta * EUR_USD_FALLBACK;
+          }
+        }
+      } catch(e) {}
+
+      // Intento 2: historial.json (fallback)
+      if (!gotLive) {
+        try {
+          const r = await fetch('/datos/historial.json');
+          const data = await r.json();
+          const latest = {};
+          for (const item of data) {
+            const src = (item.source || '').toLowerCase();
+            if (!latest[src] || item.date > latest[src].date) latest[src] = item;
+          }
+          rates.oficial = latest['oficial']?.value_sell || 1462;
+          rates.blue    = latest['blue']?.value_sell    || 1435;
+          eurArsRate = rates.oficial * EUR_USD_FALLBACK;
+          eurBlueRate = rates.blue * EUR_USD_FALLBACK;
+          timestamp = latest['oficial']?.date;
+        } catch {
+          eurArsRate = 1462 * EUR_USD_FALLBACK;
+          eurBlueRate = 1435 * EUR_USD_FALLBACK;
+        }
       }
 
-      // Cotización euro = dólar oficial × EUR/USD
-      const eurArs = rates.oficial * EUR_USD;
-      document.getElementById('rate-display').textContent = fmtMoney(Math.round(eurArs));
-
-      // Cross rates
-      const eurBlueArs = rates.blue * EUR_USD;
-      document.getElementById('eur-blue-rate').textContent    = fmtMoney(Math.round(eurBlueArs));
-      document.getElementById('eur-oficial-rate').textContent = fmtMoney(Math.round(eurArs));
+      document.getElementById('rate-display').textContent = fmtMoney(Math.round(eurArsRate));
+      document.getElementById('eur-blue-rate').textContent    = fmtMoney(Math.round(eurBlueRate));
+      document.getElementById('eur-oficial-rate').textContent = fmtMoney(Math.round(eurArsRate));
+      if (timestamp) { const ts = document.getElementById('rate-timestamp'); if (ts) ts.textContent = 'Actualizado: ' + new Date(timestamp).toLocaleString('es-AR'); }
 
       convert();
-      buildRateTable(eurArs);
+      buildRateTable(eurArsRate);
     }
 
     function buildRateTable(rate) {
@@ -692,7 +722,7 @@
     }
 
     function getEurArs() {
-      return rates.oficial * EUR_USD;
+      return eurArsRate;
     }
 
     function convert() {
