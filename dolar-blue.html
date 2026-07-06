@@ -1,773 +1,408 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="light">
+<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dólar Blue Hoy – Cotización en Tiempo Real | CotizaYa</title>
-  <meta name="description" content="Cotización del dólar blue hoy en Argentina. Precio de compra y venta actualizado. Historial, variación diaria y conversor de pesos a dólar blue." />
+  <meta name="description" content="¿A cuánto está el dólar blue hoy en Argentina? Precio de compra y venta actualizado en tiempo real. Comparación con oficial y MEP, brecha cambiaria, conversor y más." />
   <link rel="canonical" href="https://cotizaya.ar/dolar-blue" />
-
-  <!-- OG -->
-  <meta property="og:title" content="Dólar Blue Hoy | CotizaYa" />
-  <meta property="og:description" content="Precio del dólar blue en Argentina actualizado. Compra, venta y variación del día." />
+  <meta property="og:title" content="Dólar Blue Hoy – Cotización Actualizada | CotizaYa" />
+  <meta property="og:description" content="Precio del dólar blue en Argentina actualizado en tiempo real. Compra, venta, brecha cambiaria y comparación con oficial y MEP." />
   <meta property="og:url" content="https://cotizaya.ar/dolar-blue" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="es_AR" />
   <meta property="og:site_name" content="CotizaYa" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Dólar Blue Hoy – Cotización en Tiempo Real | CotizaYa" />
+  <meta name="twitter:description" content="Precio actualizado del dólar blue en Argentina. Compra, venta y brecha cambiaria." />
 
-  <!-- Schema.org -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Dólar Blue Hoy",
-    "description": "Cotización del dólar blue en Argentina en tiempo real",
-    "url": "https://cotizaya.ar/dolar-blue",
-    "publisher": { "@type": "Organization", "name": "CotizaYa", "url": "https://cotizaya.ar" }
+    "@type": "ExchangeRateSpecification",
+    "name": "Dólar Blue en Argentina",
+    "currency": "USD",
+    "currentExchangeRate": {
+      "@type": "UnitPriceSpecification",
+      "priceCurrency": "ARS"
+    },
+    "url": "https://cotizaya.ar/dolar-blue"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "¿A cuánto está el dólar blue hoy?",
+        "acceptedAnswer": { "@type": "Answer", "text": "El precio del dólar blue se actualiza en tiempo real en CotizaYa. Consultá la cotización de compra y venta en esta página." }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Cuál es la diferencia entre el dólar blue y el oficial?",
+        "acceptedAnswer": { "@type": "Answer", "text": "El dólar oficial es el tipo de cambio regulado por el Banco Central. El dólar blue es el precio del mercado informal. La diferencia porcentual entre ambos se conoce como brecha cambiaria." }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Es legal comprar dólar blue?",
+        "acceptedAnswer": { "@type": "Answer", "text": "La compraventa en el mercado informal no está regulada formalmente. Alternativas legales incluyen el dólar MEP (a través de bonos en la bolsa) y criptomonedas estables como USDT." }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué es la brecha cambiaria?",
+        "acceptedAnswer": { "@type": "Answer", "text": "La brecha cambiaria es la diferencia porcentual entre el dólar oficial y el dólar blue. Una brecha baja indica menor distorsión en el mercado cambiario." }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Dónde conviene comprar dólares en Argentina?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Las alternativas legales incluyen el dólar oficial en bancos, el dólar MEP mediante cuenta comitente, y criptomonedas estables como USDT a través de exchanges." }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "CotizaYa", "item": "https://cotizaya.ar" },
+      { "@type": "ListItem", "position": 2, "name": "Dólar Blue Hoy", "item": "https://cotizaya.ar/dolar-blue" }
+    ]
   }
   </script>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
-
+  <link rel="stylesheet" href="/styles.css" />
   <style>
-    :root {
-      --blue-accent: #1a56db;
-      --blue-light: #e8f0fe;
-      --green: #16a34a;
-      --red: #dc2626;
-      --bg: #f8fafc;
-      --surface: #ffffff;
-      --border: #e2e8f0;
-      --text: #0f172a;
-      --muted: #64748b;
-      --nav-bg: #0f172a;
+    .landing-hero { text-align: center; padding: 48px 0 32px; }
+    .landing-hero h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); font-weight: 800; margin-bottom: 8px; line-height: 1.15; }
+    .landing-hero .hero-sub { font-size: 16px; color: var(--muted, #888); margin-bottom: 24px; }
+    .price-highlight { display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin-bottom: 16px; }
+    .price-box { background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, rgba(255,255,255,0.08)); border-radius: 16px; padding: 28px 36px; text-align: center; min-width: 160px; flex: 0 1 200px; }
+    .price-box .label { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted, #888); margin-bottom: 8px; font-weight: 600; }
+    .price-box .value { font-size: clamp(2rem, 6vw, 2.8rem); font-weight: 800; line-height: 1; }
+    .price-box .value.buy { color: #22c55e; }
+    .price-box .value.sell { color: #f97316; }
+    .price-timestamp { font-size: 13px; color: var(--muted, #888); text-align: center; margin-top: 8px; }
+    .brecha-strip { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin: 24px 0; }
+    .brecha-item { background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, rgba(255,255,255,0.08)); border-radius: 12px; padding: 14px 20px; text-align: center; min-width: 140px; }
+    .brecha-item .brecha-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted, #888); margin-bottom: 4px; }
+    .brecha-item .brecha-value { font-size: 20px; font-weight: 700; }
+    .landing-section { margin-top: 40px; }
+    .landing-section h2 { font-size: 1.4rem; margin-bottom: 16px; }
+    .conversor-card { max-width: 480px; margin: 0 auto; }
+    .conversor-card .input-group { margin-bottom: 12px; }
+    .conversor-card label { display: block; font-size: 13px; font-weight: 600; color: var(--muted, #888); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+    .conversor-card .input-row { display: flex; border: 1.5px solid var(--border, rgba(255,255,255,0.1)); border-radius: 10px; overflow: hidden; }
+    .conversor-card .input-row:focus-within { border-color: var(--accent, #2563eb); }
+    .conversor-card .prefix { background: var(--card-bg, #1a1a2e); padding: 12px 14px; font-size: 14px; font-weight: 600; color: var(--muted, #888); border-right: 1.5px solid var(--border, rgba(255,255,255,0.1)); display: flex; align-items: center; }
+    .conversor-card input[type="number"] { flex: 1; border: none; outline: none; padding: 12px 14px; font-size: 16px; background: transparent; color: var(--text, #e0e0e0); font-family: inherit; }
+    .conversor-card input[type="number"]::-webkit-inner-spin-button { -webkit-appearance: none; }
+    .conversor-card input[type="number"] { -moz-appearance: textfield; }
+    .swap-btn { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; border: 1.5px solid var(--border, rgba(255,255,255,0.1)); background: var(--card-bg, #1a1a2e); cursor: pointer; margin: 4px auto; color: var(--muted, #888); font-size: 18px; transition: all 0.2s; }
+    .swap-btn:hover { border-color: var(--accent, #2563eb); color: var(--accent, #2563eb); transform: rotate(180deg); }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; justify-content: center; }
+    .chip { background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, rgba(255,255,255,0.1)); color: var(--accent, #2563eb); border-radius: 100px; padding: 6px 14px; font-size: 13px; font-weight: 600; cursor: pointer; transition: background 0.2s; font-family: inherit; }
+    .chip:hover { background: var(--accent, #2563eb); color: #fff; }
+    .context-section p { line-height: 1.7; color: var(--text, #e0e0e0); margin-bottom: 14px; }
+    .context-section a { color: var(--accent, #2563eb); }
+    .faq-item h3 { font-size: 15px; margin-bottom: 6px; }
+    .faq-item p { font-size: 14px; line-height: 1.6; color: var(--muted, #ccc); }
+    .link-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+    .link-grid a { display: block; padding: 14px 18px; background: var(--card-bg, #1a1a2e); border: 1px solid var(--border, rgba(255,255,255,0.08)); border-radius: 12px; text-decoration: none; color: inherit; font-size: 14px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s; }
+    .link-grid a:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); }
+    .link-grid a span { color: var(--accent, #2563eb); font-size: 12px; display: block; margin-top: 4px; }
+    .breadcrumb { font-size: 13px; color: var(--muted, #888); padding: 12px 0 0; }
+    .breadcrumb a { color: var(--accent, #2563eb); text-decoration: none; }
+    .breadcrumb a:hover { text-decoration: underline; }
+    @media (max-width: 480px) {
+      .price-box { padding: 20px 24px; min-width: 130px; }
+      .brecha-item { min-width: 100px; padding: 10px 14px; }
     }
-
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-
-    body {
-      font-family: 'DM Sans', sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-    }
-
-    /* ── NAV ── */
-    nav {
-      background: var(--nav-bg);
-      padding: 0 1.5rem;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      height: 56px;
-    }
-    .nav-logo {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.4rem;
-      color: #fff;
-      text-decoration: none;
-      letter-spacing: -0.5px;
-    }
-    .nav-links { display: flex; gap: 0.25rem; }
-    .nav-links a {
-      color: #94a3b8;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      padding: 0.4rem 0.75rem;
-      border-radius: 6px;
-      transition: color 0.2s, background 0.2s;
-    }
-    .nav-links a:hover, .nav-links a.active {
-      color: #fff;
-      background: rgba(255,255,255,0.08);
-    }
-
-    /* ── HERO ── */
-    .hero {
-      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 60%, #1a56db 100%);
-      padding: 3rem 1.5rem 4rem;
-      text-align: center;
-      position: relative;
-      overflow: hidden;
-    }
-    .hero::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(ellipse at 70% 50%, rgba(26,86,219,0.3) 0%, transparent 60%);
-    }
-    .hero-eyebrow {
-      position: relative;
-      display: inline-block;
-      background: rgba(26,86,219,0.25);
-      border: 1px solid rgba(26,86,219,0.5);
-      color: #93c5fd;
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      padding: 0.3rem 0.9rem;
-      border-radius: 100px;
-      margin-bottom: 1.25rem;
-    }
-    .hero h1 {
-      position: relative;
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(2.2rem, 6vw, 3.5rem);
-      color: #fff;
-      line-height: 1.15;
-      margin-bottom: 0.5rem;
-    }
-    .hero-sub {
-      position: relative;
-      color: #94a3b8;
-      font-size: 0.95rem;
-      margin-bottom: 2.5rem;
-    }
-
-    /* ── PRICE CARDS ── */
-    .price-grid {
-      position: relative;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1rem;
-      max-width: 480px;
-      margin: 0 auto 1.5rem;
-    }
-    .price-card {
-      background: rgba(255,255,255,0.07);
-      border: 1px solid rgba(255,255,255,0.12);
-      border-radius: 16px;
-      padding: 1.5rem 1rem;
-      backdrop-filter: blur(10px);
-    }
-    .price-label {
-      color: #94a3b8;
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 0.5rem;
-    }
-    .price-value {
-      font-family: 'DM Serif Display', serif;
-      font-size: 2.4rem;
-      color: #fff;
-      line-height: 1;
-    }
-    .price-value span { font-size: 1.1rem; opacity: 0.6; margin-right: 2px; }
-
-    .variation-badge {
-      position: relative;
-      display: inline-flex;
-      align-items: center;
-      gap: 0.4rem;
-      background: rgba(255,255,255,0.07);
-      border: 1px solid rgba(255,255,255,0.1);
-      border-radius: 100px;
-      padding: 0.4rem 1rem;
-      color: #94a3b8;
-      font-size: 0.85rem;
-      margin-top: 0;
-    }
-    .variation-badge.up { color: #4ade80; border-color: rgba(74,222,128,0.3); background: rgba(74,222,128,0.08); }
-    .variation-badge.down { color: #f87171; border-color: rgba(248,113,113,0.3); background: rgba(248,113,113,0.08); }
-    .variation-badge.flat { color: #94a3b8; }
-
-    .update-time {
-      position: relative;
-      color: #475569;
-      font-size: 0.78rem;
-      margin-top: 1rem;
-    }
-
-    /* ── MAIN LAYOUT ── */
-    .main-content {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem;
-      display: grid;
-      grid-template-columns: 1fr 320px;
-      gap: 1.5rem;
-      align-items: start;
-    }
-
-    @media (max-width: 700px) {
-      .main-content { grid-template-columns: 1fr; }
-      .price-grid { grid-template-columns: 1fr 1fr; }
-    }
-
-    /* ── CONVERSOR ── */
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-    .card-title {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.2rem;
-      margin-bottom: 1.25rem;
-      color: var(--text);
-    }
-
-    .conversor-row {
-      display: flex;
-      flex-direction: column;
-      gap: 0.75rem;
-    }
-    .input-group label {
-      display: block;
-      font-size: 0.78rem;
-      font-weight: 600;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.07em;
-      margin-bottom: 0.35rem;
-    }
-    .input-wrap {
-      display: flex;
-      align-items: center;
-      border: 1.5px solid var(--border);
-      border-radius: 10px;
-      overflow: hidden;
-      transition: border-color 0.2s;
-    }
-    .input-wrap:focus-within { border-color: var(--blue-accent); }
-    .input-prefix {
-      background: var(--bg);
-      padding: 0.75rem 0.9rem;
-      font-size: 0.85rem;
-      font-weight: 600;
-      color: var(--muted);
-      border-right: 1.5px solid var(--border);
-    }
-    .input-wrap input {
-      flex: 1;
-      border: none;
-      outline: none;
-      padding: 0.75rem 0.9rem;
-      font-size: 1rem;
-      font-family: 'DM Sans', sans-serif;
-      background: transparent;
-      color: var(--text);
-    }
-
-    .swap-btn {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      border: 1.5px solid var(--border);
-      background: var(--surface);
-      cursor: pointer;
-      margin: 0 auto;
-      color: var(--muted);
-      font-size: 1.1rem;
-      transition: all 0.2s;
-    }
-    .swap-btn:hover { border-color: var(--blue-accent); color: var(--blue-accent); transform: rotate(180deg); }
-
-    .chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-      margin-top: 0.5rem;
-    }
-    .chip {
-      background: var(--blue-light);
-      color: var(--blue-accent);
-      border: none;
-      border-radius: 100px;
-      padding: 0.3rem 0.8rem;
-      font-size: 0.8rem;
-      font-weight: 600;
-      cursor: pointer;
-      transition: background 0.2s;
-    }
-    .chip:hover { background: #bfdbfe; }
-
-    /* ── HISTORIAL TABLE ── */
-    .historial-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.88rem;
-    }
-    .historial-table th {
-      text-align: left;
-      padding: 0.5rem 0.75rem;
-      color: var(--muted);
-      font-size: 0.75rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      border-bottom: 1px solid var(--border);
-    }
-    .historial-table td {
-      padding: 0.65rem 0.75rem;
-      border-bottom: 1px solid var(--border);
-    }
-    .historial-table tr:last-child td { border-bottom: none; }
-    .historial-table tr:hover td { background: var(--bg); }
-    .sell { font-weight: 600; }
-    .badge-sell { color: var(--red); font-weight: 600; }
-    .badge-buy { color: var(--green); font-weight: 600; }
-
-    /* ── SEO CONTENT ── */
-    .seo-section { line-height: 1.75; color: #334155; }
-    .seo-section h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: 1.4rem;
-      color: var(--text);
-      margin: 1.5rem 0 0.75rem;
-    }
-    .seo-section h3 {
-      font-size: 1rem;
-      font-weight: 600;
-      color: var(--text);
-      margin: 1.25rem 0 0.5rem;
-    }
-    .seo-section p { margin-bottom: 0.9rem; font-size: 0.93rem; }
-
-    /* ── SIDEBAR ── */
-    .sidebar {}
-    .cotizaciones-widget {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      overflow: hidden;
-      margin-bottom: 1.5rem;
-    }
-    .widget-header {
-      padding: 1rem 1.25rem;
-      border-bottom: 1px solid var(--border);
-      font-family: 'DM Serif Display', serif;
-      font-size: 1rem;
-    }
-    .widget-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 0.75rem 1.25rem;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.88rem;
-      transition: background 0.15s;
-    }
-    .widget-row:last-child { border-bottom: none; }
-    .widget-row:hover { background: var(--bg); }
-    .widget-row-name { color: var(--muted); font-weight: 500; }
-    .widget-row-price { font-weight: 600; color: var(--text); }
-
-    .related-links {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 1.25rem;
-    }
-    .related-links h4 {
-      font-size: 0.78rem;
-      font-weight: 600;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.07em;
-      margin-bottom: 0.9rem;
-    }
-    .related-links a {
-      display: block;
-      color: var(--blue-accent);
-      text-decoration: none;
-      font-size: 0.88rem;
-      font-weight: 500;
-      padding: 0.4rem 0;
-      border-bottom: 1px solid var(--border);
-      transition: opacity 0.2s;
-    }
-    .related-links a:last-child { border-bottom: none; }
-    .related-links a:hover { opacity: 0.7; }
-
-    /* ── QR WIDGET ── */
-    #qr-widget {
-      position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
-      z-index: 999;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 0.5rem;
-    }
-    #qr-panel {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1rem;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.12);
-      display: none;
-      text-align: center;
-    }
-    #qr-panel.open { display: block; }
-    #qr-panel img { width: 120px; height: 120px; }
-    #qr-panel p { font-size: 0.75rem; color: var(--muted); margin-top: 0.5rem; }
-    #qr-toggle {
-      background: var(--blue-accent);
-      color: #fff;
-      border: none;
-      border-radius: 50%;
-      width: 48px;
-      height: 48px;
-      font-size: 1.3rem;
-      cursor: pointer;
-      box-shadow: 0 4px 16px rgba(26,86,219,0.4);
-      transition: transform 0.2s;
-    }
-    #qr-toggle:hover { transform: scale(1.08); }
-
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      color: var(--muted);
-      font-size: 0.82rem;
-      border-top: 1px solid var(--border);
-      margin-top: 1rem;
-    }
-    footer a { color: var(--blue-accent); text-decoration: none; }
-  
-    /* Banner Radar Mundial */
-    .radar-banner {
-      background: #16a34a;
-      color: #fff;
-      text-align: center;
-      padding: 10px 16px;
-      font-size: 0.9rem;
-      font-weight: 500;
-    }
-    .radar-link {
-      color: #fde047;
-      font-weight: 700;
-      text-decoration: none;
-    }
-    .radar-link:hover { text-decoration: underline; }
-
   </style>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
-<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "x59cz2mynz");</script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+  <script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "x59cz2mynz");</script>
 </head>
 <body>
+  <div style="background:#006400;color:white;text-align:center;padding:12px;font-size:15px;position:sticky;top:0;z-index:9999;">⚽ <strong>Radar Mundial</strong> — Pronósticos y datos gratis antes de cada partido. <a href="https://whatsapp.com/channel/0029VbCjv5I7oQhbdOpcfz2K?utm_source=cotizaya&utm_medium=banner&utm_campaign=radar-mundial" style="color:#FFD700;font-weight:bold;">→ Unirme gratis</a></div>
 
-<!-- NAV -->
-<nav>
-  <a href="/" class="nav-logo">CotizaYa</a>
-  <div class="nav-links">
-    <a href="/dolar-blue" class="active">Dólar</a>
-    <a href="/conversor-euro-peso">Euro</a>
-    <a href="/#cripto">Cripto</a>
-    <a href="/#conversores">Conversores</a>
-    <a href="/#noticias">Noticias</a>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="/" class="logo" style="text-decoration:none;color:inherit;">Cotiza<span>Ya</span></a>
+      <nav class="nav" id="main-nav">
+        <a href="/#dolar">Dólar</a>
+        <a href="/#euro">Euro</a>
+        <a href="/#cripto">Cripto</a>
+        <a href="/#conversores">Conversores</a>
+        <a href="/#noticias">Noticias</a>
         <a href="/aprender">Aprender</a>
-  </div>
-</nav>
-
-<!-- BANNER RADAR MUNDIAL -->
-<div class="radar-banner">
-  ⚽ <strong>Radar Mundial</strong> — Pronósticos y datos gratis antes de cada partido. → <a href="https://radarmundial.com.ar" target="_blank" rel="noopener" class="radar-link">Unirme gratis</a>
-</div>
-
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-eyebrow">📊 Actualizado hoy</div>
-  <h1>Dólar Blue Hoy</h1>
-  <p class="hero-sub">Cotización en Argentina · Compra y venta en tiempo real</p>
-
-  <div class="price-grid">
-    <div class="price-card">
-      <div class="price-label">Compra</div>
-      <div class="price-value" id="hero-buy"><span>$</span>—</div>
+        <a href="/calculadora">¿Qué hubiera pasado?</a>
+      </nav>
+      <div class="topbar-actions">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
+        <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
     </div>
-    <div class="price-card">
-      <div class="price-label">Venta</div>
-      <div class="price-value" id="hero-sell"><span>$</span>—</div>
+  </header>
+  <div class="nav-overlay" id="nav-overlay"></div>
+
+  <main class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">CotizaYa</a> › Dólar Blue Hoy</nav>
+
+    <!-- HERO -->
+    <section class="landing-hero">
+      <h1>Dólar Blue Hoy</h1>
+      <p class="hero-sub">Cotización actualizada en tiempo real — compra, venta y brecha cambiaria</p>
+      <div class="price-highlight">
+        <div class="price-box">
+          <div class="label">Compra</div>
+          <div class="value buy" id="blue-compra">–</div>
+        </div>
+        <div class="price-box">
+          <div class="label">Venta</div>
+          <div class="value sell" id="blue-venta">–</div>
+        </div>
+      </div>
+      <p class="price-timestamp">Actualizado: <span id="blue-timestamp">cargando…</span></p>
+    </section>
+
+    <!-- BRECHA + COMPARACIÓN -->
+    <div class="brecha-strip">
+      <div class="brecha-item">
+        <div class="brecha-label">Brecha Blue/Oficial</div>
+        <div class="brecha-value" id="brecha-oficial">–</div>
+      </div>
+      <div class="brecha-item">
+        <div class="brecha-label">Oficial Venta</div>
+        <div class="brecha-value" id="oficial-venta-ref">–</div>
+      </div>
+      <div class="brecha-item">
+        <div class="brecha-label">MEP Venta</div>
+        <div class="brecha-value" id="mep-venta-ref">–</div>
+      </div>
+      <div class="brecha-item">
+        <div class="brecha-label">Spread Blue</div>
+        <div class="brecha-value" id="spread-blue">–</div>
+      </div>
     </div>
-  </div>
-
-  <div class="variation-badge" id="variation-badge">Cargando variación...</div>
-  <div class="update-time" id="update-time"></div>
-</section>
-
-<!-- MAIN -->
-<div class="main-content">
-
-  <!-- COLUMNA IZQUIERDA -->
-  <div>
 
     <!-- CONVERSOR -->
-    <div class="card">
-      <div class="card-title">Conversor Dólar Blue ↔ Pesos</div>
-      <div class="conversor-row">
+    <section class="landing-section">
+      <h2>Conversor Dólar Blue ↔ Pesos</h2>
+      <div class="card conversor-card">
         <div class="input-group">
-          <label id="label-top">Dólares (USD)</label>
-          <div class="input-wrap">
-            <span class="input-prefix" id="prefix-top">USD</span>
-            <input type="number" id="input-top" placeholder="0" min="0" />
+          <label id="conv-label-top">Dólares (USD)</label>
+          <div class="input-row">
+            <span class="prefix" id="conv-prefix-top">USD</span>
+            <input type="number" id="conv-input-top" placeholder="0" min="0" />
           </div>
         </div>
-        <button class="swap-btn" id="swap-btn" title="Intercambiar">⇅</button>
+        <button class="swap-btn" id="conv-swap" title="Invertir">⇅</button>
         <div class="input-group">
-          <label id="label-bottom">Pesos (ARS)</label>
-          <div class="input-wrap">
-            <span class="input-prefix" id="prefix-bottom">ARS</span>
-            <input type="number" id="input-bottom" placeholder="0" min="0" />
+          <label id="conv-label-bot">Pesos (ARS)</label>
+          <div class="input-row">
+            <span class="prefix" id="conv-prefix-bot">ARS</span>
+            <input type="number" id="conv-input-bot" placeholder="0" min="0" />
           </div>
         </div>
+        <div class="chips" id="conv-chips"></div>
       </div>
-      <div class="chips" id="chips"></div>
-    </div>
+    </section>
 
-    <!-- HISTORIAL -->
-    <div class="card">
-      <div class="card-title">Historial reciente</div>
-      <table class="historial-table">
-        <thead>
-          <tr>
-            <th>Fecha</th>
-            <th>Compra</th>
-            <th>Venta</th>
-          </tr>
-        </thead>
-        <tbody id="historial-body">
-          <tr><td colspan="3" style="color:var(--muted);padding:1rem 0.75rem;">Cargando...</td></tr>
-        </tbody>
-      </table>
-    </div>
+    <!-- TABLA COMPARATIVA -->
+    <section class="landing-section">
+      <h2>Comparación: Blue vs Oficial vs MEP</h2>
+      <div class="table-wrapper card">
+        <table>
+          <thead><tr><th>Tipo</th><th>Compra</th><th>Venta</th><th>Spread</th></tr></thead>
+          <tbody id="comparison-body"><tr><td colspan="4" style="text-align:center;color:var(--muted);">Cargando…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
 
-    <!-- SEO CONTENT -->
-    <div class="card seo-section">
+    <!-- CONTENIDO SEO -->
+    <section class="landing-section context-section">
       <h2>¿Qué es el dólar blue?</h2>
-      <p>El <strong>dólar blue</strong> es el tipo de cambio del mercado informal o paralelo en Argentina. Se negocia fuera del sistema bancario oficial y refleja la demanda real de divisas cuando el acceso al dólar oficial está restringido por el cepo cambiario.</p>
-      <p>A diferencia del <a href="/dolar-oficial">dólar oficial</a>, el blue no tiene respaldo institucional ni regulación directa del Banco Central (BCRA). Su precio lo fija la oferta y la demanda en las cuevas financieras y entre particulares.</p>
+      <p>El dólar blue es el nombre que recibe el dólar estadounidense en el mercado cambiario informal de Argentina. Su precio se fija por oferta y demanda fuera del sistema bancario oficial, y suele reflejar expectativas sobre la economía, la inflación y las restricciones cambiarias vigentes.</p>
+      <p>A diferencia del dólar oficial —regulado por el Banco Central (BCRA)— el blue no tiene un precio fijado institucionalmente. La diferencia porcentual entre ambos se conoce como <strong>brecha cambiaria</strong>: cuanto mayor es, más distorsión existe entre el precio regulado y el que el mercado está dispuesto a pagar.</p>
 
-      <h2>¿Por qué existe el dólar blue en Argentina?</h2>
-      <p>El mercado informal surge históricamente como respuesta a las restricciones cambiarias impuestas por el Estado argentino. Cuando el gobierno limita la compra de divisas, los ahorristas y empresas buscan alternativas para dolarizarse, generando un mercado paralelo con precio propio.</p>
-      <p>La <strong>brecha cambiaria</strong> — la diferencia porcentual entre el dólar blue y el oficial — es uno de los indicadores más seguidos por economistas y analistas como termómetro de la tensión del sistema cambiario.</p>
+      <h2>¿Por qué varía el dólar blue?</h2>
+      <p>El precio del blue responde a varios factores: la demanda de cobertura frente a la inflación, las restricciones para comprar dólares en el mercado oficial (el ex cepo), la emisión monetaria del BCRA, la incertidumbre política y las condiciones del comercio exterior. En períodos de estabilidad macro, la brecha tiende a achicarse; en contextos de tensión, se amplía.</p>
 
-      <h3>¿Cómo se forma el precio del dólar blue?</h3>
-      <p>El precio se determina por la interacción de compradores y vendedores en el mercado informal. Factores que lo influyen incluyen: inflación mensual, reservas del BCRA, expectativas de devaluación, ruido político, y estacionalidad (demanda agrícola, vacaciones, fin de año).</p>
+      <h2>Alternativas legales al dólar blue</h2>
+      <p><strong>Dólar MEP:</strong> se obtiene comprando bonos en pesos y vendiéndolos en dólares a través de una cuenta comitente en un bróker (ALyC). Es legal, accesible y suele tener un precio cercano al blue. <a href="/articulo/que-es-el-dolar-mep">→ Qué es el dólar MEP</a></p>
+      <p><strong>USDT (Tether):</strong> criptomoneda estable atada al valor del dólar. Se puede comprar en exchanges como Binance o Bybit. <a href="/articulo/como-comprar-usdt-argentina">→ Cómo comprar USDT en Argentina</a></p>
+      <p><strong>Dólar oficial:</strong> disponible en bancos con cuenta en dólares. Desde abril 2025 ya no aplica el tope de USD 200 mensuales. El precio incluye percepciones impositivas. <a href="/articulo/dolar-ahorro-argentina">→ Dólar ahorro en Argentina</a></p>
+    </section>
 
-      <h3>Diferencias entre el dólar blue y otros tipos de cambio</h3>
-      <p><strong>Dólar oficial:</strong> tipo de cambio regulado por el BCRA, accesible vía bancos con cupos limitados. <strong>Dólar MEP:</strong> obtenido legalmente comprando y vendiendo bonos en pesos y dólares en la Bolsa. <strong>Dólar CCL:</strong> similar al MEP pero con activos negociados en el exterior. El blue suele ser el de mayor precio y menor regulación.</p>
+    <!-- FAQs -->
+    <section class="landing-section" id="faq">
+      <h2>Preguntas frecuentes sobre el dólar blue</h2>
+      <div class="grid-2">
+        <article class="card faq-item">
+          <h3>¿A cuánto está el dólar blue hoy?</h3>
+          <p>El precio de compra y venta del dólar blue se actualiza en tiempo real en esta página usando datos de DolarAPI.com. Los valores se refrescan automáticamente cada 5 minutos.</p>
+        </article>
+        <article class="card faq-item">
+          <h3>¿Cuál es la diferencia entre el blue y el oficial?</h3>
+          <p>El dólar oficial es fijado por el Banco Central. El blue es el precio del mercado informal. La brecha cambiaria mide la distancia porcentual entre ambos.</p>
+        </article>
+        <article class="card faq-item">
+          <h3>¿Es legal comprar dólar blue?</h3>
+          <p>La compraventa en el mercado informal no está regulada formalmente. Como alternativa legal, se puede acceder al dólar MEP (a través de bonos) o comprar USDT en exchanges.</p>
+        </article>
+        <article class="card faq-item">
+          <h3>¿Qué es la brecha cambiaria?</h3>
+          <p>Es la diferencia porcentual entre el dólar oficial y el blue. Una brecha baja (menos del 5%) indica menor distorsión cambiaria. En esta página la calculamos en tiempo real.</p>
+        </article>
+        <article class="card faq-item">
+          <h3>¿Cuándo conviene comprar dólares?</h3>
+          <p>No existe un momento ideal universalmente válido. Lo más recomendable es tener una estrategia de ahorro regular en lugar de intentar adivinar el piso del tipo de cambio.</p>
+        </article>
+        <article class="card faq-item">
+          <h3>¿El dólar blue baja?</h3>
+          <p>Históricamente ha tenido períodos de baja y suba. En contextos de estabilización económica, la brecha se achica y el blue puede acercarse al oficial.</p>
+        </article>
+      </div>
+    </section>
 
-      <h3>¿Es legal comprar dólar blue?</h3>
-      <p>La compraventa en el mercado paralelo no está explícitamente penada para montos pequeños entre particulares, pero tampoco tiene respaldo legal. Operar en grandes volúmenes puede encuadrar en delitos cambiarios. Para operaciones legales y seguras, el dólar MEP es la alternativa recomendada.</p>
+    <!-- LINKS INTERNOS -->
+    <section class="landing-section">
+      <h2>Seguí explorando</h2>
+      <div class="link-grid">
+        <a href="/conversor-dolar-peso">🇺🇸 Conversor Dólar a Peso <span>Blue, oficial y MEP →</span></a>
+        <a href="/dolar-oficial">🏦 Dólar Oficial Hoy <span>Precio del BCRA →</span></a>
+        <a href="/dolar-mep">📈 Dólar MEP Hoy <span>Cotización bolsa →</span></a>
+        <a href="/cotizacion-euro-hoy">🇪🇺 Euro Hoy <span>Oficial y referencia →</span></a>
+        <a href="/articulo/que-es-el-dolar-mep">📖 ¿Qué es el dólar MEP? <span>Guía completa →</span></a>
+        <a href="/articulo/dolar-blue-que-es">📖 ¿Qué es el dólar blue? <span>Explicación detallada →</span></a>
+        <a href="/articulo/que-es-la-brecha-cambiaria">📖 Brecha cambiaria <span>Cómo se calcula →</span></a>
+        <a href="/articulo/como-comprar-usdt-argentina">💰 Comprar USDT en Argentina <span>Paso a paso →</span></a>
+      </div>
+    </section>
+  </main>
 
-      <h2>¿Cómo se usa el conversor de dólar blue?</h2>
-      <p>El conversor de arriba usa el precio de venta del dólar blue del día. Ingresá una cantidad en dólares para ver su equivalente en pesos argentinos, o viceversa. El tipo de cambio se actualiza diariamente con datos de Bluelytics.</p>
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> CotizaYa · <a href="/privacy.html" style="color:inherit;opacity:0.7;">Privacidad</a> · <a href="/terms.html" style="color:inherit;opacity:0.7;">Términos</a> · <a href="/contact.html" style="color:inherit;opacity:0.7;">Contacto</a> · Información orientativa, no es asesoramiento financiero.</p>
     </div>
+  </footer>
 
-  </div>
+  <script>
+  document.getElementById('year').textContent = new Date().getFullYear();
 
-  <!-- SIDEBAR -->
-  <aside class="sidebar">
+  // Theme
+  (function(){
+    const t=document.getElementById('theme-toggle'),i=document.getElementById('theme-icon');
+    if(!t||!i)return;
+    const g=()=>localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:light)').matches?'light':'dark');
+    const a=v=>{document.documentElement.setAttribute('data-theme',v);i.textContent=v==='light'?'🌙':'☀️';};
+    a(g());
+    t.addEventListener('click',()=>{const n=g()==='dark'?'light':'dark';localStorage.setItem('theme',n);a(n);});
+  })();
 
-    <div class="cotizaciones-widget">
-      <div class="widget-header">Cotizaciones hoy</div>
-      <div class="widget-row">
-        <span class="widget-row-name">Blue Venta</span>
-        <span class="widget-row-price" id="w-blue-sell">—</span>
-      </div>
-      <div class="widget-row">
-        <span class="widget-row-name">Blue Compra</span>
-        <span class="widget-row-price" id="w-blue-buy">—</span>
-      </div>
-      <div class="widget-row">
-        <span class="widget-row-name">Oficial Venta</span>
-        <span class="widget-row-price" id="w-of-sell">—</span>
-      </div>
-      <div class="widget-row">
-        <span class="widget-row-name">Oficial Compra</span>
-        <span class="widget-row-price" id="w-of-buy">—</span>
-      </div>
-      <div class="widget-row">
-        <span class="widget-row-name">Brecha</span>
-        <span class="widget-row-price" id="w-brecha">—</span>
-      </div>
-    </div>
+  // Mobile menu
+  (function(){
+    const m=document.getElementById('menu-toggle'),n=document.getElementById('main-nav'),o=document.getElementById('nav-overlay');
+    if(!m||!n||!o)return;
+    const close=()=>{n.classList.remove('open');o.classList.remove('open');m.classList.remove('open');m.setAttribute('aria-expanded','false');document.body.style.overflow='';};
+    const open=()=>{n.classList.add('open');o.classList.add('open');m.classList.add('open');m.setAttribute('aria-expanded','true');document.body.style.overflow='hidden';};
+    m.addEventListener('click',()=>n.classList.contains('open')?close():open());
+    o.addEventListener('click',close);
+    n.querySelectorAll('a').forEach(l=>l.addEventListener('click',close));
+    addEventListener('resize',()=>{if(innerWidth>768)close();});
+  })();
 
-    <div class="related-links">
-      <h4>Ver también</h4>
-      <a href="/dolar-oficial">Dólar Oficial hoy →</a>
-      <a href="/dolar-mep">Dólar MEP hoy →</a>
-      <a href="/conversor-dolar-peso">Conversor USD ↔ ARS →</a>
-      <a href="/conversor-euro-peso">Conversor EUR ↔ ARS →</a>
-      <a href="/conversor-bitcoin-peso">Conversor BTC ↔ ARS →</a>
-    </div>
+  // Data
+  const fmt=(n)=>n!=null?'$\u00A0'+Number(n).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2}):'–';
+  let blueVenta = null;
+  let convMode = true; // true = USD→ARS
 
-  </aside>
-</div>
+  async function loadData(){
+    try{
+      const [bR,oR,mR]=await Promise.all([
+        fetch('https://dolarapi.com/v1/dolares/blue'),
+        fetch('https://dolarapi.com/v1/dolares/oficial'),
+        fetch('https://dolarapi.com/v1/dolares/bolsa')
+      ]);
+      const blue=await bR.json(), of=await oR.json(), mep=await mR.json();
 
-<!-- QR WIDGET -->
-<div id="qr-widget">
-  <div id="qr-panel">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://cotizaya.ar/dolar-blue" alt="QR CotizaYa Dólar Blue" />
-    <p>Escaneá para compartir</p>
-  </div>
-  <button id="qr-toggle" onclick="document.getElementById('qr-panel').classList.toggle('open')">📱</button>
-</div>
+      blueVenta = blue.venta;
+      document.getElementById('blue-compra').textContent=fmt(blue.compra);
+      document.getElementById('blue-venta').textContent=fmt(blue.venta);
 
-<footer>
-  <p>© 2026 <a href="/">CotizaYa</a> · Datos actualizados diariamente · <a href="/about.html">Sobre nosotros</a></p>
-</footer>
-
-<script>
-  const HISTORIAL_URL = '/datos/historial.json';
-
-  let blueSell = null;
-  let blueBuy  = null;
-  let modeUsdToArs = true; // true = USD→ARS, false = ARS→USD
-
-  async function loadData() {
-    try {
-      const res  = await fetch(HISTORIAL_URL);
-      const data = await res.json();
-
-      // Separar blue y oficial
-      const blues    = data.filter(d => d.source === 'Blue');
-      const oficials = data.filter(d => d.source === 'Oficial');
-
-      if (!blues.length) return;
-
-      // Más reciente primero
-      blues.sort((a, b) => new Date(b.date) - new Date(a.date));
-      oficials.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-      const latest = blues[0];
-      blueSell = latest.value_sell;
-      blueBuy  = latest.value_buy;
-
-      // Hero
-      document.getElementById('hero-buy').innerHTML  = `<span>$</span>${blueBuy.toLocaleString('es-AR')}`;
-      document.getElementById('hero-sell').innerHTML = `<span>$</span>${blueSell.toLocaleString('es-AR')}`;
-
-      // Variación
-      if (blues.length >= 2) {
-        const prev   = blues[1].value_sell;
-        const diff   = blueSell - prev;
-        const pct    = ((diff / prev) * 100).toFixed(1);
-        const badge  = document.getElementById('variation-badge');
-        if (diff > 0) {
-          badge.textContent = `▲ $${diff} (${pct}%) vs ayer`;
-          badge.classList.add('up');
-        } else if (diff < 0) {
-          badge.textContent = `▼ $${Math.abs(diff)} (${pct}%) vs ayer`;
-          badge.classList.add('down');
-        } else {
-          badge.textContent = `Sin cambios vs ayer`;
-          badge.classList.add('flat');
-        }
+      if(blue.fechaActualizacion){
+        const d=new Date(blue.fechaActualizacion);
+        document.getElementById('blue-timestamp').textContent=d.toLocaleString('es-AR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'});
       }
 
-      // Fecha
-      const d = new Date(latest.date + 'T00:00:00');
-      const opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-      document.getElementById('update-time').textContent =
-        'Última actualización: ' + d.toLocaleDateString('es-AR', opts);
-
-      // Sidebar widget
-      document.getElementById('w-blue-sell').textContent = `$${blueSell.toLocaleString('es-AR')}`;
-      document.getElementById('w-blue-buy').textContent  = `$${blueBuy.toLocaleString('es-AR')}`;
-      if (oficials.length) {
-        const of = oficials[0];
-        document.getElementById('w-of-sell').textContent = `$${of.value_sell.toLocaleString('es-AR')}`;
-        document.getElementById('w-of-buy').textContent  = `$${of.value_buy.toLocaleString('es-AR')}`;
-        const brecha = (((blueSell - of.value_sell) / of.value_sell) * 100).toFixed(1);
-        document.getElementById('w-brecha').textContent = `${brecha}%`;
+      if(blue.venta&&of.venta){
+        const b=((blue.venta-of.venta)/of.venta*100).toFixed(1);
+        document.getElementById('brecha-oficial').textContent=b+'%';
+        document.getElementById('brecha-oficial').style.color=b>10?'#f97316':'#22c55e';
+      }
+      document.getElementById('oficial-venta-ref').textContent=fmt(of.venta);
+      document.getElementById('mep-venta-ref').textContent=fmt(mep.venta);
+      if(blue.compra&&blue.venta){
+        document.getElementById('spread-blue').textContent=((blue.venta-blue.compra)/blue.venta*100).toFixed(1)+'%';
       }
 
-      // Historial table (últimos 10 días blue)
-      const tbody = document.getElementById('historial-body');
-      tbody.innerHTML = '';
-      blues.slice(0, 10).forEach(row => {
-        const date = new Date(row.date + 'T00:00:00');
-        const label = date.toLocaleDateString('es-AR', { day: '2-digit', month: '2-digit', year: 'numeric' });
-        tbody.innerHTML += `
-          <tr>
-            <td>${label}</td>
-            <td class="badge-buy">$${row.value_buy.toLocaleString('es-AR')}</td>
-            <td class="badge-sell">$${row.value_sell.toLocaleString('es-AR')}</td>
-          </tr>`;
-      });
+      const rows=[
+        {name:'Dólar Blue',compra:blue.compra,venta:blue.venta},
+        {name:'Dólar Oficial',compra:of.compra,venta:of.venta},
+        {name:'Dólar MEP',compra:mep.compra,venta:mep.venta}
+      ];
+      document.getElementById('comparison-body').innerHTML=rows.map(r=>{
+        const sp=r.compra&&r.venta?((r.venta-r.compra)/r.venta*100).toFixed(1)+'%':'–';
+        return `<tr><td><strong>${r.name}</strong></td><td>${fmt(r.compra)}</td><td>${fmt(r.venta)}</td><td>${sp}</td></tr>`;
+      }).join('');
 
-      // Conversor chips
       buildChips();
-
-    } catch(e) {
-      console.error('Error cargando historial:', e);
+    }catch(e){
+      console.error('Error:',e);
+      document.getElementById('blue-compra').textContent='Error';
+      document.getElementById('blue-venta').textContent='Error';
     }
   }
 
-  // ── CONVERSOR ──
-  function buildChips() {
-    const chips   = document.getElementById('chips');
-    const amounts = modeUsdToArs ? [1, 10, 50, 100, 500] : [1000, 5000, 10000, 50000, 100000];
-    chips.innerHTML = '';
-    amounts.forEach(n => {
-      const btn = document.createElement('button');
-      btn.className = 'chip';
-      btn.textContent = modeUsdToArs
-        ? `USD ${n.toLocaleString('es-AR')}`
-        : `$${n.toLocaleString('es-AR')}`;
-      btn.onclick = () => {
-        document.getElementById('input-top').value = n;
-        convert('top');
-      };
-      chips.appendChild(btn);
+  // Conversor
+  function convert(from){
+    if(!blueVenta)return;
+    const top=document.getElementById('conv-input-top'),bot=document.getElementById('conv-input-bot');
+    if(from==='top'){
+      const v=parseFloat(top.value)||0;
+      bot.value=convMode?(v*blueVenta).toFixed(0):(v/blueVenta).toFixed(2);
+    }else{
+      const v=parseFloat(bot.value)||0;
+      top.value=convMode?(v/blueVenta).toFixed(2):(v*blueVenta).toFixed(0);
+    }
+  }
+  function setLabels(){
+    document.getElementById('conv-label-top').textContent=convMode?'Dólares (USD)':'Pesos (ARS)';
+    document.getElementById('conv-prefix-top').textContent=convMode?'USD':'ARS';
+    document.getElementById('conv-label-bot').textContent=convMode?'Pesos (ARS)':'Dólares (USD)';
+    document.getElementById('conv-prefix-bot').textContent=convMode?'ARS':'USD';
+  }
+  function buildChips(){
+    const c=document.getElementById('conv-chips');
+    const amounts=convMode?[1,10,50,100,500]:[1000,5000,10000,50000,100000];
+    c.innerHTML=amounts.map(n=>`<button class="chip">${convMode?'USD ':'$'}${n.toLocaleString('es-AR')}</button>`).join('');
+    c.querySelectorAll('.chip').forEach((btn,i)=>{
+      btn.addEventListener('click',()=>{document.getElementById('conv-input-top').value=amounts[i];convert('top');});
     });
   }
-
-  function convert(from) {
-    if (!blueSell) return;
-    const top    = document.getElementById('input-top');
-    const bottom = document.getElementById('input-bottom');
-    if (from === 'top') {
-      const val = parseFloat(top.value) || 0;
-      bottom.value = modeUsdToArs
-        ? (val * blueSell).toFixed(0)
-        : (val / blueSell).toFixed(2);
-    } else {
-      const val = parseFloat(bottom.value) || 0;
-      top.value = modeUsdToArs
-        ? (val / blueSell).toFixed(2)
-        : (val * blueSell).toFixed(0);
-    }
-  }
-
-  function setLabels() {
-    document.getElementById('label-top').textContent    = modeUsdToArs ? 'Dólares (USD)' : 'Pesos (ARS)';
-    document.getElementById('prefix-top').textContent   = modeUsdToArs ? 'USD' : 'ARS';
-    document.getElementById('label-bottom').textContent = modeUsdToArs ? 'Pesos (ARS)' : 'Dólares (USD)';
-    document.getElementById('prefix-bottom').textContent = modeUsdToArs ? 'ARS' : 'USD';
-  }
-
-  document.getElementById('input-top').addEventListener('input',    () => convert('top'));
-  document.getElementById('input-bottom').addEventListener('input', () => convert('bottom'));
-
-  document.getElementById('swap-btn').addEventListener('click', () => {
-    modeUsdToArs = !modeUsdToArs;
-    document.getElementById('input-top').value    = '';
-    document.getElementById('input-bottom').value = '';
-    setLabels();
-    buildChips();
+  document.getElementById('conv-input-top').addEventListener('input',()=>convert('top'));
+  document.getElementById('conv-input-bot').addEventListener('input',()=>convert('bottom'));
+  document.getElementById('conv-swap').addEventListener('click',()=>{
+    convMode=!convMode;
+    document.getElementById('conv-input-top').value='';
+    document.getElementById('conv-input-bot').value='';
+    setLabels();buildChips();
   });
 
   loadData();
-</script>
-
+  setInterval(loadData,5*60*1000);
+  </script>
 </body>
 </html>
