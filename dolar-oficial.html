@@ -148,7 +148,7 @@
 
   <script>
   document.getElementById('year').textContent=new Date().getFullYear();
-  (function(){const t=document.getElementById('theme-toggle'),i=document.getElementById('theme-icon');if(!t||!i)return;const g=()=>localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:light)').matches?'light':'dark');const a=v=>{document.documentElement.setAttribute('data-theme',v);i.textContent=v==='light'?'🌙':'☀️';};a(g());t.addEventListener('click',()=>{const n=g()==='dark'?'light':'dark';localStorage.setItem('theme',n);a(n);});})();
+  (function(){const t=document.getElementById('theme-toggle'),i=document.getElementById('theme-icon');if(!t||!i)return;const g=()=>localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');const a=v=>{if(v==='dark')document.body.classList.add('dark');else document.body.classList.remove('dark');i.textContent=v==='dark'?'☀️':'🌙';};a(g());t.addEventListener('click',()=>{const n=document.body.classList.contains('dark')?'light':'dark';localStorage.setItem('theme',n);a(n);});})();
   (function(){const m=document.getElementById('menu-toggle'),n=document.getElementById('main-nav'),o=document.getElementById('nav-overlay');if(!m||!n||!o)return;const cl=()=>{n.classList.remove('open');o.classList.remove('open');m.classList.remove('open');m.setAttribute('aria-expanded','false');document.body.style.overflow='';};const op=()=>{n.classList.add('open');o.classList.add('open');m.classList.add('open');m.setAttribute('aria-expanded','true');document.body.style.overflow='hidden';};m.addEventListener('click',()=>n.classList.contains('open')?cl():op());o.addEventListener('click',cl);n.querySelectorAll('a').forEach(l=>l.addEventListener('click',cl));addEventListener('resize',()=>{if(innerWidth>768)cl();});})();
 
   const fmt=(n)=>n!=null?'$\u00A0'+Number(n).toLocaleString('es-AR',{minimumFractionDigits:2,maximumFractionDigits:2}):'–';
@@ -156,8 +156,11 @@
 
   async function loadData(){
     try{
-      const[oR,bR,mR]=await Promise.all([fetch('https://dolarapi.com/v1/dolares/oficial'),fetch('https://dolarapi.com/v1/dolares/blue'),fetch('https://dolarapi.com/v1/dolares/bolsa')]);
-      const of=await oR.json(),blue=await bR.json(),mep=await mR.json();
+      const[oR,bR,mR,tR,maR]=await Promise.all([fetch('https://dolarapi.com/v1/dolares/oficial'),fetch('https://dolarapi.com/v1/dolares/blue'),fetch('https://dolarapi.com/v1/dolares/bolsa'),
+        fetch('https://dolarapi.com/v1/dolares/tarjeta'),
+        fetch('https://dolarapi.com/v1/dolares/mayorista')
+      ]);
+      const of=await oR.json(),blue=await bR.json(),mep=await mR.json(),tar=await tR.json(),may=await maR.json();
       ofVenta=of.venta;
       document.getElementById('of-compra').textContent=fmt(of.compra);
       document.getElementById('of-venta').textContent=fmt(of.venta);
@@ -166,7 +169,7 @@
       document.getElementById('blue-ref').textContent=fmt(blue.venta);
       document.getElementById('mep-ref').textContent=fmt(mep.venta);
       if(of.compra&&of.venta)document.getElementById('spread-of').textContent=((of.venta-of.compra)/of.venta*100).toFixed(1)+'%';
-      const rows=[{name:'Dólar Oficial',compra:of.compra,venta:of.venta},{name:'Dólar Blue',compra:blue.compra,venta:blue.venta},{name:'Dólar MEP',compra:mep.compra,venta:mep.venta}];
+      const rows=[{name:'Dólar Oficial',compra:of.compra,venta:of.venta},{name:'Dólar Blue',compra:blue.compra,venta:blue.venta},{name:'Dólar MEP',compra:mep.compra,venta:mep.venta},{name:'Dólar Tarjeta',compra:tar.compra,venta:tar.venta},{name:'Dólar Mayorista',compra:may.compra,venta:may.venta}];
       document.getElementById('comparison-body').innerHTML=rows.map(r=>{const sp=r.compra&&r.venta?((r.venta-r.compra)/r.venta*100).toFixed(1)+'%':'–';return`<tr><td><strong>${r.name}</strong></td><td>${fmt(r.compra)}</td><td>${fmt(r.venta)}</td><td>${sp}</td></tr>`;}).join('');
       buildChips();
     }catch(e){console.error(e);document.getElementById('of-compra').textContent='Error';document.getElementById('of-venta').textContent='Error';}
