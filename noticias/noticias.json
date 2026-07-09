@@ -1,5 +1,51 @@
 [
   {
+    "title": "Plazo fijo: cuánto paga cada banco por invertir $1.000.000 a 30 días y cuáles ofrecen la mejor tasa",
+    "slug": "plazo-fijo-cuanto-paga-cada-banco-por-invertir-1000000-a-30-",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Las diferencias entre entidades pueden superar los $5. 000 en apenas un mes y el formato digital vuelve a ubicarse por encima de los métodos tradicionales.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-paga-cada-banco-invertir-1000000-30-dias-y-cuales-ofrecen-la-mejor-tasa-n6297556",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mora récord: qué bancos y provincias lanzaron planes para refinanciar deudas y aliviar a las familias",
+    "slug": "mora-record-que-bancos-y-provincias-lanzaron-planes-para-ref",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Ante el aumento de la morosidad en préstamos y tarjetas de crédito, bancos públicos y gobiernos provinciales ampliaron programas de refinanciación con tasas preferenciales, plazos",
+    "link": "https://www.ambito.com/economia/mora-record-que-bancos-y-provincias-lanzaron-planes-refinanciar-deudas-y-aliviar-las-familias-n6297876",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Industria automotriz en jaque: por qué Argentina puede quedar afuera del mapa de inversiones de la próxima década",
+    "slug": "industria-automotriz-en-jaque-por-que-argentina-puede-quedar",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Los anuncios de inversión en Brasil son 17 veces mayores a los de Argentina, cuando esta relación es históricamente de 5 a 1.  La crisis del sector incluye tanto factores coyunturales como estructurales.",
+    "link": "https://www.ambito.com/industria-automotriz-jaque-que-argentina-puede-quedar-afuera-del-mapa-inversiones-la-proxima-decada-n6297776",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Dólar blue hoy: a cuánto opera este jueves 9 de julio",
     "slug": "dolar-blue-hoy-a-cuanto-opera-este-jueves-9-de-julio",
     "category": "economia",
@@ -32,6 +78,54 @@
     "related": []
   },
   {
+    "title": "El FMI elogió el plan financiero y el proyecto de reforma del BCRA",
+    "slug": "el-fmi-elogio-el-plan-financiero-y-el-proyecto-de-reforma-de",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "La modificación de la carta orgánica del BCRA según el Fondo “mejorará la rendición de cuentas y la transparencia, respaldar la disminución sostenida de la inflación”.  Ponderó también la previsibilidad que supone el anuncio del programa financiero.",
+    "link": "https://www.ambito.com/el-fmi-elogio-el-plan-financiero-y-el-proyecto-reforma-del-bcra-n6297924",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street anota ganancias de la mano de las acciones tecnológicas: Micron salta casi 8%",
+    "slug": "wall-street-anota-ganancias-de-la-mano-de-las-acciones-tecno",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Los inversores monitorean la dinámica de las inversiones en IA, los acontecimientos en Medio Oriente y el potencial impacto de las últimas noticias de la economía de EEUU.",
+    "link": "https://www.ambito.com/finanzas/mercados-globales-cayeron-las-bolsas-asiaticas-pero-wall-street-abrio-al-alza-buen-dato-empleo-eeuu-n6297916",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Riesgo país: el umbral que mira la city para que Argentina vuelva al mercado internacional de deuda",
+    "slug": "riesgo-pais-el-umbral-que-mira-la-city-para-que-argentina-vu",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "El programa financiero 2026-2027 definió cómo cubrirá el Tesoro sus vencimientos y reabrió la discusión sobre el costo de una eventual vuelta a los mercados.  Analistas estiman el recorrido que queda en bonos y acciones.",
+    "link": "https://www.ambito.com/finanzas/riesgo-pais-el-umbral-que-mira-la-city-que-argentina-vuelva-al-mercado-internacional-deuda-n6297774",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "riesgo país",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este jueves 9 de julio",
     "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-jueves-9-de-ju",
     "category": "economia",
@@ -47,17 +141,111 @@
     "related": []
   },
   {
-    "title": "La mortalidad por calor extremo está vinculada a la brecha de renta y a la vivienda",
-    "slug": "la-mortalidad-por-calor-extremo-esta-vinculada-a-la-brecha-d",
+    "title": "El FMI respaldó la mega reforma del Banco Central que prepara Javier Milei",
+    "slug": "el-fmi-respaldo-la-mega-reforma-del-banco-central-que-prepar",
     "category": "economia",
     "date": "2026-07-09",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/07/09/la-mortalidad-por-calor-extremo-esta-vinculada-a-la-brecha-de-renta-y-a-la-vivienda/",
-    "source": "Infobae",
+    "summary": "Se trata de una señal positiva para el mercado.  ¿Cómo hará el Presidente para que su gobierno y otras gestiones eviten sostenerse con emisión?",
+    "link": "https://www.iprofesional.com/finanzas/459607-fmi-respaldo-mega-reforma-carta-organica-banco-central-que-prepara-javier-milei",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "brecha"
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aumento salarial y bonos para jerárquicos mineros: a cuánto se fue el salario promedio",
+    "slug": "aumento-salarial-y-bonos-para-jerarquicos-mineros-a-cuanto-s",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "La mejora fue acordada para el personal de los yacimientos de Veladero y Gualcamayo, con una suba del 16,8% de junio a octubre, más sumas no remunerativas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/459598-aumento-salarial-y-bonos-para-jerarquicos-mineros-a-cuanto-se-fue-el-salario-promedio",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Qué sueldo necesitó una familia para no caer bajo la línea de pobreza  en la Ciudad de Buenos Aires",
+    "slug": "que-sueldo-necesito-una-familia-para-no-caer-bajo-la-linea-d",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Datos oficiales del gobierno porteño determinaron los ingresos necesarios para que una familia se ubique dentro de la clase media (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/459567-que-sueldo-necesito-una-familia-portena-para-ser-de-clase-media-junio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ránking de sueldos: los 5 rubros donde se pide ganar más dinero",
+    "slug": "ranking-de-sueldos-los-5-rubros-donde-se-pide-ganar-mas-dine",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Un informe privado revela las pretensiones de los argentinos al buscar trabajo y expone una brecha que ya supera los $2. 000.",
+    "link": "https://www.iprofesional.com/economia/459498-ranking-de-sueldos-los-5-rubros-donde-se-pide-ganar-mas-dinero",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: qué anticipan los gurúes de la city para julio y el precio al que llegará a fin de año",
+    "slug": "dolar-que-anticipan-los-gurues-de-la-city-para-julio-y-el-pr",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "El REM del BCRA elevó su proyección para el dólar oficial y anticipó un tipo de cambio más alto hacia diciembre.  Qué implica para el ahorro (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459363-dolar-que-anticipan-los-gurues-de-la-city-para-julio-y-el-precio-a-fin-de-ano",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Te dieron un dólar? Las aplicaciones que ayudan a detectar billetes falsos",
+    "slug": "te-dieron-un-dolar-las-aplicaciones-que-ayudan-a-detectar-bi",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "Existen aplicaciones que ayudan a revisar las medidas de seguridad de los dólares y detectar señales sospechosas antes de aceptar un billete (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459377-te-dieron-un-dolar-las-aplicaciones-que-ayudan-a-detectar-billetes-falsos",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El increíble método japonés que sigue vigente para ahorrar dólares",
+    "slug": "el-increible-metodo-japones-que-sigue-vigente-para-ahorrar-d",
+    "category": "economia",
+    "date": "2026-07-09",
+    "summary": "El método Kakeibo propone registrar ingresos y gastos para mejorar el ahorro, ordenar las finanzas y alcanzar objetivos como comprar dólares (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459381-como-ahorrar-en-dolares-con-un-increible-metodo-japones-que-sigue-vigente",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -69,11 +257,86 @@
     "date": "2026-07-09",
     "summary": "La crisis de pagos llevó a los bancos a multiplicar reestructuraciones, con entidades privadas mostrando los mayores saltos recientes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/459563-morosidad-record-bancos-forzo-duplicar-refinanciaciones-impacta-creditos-julio-2026",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Sam Altman destaca las cualidades del modelo de IA GPT-5.6",
+    "slug": "sam-altman-destaca-las-cualidades-del-modelo-de-ia-gpt-56",
+    "category": "cripto",
+    "date": "2026-07-09",
+    "summary": "CriptoTendencia Sam Altman afirma que GPT-5. 6 mejora un 54% la eficiencia en el uso de tokens durante tareas de programación automatizada.",
+    "link": "https://criptotendencia.com/2026/07/09/sam-altman-destaca-las-cualidades-del-modelo-de-ia-gpt-5-6-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El pulso del mercado: Jupiter extiende su racha bajista y mantiene en alerta a los traders alcistas",
+    "slug": "el-pulso-del-mercado-jupiter-extiende-su-racha-bajista-y-man",
+    "category": "cripto",
+    "date": "2026-07-09",
+    "summary": "CriptoTendencia Jupiter prolonga su caída mientras las tasas de financiación positivas aumentan el riesgo de nuevas liquidaciones entre los traders alcistas.  La entrada El pulso del mercado: Jupiter extiende su racha bajista y mantiene en alerta a los traders alcistas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/09/el-pulso-del-mercado-jupiter-extiende-su-racha-bajista-y-mantiene-en-alerta-a-los-traders-alcistas-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "EE. UU. podría enfrentar un agudo déficit de electricidad para 2030, según el Bank of America",
+    "slug": "ee-uu-podria-enfrentar-un-agudo-deficit-de-electricidad-para",
+    "category": "cripto",
+    "date": "2026-07-09",
+    "summary": "CriptoTendencia Según el Bank of America, para la década de 2030 los Estados Unidos podrían enfrentar un profundo déficit de electricidad.  La entrada EE.",
+    "link": "https://criptotendencia.com/2026/07/09/ee-uu-podria-enfrentar-un-agudo-deficit-de-electricidad-para-2030-segun-el-bank-of-america/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La contradicción entre las ballenas de Bitcoin y los ETF genera incertidumbre en el mercado",
+    "slug": "la-contradiccion-entre-las-ballenas-de-bitcoin-y-los-etf-gen",
+    "category": "cripto",
+    "date": "2026-07-09",
+    "summary": "CriptoTendencia Mientras las ballenas de Bitcoin absorven la liquidez derivada de la presión de venta, los reembolsos en los ETF continúan.  La entrada La contradicción entre las ballenas de Bitcoin y los ETF genera incertidumbre en el mercado se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/09/la-contradiccion-entre-las-ballenas-de-bitcoin-y-los-etf-genera-incertidumbre-en-el-mercado/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Francia se juega hoy el pase a semifinales del Mundial 2026 frente a Marruecos",
+    "slug": "francia-se-juega-hoy-el-pase-a-semifinales-del-mundial-2026-",
+    "category": "cripto",
+    "date": "2026-07-09",
+    "summary": "CriptoTendencia En esta nueva fase de cuartos de final del Mundial de fútbol 2026 se juega el pase a semifinales con partidos de alta intensidad.  La entrada Francia se juega hoy el pase a semifinales del Mundial 2026 frente a Marruecos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/09/francia-se-juega-hoy-el-pase-a-semifinales-del-mundial-2026-frente-a-marruecos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -157,66 +420,6 @@
     "related": []
   },
   {
-    "title": "Forex en tensión: la libra resiste entre el fuego en el Golfo y la incógnita de Downing Street",
-    "slug": "forex-en-tension-la-libra-resiste-entre-el-fuego-en-el-golfo",
-    "category": "cripto",
-    "date": "2026-07-09",
-    "summary": "CriptoTendencia La libra aguanta en el mercado Forex pese a la escalada con Irán y el salto del Brent.  La clave ahora: quién manejará las finanzas del Reino Unido.",
-    "link": "https://criptotendencia.com/2026/07/09/forex-en-tension-la-libra-resiste-entre-el-fuego-en-el-golfo-y-la-incognita-de-downing-street/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El primer millonario no humano",
-    "slug": "el-primer-millonario-no-humano",
-    "category": "cripto",
-    "date": "2026-07-09",
-    "summary": "CriptoTendencia Un agente de IA acumula capital que ganó e invirtió solo.  ¿De quién es ese dinero?",
-    "link": "https://criptotendencia.com/2026/07/09/el-primer-millonario-no-humano/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Anthropic lleva a Claude al laboratorio: la ciencia se convierte en el nuevo campo de batalla económico de la IA",
-    "slug": "anthropic-lleva-a-claude-al-laboratorio-la-ciencia-se-convie",
-    "category": "cripto",
-    "date": "2026-07-09",
-    "summary": "CriptoTendencia Anthropic lanza Claude Science, una estación de trabajo de IA para investigación con trazabilidad total.  Así cambia el negocio de la ciencia.",
-    "link": "https://criptotendencia.com/2026/07/09/anthropic-lleva-a-claude-al-laboratorio-la-ciencia-se-convierte-en-el-nuevo-campo-de-batalla-economico-de-la-ia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Personaje de la Semana: la promesa que Saylor juró nunca romper y rompió dos veces",
-    "slug": "el-personaje-de-la-semana-la-promesa-que-saylor-juro-nunca-r",
-    "category": "cripto",
-    "date": "2026-07-09",
-    "summary": "CriptoTendencia De «vende un riñón pero conserva el Bitcoin» a liquidar 3. 588 BTC en una semana: la historia de cómo Michael Saylor rompió su promesa más famosa.",
-    "link": "https://criptotendencia.com/2026/07/09/el-personaje-de-la-semana-la-promesa-que-saylor-juro-nunca-romper-y-rompio-dos-veces/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Más empleo, pero de menor calidad: las advertencias de la UCA sobre el mercado laboral de Javier Milei",
     "slug": "mas-empleo-pero-de-menor-calidad-las-advertencias-de-la-uca-",
     "category": "economia",
@@ -263,54 +466,6 @@
     "related": []
   },
   {
-    "title": "La titular del FMI Kristalina Georgieva visitará la Argentina antes de fin de mes",
-    "slug": "la-titular-del-fmi-kristalina-georgieva-visitara-la-argentin",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "La funcionaria del Fondo llega a Buenos Aires tras una invitación de Javier Milei.  Lo anunció el ministro de Economía, Luis Caputo.",
-    "link": "https://www.ambito.com/economia/la-titular-del-fmi-kristalina-georgieva-visitara-la-argentina-antes-fin-mes-n6297548",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La inflación de CABA fue del 1,8% en junio, con fuerte desaceleración en alimentos",
-    "slug": "la-inflacion-de-caba-fue-del-18-en-junio-con-fuerte-desacele",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "La suba de precios en la Ciudad del mes pasado fue del 1,8%, acumuló en el primer semestre del año una suba del 16% y la interanual se ubicó en 32,6%.",
-    "link": "https://www.ambito.com/economia/la-inflacion-caba-quebro-la-barrera-del-2-junio-fuerte-desaceleracion-alimentos-n6297509",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Javier Milei habló de una inflación por debajo del 2% para junio y busca blindar el equilibrio fiscal por ley",
-    "slug": "javier-milei-hablo-de-una-inflacion-por-debajo-del-2-para-ju",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "El Presidente confirmó que enviará al Congreso una reforma de la Carta Orgánica del Banco Central para prohibir el financiamiento monetario del Tesoro.  Además, adelantó que impulsará cambios para reforzar por ley el equilibrio fiscal y sancionar iniciativas que no cuenten con financiamiento.",
-    "link": "https://www.ambito.com/politica/javier-milei-hablo-una-inflacion-debajo-del-2-junio-y-busca-blindar-el-equilibrio-fiscal-ley-n6297495",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 8 de julio",
     "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
@@ -327,95 +482,17 @@
     "related": []
   },
   {
-    "title": "El Gobierno pagó unos u$s2.500 millones por los bonos Globales y las reservas quedaron debajo de los u$s49.000 millones",
-    "slug": "el-gobierno-pago-unos-us2500-millones-por-los-bonos-globales",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "En la jornada, además, se concretó el ingreso de fondos provenientes de créditos con bancos internacionales, con garantías de organismos multilaterales.  Así, las reservas brutas del BCRA cayeron u$s814 millones y finalizaron en u$s48.",
-    "link": "https://www.ambito.com/finanzas/el-gobierno-pago-unos-us2500-millones-los-bonos-globales-y-las-reservas-quedaron-debajo-los-us49000-millones-n6297692",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "reservas",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El S&P Merval recortó ganancias semanales al 1%, ya que la tensión externa desplazó al optimismo local",
-    "slug": "el-sp-merval-recorto-ganancias-semanales-al-1-ya-que-la-tens",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "En una semana corta, el S&P Merval terminó casi neutro en pesos y avanzó en dólares, mientras el riesgo país volvió a acercarse a los 400 puntos.  El sostén llegó por le programa financiero del Gobierno, aunque la ruptura de la tregua entre EE.",
-    "link": "https://www.ambito.com/finanzas/el-riesgo-pais-sube-levemente-y-le-cuesta-romper-la-barrera-los-400-puntos-basicos-n6297502",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar blue anotó su primer retroceso semanal en más de dos meses, pero se sostuvo sobre los $1.500",
-    "slug": "el-dolar-blue-anoto-su-primer-retroceso-semanal-en-mas-de-do",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "El billete informal terminó la semana corta con un leve retroceso y empardó la cotización del minorista en el Banco Nación.",
-    "link": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-primer-retroceso-semanal-mas-dos-meses-pero-se-sostuvo-los-1500-n6297713",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sueldos de la Policía Federal y Bonaerense: cuánto cobran según el cargo más adicionales",
-    "slug": "sueldos-de-la-policia-federal-y-bonaerense-cuanto-cobran-seg",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "Conocé el detalle de los ingresos netos por rango, adicionales y bonificaciones que integran la remuneración mensual de efectivos en estas fuerzas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/459570-sueldos-policia-federal-bonaerense-cuanto-cobran-segun-cargo-mas-adicionales-julio-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Dólar a más de $1.500: tras el plan \"economía blindada\" de Caputo, la City recalcula el precio",
     "slug": "dolar-a-mas-de-1500-tras-el-plan-economia-blindada-de-caputo",
     "category": "economia",
     "date": "2026-07-08",
     "summary": "La cotización del billete estadounidense trepó 5% en todo junio y en julio ya toca los $1. 510.",
     "link": "https://www.iprofesional.com/finanzas/458649-dolar-a-mas-de-1500-economistas-alertan-por-tension-y-recalculan-precio-esperado",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Qué sueldo necesitó una familia para ser de clase media en la Ciudad de Buenos Aires",
-    "slug": "que-sueldo-necesito-una-familia-para-ser-de-clase-media-en-l",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "Datos oficiales del gobierno porteño determinaron los ingresos necesarios para que una familia se ubique dentro de la clase media (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/459567-que-sueldo-necesito-una-familia-portena-para-ser-de-clase-media-junio-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -427,134 +504,10 @@
     "date": "2026-07-08",
     "summary": "Los depósitos en pesos están pagando algo más de tasa, mientras la inflación desciende.  Cuánto se gana con $2 millones en un período de 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/459299-plazo-fijo-banco-galicia-ahora-paga-mas-cuanto-se-gana-invirtiendo-2-millones",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La jubilación mínima cayó en picada: ¿cuáles son los gastos que no llega a cubrir hoy?",
-    "slug": "la-jubilacion-minima-cayo-en-picada-cuales-son-los-gastos-qu",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "El bolsillo de los jubilados enfrenta un recorte sin precedentes por el ajuste fiscal y recorte de ingresos tras cambios como eliminación del impuesto PAIS (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/459436-jubilacion-minima-cayo-en-picada-cuales-son-gastos-que-no-llega-a-cubrir-hoy-julio-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Docentes bonaerenses cerraron nuevo aumento de sueldo: cómo se pagará",
-    "slug": "docentes-bonaerenses-cerraron-nuevo-aumento-de-sueldo-como-s",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "La Provincia acordó una suba salarial del 7% en dos tramos.  El entendimiento incluye mejoras laborales y nuevos compromisos en materia de derechos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/politica/459554-docentes-bonaerenses-cerraron-nuevo-aumento-de-sueldo-como-se-pagara",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Economía a distintas velocidades: la industria volvió a caer y la construcción rebotó con fuerza",
-    "slug": "economia-a-distintas-velocidades-la-industria-volvio-a-caer-",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "En mayo la industria manufacturera volvió a caer en mayo y acumula una baja del 3,1% en los primeros cinco meses del año.  La construcción, en positivo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/459542-economia-a-distintas-velocidades-la-industria-cayo-y-la-construccion-reboto-con-fuerza",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las reservas del BCRA cayeron tras el pago por u$s2.500 millones de los bonos globales",
-    "slug": "las-reservas-del-bcra-cayeron-tras-el-pago-por-us2500-millon",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "Las reservas del Banco Central perforaron este miércoles los u$s49. 000 millones, luego de tocar máximos desde 2019 la rueda previa (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459545-las-reservas-del-bcra-cayeron-tras-el-pago-por-us2500-millones-de-los-bonos-globales",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "reservas",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Robots: en qué acciones de empresas invertir para posicionarse en el sector del \"futuro\"",
-    "slug": "robots-en-que-acciones-de-empresas-invertir-para-posicionars",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "Las acciones de compañías vinculadas a la convergencia entre IA, chips especializados, sensores y visión artificial prometen ser las ganadoras.  Cuáles son (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459440-robots-en-que-acciones-de-empresas-invertir-para-posicionarse-en-el-sector-del-futuro",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Panorama Financiero | Deudas sin rescate y crédito más duro: el bolsillo entra en alerta",
-    "slug": "panorama-financiero-deudas-sin-rescate-y-credito-mas-duro-el",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "La mora subió de 12,1% a 12,7%, Luis Caputo descartó un rescate por parte del Gobierno y los bancos ya endurecen el acceso al crédito (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459506-panorama-financiero-8-julio-2026-deudas-sin-rescate-y-credito-mas-duro-el-bolsillo-entra-en-alerta",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El boom del oro: cuánto paga el Banco Ciudad por el gramo, las trampas de los quilates",
-    "slug": "el-boom-del-oro-cuanto-paga-el-banco-ciudad-por-el-gramo-las",
-    "category": "economia",
-    "date": "2026-07-08",
-    "summary": "No siempre el gramo de oro vale lo mismo al momento de vender.  Existe una serie de factores que deben tenerse en cuenta antes de decidirse (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459502-el-boom-del-oro-cuanto-paga-el-banco-ciudad-por-el-gramo-las-trampas-de-los-quilates",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tether quema 2.500 millones de USDT y redistribuye la liquidez entre Ethereum y Tron",
-    "slug": "tether-quema-2500-millones-de-usdt-y-redistribuye-la-liquide",
-    "category": "cripto",
-    "date": "2026-07-08",
-    "summary": "CriptoTendencia Tether quema 2. 500 millones de USDT en Ethereum mientras cae la liquidez disponible en Tron.",
-    "link": "https://criptotendencia.com/2026/07/08/tether-quema-2-500-millones-de-usdt-y-redistribuye-la-liquidez-entre-ethereum-y-tron-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
     ],
     "featured": false,
     "related": []
