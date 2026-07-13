@@ -1,5 +1,67 @@
 [
   {
+    "title": "La morosidad récord debilita al crédito y se diluyen las chances de que sea un motor para la reactivación",
+    "slug": "la-morosidad-record-debilita-al-credito-y-se-diluyen-las-cha",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El equipo económico espera que los préstamos al consumo vuelvan a ser uno de los pilares de la recuperación en la actividad, pero el alto nivel de morosidad ya dejó a más de 5 mill",
+    "link": "https://www.ambito.com/economia/la-morosidad-record-debilita-al-credito-y-se-diluyen-las-chances-que-sea-un-motor-la-reactivacion-n6298938",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "CABA anunció un plan para refinanciar deudas con tarjetas de crédito: cómo es y quiénes pueden acceder",
+    "slug": "caba-anuncio-un-plan-para-refinanciar-deudas-con-tarjetas-de",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "La medida fue anunciada por Jorge Macri.  En principio, adherirá el Banco Ciudad pero está abierto a que se sumen otras instituciones.",
+    "link": "https://www.ambito.com/economia/caba-anuncio-un-plan-refinanciar-deudas-tarjetas-credito-como-es-y-quienes-pueden-acceder-n6298920",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Gobierno ya tendió el puente financiero hacia 2027: ahora falta que la economía real lo cruce",
+    "slug": "el-gobierno-ya-tendio-el-puente-financiero-hacia-2027-ahora-",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El programa anunciado despejó buena parte de las dudas del mercado sobre los vencimientos de deuda hasta 2027 inclusive, aunque no exento de riesgos.  El desafío pasa ahora por consolidar la recuperación económica antes de que el calendario electoral vuelva a condicionar las decisiones de consumo e inversión.",
+    "link": "https://www.ambito.com/economia/el-gobierno-ya-tendio-el-puente-financiero-2027-ahora-falta-que-la-real-lo-cruce-n6298769",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Salarios: la mitad de los argentinos se considera de clase baja y 9 de cada 10 afirma que perdió contra la inflación",
+    "slug": "salarios-la-mitad-de-los-argentinos-se-considera-de-clase-ba",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Un relevamiento señaló que el 50,2% de la población se autopercibe de clase baja, el 86,1% asegura que sus ingresos no logran seguir el ritmo de los precios y seis de cada diez hog",
+    "link": "https://www.ambito.com/economia/salarios-la-mitad-los-argentinos-se-considera-clase-baja-y-9-cada-10-afirma-que-perdio-contra-la-inflacion-n6298849",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "El gobierno de Javier Milei autorizó un anticipo financiero de hasta $400.000 millones para Córdoba",
     "slug": "el-gobierno-de-javier-milei-autorizo-un-anticipo-financiero-",
     "category": "economia",
@@ -31,12 +93,29 @@
     "related": []
   },
   {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 13 de julio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "Dólar futuro: estiman que la posición vendida del BCRA aumentó casi u$s1.000 millones en poco más de un mes",
+    "slug": "dolar-futuro-estiman-que-la-posicion-vendida-del-bcra-aument",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "La intervención para controlar el dólar se expandió, elevando el interés abierto en futuros a u$s3. 879 millones.",
+    "link": "https://www.ambito.com/finanzas/dolar-futuro-estiman-que-la-posicion-vendida-del-bcra-aumento-casi-us1000-millones-poco-mas-un-mes-n6298968",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este lunes 13 de julio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-13-de-julio",
     "category": "economia",
     "date": "2026-07-13",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-13-julio-n6298743",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-13-julio-n6298729",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -63,12 +142,12 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 13 de julio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-13-de-julio",
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 13 de julio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
     "date": "2026-07-13",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-13-julio-n6298729",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-13-julio-n6298743",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -79,12 +158,12 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este lunes 13 de julio",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-lunes-13-de-ju",
+    "title": "Cedears: Apple ya ganó u$s600.000 millones de valor de mercado en menos de tres semanas, ¿qué hay detrás?",
+    "slug": "cedears-apple-ya-gano-us600000-millones-de-valor-de-mercado-",
     "category": "economia",
     "date": "2026-07-13",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-lunes-13-julio-n6298712",
+    "summary": "Apple se benefició de un escenario en el que crecieron las dudas sobre las elevadas valuaciones de algunas empresas vinculadas a la inteligencia artificial.",
+    "link": "https://www.ambito.com/finanzas/cedears-apple-ya-gano-us600000-millones-valor-mercado-menos-tres-semanas-que-hay-detras-n6298914",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -94,12 +173,12 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 12 de julio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-12-de-julio",
+    "title": "El dólar se da vuelta y cae pero se mantiene cerca de su máximo nominal",
+    "slug": "el-dolar-se-da-vuelta-y-cae-pero-se-mantiene-cerca-de-su-max",
     "category": "economia",
     "date": "2026-07-13",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-12-julio-n6298543",
+    "summary": "El mayorista regresó a su último máximo nomina.  El mercado prevé un sendero de ajuste gradual, condicionado por la oferta del agro, la demanda de cobertura y la estrategia del BCRA para acumular reservas.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-retoma-operaciones-el-fin-semana-largo-y-el-minorista-se-mantiene-encima-los-1500-n6298759",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -110,12 +189,28 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 12 de julio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-12-de-julio",
+    "title": "El riesgo país se mantiene arriba de los 400 puntos, mientras los ADRs caen hasta 4% de la mano de los bancos",
+    "slug": "el-riesgo-pais-se-mantiene-arriba-de-los-400-puntos-mientras",
     "category": "economia",
     "date": "2026-07-13",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-12-julio-n6298544",
+    "summary": "Los títulos soberanos retroceden luego del desembolso de unos u$s2. 500 millones en intereses, en una rueda de escaso volumen tras el fin de semana largo.",
+    "link": "https://www.ambito.com/finanzas/bonos-dolares-operan-leves-bajas-el-pago-cupones-n6298865",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: qué herramientas tiene el Banco Central para contener la presión alcista",
+    "slug": "dolar-que-herramientas-tiene-el-banco-central-para-contener-",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El tipo de cambio mayorista se encuentra en máximos nominales pero el BCRA no tiene disponible la herramienta que le permite intervenir vendiendo divisas.  Sin embargo, la entidad monetaria cuenta con un arsenal de otras opciones contener el TC.",
+    "link": "https://www.ambito.com/finanzas/dolar-que-herramientas-tiene-el-banco-central-contener-la-presion-alcista-n6298880",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -126,34 +221,339 @@
     "related": []
   },
   {
-    "title": "La faena de vacas tuvo el peor primer semestre de la última década pero el peso promedio tocó un máximo histórico",
-    "slug": "la-faena-de-vacas-tuvo-el-peor-primer-semestre-de-la-ultima-",
+    "title": "Precio del euro hoy en Bolivia: cotización de cierre del 13 de julio",
+    "slug": "precio-del-euro-hoy-en-bolivia-cotizacion-de-cierre-del-13-d",
     "category": "economia",
     "date": "2026-07-13",
-    "summary": "El fuerte incentivo económico para agregar kilos antes de la terminación y el creciente protagonismo del engorde a corral explican ese desplazamiento de la oferta hacia la segunda",
-    "link": "https://www.infobae.com/economia/2026/07/13/la-faena-de-vacas-tuvo-el-peor-primer-semestre-de-la-ultima-decada-pero-el-peso-promedio-toco-un-maximo-historico/",
+    "summary": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos de la sesión",
+    "link": "https://www.infobae.com/noticias/2026/07/13/precio-del-euro-hoy-en-bolivia-cotizacion-de-cierre-del-13-de-julio/",
     "source": "Infobae",
     "tags": [
       "economía",
-      "argentina",
-      "peso"
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "La City calcula fuerte ganancia en dólares para bonos argentinos tras caída del riesgo país",
-    "slug": "la-city-calcula-fuerte-ganancia-en-dolares-para-bonos-argent",
+    "title": "Se reactiva el ingreso de camiones a la terminal del Puerto de Montevideo",
+    "slug": "se-reactiva-el-ingreso-de-camiones-a-la-terminal-del-puerto-",
     "category": "economia",
     "date": "2026-07-13",
-    "summary": "Las valuaciones de los activos argentinos repuntan y analistas anticipan un ciclo de ganancias en títulos públicos si persiste la tendencia actual (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459408-la-city-preve-fuerte-ganancia-en-dolares-para-bonos-argentinos-tras-nueva-caida-del-riesgo-pais",
+    "summary": "",
+    "link": "https://www.infobae.com/america/agencias/2026/07/13/se-reactiva-el-ingreso-de-camiones-a-la-terminal-del-puerto-de-montevideo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Qué sueldo cobra un empleado de McDonald’s, Burger King y Starbucks en julio",
+    "slug": "que-sueldo-cobra-un-empleado-de-mcdonalds-burger-king-y-star",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El gremio anunció el salario establecido y comienza a aplicarse una nueva suba para el trimestre agosto-octubre, con porcentajes y sumas no remunerativas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/459843-que-sueldo-cobra-empleado-mcdonalds-burger-king-y-starbucks-julio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Fue un peso pesado del BCRA y alerta que el resultado del plan Caputo por ahora es decepcionante",
+    "slug": "fue-un-peso-pesado-del-bcra-y-alerta-que-el-resultado-del-pl",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Un reconocido economista alerta por falta de señales positivas en inversión y empleo pese a los avances en control de precios y dólar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/459438-un-ex-peso-pesado-del-bcra-alerta-que-el-resultado-del-plan-caputo-por-ahora-decepciona",
     "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "dólar",
-      "bonos"
+      "peso",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bróker de la City revela su plan para invertir $1 millón en 11 acciones de empresas argentinas",
+    "slug": "broker-de-la-city-revela-su-plan-para-invertir-1-millon-en-1",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Una sociedad de bolsa armó su cartera de acciones argentinas para julio, con fuerte peso en energía, bancos y papeles rezagados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459238-broker-de-la-city-revela-su-plan-para-invertir-1-millon-de-pesos-en-11-acciones-argentinas",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Panorama Financiero | Bajar más la inflación o mover el consumo, el dilema del Gobierno",
+    "slug": "panorama-financiero-bajar-mas-la-inflacion-o-mover-el-consum",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Wall Street pide más impulso al consumo, pero Milei prioriza bajar la inflación mientras el riesgo país mejora y persisten riesgos externos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459833-panorama-financiero-13-julio-2026-bajar-mas-inflacion-o-mover-consumo-el-dilema-gobierno-milei",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ranking actualizado de bancos para plazos fijos en julio 2026",
+    "slug": "ranking-actualizado-de-bancos-para-plazos-fijos-en-julio-202",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Enterate qué entidades, públicas y privadas, pagan más por tus ahorros en pesos tras la última actualización del Banco Central.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/459846-ranking-actualizado-de-bancos-para-plazos-fijos-en-julio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Milei endurece el ajuste monetario y desafía a quienes le piden emitir más pesos",
+    "slug": "milei-endurece-el-ajuste-monetario-y-desafia-a-quienes-le-pi",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Ante reclamos de varios sectores por alternativas financieras, la autoridad monetaria sostiene límites estrictos para contener la inflación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/459835-milei-mantiene-postura-monetaria-dura-pone-alerta-ahorristas-empresas-julio-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Se disparó la polémica por el buque de guerra británico que navegó aguas argentinas de forma ilegal",
+    "slug": "se-disparo-la-polemica-por-el-buque-de-guerra-britanico-que-",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El buque HMS Medway navegó cerca de Santa Cruz y Tierra del Fuego, para luego adentrarse en el estrecho de Magallanes, sin permiso y violando tratados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/negocios/459826-crece-polemica-por-el-buque-de-guerra-britanico-que-navego-mar-argentino-de-forma-ilegal",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El precio que no debe superar el dólar para que el carry trade siga siendo negocio",
+    "slug": "el-precio-que-no-debe-superar-el-dolar-para-que-el-carry-tra",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El carry trade quedó bajo presión tras el salto cambiario y la City ya mira qué dólar vuelve incómodos a los bonos en pesos a tasa fija (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459423-el-precio-que-no-debe-superar-el-dolar-para-que-el-carry-trade-siga-siendo-negocio",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La deuda detrás del delivery: por qué cada vez más repartidores piden créditos a las apps",
+    "slug": "la-deuda-detras-del-delivery-por-que-cada-vez-mas-repartidor",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Los préstamos digitales crecieron entre repartidores que no acceden al banco, pero abren un debate por el nivel de endeudamiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459830-por-que-cada-vez-mas-repartidores-piden-creditos-a-las-apps-de-delivery",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Argentina e Inglaterra juegan un clásico con historia y las apuestas ya eligieron al favorito",
+    "slug": "argentina-e-inglaterra-juegan-un-clasico-con-historia-y-las-",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El partido por el pase a la final de la Copa del Mundo 2026 tiene un atractivo muy particular, que para muchos supera las cuestiones futbolísticas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/actualidad/459842-argentina-e-inglaterra-juegan-un-clasico-con-historia-y-las-apuestas-eligieron-al-favorito",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ya está reglamentada la ley que permitirá refinanciar deudas de consumo en la Ciudad",
+    "slug": "ya-esta-reglamentada-la-ley-que-permitira-refinanciar-deudas",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "El nuevo régimen porteño brinda la opción de reestructurar obligaciones financieras atrasadas y facilita el acceso a mejores condiciones de pago (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459840-caba-reglamento-programa-desendeudamiento-familiar-consumo-requisitos",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El regreso de los ataques entre EE.UU. e Irán cambia el rumbo de los mercados globales",
+    "slug": "el-regreso-de-los-ataques-entre-eeuu-e-iran-cambia-el-rumbo-",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Wall Street arranca en rojo por la nueva tensión entre Estados Unidos e Irán, mientras el petróleo vuelve a subir por la crisis en Medio Oriente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459823-la-tension-entre-eeuu-e-iran-sacude-los-mercados-y-dispara-el-precio-del-petroleo",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La nueva Google Finance ya está lista y ahora te ayuda a entender tus inversiones",
+    "slug": "la-nueva-google-finance-ya-esta-lista-y-ahora-te-ayuda-a-ent",
+    "category": "economia",
+    "date": "2026-07-13",
+    "summary": "Con esta renovación, Google vuelve a meterse en una zona donde se mezclan información, ahorro, tecnología móvil e inteligencia artificial.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/tecnologia/459091-google-finance-sale-del-laboratorio-con-ia-carteras-y-una-aplicacion-para-invertir-mejor",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los mercados de predicciones abren un debate sobre rebajas fiscales para apostadores del Mundial 2026",
+    "slug": "los-mercados-de-predicciones-abren-un-debate-sobre-rebajas-f",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia El uso de contratos de eventos para apostar en el Mundial 2026 podría ofrecer menores impuestos que las casas de apuestas deportivas.  La entrada Los mercados de predicciones abren un debate sobre rebajas fiscales para apostadores del Mundial 2026 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/los-mercados-de-predicciones-abren-un-debate-sobre-rebajas-fiscales-para-apostadores-del-mundial-2026/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El precio del petróleo sube tras la escalada de ataques entre EE. UU. e Irán en el estrecho de Ormuz",
+    "slug": "el-precio-del-petroleo-sube-tras-la-escalada-de-ataques-entr",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia La pugna violenta entre Estados Unidos e Irán por el control del estrecho de Ormuz continúa y provoca un repunte del petróleo.  La entrada El precio del petróleo sube tras la escalada de ataques entre EE.",
+    "link": "https://criptotendencia.com/2026/07/13/el-precio-del-petroleo-sube-tras-la-escalada-de-ataques-entre-ee-uu-e-iran-en-el-estrecho-de-ormuz/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Merz presiona a China por el yuan y agita el tablero del Forex",
+    "slug": "merz-presiona-a-china-por-el-yuan-y-agita-el-tablero-del-for",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia Merz exige a China dejar flotar el yuan y el Forex toma nota: el USD/CNY cae 3,09% en 2026, pero el reclamo europeo apunta al régimen, no al precio.  La entrada Merz presiona a China por el yuan y agita el tablero del Forex se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/merz-presiona-a-china-por-el-yuan-y-agita-el-tablero-del-forex/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gibraltar lanza el primer marco regulatorio del mundo para mercados de predicción",
+    "slug": "gibraltar-lanza-el-primer-marco-regulatorio-del-mundo-para-m",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia Gibraltar publica el primer régimen dedicado a mercados de predicción, con dos licencias en marcha y reglas contra la manipulación.  La entrada Gibraltar lanza el primer marco regulatorio del mundo para mercados de predicción se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/gibraltar-lanza-el-primer-marco-regulatorio-del-mundo-para-mercados-de-prediccion/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El banco más antiguo de Tailandia lanza BankX, su apuesta virtual impulsada por IA",
+    "slug": "el-banco-mas-antiguo-de-tailandia-lanza-bankx-su-apuesta-vir",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia SCB X prepara BankX, un banco virtual con IA que busca 3 millones de prestatarios en Tailandia junto a KakaoBank y WeBank.  La entrada El banco más antiguo de Tailandia lanza BankX, su apuesta virtual impulsada por IA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/el-banco-mas-antiguo-de-tailandia-lanza-bankx-su-apuesta-virtual-impulsada-por-ia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Kalshi lanza Kalshi Pro, su terminal para traders de alto volumen",
+    "slug": "kalshi-lanza-kalshi-pro-su-terminal-para-traders-de-alto-vol",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia Kalshi presenta su nueva plataforma en beta para traders activos, con feed de operaciones en vivo, libros de órdenes y herramientas para perpetuos.  La entrada Kalshi lanza Kalshi Pro, su terminal para traders de alto volumen se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/kalshi-lanza-kalshi-pro-su-terminal-para-traders-de-alto-volumen/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "BIP-110 llega a su hora de la verdad con menos del 1% de apoyo minero",
+    "slug": "bip-110-llega-a-su-hora-de-la-verdad-con-menos-del-1-de-apoy",
+    "category": "cripto",
+    "date": "2026-07-13",
+    "summary": "CriptoTendencia BIP-110 usa un soft fork activado por usuarios con umbral del 55%, pero la señalización minera nunca superó el 1% a semanas del deadline.  La entrada BIP-110 llega a su hora de la verdad con menos del 1% de apoyo minero se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/13/bip-110-llega-a-su-hora-de-la-verdad-con-menos-del-1-de-apoyo-minero/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -204,69 +604,6 @@
     "related": []
   },
   {
-    "title": "El dólar pierde terreno: su participación en las reservas globales cae al nivel más bajo del siglo",
-    "slug": "el-dolar-pierde-terreno-su-participacion-en-las-reservas-glo",
-    "category": "cripto",
-    "date": "2026-07-13",
-    "summary": "CriptoTendencia Los bancos centrales reducen su exposición al dólar a mínimos del siglo.  Análisis de una tendencia estructural que favorece al oro y a Bitcoin.",
-    "link": "https://criptotendencia.com/2026/07/13/el-dolar-pierde-terreno-su-participacion-en-las-reservas-globales-cae-al-nivel-mas-bajo-del-siglo/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Personaje de la Semana: Buffett, el niño de Omaha que compró su primera acción a los 11 años",
-    "slug": "el-personaje-de-la-semana-buffett-el-nino-de-omaha-que-compr",
-    "category": "cripto",
-    "date": "2026-07-13",
-    "summary": "CriptoTendencia Con el 76% de los votos, Warren Buffett es el nuevo Personaje de la Semana.  La saga arranca en Omaha: un niño de 11 años y su primera lección de paciencia.",
-    "link": "https://criptotendencia.com/2026/07/13/el-personaje-de-la-semana-buffett-el-nino-de-omaha-que-compro-su-primera-accion-a-los-11-anos/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Calendario económico: el Bitcoin enfrenta una nueva tanda de datos de enorme interés",
-    "slug": "calendario-economico-el-bitcoin-enfrenta-una-nueva-tanda-de-",
-    "category": "cripto",
-    "date": "2026-07-13",
-    "summary": "CriptoTendencia En esta edición del calendario económico se repasan los datos que podrían tener incidencia en el precio de Bitcoin en el corto plazo.  La entrada Calendario económico: el Bitcoin enfrenta una nueva tanda de datos de enorme interés se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/13/calendario-economico-el-bitcoin-enfrenta-una-nueva-tanda-de-datos-de-enorme-interes/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street espera un boom de ganancias sin precedentes y la brecha con la realidad nunca fue tan grande",
-    "slug": "wall-street-espera-un-boom-de-ganancias-sin-precedentes-y-la",
-    "category": "cripto",
-    "date": "2026-07-13",
-    "summary": "CriptoTendencia Las ganancias que Wall Street proyecta para el S&P 500 casi duplican el promedio real de la última década, una brecha récord que supera a la del 2000.  La entrada Wall Street espera un boom de ganancias sin precedentes y la brecha con la realidad nunca fue tan grande se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/13/wall-street-espera-un-boom-de-ganancias-sin-precedentes-y-la-brecha-con-la-realidad-nunca-fue-tan-grande/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Plazo fijo: cuánto debés invertir para obtener una ganancia de $75.000 en 30 días",
     "slug": "plazo-fijo-cuanto-debes-invertir-para-obtener-una-ganancia-d",
     "category": "economia",
@@ -277,284 +614,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La paradoja del crédito: mejora la macro, pero crece la morosidad",
-    "slug": "la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosi",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "La desaceleración de la inflación y la estabilidad cambiaria no alcanzan para revertir el deterioro en la capacidad de pago.  Bancos y fintech siguen de cerca la evolución de la mora.",
-    "link": "https://www.ambito.com/economia/la-paradoja-del-credito-mejora-la-macro-pero-crece-la-morosidad-n6298576",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Envejecimiento poblacional: desmienten un mito sobre su impacto en la economía",
-    "slug": "envejecimiento-poblacional-desmienten-un-mito-sobre-su-impac",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "A pesar de la caída de la natalidad en los últimos 70 años, se registró un aumento en el PBI por cápita.  Apuntan al efecto de la tecnología.",
-    "link": "https://www.ambito.com/economia/envejecimiento-poblacional-desmienten-un-mito-su-impacto-la-n6298525",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Goldman Sachs advierte que un dato de inflación por encima de lo esperado podría golpear a Wall Street",
-    "slug": "goldman-sachs-advierte-que-un-dato-de-inflacion-por-encima-d",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "El banco de inversión señaló que un IPC superior al previsto aumentaría las expectativas de nuevas subas de tasas de la Reserva Federal y presionaría a las acciones, pese a que esp",
-    "link": "https://www.ambito.com/finanzas/goldman-sachs-advierte-que-un-dato-inflacion-encima-lo-esperado-podria-golpear-wall-street-n6298631",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Mundial 2026: qué dicen las apuestas sobre las semifinales Francia vs España y Argentina vs Inglaterra y quién es el principal favorito al título",
-    "slug": "mundial-2026-que-dicen-las-apuestas-sobre-las-semifinales-fr",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "Francia lidera las proyecciones de las casas de apuestas para consagrarse campeona, aunque España, Inglaterra y Argentina llegan con chances muy similares.  Las semifinales prometen máxima paridad y podrían definirse por detalles.",
-    "link": "https://www.ambito.com/finanzas/mundial-2026-que-dicen-las-apuestas-las-semifinales-francia-vs-espana-y-argentina-vs-inglaterra-y-quien-es-el-principal-favorito-al-titulo-n6298624",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Argentina y un superávit comercial energético histórico para un primer semestre",
-    "slug": "la-argentina-y-un-superavit-comercial-energetico-historico-p",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "La balanza comercial energética de Argentina alcanzó el mayor superávit de la historia entre enero y junio, según aseguró la Bolsa de Comercio de Rosario (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/energia/459781-la-argentina-y-un-superavit-comercial-energetico-historico-para-un-primer-semestre",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La suba de precios de la energía por Guerra podría hacer subir hasta 2.5% la inflación anual",
-    "slug": "la-suba-de-precios-de-la-energia-por-guerra-podria-hacer-sub",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "Un informe de la Comisión Económica para América Latina y el Caribe (CEPAL) analiza tres posibles escenarios inflacionarios para los países de la región (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/459780-suba-de-precios-de-la-energia-por-guerra-podria-hacer-subir-hasta-2-5-la-inflacion-anual",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street pide soltar más plata para llegar a las elecciones con más consumo pero Milei dice no",
-    "slug": "wall-street-pide-soltar-mas-plata-para-llegar-a-las-eleccion",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "Mientras aumenta la presión internacional por medidas de alivio financiero, el oficialismo insiste en combatir la inflación sin soltar recursos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459749-el-pedido-de-wall-street-para-favorecer-un-pico-de-consumo-al-que-se-nego-milei",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ránking de sueldos: los 5 rubros donde se pide ganar más dinero",
-    "slug": "ranking-de-sueldos-los-5-rubros-donde-se-pide-ganar-mas-dine",
-    "category": "economia",
-    "date": "2026-07-12",
-    "summary": "Un informe privado revela las pretensiones de los argentinos al buscar trabajo y expone una brecha que ya supera los $2. 000.",
-    "link": "https://www.iprofesional.com/economia/459498-ranking-de-sueldos-los-5-rubros-donde-se-pide-ganar-mas-dinero",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El mercado de las stablecoins registra su mayor retroceso desde la crisis de Terra",
-    "slug": "el-mercado-de-las-stablecoins-registra-su-mayor-retroceso-de",
-    "category": "cripto",
-    "date": "2026-07-12",
-    "summary": "CriptoTendencia El mercado de las stablecoins pierde $10. 000 millones desde mayo y registra su mayor contracción mensual desde la crisis de Terra.",
-    "link": "https://criptotendencia.com/2026/07/12/el-mercado-de-las-stablecoins-registra-su-mayor-retroceso-desde-la-crisis-de-terra-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Semana clave: ¿qué esperar para el precio de Bitcoin?",
-    "slug": "semana-clave-que-esperar-para-el-precio-de-bitcoin",
-    "category": "cripto",
-    "date": "2026-07-12",
-    "summary": "CriptoTendencia Bitcoin se prepara para una semana clave marcada por inflación en EE.  UU.",
-    "link": "https://criptotendencia.com/2026/07/12/semana-clave-que-esperar-para-el-precio-de-bitcoin-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen de las 5 noticias más relevantes de la semana en la industria de minería de Bitcoin",
-    "slug": "resumen-de-las-5-noticias-mas-relevantes-de-la-semana-en-la-",
-    "category": "cripto",
-    "date": "2026-07-12",
-    "summary": "CriptoTendencia Repasa las 5 noticias más relevantes de la semana en la minería de Bitcoin, desde Bitdeer y MARA hasta Malasia y American Bitcoin.  La entrada Resumen de las 5 noticias más relevantes de la semana en la industria de minería de Bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/12/resumen-de-las-5-noticias-mas-relevantes-de-la-semana-en-la-industria-de-mineria-de-bitcoin-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Biromes y dulce de leche: qué sectores productivos omitió Javier Milei en su defensa a las importaciones",
-    "slug": "biromes-y-dulce-de-leche-que-sectores-productivos-omitio-jav",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "En su última entrevista, el Presidente de la Nación planteó que \"no tenemos muchas más cosas\" en la producción industrial.",
-    "link": "https://www.ambito.com/economia/biromes-y-dulce-leche-que-sectores-productivos-omitio-javier-milei-su-defensa-las-importaciones-n6298479",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Entre la baja de la inflación y la suba del dólar, ¿qué va a pasar con los precios?",
-    "slug": "entre-la-baja-de-la-inflacion-y-la-suba-del-dolar-que-va-a-p",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "El efecto internacional continúa siendo un imprevisto para la gestión económica, que aguarda por resultados positivos del IPC de junio.",
-    "link": "https://www.ambito.com/economia/entre-la-baja-la-inflacion-y-la-suba-del-dolar-que-va-pasar-los-precios-n6298468",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alarma entre los deliverys de aplicaciones por las deudas que registra el sector por préstamos",
-    "slug": "alarma-entre-los-deliverys-de-aplicaciones-por-las-deudas-qu",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "El sindicato que agremia a los repartidores advirtió la crítica situación que atraviesa buena parte de los trabajadores y pidió medidas del gobierno (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/actualidad/459755-alarma-entre-los-deliverys-de-apps-por-las-deudas-que-registra-el-sector-por-prestamos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bróker de la City revela su plan para invertir $1 millón en 11 acciones de empresas argentinas",
-    "slug": "broker-de-la-city-revela-su-plan-para-invertir-1-millon-en-1",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "Una sociedad de bolsa armó su cartera de acciones argentinas para julio, con fuerte peso en energía, bancos y papeles rezagados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459238-broker-de-la-city-revela-su-plan-para-invertir-1-millon-de-pesos-en-11-acciones-argentinas",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "JP Morgan incluyó a Intel entre sus recomendaciones de venta y cuestionó la expectativa del mercado",
-    "slug": "jp-morgan-incluyo-a-intel-entre-sus-recomendaciones-de-venta",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "JPMorgan incorpora a la empresa en su lista de sugerencias bajistas del trimestre, advirtiendo sobre expectativas no sustentadas por su desempeño (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459742-jp-morgan-intel-recomendacion-vender-acciones-recuperacion",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La IA eligió acciones argentinas para invertir y un conocido bróker de la City le toma examen",
-    "slug": "la-ia-eligio-acciones-argentinas-para-invertir-y-un-conocido",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "ChatGPT, Gemini y Claude eligieron cinco acciones argentinas para invertir y un informe de un poderoso broker de la City reveló cuánto podrían subir (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/459728-la-ia-eligio-acciones-argentinas-para-invertir-y-un-broker-de-la-city-le-toma-examen",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuál es el mejor bono para invertir hoy ante una mayor suba del dólar",
-    "slug": "cual-es-el-mejor-bono-para-invertir-hoy-ante-una-mayor-suba-",
-    "category": "economia",
-    "date": "2026-07-11",
-    "summary": "La liquidación de divisas sigue demorada mientras el agro espera señales.  Es momento de ser menos agresivos, pero un título promete mucho (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/459704-reservas-bcra-jaque-agro-retiene-dolares-disparar-inflacion",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
