@@ -436,7 +436,7 @@ function getFiatRatesMock() {
 }
 
 function pickCompraVenta(obj) {
-  return { compra: toNum(obj?.compra), venta: toNum(obj?.venta) };
+  return { compra: parseFloat(obj?.compra), venta: parseFloat(obj?.venta) };
 }
 
 function updateFiatUI(fiat, prevFiat) {
