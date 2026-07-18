@@ -1,5 +1,21 @@
 [
   {
+    "title": "La city celebra el dato de la inflación de junio, pero enciende luces amarillas sobre el frente fiscal",
+    "slug": "la-city-celebra-el-dato-de-la-inflacion-de-junio-pero-encien",
+    "category": "economia",
+    "date": "2026-07-18",
+    "summary": "Las principales consultoras coincidieron en que la desaceleración de los precios refuerza el proceso de desinflación.  No obstante, advirtieron por el incumplimiento de la meta fiscal con el FMI y señalaron que la elevada mora crediticia continúa siendo uno de los principales focos de preocupación.",
+    "link": "https://www.ambito.com/economia/la-city-celebra-el-dato-la-inflacion-junio-pero-enciende-luces-amarillas-el-frente-fiscal-n6300724",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Alerta por un \"Súper Niño\": el fenómeno climático podría alterar los dólares del agro, los commodities y la inflación",
     "slug": "alerta-por-un-super-nino-el-fenomeno-climatico-podria-altera",
     "category": "economia",
@@ -49,12 +65,27 @@
     "related": []
   },
   {
-    "title": "La india Skyroot lanza con éxito el primer cohete orbital privado del país",
-    "slug": "la-india-skyroot-lanza-con-exito-el-primer-cohete-orbital-pr",
+    "title": "Mercados: esperan que la desregulación impulse una ola de emisiones de acciones y ON en la Bolsa",
+    "slug": "mercados-esperan-que-la-desregulacion-impulse-una-ola-de-emi",
+    "category": "economia",
+    "date": "2026-07-18",
+    "summary": "La Comisión Nacional de Valores (CNV) estableció cambios para la emisión de títulos privados.  Los controles ahora se hacen luego de que los papeles salen al mercado.",
+    "link": "https://www.ambito.com/finanzas/mercados-esperan-que-la-desregulacion-impulse-una-ola-emisiones-acciones-y-on-la-bolsa-n6300867",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Diputada mexicana promueve iniciativa para sancionar amenazas a través de medios digitales",
+    "slug": "diputada-mexicana-promueve-iniciativa-para-sancionar-amenaza",
     "category": "economia",
     "date": "2026-07-18",
     "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/07/18/la-india-skyroot-lanza-con-exito-el-primer-cohete-orbital-privado-del-pais/",
+    "link": "https://www.infobae.com/america/agencias/2026/07/18/diputada-mexicana-promueve-iniciativa-para-sancionar-amenazas-a-traves-de-medios-digitales/",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -64,16 +95,18 @@
     "related": []
   },
   {
-    "title": "La final España-Argentina, en 11 números",
-    "slug": "la-final-espana-argentina-en-11-numeros",
+    "title": "El BCRA no para de comprar dólares, refuerza reservas y envía un contundente mensaje al mercado",
+    "slug": "el-bcra-no-para-de-comprar-dolares-refuerza-reservas-y-envia",
     "category": "economia",
     "date": "2026-07-18",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/07/18/la-final-espana-argentina-en-11-numeros/",
-    "source": "Infobae",
+    "summary": "Las reservas acumulan un saldo histórico mientras la plaza financiera evalúa si la tendencia es sostenible y qué impacto tendrá en la economía real (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460237-el-guru-de-la-city-explica-por-que-el-gobierno-tiene-controlado-el-tema-dolar",
+    "source": "iProfesional",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar",
+      "reservas"
     ],
     "featured": false,
     "related": []
@@ -89,6 +122,51 @@
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El mapa del poder de la IA ya está dibujado y casi nadie lo está mirando",
+    "slug": "el-mapa-del-poder-de-la-ia-ya-esta-dibujado-y-casi-nadie-lo-",
+    "category": "cripto",
+    "date": "2026-07-18",
+    "summary": "CriptoTendencia La ONU publicó las cifras de concentración de la IA y describen una estructura de poder que el mercado cripto ya conoce.  La entrada El mapa del poder de la IA ya está dibujado y casi nadie lo está mirando se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/18/el-mapa-del-poder-de-la-ia-ya-esta-dibujado-y-casi-nadie-lo-esta-mirando/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los cinco consejos de oro de los sefardíes para hacer dinero en el mercado cripto",
+    "slug": "los-cinco-consejos-de-oro-de-los-sefardies-para-hacer-dinero",
+    "category": "cripto",
+    "date": "2026-07-18",
+    "summary": "CriptoTendencia Un comerciante sefardí publicó en 1688 el primer libro de bolsa.  Cinco lecciones de aquella tradición financiera para invertir hoy en cripto.",
+    "link": "https://criptotendencia.com/2026/07/18/los-cinco-consejos-de-oro-de-los-sefardies-para-hacer-dinero-en-el-mercado-cripto/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cardano cede el control de su núcleo técnico a equipos externos",
+    "slug": "cardano-cede-el-control-de-su-nucleo-tecnico-a-equipos-exter",
+    "category": "cripto",
+    "date": "2026-07-18",
+    "summary": "CriptoTendencia Input Output transferirá el desarrollo central de Cardano a equipos independientes desde agosto, en plena caída de ADA y baja actividad de la red.  La entrada Cardano cede el control de su núcleo técnico a equipos externos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/18/cardano-cede-el-control-de-su-nucleo-tecnico-a-equipos-externos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -248,22 +326,6 @@
     "related": []
   },
   {
-    "title": "La inflación de la zona euro retrocedió un 0,1% mensual en junio y cumplió las expectativas del mercado",
-    "slug": "la-inflacion-de-la-zona-euro-retrocedio-un-01-mensual-en-jun",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "El dato de IPC se moderó en junio con una caída mensual del 0,1% y una suba interanual del 2,8%, impulsada por la desaceleración de los costos energéticos y de alimentos frescos.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-retrocedio-un-01-mensual-junio-y-cumplio-las-expectativas-del-mercado-n6300590",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Deuda: Economía lanzó un canje dólar linked y busca extender vencimientos por el equivalente a u$s4.000 millones",
     "slug": "deuda-economia-lanzo-un-canje-dolar-linked-y-busca-extender-",
     "category": "economia",
@@ -292,56 +354,6 @@
       "economía",
       "argentina",
       "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar: el BCRA completó su mejor semana de compras desde 2023 y ya superó los u$s1.400 millones en julio",
-    "slug": "dolar-el-bcra-completo-su-mejor-semana-de-compras-desde-2023",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "La autoridad monetaria cerró la semana con compras por u$s1. 154 millones y se quedó con una de las mayores proporciones del volumen operado en el año.",
-    "link": "https://www.ambito.com/finanzas/dolar-el-bcra-completo-su-mejor-semana-compras-2023-y-ya-supero-los-us1400-millones-julio-n6300850",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar blue subió $20 en la semana y la brecha con el oficial se ubicó en máximos desde junio",
-    "slug": "el-dolar-blue-subio-20-en-la-semana-y-la-brecha-con-el-ofici",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "El billete informal anotó su primer avance semanal en lo que va de julio y cerró por encima del minorista y el MEP.",
-    "link": "https://www.ambito.com/finanzas/el-dolar-blue-subio-20-la-semana-y-la-brecha-el-oficial-se-ubico-maximos-junio-n6300862",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 17 de junio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-17-junio-n6300562",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -390,36 +402,6 @@
       "economía",
       "argentina",
       "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Luis Caputo explicó por qué hubo déficit fiscal en junio",
-    "slug": "luis-caputo-explico-por-que-hubo-deficit-fiscal-en-junio",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "Pese a que el pago del medio aguinaldo influyó en las cuentas, el ministro de Economía hizo referencia a una medida oficial que causó impactó (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/460234-luis-caputo-explica-por-que-hubo-deficit-fiscal-junio-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Arden los pronósticos para la final de Argentina con España y esto predicen gurús y astrólogos",
-    "slug": "arden-los-pronosticos-para-la-final-de-argentina-con-espana-",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "El partido que definirá qué selección es la mejor del planeta en este momento disparó las predicciones en redes sociales.  Cómo le irá a la Scaloneta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/negocios/460226-arden-los-pronosticos-para-la-final-argentina-vs-espana-y-esto-predicen-gurus-y-astrologos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -531,68 +513,6 @@
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El director de Airbnb confirma el hackeo de su cuenta de X",
-    "slug": "el-director-de-airbnb-confirma-el-hackeo-de-su-cuenta-de-x",
-    "category": "cripto",
-    "date": "2026-07-17",
-    "summary": "CriptoTendencia Brian Chesky confirmó el hackeo de su cuenta de X tras la publicación de un falso hilo sobre tokenización y activos basados en blockchain.  La entrada El director de Airbnb confirma el hackeo de su cuenta de X se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/17/el-director-de-airbnb-confirma-el-hackeo-de-su-cuenta-de-x-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La foto de Messi con Lamine Yamal es real y esconde una historia mejor que la leyenda",
-    "slug": "la-foto-de-messi-con-lamine-yamal-es-real-y-esconde-una-hist",
-    "category": "cripto",
-    "date": "2026-07-17",
-    "summary": "CriptoTendencia UNICEF confirmó que la foto de Messi con Lamine Yamal es auténtica.  Su historia, y lo que revela sobre la era de la IA, es fascinante.",
-    "link": "https://criptotendencia.com/2026/07/17/la-foto-de-messi-con-lamine-yamal-es-real-y-esconde-una-historia-mejor-que-la-leyenda/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Mundial 2026 se despide con un par de partidos históricos",
-    "slug": "el-mundial-2026-se-despide-con-un-par-de-partidos-historicos",
-    "category": "cripto",
-    "date": "2026-07-17",
-    "summary": "CriptoTendencia El Mundial 2026 cierra con el tercer puesto y la final, mientras crece la tensión en los mercados de predicción.  La entrada El Mundial 2026 se despide con un par de partidos históricos se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/17/el-mundial-2026-se-despide-con-un-par-de-partidos-historicos-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Caputo va a fondo contra la inflación y el control del dólar será la estrategia número uno",
-    "slug": "caputo-va-a-fondo-contra-la-inflacion-y-el-control-del-dolar",
-    "category": "economia",
-    "date": "2026-07-16",
-    "summary": "Los datos alimentan el optimismo del oficialismo pero especialistas advierten riesgos en precios, salarios y la economía real de cara al futuro (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/459977-cual-sera-la-estrategia-numero-1-de-caputo-para-pulverizar-la-inflacion",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "inflación"
     ],
     "featured": false,
     "related": []
