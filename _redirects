@@ -1,2 +1,4 @@
 http://cotizaya.ar/* https://cotizaya.ar/:splat 301
 http://www.cotizaya.ar/* https://cotizaya.ar/:splat 301
+
+/noticia.html /noticia 301
