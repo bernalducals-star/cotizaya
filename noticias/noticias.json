@@ -1,5 +1,80 @@
 [
   {
+    "title": "Los salarios registrados cayeron en mayo y acumulan ocho bajas en los últimos nueve meses",
+    "slug": "los-salarios-registrados-cayeron-en-mayo-y-acumulan-ocho-baj",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Los haberes, entre públicos y privados, aumentaron 1,8% frente a una inflación de 2,1%.",
+    "link": "https://www.ambito.com/economia/los-salarios-registrados-cayeron-ocho-los-ultimos-nueve-meses-n6301656",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Privatizaciones: por qué el Gobierno busca acelerar los procesos y cuáles son los próximos pasos",
+    "slug": "privatizaciones-por-que-el-gobierno-busca-acelerar-los-proce",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "El Ministerio de Economía proyecta obtener u$s2. 300 millones entre 2026 y 2027 mediante la venta de activos estatales.",
+    "link": "https://www.ambito.com/economia/privatizaciones-que-el-gobierno-busca-acelerar-los-procesos-y-cuales-son-los-proximos-pasos-n6299768",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Auge de la importación en la carne: esperan que los ingresos se dupliquen en 2026",
+    "slug": "auge-de-la-importacion-en-la-carne-esperan-que-los-ingresos-",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Un cambio de matriz modifica los hábitos en el mercado de la carne: mayor importación a costos bajos con grandes ganancias para supermercados, mientras se exportan los cortes \"premium\", arbitrando los precios en las góndolas.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/auge-la-importacion-la-carne-esperan-que-los-ingresos-se-dupliquen-2026-n6301511",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El consumo de carne vacuna cayó más de 11% en el primer semestre de 2026 y las exportaciones ganan impulso",
+    "slug": "el-consumo-de-carne-vacuna-cayo-mas-de-11-en-el-primer-semes",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "La menor oferta de hacienda redujo la producción de carne durante la primera mitad del año, mientras las ventas al exterior crecieron más de 10%, impulsadas por la demanda de Estad",
+    "link": "https://www.ambito.com/economia/el-consumo-carne-vacuna-cayo-mas-11-el-primer-semestre-2026-y-las-exportaciones-ganan-impulso-n6301456",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Gobierno actualizó el régimen para calcular aportes sobre salarios de convenios colectivos",
+    "slug": "el-gobierno-actualizo-el-regimen-para-calcular-aportes-sobre",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "A través de un decreto publicado este lunes en el Boletín Oficial, el Poder Ejecutivo precisó qué conceptos integran la base de cálculo para los aportes y contribuciones previstos",
+    "link": "https://www.ambito.com/economia/el-gobierno-actualizo-el-regimen-calcular-aportes-salarios-convenios-colectivos-n6301399",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "ARCA volvió a prorrogar el Impuesto a las Ganancias: extienden el plazo para presentar la declaración jurada: hasta cuándo y cómo presentarla",
     "slug": "arca-volvio-a-prorrogar-el-impuesto-a-las-ganancias-extiende",
     "category": "economia",
@@ -31,17 +106,32 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 20 de julio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-20-de-julio",
+    "title": "El dólar oficial anotó su cuarta suba al hilo y volvió a superar los $1.480",
+    "slug": "el-dolar-oficial-anoto-su-cuarta-suba-al-hilo-y-volvio-a-sup",
     "category": "economia",
     "date": "2026-07-20",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-20-julio-n6301376",
+    "summary": "El tipo de cambio mayorista subió $3 a $1. 481 tras el retroceso de la semana pasada.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-minorista-se-sostiene-arriba-1500-una-baja-semanal-y-el-mercado-analiza-posibles-catalizadores-n6301422",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street inicia la semana con tendencia positiva ante repunte de las acciones de semiconductores",
+    "slug": "wall-street-inicia-la-semana-con-tendencia-positiva-ante-rep",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Los inversores ponen el foco en los resultados de Alphabet, Tesla e Intel, que serán clave para medir el futuro del boom de la inteligencia artificial.",
+    "link": "https://www.ambito.com/finanzas/el-petroleo-roza-los-us90-nuevos-ataques-medio-oriente-y-wall-street-espera-los-balances-las-tecnologicas-n6301411",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -63,12 +153,28 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este lunes 20 de julio",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-lunes-20-de-ju",
+    "title": "Dólar blue hoy: a cuánto opera este lunes 20 de julio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-20-de-julio",
     "category": "economia",
     "date": "2026-07-20",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-lunes-20-julio-n6301295",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-20-julio-n6301376",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Alphabet da un salto en la bolsa motivado por nuevo chip de inteligencia artificial",
+    "slug": "alphabet-da-un-salto-en-la-bolsa-motivado-por-nuevo-chip-de-",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "El desarrollo de Frozen v2 para ejecutar su familia de modelos Gemini explica una parte significativa del crecimiento y las proyecciones de la empresa.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/finanzas/alphabet-da-un-salto-la-bolsa-motivado-nuevo-chip-inteligencia-artificial-n6301623",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -78,48 +184,157 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 19 de julio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-19-de-julio",
+    "title": "Nuevo tablero de inversiones: qué Cedears recomienda la city ante la escalada del conflicto en Medio Oriente",
+    "slug": "nuevo-tablero-de-inversiones-que-cedears-recomienda-la-city-",
     "category": "economia",
     "date": "2026-07-20",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-19-julio-n6301154",
+    "summary": "La guerra se reaviva y las carteras reflejan las preocupaciones.  El mercado se enfoca en algunos Cedears en particular para proteger sus patrimonios.",
+    "link": "https://www.ambito.com/finanzas/nuevo-tablero-inversiones-que-cedears-recomienda-la-city-la-escalada-del-conflicto-medio-oriente-n6301217",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
-      "argentina",
-      "dólar"
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 19 de julio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-19-de-julio",
-    "category": "economia",
-    "date": "2026-07-20",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-19-julio-n6301155",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Exteriores cree que España debe adoptar una política \"más activa\" para reforzar su presencia internacional",
-    "slug": "exteriores-cree-que-espana-debe-adoptar-una-politica-mas-act",
+    "title": "Acuerdo UE-Mercosur aumenta el comercio de Uruguay \"en millones de dólares\"",
+    "slug": "acuerdo-ue-mercosur-aumenta-el-comercio-de-uruguay-en-millon",
     "category": "economia",
     "date": "2026-07-20",
     "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/07/20/exteriores-cree-que-espana-debe-adoptar-una-politica-mas-activa-para-reforzar-su-presencia-internacional/",
+    "link": "https://www.infobae.com/america/agencias/2026/07/20/acuerdo-ue-mercosur-aumenta-el-comercio-de-uruguay-en-millones-de-dolares/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Precio del euro hoy en República Dominicana: cotización de cierre del 20 de julio",
+    "slug": "precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-ci",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos del día",
+    "link": "https://www.infobae.com/noticias/2026/07/20/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-20-de-julio/",
     "source": "Infobae",
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Precio del dólar hoy en Bolivia: cotización de cierre del 20 de julio",
+    "slug": "precio-del-dolar-hoy-en-bolivia-cotizacion-de-cierre-del-20-",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Este fue el comportamiento de la divisa estadounidense durante los últimos minutos de la sesión",
+    "link": "https://www.infobae.com/noticias/2026/07/20/precio-del-dolar-hoy-en-bolivia-cotizacion-de-cierre-del-20-de-julio/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Importante bodega de San Juan está en crisis con 380 cheques sin fondos y deuda de $680 millones",
+    "slug": "importante-bodega-de-san-juan-esta-en-crisis-con-380-cheques",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "La situación de la empresa comenzó a complicarse fuertemente a partir de la primera parte de 2026.  Se une a los casos de las bodegas Bianchi y Norton (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/vinos/459926-importante-bodega-de-san-juan-en-crisis-con-380-cheques-rebotados-y-deuda-de-680-millones-de-pesos",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los depósitos en dólares alcanzan récord en 26 años y Caputo quiere que revitalicen la economía",
+    "slug": "los-depositos-en-dolares-alcanzan-record-en-26-anos-y-caputo",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Superaron los u$s40. 000 millones y los bancos tienen una liquidez histórica para dar préstamos.",
+    "link": "https://www.iprofesional.com/finanzas/460251-depositos-en-dolares-son-record-en-26-anos-y-caputo-apuesta-a-que-revitalicen-la-economia",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "YPF despliega una masiva búsqueda laboral para sostener su crecimiento",
+    "slug": "ypf-despliega-una-masiva-busqueda-laboral-para-sostener-su-c",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "YPF impulsa su crecimiento en Vaca Muerta con récords de producción y abre una masiva búsqueda laboral para potenciar toda su cadena de produccion interna (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/energia/460361-ypf-despliega-una-masiva-busqueda-laboral-para-sostener-su-crecimiento",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Panorama Financiero | Hay dólares en los bancos, pero falta que lleguen a la economía",
+    "slug": "panorama-financiero-hay-dolares-en-los-bancos-pero-falta-que",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Los depósitos superan los u$s40. 000 millones, pero unos u$s17.",
+    "link": "https://www.iprofesional.com/finanzas/460366-panorama-financiero-20-julio-2026-hay-dolares-en-bancos-pero-falta-que-lleguen-a-la-economia",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuánto debería rendir un plazo fijo tradicional por mes para no perder plata",
+    "slug": "cuanto-deberia-rendir-un-plazo-fijo-tradicional-por-mes-para",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "La renta de los depósitos en pesos sigue perdiendo frente a la inflación, pese a la inercia bajista de los precios de la economía.  Cuánto debería pagar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460165-cuanto-deberia-rendir-un-plazo-fijo-tradicional-por-mes-para-no-perder-plata",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Inversores subidos al carry trade respiran por caída del dólar pero la City lanza una advertencia",
+    "slug": "inversores-subidos-al-carry-trade-respiran-por-caida-del-dol",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "La reciente baja del dólar les dio revancha a quienes ya estaban en pesos pero aumenta el riesgo para ahorristas que buscan hacer negocio en este momento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/459985-la-city-lanza-advertencia-a-inversores-que-quieran-hacer-carry-trade-tras-baja-del-dolar",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -131,12 +346,135 @@
     "date": "2026-07-20",
     "summary": "La decisión de una importante calificadora podría impulsar ganancias en títulos soberanos, fortalecer bancos y recortar el riesgo país argentino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/460329-bonos-en-dolares-saltarian-hasta-un-7-por-ciento-si-calificadora-le-mejora-la-nota-a-argentina",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar",
       "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bancos amplían alternativas para refinanciar deudas y estas son las claves para reordenar cuentas",
+    "slug": "bancos-amplian-alternativas-para-refinanciar-deudas-y-estas-",
+    "category": "economia",
+    "date": "2026-07-20",
+    "summary": "Frente a las dificultades para cumplir con las cuotas, entidades bancarias refuerzan esquemas de refinanciación y facilidades para deudores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460196-bancos-ofrecen-salidas-emergencia-familias-morosidad-julio-2026",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Disney usa IA en sus parques, pero no donde creés",
+    "slug": "disney-usa-ia-en-sus-parques-pero-no-donde-crees",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia La IA de Disney está en robots que aprenden a caminar, en la previsión de turnos del personal y en prototipos que aún no salen del laboratorio.  La entrada Disney usa IA en sus parques, pero no donde creés se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/20/disney-usa-ia-en-sus-parques-pero-no-donde-crees/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vitalik Buterin puso una IA a decidir qué es inmoral en su tablón anónimo",
+    "slug": "vitalik-buterin-puso-una-ia-a-decidir-que-es-inmoral-en-su-t",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia Un daemon LLM evalúa cada mensaje contra una política on-chain y aplica penalizaciones económicas en el experimento de Buterin sobre Aztec.  La entrada Vitalik Buterin puso una IA a decidir qué es inmoral en su tablón anónimo se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/20/vitalik-buterin-puso-una-ia-a-decidir-que-es-inmoral-en-su-tablon-anonimo/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy vende 263,5 millones en acciones MSTR y refuerza su reserva en dólares",
+    "slug": "strategy-vende-2635-millones-en-acciones-mstr-y-refuerza-su-",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia La firma de Saylor sumó 225 millones a su caja en dólares mientras congela compras de Bitcoin y acumula 9. 000 millones en pérdidas latentes.",
+    "link": "https://criptotendencia.com/2026/07/20/strategy-vende-2635-millones-en-acciones-mstr-y-refuerza-su-reserva-en-dolares/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuánto vale realmente el oro guardado en casa",
+    "slug": "cuanto-vale-realmente-el-oro-guardado-en-casa",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia Antes de vender oro heredado conviene saber tres cosas: el spot, el quilataje real y el margen del comprador.  La entrada Cuánto vale realmente el oro guardado en casa se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/20/cuanto-vale-realmente-el-oro-guardado-en-casa/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El mercado lee la guerra como inflación, no como refugio",
+    "slug": "el-mercado-lee-la-guerra-como-inflacion-no-como-refugio",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia El petróleo sube, el oro cae y el euro ignora al BCE.  Tres movimientos, una sola causa: el mercado descuenta tasas más altas.",
+    "link": "https://criptotendencia.com/2026/07/20/el-mercado-lee-la-guerra-como-inflacion-no-como-refugio/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Hyperliquid abrirá el despliegue de mercados de predicción a cualquier usuario",
+    "slug": "hyperliquid-abrira-el-despliegue-de-mercados-de-prediccion-a",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia Hyperliquid habilitará el despliegue permissionless de mercados de predicción HIP-4, con plantillas votadas por validadores y un stake exigido de 500. 000 HYPE.",
+    "link": "https://criptotendencia.com/2026/07/20/hyperliquid-abrira-el-despliegue-de-mercados-de-prediccion-a-cualquier-usuario/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¡Sin broche de oro!: un apostador de Polymarket perdió $1.2 millones tras la final del Mundial 2026",
+    "slug": "sin-broche-de-oro-un-apostador-de-polymarket-perdio-12-millo",
+    "category": "cripto",
+    "date": "2026-07-20",
+    "summary": "CriptoTendencia La derrota de Argentina en la final del Mundial 2026 generó tristeza para muchos, sobre todo para un operador de Polymarket.  La entrada ¡Sin broche de oro!",
+    "link": "https://criptotendencia.com/2026/07/20/sin-broche-de-oro-un-apostador-de-polymarket-perdio-1-2-millones-tras-la-final-del-mundial-2026/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -187,261 +525,16 @@
     "related": []
   },
   {
-    "title": "El Brent supera los 90 dólares y el mercado ya mira hacia septiembre",
-    "slug": "el-brent-supera-los-90-dolares-y-el-mercado-ya-mira-hacia-se",
-    "category": "cripto",
-    "date": "2026-07-20",
-    "summary": "CriptoTendencia El crudo supera los 90 dólares por la escalada en Ormuz y la tesis de inventarios ajustados apunta a septiembre como punto de tensión.  La entrada El Brent supera los 90 dólares y el mercado ya mira hacia septiembre se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/20/el-brent-supera-los-90-dolares-y-el-mercado-ya-mira-hacia-septiembre/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "BNB Chain supera a Ethereum y domina el fondo tokenizado de Franklin Templeton",
-    "slug": "bnb-chain-supera-a-ethereum-y-domina-el-fondo-tokenizado-de-",
-    "category": "cripto",
-    "date": "2026-07-20",
-    "summary": "CriptoTendencia Franklin Templeton concentra $1. 500 millones en BNB Chain y refuerza su apuesta por los activos tokenizados.",
-    "link": "https://criptotendencia.com/2026/07/20/bnb-chain-supera-a-ethereum-y-domina-el-fondo-tokenizado-de-franklin-templeton-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar \"adolescente\": cómo abrir una cuenta para que empiecen a ahorrar desde los 13 años",
-    "slug": "dolar-adolescente-como-abrir-una-cuenta-para-que-empiecen-a-",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "Muchas familias están empezando a adoptar esta alternativa porque permite acceder a una herramienta financiera con varias opciones de uso.",
-    "link": "https://www.ambito.com/economia/dolar-adolescente-como-abrir-una-cuenta-que-empiecen-ahorrar-los-13-anos-n6300622",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Final del Mundial 2026: cuánto cuesta conseguir una entrada para Argentina-España a horas del partido",
-    "slug": "final-del-mundial-2026-cuanto-cuesta-conseguir-una-entrada-p",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "La enorme demanda por la definición entre Argentina y España elevó el valor de las entradas en las principales plataformas de reventa.",
-    "link": "https://www.ambito.com/economia/final-del-mundial-2026-cuanto-cuesta-conseguir-una-entrada-argentina-espana-horas-del-partido-n6301251",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La AIE encendió una alarma por el estrecho de Ormuz: el bloqueo amenaza con reactivar la crisis energética global",
-    "slug": "la-aie-encendio-una-alarma-por-el-estrecho-de-ormuz-el-bloqu",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "El organismo sostuvo que una interrupción prolongada del tránsito por el principal corredor petrolero del mundo podría afectar el suministro energético, impulsar los precios del cr",
-    "link": "https://www.ambito.com/economia/la-aie-encendio-una-alarma-el-estrecho-ormuz-el-bloqueo-amenaza-reactivar-la-crisis-energetica-global-n6301239",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El día después de la final del Mundial 2026: Javier Milei apuesta a relanzar su agenda económica con reformas y baja del riesgo país",
-    "slug": "el-dia-despues-de-la-final-del-mundial-2026-javier-milei-apu",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "El Gobierno buscará aprovechar el cambio de clima político tras la Copa del Mundo para impulsar la reforma de la Carta Orgánica del Banco Central, avanzar con la ley de Inocencia F",
-    "link": "https://www.ambito.com/economia/el-dia-despues-la-final-del-mundial-2026-javier-milei-apuesta-relanzar-su-agenda-economica-reformas-y-baja-del-riesgo-pais-n6301234",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Mundial 2026: qué dicen las apuestas sobre la final Argentina vs España y quién es el principal favorito para ser campeón",
-    "slug": "mundial-2026-que-dicen-las-apuestas-sobre-la-final-argentina",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "La Selección buscará este domingo el bicampeonato del mundo frente a España en el MetLife Stadium.  Las casas de apuestas y los principales modelos de inteligencia artificial inclinan la balanza hacia el conjunto español, aunque destacan que la experiencia argentina y el liderazgo de Lionel Messi mantienen abierta la definición.",
-    "link": "https://www.ambito.com/economia/mundial-2026-que-dicen-las-apuestas-la-final-argentina-vs-espana-y-quien-es-el-principal-favorito-ser-campeon-n6301229",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las exportaciones de crudo del Golfo Pérsico se disparan pese a la guerra en el estrecho de Ormuz",
-    "slug": "las-exportaciones-de-crudo-del-golfo-persico-se-disparan-pes",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "Los principales productores de la región aceleraron las exportaciones de crudo en la primera mitad de julio para aprovechar la reapertura de rutas marítimas, aunque el recrudecimie",
-    "link": "https://www.ambito.com/economia/las-exportaciones-crudo-del-golfo-persico-se-disparan-pese-la-guerra-el-estrecho-ormuz-n6301214",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en julio: cuánto ganás si depositás $800.000 a 30 días con las tasas actuales",
-    "slug": "plazo-fijo-en-julio-cuanto-ganas-si-depositas-800000-a-30-di",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "La calculadora oficial del Banco Nación muestra que operar online rinde mejor, con un rendimiento superior y mayor beneficio a lo largo del mes.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-julio-cuanto-ganas-si-depositas-800000-30-dias-las-tasas-actuales-n6300717",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La final del Mundial 2026 impulsó un gasto récord: los argentinos desembolsaron hasta u$s58 millones",
-    "slug": "la-final-del-mundial-2026-impulso-un-gasto-record-los-argent",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "Un informe privado calcula que entre 3. 000 y 5.",
-    "link": "https://www.ambito.com/finanzas/la-final-del-mundial-2026-impulso-un-gasto-record-los-argentinos-desembolsaron-us58-millones-n6301271",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El sueldo de un playero de YPF en agosto 2026",
-    "slug": "el-sueldo-de-un-playero-de-ypf-en-agosto-2026",
-    "category": "economia",
-    "date": "2026-07-19",
-    "summary": "Los empleados de estaciones de servicio cobran el último aumento previsto en su paritaria.  La escala salarial completa que se cobra en agosto (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/management/460199-cuanto-cobra-un-playero-de-ypf-en-agosto-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Bitcoin arrasó en la primera quincena de julio, pero sigue siendo de las peores inversiones del año",
     "slug": "bitcoin-arraso-en-la-primera-quincena-de-julio-pero-sigue-si",
     "category": "economia",
     "date": "2026-07-19",
     "summary": "La primera parte del mes dejó sopresas para los ahorristas que optaron por dólar, plazo fijo, acciones, Bitcoin u oro.  En qué invertir ahora (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/460245-cual-es-la-inversion-ganadora-de-la-primera-quincena-julio-2026-y-como-quedo-el-ranking",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Corea del Sur enfrenta una bomba de tiempo financiera que podría sacudir su mercado bursátil",
-    "slug": "corea-del-sur-enfrenta-una-bomba-de-tiempo-financiera-que-po",
-    "category": "cripto",
-    "date": "2026-07-19",
-    "summary": "CriptoTendencia La deuda de margen alcanza un récord en Corea del Sur y aumenta el riesgo de liquidaciones en su mercado bursátil.  La entrada Corea del Sur enfrenta una bomba de tiempo financiera que podría sacudir su mercado bursátil se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/19/corea-del-sur-enfrenta-una-bomba-de-tiempo-financiera-que-podria-sacudir-su-mercado-bursatil-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen: lo más destacado esta semana en el sector de minería de Bitcoin",
-    "slug": "resumen-lo-mas-destacado-esta-semana-en-el-sector-de-mineria",
-    "category": "cripto",
-    "date": "2026-07-19",
-    "summary": "CriptoTendencia Repaso semanal sobre minería de Bitcoin, dificultad, reservas de BTC, producción minera, acuerdos de IA y obstáculos regulatorios.  La entrada Resumen: lo más destacado esta semana en el sector de minería de Bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/19/resumen-lo-mas-destacado-esta-semana-en-el-sector-de-mineria-de-bitcoin-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Calendario económico: el Bitcoin enfrenta con optimismo los datos de esta semana",
-    "slug": "calendario-economico-el-bitcoin-enfrenta-con-optimismo-los-d",
-    "category": "cripto",
-    "date": "2026-07-19",
-    "summary": "CriptoTendencia Conoce los datos del calendario económico que podrían tener marcada influencia en el precio de Bitcoin durante esta semana.  La entrada Calendario económico: el Bitcoin enfrenta con optimismo los datos de esta semana se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/19/calendario-economico-el-bitcoin-enfrenta-con-optimismo-los-datos-de-esta-semana/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Reporte sobre la actividad comercial de las ballenas de Bitcoin durante la semana",
-    "slug": "reporte-sobre-la-actividad-comercial-de-las-ballenas-de-bitc",
-    "category": "cripto",
-    "date": "2026-07-19",
-    "summary": "CriptoTendencia Repaso semanal de la actividad de las ballenas de Bitcoin, las reservas en exchanges y los flujos de ETF spot.  La entrada Reporte sobre la actividad comercial de las ballenas de Bitcoin durante la semana se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/19/reporte-sobre-la-actividad-comercial-de-las-ballenas-de-bitcoin-durante-la-semana-2-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Este domingo se definirá al nuevo monarca del fútbol en la gran final del Mundial 2026",
-    "slug": "este-domingo-se-definira-al-nuevo-monarca-del-futbol-en-la-g",
-    "category": "cripto",
-    "date": "2026-07-19",
-    "summary": "CriptoTendencia En pocas horas los combinados de Argentina y España se disputarán el título en la Gran Final del Mundial de Fútbol 2026.  La entrada Este domingo se definirá al nuevo monarca del fútbol en la gran final del Mundial 2026 se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/19/este-domingo-se-definira-al-nuevo-monarca-del-futbol-en-la-gran-final-del-mundial-2026/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
       "bitcoin"
     ],
     "featured": false,
@@ -454,7 +547,7 @@
     "date": "2026-07-18",
     "summary": "Un informe del Banco Central da cuenta de la manera en que se instalaron los pagos digitales a lo largo y ancho de la Argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/economia/460286-cada-vez-hay-mas-pagos-con-qr-en-argentina-y-esta-fue-la-cifra-del-mes-de-mayo",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -469,102 +562,6 @@
     "date": "2026-07-18",
     "summary": "El precio del billete estadounidense no solo depende de factores domésticos, sino que también de la pérdida de poder adquisitivo mundial por la inflación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/460062-por-que-guardar-los-dolares-bajo-el-colchon-es-una-pesima-decision-finaciera",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El aire que puede ganar Milei si la Selección argentina se consagra en el Mundial 2026",
-    "slug": "el-aire-que-puede-ganar-milei-si-la-seleccion-argentina-se-c",
-    "category": "economia",
-    "date": "2026-07-18",
-    "summary": "Aunque la felicidad deportiva entusiasma, analistas advierten que el contexto económico desafía cualquier intento de festejo sostenido (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/460282-el-aire-que-puede-ganar-milei-si-la-seleccion-argentina-se-consagra-en-el-mundial-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCRA no para de comprar dólares, refuerza reservas y envía un contundente mensaje al mercado",
-    "slug": "el-bcra-no-para-de-comprar-dolares-refuerza-reservas-y-envia",
-    "category": "economia",
-    "date": "2026-07-18",
-    "summary": "Las reservas acumulan un saldo histórico mientras la plaza financiera evalúa si la tendencia es sostenible y qué impacto tendrá en la economía real (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460237-el-guru-de-la-city-explica-por-que-el-gobierno-tiene-controlado-el-tema-dolar",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Gobierno prepara otro cupo de 50.000 autos sin impuestos y hay malestar entre las terminales",
-    "slug": "el-gobierno-prepara-otro-cupo-de-50000-autos-sin-impuestos-y",
-    "category": "economia",
-    "date": "2026-07-18",
-    "summary": "Automotrices europeas y de otros países reclaman que el nuevo esquema de cupos para vehículos enchufables favorece solo a productos asiáticos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/autos/460263-el-gobierno-prepara-otro-cupo-de-50000-autos-sin-impuestos-y-hay-bronca-entre-terminales",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La morosidad récord en el país golpea a familias que tienen deudas tanto con bancos como financieras",
-    "slug": "la-morosidad-record-en-el-pais-golpea-a-familias-que-tienen-",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "El deterioro en el acceso a préstamos afecta a millones de personas que enfrentan dificultades simultáneas con distintas entidades financieras (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460244-morosidad-record-puso-alerta-argentinos-golpea-familias-endeudadas-julio-2026",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Orlando Ferreres explicó cómo el Mundial 2026 puede impactar en las reservas",
-    "slug": "orlando-ferreres-explico-como-el-mundial-2026-puede-impactar",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "El economista estimó que cada hincha desembolsa entre u$s30. 000 y u$s45.",
-    "link": "https://www.iprofesional.com/finanzas/460240-orlando-ferreres-explico-como-mundial-2026-puede-impactar-sobre-reservas-banco-central-argentino",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Panorama Financiero | Los bancos reciben dólares récord, pero las familias ya no tienen margen",
-    "slug": "panorama-financiero-los-bancos-reciben-dolares-record-pero-l",
-    "category": "economia",
-    "date": "2026-07-17",
-    "summary": "Los depósitos en dólares superaron los u$s40. 000 millones, mientras los hogares destinan 30% de sus ingresos al pago de deudas.",
-    "link": "https://www.iprofesional.com/finanzas/460215-panorama-financiero-bancos-argentinos-reciben-dolares-record-pero-familias-ya-no-tienen-margen",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
