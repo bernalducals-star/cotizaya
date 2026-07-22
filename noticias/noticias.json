@@ -1,5 +1,51 @@
 [
   {
+    "title": "El salario mínimo cayó 40% real desde 2023: cuánto poder de compra perdió sobre los alimentos básicos",
+    "slug": "el-salario-minimo-cayo-40-real-desde-2023-cuanto-poder-de-co",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Un informe pone el foco en el derrumbe del salario mínimo y como ese deterioro se refleja en la capacidad de compra, en productos de la canasta básica, o también en los servicios.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/el-salario-minimo-cayo-40-real-2023-cuanto-poder-compra-perdio-los-alimentos-basicos-n6302445",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Crédito: el Gobierno busca facilitar la securitización de carteras para dinamizar las hipotecas",
+    "slug": "credito-el-gobierno-busca-facilitar-la-securitizacion-de-car",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "El proyecto sobre desregulación de actividades incluye un capitulo financiero.  Habrá contratos electrónicos, firmas a distancia y la posibilidad de hacer prendas sobre activos virtuales.",
+    "link": "https://www.ambito.com/economia/credito-el-gobierno-busca-facilitar-la-securitizacion-carteras-dinamizar-las-hipotecas-n6302247",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Cuánto tiene que rendir un plazo fijo por mes para no perder contra la inflación?",
+    "slug": "cuanto-tiene-que-rendir-un-plazo-fijo-por-mes-para-no-perder",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Con un alza de precios mensual superior a las tasas que ofrecen la mayoría de los bancos, el rendimiento de esta herramienta vuelve a ser cuestionado.",
+    "link": "https://www.ambito.com/economia/cuanto-tiene-que-rendir-un-plazo-fijo-mes-no-perder-contra-la-inflacion-n6302357",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países",
     "slug": "advierten-que-los-dolares-de-vaca-muerta-no-alcanzan-el-rol-",
     "category": "economia",
@@ -11,21 +57,6 @@
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Luis Caputo presentará el proyecto de Inocencia Fiscal II para modificar Ganancias",
-    "slug": "luis-caputo-presentara-el-proyecto-de-inocencia-fiscal-ii-pa",
-    "category": "economia",
-    "date": "2026-07-22",
-    "summary": "El ministro de Economía busca flexibilizar el Régimen Simplificado de Ganancias que administra ARCA, tras las críticas de los contadores.",
-    "link": "https://www.ambito.com/economia/luis-caputo-presentara-el-proyecto-inocencia-fiscal-ii-modificar-ganancias-n6302190",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -46,27 +77,12 @@
     "related": []
   },
   {
-    "title": "Plazo fijo: cuánto se obtiene al invertir $350.000",
-    "slug": "plazo-fijo-cuanto-se-obtiene-al-invertir-350000",
+    "title": "Inocencia Fiscal II: Luis Caputo presentará el proyecto para intentar que salgan los dólares del colchón",
+    "slug": "inocencia-fiscal-ii-luis-caputo-presentara-el-proyecto-para-",
     "category": "economia",
     "date": "2026-07-22",
-    "summary": "Conocé cuánto rinde un plazo fijo de $350. 000 a 30 días, cuáles son las tasas que ofrecen los bancos y qué diferencia hay con el UVA.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-obtiene-al-invertir-350000-n6301999",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo organizar el presupuesto mensual para destinar un porcentaje al ahorro de dólares",
-    "slug": "como-organizar-el-presupuesto-mensual-para-destinar-un-porce",
-    "category": "economia",
-    "date": "2026-07-22",
-    "summary": "Una estrategia muy fácil de seguir te permite administrar mejor los ingresos y acercarte a tu meta financiera sin tener que hacer cambios grandes de rutina.",
-    "link": "https://www.ambito.com/economia/como-organizar-el-presupuesto-mensual-destinar-un-porcentaje-al-ahorro-dolares-n6301910",
+    "summary": "El ministro de Economía busca flexibilizar el Régimen Simplificado de Ganancias que administra ARCA tras recibir críticas de los contadores y tributaristas.",
+    "link": "https://www.ambito.com/economia/luis-caputo-presentara-el-proyecto-inocencia-fiscal-ii-modificar-ganancias-n6302190",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -77,12 +93,12 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este miércoles 22 de julio",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-miercoles-22-de-julio",
+    "title": "El dólar oficial rebota, toca otra vez los $1.480 y el mercado se pregunta si volverá el rally alcista",
+    "slug": "el-dolar-oficial-rebota-toca-otra-vez-los-1480-y-el-mercado-",
     "category": "economia",
     "date": "2026-07-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-22-julio-n6302219",
+    "summary": "El tipo de cambio mayorista abre en los $1. 480 tras caer en la jornada previa.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-oficial-rebota-toca-otra-vez-los-1480-y-el-mercado-se-pregunta-si-volvera-el-rally-alcista-n6302338",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -109,12 +125,44 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este miércoles 22 de julio",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-miercoles-22-d",
+    "title": "Dólar blue hoy: a cuánto opera este miércoles 22 de julio",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-miercoles-22-de-julio",
     "category": "economia",
     "date": "2026-07-22",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-miercoles-22-julio-n6302153",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-22-julio-n6302219",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 22 de julio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-22-julio-n6302236",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una de las acciones de inteligencia artificial que más atrae al mercado saltó 25% en Wall Street",
+    "slug": "una-de-las-acciones-de-inteligencia-artificial-que-mas-atrae",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Durante el último trimestre, Supermicro recibió más de u$s60. 000 millones en nuevos pedidos, lo que impulsó al alza su cotización de mercado.",
+    "link": "https://www.ambito.com/finanzas/una-las-acciones-inteligencia-artificial-que-mas-atrae-al-mercado-salto-25-wall-street-n6302391",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -124,13 +172,59 @@
     "related": []
   },
   {
-    "title": "Ferran Torres y Ana Mena, ¿algo más que amigos?: la supuesta “química” entre ambos en la celebración privada en Madrid",
-    "slug": "ferran-torres-y-ana-mena-algo-mas-que-amigos-la-supuesta-qui",
+    "title": "El yen cae a su mínimo nivel de 40 años y el gobierno de Japón analiza medidas defensivas",
+    "slug": "el-yen-cae-a-su-minimo-nivel-de-40-anos-y-el-gobierno-de-jap",
     "category": "economia",
     "date": "2026-07-22",
-    "summary": "Diversos expertos en el mundo del corazón afirman que la conexión entre ellos fue evidente",
-    "link": "https://www.infobae.com/espana/2026/07/22/ferran-torres-y-ana-mena-algo-mas-que-amigos-la-supuesta-quimica-entre-ambos-en-la-celebracion-privada-en-madrid/",
-    "source": "Infobae",
+    "summary": "Voces del gobierno japonés indicaron que podrían tomar medidas de intervención si el yen continúa en esta dirección.  La voz que falta escuchar genera dudas en el mercado, en conjunto con la tensión bélica y el plan económico.",
+    "link": "https://www.ambito.com/finanzas/el-yen-cae-su-minimo-nivel-40-anos-y-el-gobierno-japon-analiza-medidas-defensivas-n6302389",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las criptomonedas retroceden mientras el mercado sigue de cerca la guerra en Medio Oriente y los balances de las Big Tech",
+    "slug": "las-criptomonedas-retroceden-mientras-el-mercado-sigue-de-ce",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Bitcoin vuelve a cotizar por debajo de los u$s66. 000 y Ethereum pierde los u$s1.",
+    "link": "https://www.ambito.com/finanzas/las-criptomonedas-retroceden-mientras-el-mercado-sigue-cerca-la-guerra-medio-oriente-y-los-balances-las-big-tech-n6302393",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Así funciona la \"fábrica de dólares\" que generó u$s14.000 M y se convirtió en pilar del plan Caputo",
+    "slug": "asi-funciona-la-fabrica-de-dolares-que-genero-us14000-m-y-se",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "El salto en el saldo externo de Argentina reconfigura el mapa exportador mientras las rutas tradicionales de ingreso de divisas se ven alteradas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/comex/460487-asi-funciona-la-fabrica-de-dolares-que-se-convirtio-en-pilar-del-plan-caputo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los tres gremios que cerraron el mayor aumento de sueldo en paritarias para agosto 2026",
+    "slug": "los-tres-gremios-que-cerraron-el-mayor-aumento-de-sueldo-en-",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Comenzaron a cerrarse paritarias semestrales por el menor ritmo de la inflación.  Los gremios que lograron más altas actualizaciones salariales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/management/460374-paritarias-los-tres-gremios-que-cerraron-mayor-aumento-de-sueldo-para-agosto-2026",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina"
@@ -164,6 +258,97 @@
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Por qué tres calificadoras de riesgo coinciden con la nota de la deuda Argentina",
+    "slug": "por-que-tres-calificadoras-de-riesgo-coinciden-con-la-nota-d",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "Las principales agencias de riesgo ahora coinciden en su visión sobre el país, lo que facilita el acceso a capital internacional y nuevos fondos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460545-porque-tres-calificadoras-de-riesgo-coinciden-con-la-nota-de-la-deuda-argentina",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La City celebra la mejora de la nota de Moody's, pero descarta otro upgrade para Argentina",
+    "slug": "la-city-celebra-la-mejora-de-la-nota-de-moodys-pero-descarta",
+    "category": "economia",
+    "date": "2026-07-22",
+    "summary": "El mercado anticipa una buena jornada este miércoles tras el upgrade de Moody's, aunque el impacto será moderado porque la noticia ya estaba descontada (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460506-la-city-celebra-la-mejora-de-la-nota-de-moodys-pero-descarta-otro-upgrade-para-argentina-en-el-mandato-de-milei",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El gasto en IA de Alphabet se acerca a 44.000 millones y el margen es la incógnita",
+    "slug": "el-gasto-en-ia-de-alphabet-se-acerca-a-44000-millones-y-el-m",
+    "category": "cripto",
+    "date": "2026-07-22",
+    "summary": "CriptoTendencia El margen operativo de Alphabet es la incógnita del trimestre: ingresos creciendo 22% frente a una inversión de hasta 190. 000 millones.",
+    "link": "https://criptotendencia.com/2026/07/22/el-gasto-en-ia-de-alphabet-se-acerca-a-44-000-millones-y-el-margen-es-la-incognita/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dos gigavatios para Anthropic y la factura que llega a la minería",
+    "slug": "dos-gigavatios-para-anthropic-y-la-factura-que-llega-a-la-mi",
+    "category": "cripto",
+    "date": "2026-07-22",
+    "summary": "CriptoTendencia Dos gigavatios y hasta 5. 000 millones de dólares: la industria de la IA dejó de contar chips para empezar a contar centrales eléctricas.",
+    "link": "https://criptotendencia.com/2026/07/22/dos-gigavatios-para-anthropic-y-la-factura-que-llega-a-la-mineria/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El retroceso de las acciones surcoreanas podría terminar pronto",
+    "slug": "el-retroceso-de-las-acciones-surcoreanas-podria-terminar-pro",
+    "category": "cripto",
+    "date": "2026-07-22",
+    "summary": "CriptoTendencia El peor retroceso de las acciones surcoreanas en casi 20 años podría estar próximo a terminar y esto podría beneficiar a otros mercados.  La entrada El retroceso de las acciones surcoreanas podría terminar pronto se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/22/el-retroceso-de-las-acciones-surcoreanas-podria-terminar-pronto/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Personaje de la Semana: el precio de mover mercados con un tuit",
+    "slug": "el-personaje-de-la-semana-el-precio-de-mover-mercados-con-un",
+    "category": "cripto",
+    "date": "2026-07-22",
+    "summary": "CriptoTendencia La SEC, el romance corto de Tesla con Bitcoin y el juicio por Dogecoin.  El costo real de la habilidad que salvó a Musk en 2008.",
+    "link": "https://criptotendencia.com/2026/07/22/el-personaje-de-la-semana-el-precio-de-mover-mercados-con-un-tuit/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -259,162 +444,6 @@
     "related": []
   },
   {
-    "title": "Cedears: el salto de las exportaciones de chips en Corea del Sur impulsó subas de hasta 18%",
-    "slug": "cedears-el-salto-de-las-exportaciones-de-chips-en-corea-del-",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "Las compañías vinculadas con tecnología, inteligencia artificial y criptomonedas encabezaron los avances de la jornada.  En el extremo opuesto, los balances y las perspectivas empresariales golpearon a los sectores de salud, servicios petroleros y software.",
-    "link": "https://www.ambito.com/finanzas/cedears-el-salto-las-exportaciones-chips-corea-del-sur-impulso-subas-18-n6302173",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alerta en mercados: el yen se hundió a su nivel más bajo en casi 40 años frente al dólar, ¿qué hay detrás?",
-    "slug": "alerta-en-mercados-el-yen-se-hundio-a-su-nivel-mas-bajo-en-c",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "La moneda japonesa superó los 163 yenes por dólar por primera vez desde 1986.  La combinación de un dólar fortalecido, mayores rendimientos de los bonos del Tesoro estadounidense y la suba del petróleo volvió a presionar al tipo de cambio nipón y eleva las expectativas de una intervención de las autoridades.",
-    "link": "https://www.ambito.com/finanzas/alerta-mercados-el-yen-se-hundio-su-nivel-mas-casi-40-anos-frente-al-dolar-que-hay-detras-n6302175",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Deuda: Economía logró canjear el 45% de una letra dólar linked, pero trasladó la presión a agosto",
-    "slug": "deuda-economia-logro-canjear-el-45-de-una-letra-dolar-linked",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "El Tesoro adjudicó nuevos instrumentos por el equivalemte a u$s1. 895 millones y redujo parcialmente los compromisos de fin de mes.",
-    "link": "https://www.ambito.com/finanzas/deuda-economia-logro-canjear-el-45-una-letra-dolar-linked-pero-traslado-la-presion-agosto-n6302121",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "En el último año subió el empleo minero en la Argentina, pero cayó la cantidad de empresas",
-    "slug": "en-el-ultimo-ano-subio-el-empleo-minero-en-la-argentina-pero",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "En marzo la minería sumó 40. 141 empleos, un 1,2% más interanual.",
-    "link": "https://www.iprofesional.com/energia/460493-en-ultimo-ano-subio-empleo-minero-en-argentina-pero-cayo-cantidad-de-empresas",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Por qué los senadores reciben un nuevo aumento de sueldo y cobrarán $12 millones en agosto",
-    "slug": "por-que-los-senadores-reciben-un-nuevo-aumento-de-sueldo-y-c",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "El acuerdo salarial fija un incremento acumulativo de 6,7% que se suma al 12,5% otorgado durante el primer cuatrimestre del año.  Cuánto cobrarán ahora (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/politica/460495-por-que-senadores-vuelven-a-recibir-aumento-automatico-sueldo-y-cobraran-12-millones-pesos-agosto-2026",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuál es el precio del dólar que anticipa la consultora de Costantini y en qué invierte ahora",
-    "slug": "cual-es-el-precio-del-dolar-que-anticipa-la-consultora-de-co",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "La firma de Eduardo Costantini anticipó qué espera para el dólar, las tasas y la inflación y reveló cómo planea invertir hasta diciembre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460275-cuanto-valdra-el-dolar-mes-a-mes-para-la-consultora-de-eduardo-costantini",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Una importante sociedad de bolsa recomienda no comprar estas 5 acciones argentinas y da sus razones",
-    "slug": "una-importante-sociedad-de-bolsa-recomienda-no-comprar-estas",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "Un poderoso broker de la City revisó las acciones argentinas y dejó cinco nombres en el fondo de la lista de sus recomendaciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460340-las-5-acciones-argentinas-que-no-recomienda-comprar-esta-sociedad-de-bolsa",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Lado B del boom exportador: el aporte de dólares de Vaca Muerta ya dejó atrás su mejor momento",
-    "slug": "lado-b-del-boom-exportador-el-aporte-de-dolares-de-vaca-muer",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "La exportación petrolera de junio fue menor a la de mayo.  Y los próximos meses reflejarán un bajón en el precio del barril de crudo en el mercado global (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/460477-lado-b-del-boom-exportador-aporte-de-dolares-de-vaca-muerta-dejo-atras-su-mejor-momento",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Gremio clave cerró paritarias y el sueldo básico quedó cerca de los $4 millones",
-    "slug": "gremio-clave-cerro-paritarias-y-el-sueldo-basico-quedo-cerca",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "El sindicato acordó con las cámaras una suba salarial para julio, agosto y septiembre.  Quedó entre los primeros en el ranking de paritarias (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/460484-gremio-clave-cerro-paritarias-y-el-sueldo-basico-quedo-cerca-de-los-4-millones-pesos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Moody's mejoró la calificación de Argentina y el mercado anticipa qué bonos se verán impulsados",
-    "slug": "moodys-mejoro-la-calificacion-de-argentina-y-el-mercado-anti",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "La calificadora de riesgo elevó la nota de Argentina a B3 y cambió la perspectiva a positiva.  El mensaje de Caputo y la expectativa de la City (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/460481-moodys-mejoro-la-calificacion-de-argentina-y-el-mercado-anticipa-que-bonos-subiran-mas",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "El Tesoro alivió un vencimiento por u$s1.851 millones, pero el mercado evitó apostar al largo plazo",
     "slug": "el-tesoro-alivio-un-vencimiento-por-us1851-millones-pero-el-",
     "category": "economia",
@@ -430,12 +459,12 @@
     "related": []
   },
   {
-    "title": "El CEDEAR de esta empresa líder puede saltar hasta 40% en dólares, según experto de la City",
-    "slug": "el-cedear-de-esta-empresa-lider-puede-saltar-hasta-40-en-dol",
+    "title": "Cuál es el precio del dólar que anticipa la consultora de Costantini y en qué invierte ahora",
+    "slug": "cual-es-el-precio-del-dolar-que-anticipa-la-consultora-de-co",
     "category": "economia",
     "date": "2026-07-21",
-    "summary": "El Certificado de Depósito Argentino (CEDEAR), que es una fracción en pesos de acción de empresa líder mundial, es sugerido por analistas para invertir (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460473-el-cedear-de-empresa-lider-puede-saltar-hasta-40-por-ciento-en-dolares-segun-experto-de-la-city",
+    "summary": "La firma de Eduardo Costantini anticipó qué espera para el dólar, las tasas y la inflación y reveló cómo planea invertir hasta diciembre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460275-cuanto-valdra-el-dolar-mes-a-mes-para-la-consultora-de-eduardo-costantini",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -446,44 +475,12 @@
     "related": []
   },
   {
-    "title": "VIDEO | ¿Las deudas son el problema o el síntoma de un problema mucho más profundo?",
-    "slug": "video-las-deudas-son-el-problema-o-el-sintoma-de-un-problema",
+    "title": "Una importante sociedad de bolsa recomienda no comprar estas 5 acciones argentinas y da sus razones",
+    "slug": "una-importante-sociedad-de-bolsa-recomienda-no-comprar-estas",
     "category": "economia",
     "date": "2026-07-21",
-    "summary": "El nuevo programa de la Ciudad de Buenos Aires busca reorganizar deudas bancarias antes de que el sobreendeudamiento derive en una crisis familiar (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/legales/460471-video-deudas-bancarias-en-caba-y-el-nuevo-programa-para-ordenar-pagos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La última apuesta de Milei para reactivar la economía antes de la campaña sin tener que emitir",
-    "slug": "la-ultima-apuesta-de-milei-para-reactivar-la-economia-antes-",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "El desafío del Gobierno, de cara al año electoral, es que una mayor disponibilidad de dinero vuelva a transformarse en préstamos para empresas y familias (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460400-la-ultima-apuesta-de-milei-para-reactivar-la-economia-antes-de-la-campana-sin-emitir",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Panorama Financiero | Argentina avanza a dos velocidades: exportaciones récord y salarios rezagados",
-    "slug": "panorama-financiero-argentina-avanza-a-dos-velocidades-expor",
-    "category": "economia",
-    "date": "2026-07-21",
-    "summary": "Argentina cerró el semestre con exportaciones y superávit récord, mientras los salarios registrados volvieron a quedar por debajo de la inflación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460454-panorama-financiero-argentina-avanza-a-dos-velocidades-exportaciones-record-y-salarios-rezagados",
+    "summary": "Un poderoso broker de la City revisó las acciones argentinas y dejó cinco nombres en el fondo de la lista de sus recomendaciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460340-las-5-acciones-argentinas-que-no-recomienda-comprar-esta-sociedad-de-bolsa",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -493,12 +490,12 @@
     "related": []
   },
   {
-    "title": "La consultora líder en pronósticos de EE.UU. le puso precio al dólar en Argentina para fin de año",
-    "slug": "la-consultora-lider-en-pronosticos-de-eeuu-le-puso-precio-al",
+    "title": "El aporte de dólares de Vaca Muerta ya dejó atrás su mejor momento, tras el boom exportador",
+    "slug": "el-aporte-de-dolares-de-vaca-muerta-ya-dejo-atras-su-mejor-m",
     "category": "economia",
     "date": "2026-07-21",
-    "summary": "Se trata de una firma de análisis económico que es destacada por The New York Times.  Este es el precio que proyecta para diciembre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460397-consultora-lider-en-pronosticos-de-eeuu-puso-precio-al-dolar-en-argentina-para-diciembre",
+    "summary": "La exportación petrolera de junio fue menor a la de mayo.  Y los próximos meses reflejarán un bajón en el precio del barril de crudo en el mercado global (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/460477-lado-b-del-boom-exportador-aporte-de-dolares-de-vaca-muerta-dejo-atras-su-mejor-momento",
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
@@ -509,61 +506,17 @@
     "related": []
   },
   {
-    "title": "Un juez aprueba el acuerdo de 1.500 millones de Anthropic con autores, el mayor de la historia del copyright en EE.UU.",
-    "slug": "un-juez-aprueba-el-acuerdo-de-1500-millones-de-anthropic-con",
-    "category": "cripto",
+    "title": "Moody's mejoró la calificación de Argentina y el mercado anticipa qué bonos se verán impulsados",
+    "slug": "moodys-mejoro-la-calificacion-de-argentina-y-el-mercado-anti",
+    "category": "economia",
     "date": "2026-07-21",
-    "summary": "CriptoTendencia Una jueza aprobó el pago de 1. 500 millones de Anthropic a autores por descargar libros piratas para entrenar Claude.",
-    "link": "https://criptotendencia.com/2026/07/21/un-juez-aprueba-el-acuerdo-de-1-500-millones-de-anthropic-con-autores-el-mayor-de-la-historia-del-copyright-en-ee-uu/",
-    "source": "CriptoTendencia",
+    "summary": "La calificadora de riesgo elevó la nota de Argentina a B3 y cambió la perspectiva a positiva.  El mensaje de Caputo y la expectativa de la City (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/460481-moodys-mejoro-la-calificacion-de-argentina-y-el-mercado-anticipa-que-bonos-subiran-mas",
+    "source": "iProfesional Finanzas",
     "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Telegram integrará una wallet nativa para GRAM y dispara el optimismo del mercado",
-    "slug": "telegram-integrara-una-wallet-nativa-para-gram-y-dispara-el-",
-    "category": "cripto",
-    "date": "2026-07-21",
-    "summary": "CriptoTendencia La nueva wallet nativa anunciada por Pavel Durov busca integrar GRAM en Telegram y ampliar la adopción de los activos digitales.  La entrada Telegram integrará una wallet nativa para GRAM y dispara el optimismo del mercado se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/21/telegram-integrara-una-wallet-nativa-para-gram-y-dispara-el-optimismo-del-mercado-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las dos caras de Kimi K3: el modelo chino de IA que enciende las alarmas por la privacidad de los datos",
-    "slug": "las-dos-caras-de-kimi-k3-el-modelo-chino-de-ia-que-enciende-",
-    "category": "cripto",
-    "date": "2026-07-21",
-    "summary": "CriptoTendencia Kimi K3 destaca por su potencia en IA, pero genera preocupación global por privacidad, datos y posibles riesgos de espionaje.  La entrada Las dos caras de Kimi K3: el modelo chino de IA que enciende las alarmas por la privacidad de los datos se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/21/las-dos-caras-de-kimi-k3-el-modelo-chino-de-ia-que-enciende-las-alarmas-por-la-privacidad-de-los-datos-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Donald Trump despeja el camino para la Clarity Act tras aceptar la cláusula ética que frenaba su avance",
-    "slug": "donald-trump-despeja-el-camino-para-la-clarity-act-tras-acep",
-    "category": "cripto",
-    "date": "2026-07-21",
-    "summary": "CriptoTendencia La Clarity Act queda más cerca de convertirse en ley después de que Donald Trump aceptara las normas éticas para los funcionarios públicos.  La entrada Donald Trump despeja el camino para la Clarity Act tras aceptar la cláusula ética que frenaba su avance se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/21/donald-trump-despeja-el-camino-para-la-clarity-act-tras-aceptar-la-clausula-etica-que-frenaba-su-avance-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina",
+      "bonos"
     ],
     "featured": false,
     "related": []
