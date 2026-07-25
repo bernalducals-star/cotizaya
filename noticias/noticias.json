@@ -1,5 +1,35 @@
 [
   {
+    "title": "¿Sigue valiendo la pena el plazo fijo? Cuánto rinden $5.000.000 en un mes",
+    "slug": "sigue-valiendo-la-pena-el-plazo-fijo-cuanto-rinden-5000000-e",
+    "category": "economia",
+    "date": "2026-07-25",
+    "summary": "La rentabilidad depende de la tasa ofrecida por cada entidad y del canal utilizado para constituir el depósito.",
+    "link": "https://www.ambito.com/economia/sigue-valiendo-la-pena-el-plazo-fijo-cuanto-rinden-5000000-un-mes-n6303227",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Se acentúa el desacople: sigue la fortaleza en el frente financiero, pero crece la debilidad en la economía real",
+    "slug": "se-acentua-el-desacople-sigue-la-fortaleza-en-el-frente-fina",
+    "category": "economia",
+    "date": "2026-07-25",
+    "summary": "Mientras la economía real sigue estancada entre el consumo paralizado y la caída industrial, el frente externo exhibe fortaleza con el superávit comercial y colocación de deuda imp",
+    "link": "https://www.ambito.com/economia/se-acentua-el-desacople-sigue-la-fortaleza-el-frente-financiero-pero-crece-la-debilidad-la-real-n6303305",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Goldman Sachs recortó la proyección de crecimiento de Argentina y puso la mira en las elecciones",
     "slug": "goldman-sachs-recorto-la-proyeccion-de-crecimiento-de-argent",
     "category": "economia",
@@ -63,6 +93,38 @@
     "related": []
   },
   {
+    "title": "Santa Fe mejoró su calificación crediticia y se ubicó por encima de la nota soberana de Argentina",
+    "slug": "santa-fe-mejoro-su-calificacion-crediticia-y-se-ubico-por-en",
+    "category": "economia",
+    "date": "2026-07-25",
+    "summary": "Se trata de una última calificación de la firma Moody's.  Entre sus razones, destacó la fortaleza de sus ingresos y \"una política fiscal prudente\".",
+    "link": "https://www.ambito.com/finanzas/santa-fe-mejoro-su-calificacion-crediticia-y-se-ubico-encima-la-nota-soberana-argentina-n6303534",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Deuda: Economía busca renovar unos $8,4 billones tras despejar vencimientos de una letra atada al dólar",
+    "slug": "deuda-economia-busca-renovar-unos-84-billones-tras-despejar-",
+    "category": "economia",
+    "date": "2026-07-25",
+    "summary": "Este lunes, el Tesoro dará a conocer el menú de bonos para el segundo llamado de julio.  Se espera que haya una nueva emisión del Bonar 2029 (AO29) y que se siga profundizando la estrategia de estirar plazos.",
+    "link": "https://www.ambito.com/finanzas/deuda-economia-busca-renovar-unos-84-billones-despejar-vencimientos-una-letra-atada-al-dolar-n6303375",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Riesgo país: pese a la mejora de Moody's, el índice de Argentina volvió a ser el más alto de la región, ¿qué mira la city?",
     "slug": "riesgo-pais-pese-a-la-mejora-de-moodys-el-indice-de-argentin",
     "category": "economia",
@@ -79,17 +141,47 @@
     "related": []
   },
   {
-    "title": "El presidente Milei visita San Pablo para apoyar a Flávio Bolsonaro en la carrera presidencial",
-    "slug": "el-presidente-milei-visita-san-pablo-para-apoyar-a-flavio-bo",
+    "title": "El recrudecimiento del conflicto entre EE.UU. e Irán amenaza con presionar al dólar en Argentina",
+    "slug": "el-recrudecimiento-del-conflicto-entre-eeuu-e-iran-amenaza-c",
     "category": "economia",
     "date": "2026-07-25",
-    "summary": "El Presidente dará hoy un discurso durante la ceremonia y acto de lanzamiento del hijo del exmandatario Jair Bolsonaro. A las 14 retornará al país",
-    "link": "https://www.infobae.com/politica/2026/07/25/el-presidente-milei-visita-san-pablo-para-apoyar-a-flavio-bolsonaro-en-la-carrera-presidencial/",
-    "source": "Infobae",
+    "summary": "La suba del crudo y la volatilidad financiera por el conflicto internacional reconfiguran el escenario para el plan del ministro Caputo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/460731-el-recrudecimiento-de-la-guerra-en-medio-oriente-amenaza-con-pegarle-al-dolar-en-argentina",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "milei"
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Starmind: la verdadera carga del vuelo 13 de Starship",
+    "slug": "starmind-la-verdadera-carga-del-vuelo-13-de-starship",
+    "category": "cripto",
+    "date": "2026-07-25",
+    "summary": "CriptoTendencia SpaceX desplegó satélites Starlink V3 en el vuelo 13 de Starship, pero su apuesta de fondo es Starmind: llevar los centros de datos de IA a la órbita.  La entrada Starmind: la verdadera carga del vuelo 13 de Starship se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/25/starmind-la-verdadera-carga-del-vuelo-13-de-starship/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wise reintentará obtener una licencia bancaria en EE.UU. bajo la GENIUS Act tras el rechazo de la OCC",
+    "slug": "wise-reintentara-obtener-una-licencia-bancaria-en-eeuu-bajo-",
+    "category": "cripto",
+    "date": "2026-07-25",
+    "summary": "CriptoTendencia La OCC rechazó la solicitud bancaria de Wise.  Ahora la fintech reintentará bajo el marco de stablecoins de la GENIUS Act.",
+    "link": "https://criptotendencia.com/2026/07/25/wise-reintentara-obtener-una-licencia-bancaria-en-ee-uu-bajo-la-genius-act-tras-el-rechazo-de-la-occ/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -200,23 +292,6 @@
     "related": []
   },
   {
-    "title": "Reforma laboral: el BCRA habilitó el pago de salarios en dólares a través de las cuentas sueldo",
-    "slug": "reforma-laboral-el-bcra-habilito-el-pago-de-salarios-en-dola",
-    "category": "economia",
-    "date": "2026-07-24",
-    "summary": "Este viernes, la autoridad monetaria oficializó la reglamentación para hacer efectiva la posibilidad de cobrar las remuneraciones laborales en moneda extranjera, aprobada por ley e",
-    "link": "https://www.ambito.com/economia/reforma-laboral-el-bcra-habilito-el-pago-salarios-dolares-traves-las-cuentas-sueldo-n6303207",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "El BCRA concretó la segunda mayor compra de julio y ya sumó más u$s13.000 millones en 2026",
     "slug": "el-bcra-concreto-la-segunda-mayor-compra-de-julio-y-ya-sumo-",
     "category": "economia",
@@ -255,38 +330,6 @@
     "date": "2026-07-24",
     "summary": "Presentó un balance mejor al esperado, pero sus acciones se desplomaron.  El mercado volvió a exigir pruebas de que el auge de la inteligencia artificial podrá sostener el crecimiento y mejorar la rentabilidad de la compañía.",
     "link": "https://www.ambito.com/finanzas/las-acciones-intel-se-disparan-mas-5-y-supera-las-expectativas-ganancias-gracias-la-ia-n6303245",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar blue sufrió su mayor baja diaria en el último mes y la brecha tocó mínimos de 10 ruedas",
-    "slug": "el-dolar-blue-sufrio-su-mayor-baja-diaria-en-el-ultimo-mes-y",
-    "category": "economia",
-    "date": "2026-07-24",
-    "summary": "La cotización informal retrocedió al cierre del viernes, mientras el tipo de cambio mayorista alcanzó un nuevo máximo nominal.  La diferencia entre ambos mercados descendió a 3,21%, en un contexto de abundante oferta de divisas y compras sostenidas del BCRA.",
-    "link": "https://www.ambito.com/finanzas/el-dolar-blue-sufrio-su-mayor-baja-diaria-el-ultimo-mes-y-la-brecha-toco-minimos-10-ruedas-n6303395",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Wall Street elevó la vara? Por qué los buenos balances ya no alcanzan para impulsar a las acciones",
-    "slug": "wall-street-elevo-la-vara-por-que-los-buenos-balances-ya-no-",
-    "category": "economia",
-    "date": "2026-07-24",
-    "summary": "El 86% de las empresas de Wall Street que ya presentaron resultados superaron las estimaciones, muy por encima del promedio histórico de 77%.",
-    "link": "https://www.ambito.com/finanzas/wall-street-elevo-la-vara-que-los-buenos-balances-ya-no-alcanzan-impulsar-las-acciones-n6303316",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -441,38 +484,6 @@
     "related": []
   },
   {
-    "title": "Neuquén regresó a Wall Street y las emisiones en dólares ya superan los u$s18.000 millones",
-    "slug": "neuquen-regreso-a-wall-street-y-las-emisiones-en-dolares-ya-",
-    "category": "economia",
-    "date": "2026-07-24",
-    "summary": "La demanda por nuevos instrumentos financieros crece de la mano de inversiones extranjeras y el atractivo del sector energético argentino (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460685-neuquen-regreso-wall-street-ola-inversiones-dolares",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La búsqueda de un seguro contra el dólar se acelera entre inversores conforme se acerca la campaña",
-    "slug": "la-busqueda-de-un-seguro-contra-el-dolar-se-acelera-entre-in",
-    "category": "economia",
-    "date": "2026-07-24",
-    "summary": "La demanda de cobertura cambiaria supera los u$s 8. 000 M, considerando posiciones en títulos dollar linked como la venta de contratos de futuros del BCRA (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460491-la-busqueda-de-un-seguro-contra-el-dolar-se-acelera-con-fuerza-entre-inversores",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "El proyecto de identidad de Sam Altman recauda 52,5 millones para distinguir humanos de máquinas en Internet",
     "slug": "el-proyecto-de-identidad-de-sam-altman-recauda-525-millones-",
     "category": "cripto",
@@ -499,36 +510,6 @@
       "cripto",
       "bitcoin",
       "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Clarity Act impulsa a World Liberty Financial, pero su rebote pierde fuerza casi de inmediato",
-    "slug": "la-clarity-act-impulsa-a-world-liberty-financial-pero-su-reb",
-    "category": "cripto",
-    "date": "2026-07-24",
-    "summary": "CriptoTendencia La Clarity Act disparó la volatilidad de World Liberty Financial, pero el rebote perdió fuerza y dejó a WLFI expuesto a nuevas caídas.  La entrada La Clarity Act impulsa a World Liberty Financial, pero su rebote pierde fuerza casi de inmediato se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/24/la-clarity-act-impulsa-a-world-liberty-financial-pero-su-rebote-pierde-fuerza-casi-de-inmediato-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Por qué la descentralización dejó de ser un asunto técnico",
-    "slug": "por-que-la-descentralizacion-dejo-de-ser-un-asunto-tecnico",
-    "category": "cripto",
-    "date": "2026-07-24",
-    "summary": "CriptoTendencia La descentralización dejó de ser un debate técnico: es la contrafuerza frente a la concentración del poder tecnológico.  La entrada Por qué la descentralización dejó de ser un asunto técnico se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/24/por-que-la-descentralizacion-dejo-de-ser-un-asunto-tecnico/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
     ],
     "featured": false,
     "related": []
