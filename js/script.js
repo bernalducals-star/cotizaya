@@ -180,20 +180,24 @@ function paintValueWithDelta(targetId, newValue, oldValue, formatter) {
   const base = formatter(newValue);
 
   const p = pctChange(newValue, oldValue);
-  if (p === null) {
-    el.textContent = base;
-    return;
-  }
 
-  const arrow = p > 0 ? "▲" : p < 0 ? "▼" : "•";
-  const pAbs = Math.abs(p);
-  const pTxt = `${arrow} ${pAbs.toFixed(2)}%`;
+  // Fade suave al actualizar
+  el.style.transition = "opacity 0.2s ease";
+  el.style.opacity = "0";
 
-  // Animación
-  if (p > 0) el.classList.add("price-up");
-  if (p < 0) el.classList.add("price-down");
-
-  el.textContent = `${base} ${pTxt}`;
+  setTimeout(() => {
+    if (p === null) {
+      el.textContent = base;
+    } else {
+      const arrow = p > 0 ? "▲" : p < 0 ? "▼" : "•";
+      const pAbs = Math.abs(p);
+      const pTxt = `${arrow} ${pAbs.toFixed(2)}%`;
+      el.textContent = `${base} ${pTxt}`;
+      if (p > 0) el.classList.add("price-up");
+      if (p < 0) el.classList.add("price-down");
+    }
+    el.style.opacity = "1";
+  }, 150);
 }
 
 /* =========================

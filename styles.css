@@ -182,6 +182,16 @@ a{ text-decoration:none; color:inherit; }
   transition:background-color .4s ease;
 }
 
+/* ====== TRANSICIÓN SUAVE EN VALORES ====== */
+[id$="_compra"],
+[id$="_venta"],
+[id$="_ars"],
+[id$="_ref"],
+#btc_ars,
+#btc_usd {
+  transition: opacity 0.2s ease;
+}
+
 .price-up{ animation:priceUp .7s ease-out; }
 .price-down{ animation:priceDown .7s ease-out; }
 
