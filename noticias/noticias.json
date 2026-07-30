@@ -1,10 +1,89 @@
 [
   {
-    "title": "La inversión se hundió 7,6% en el primer semestre y no ven señales claras de un rebote para el fin de año",
-    "slug": "la-inversion-se-hundio-76-en-el-primer-semestre-y-no-ven-sen",
+    "title": "Sube la expectativa de inflación y ya roza el 36% para los próximos 12 meses",
+    "slug": "sube-la-expectativa-de-inflacion-y-ya-roza-el-36-para-los-pr",
     "category": "economia",
     "date": "2026-07-30",
-    "summary": "El índice de la consultora Orlando Ferreres exhibió que la inversión sumó su octava baja interanual al hilo.  Los especialistas advierten que el Súper RIGI no alcanzará para que haya una recuperación extendida a toda la economía.",
+    "summary": "La expectativa de inflación anual creció en CABA, GBA e Interior.  Además, la brecha de expectativas entre hogares de mayores y menores ingresos se redujo a 2,9 puntos.",
+    "link": "https://www.ambito.com/economia/sube-la-expectativa-inflacion-y-ya-roza-el-36-los-proximos-12-meses-n6305297",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "En cadena nacional, Javier Milei presenta la reforma de la Carta Orgánica del BCRA: los puntos clave del proyecto",
+    "slug": "en-cadena-nacional-javier-milei-presenta-la-reforma-de-la-ca",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "El gobierno libertario enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del BCRA.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-que-impulsa-javier-milei-la-reforma-n6304751",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Banco de Inglaterra mantuvo las tasas sin cambios, pero anticipó que está \"listo para actuar ante la inflación\"",
+    "slug": "el-banco-de-inglaterra-mantuvo-las-tasas-sin-cambios-pero-an",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "El crecimiento de precios se desaceleró a 2,6%, pero se prevé que se acelere por los costos energéticos.  La entidad afirmó estar \"lista para actuar\" si la inflación no regresa al objetivo del 2%.",
+    "link": "https://www.ambito.com/economia/el-banco-inglaterra-mantuvo-las-tasas-cambios-pero-anticipo-que-esta-listo-actuar-la-inflacion-n6305204",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El PBI de la zona euro creció 0,4% en segundo trimestre y superó las expectativas a pesar de la guerra en Medio Oriente",
+    "slug": "el-pbi-de-la-zona-euro-crecio-04-en-segundo-trimestre-y-supe",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "En la comparación interanual, el crecimiento también superó las previsiones con un alza del 1%, ante la turbulencia registrada en Irán.  El impacto inflacionario, y el detalle de los principales países de la UE.",
+    "link": "https://www.ambito.com/economia/el-pbi-la-zona-euro-crecio-04-segundo-trimestre-y-supero-las-expectativas-pesar-la-guerra-medio-oriente-n6305150",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Oficializaron el aumento de jubilaciones y asignaciones ANSES para agosto con bono de $70.000: quiénes cobran y de cuánto es el haber mínimo",
+    "slug": "oficializaron-el-aumento-de-jubilaciones-y-asignaciones-anse",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "El Gobierno confirmó una actualización del 1,89% para los haberes previsionales y las asignaciones familiares, en línea con la inflación de junio.  Además, mantendrá el bono extraordinario de hasta $70.",
+    "link": "https://www.ambito.com/economia/oficializaron-el-aumento-jubilaciones-y-asignaciones-anses-agosto-bono-70000-quienes-cobran-y-cuanto-es-el-haber-minimo-n6305116",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La inversión se hundió 7,6% en el primer semestre y no hay señales claras de un rebote para el fin de año",
+    "slug": "la-inversion-se-hundio-76-en-el-primer-semestre-y-no-hay-sen",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Un indicador exhibió que la inversión sumó su octava baja interanual al hilo.  Los especialistas advierten que el Súper RIGI no alcanzará para que haya una recuperación extendida a toda la economía.",
     "link": "https://www.ambito.com/economia/la-inversion-se-hundio-76-el-primer-semestre-y-no-ven-senales-claras-un-rebote-el-fin-ano-n6305012",
     "source": "Ámbito",
     "tags": [
@@ -15,74 +94,12 @@
     "related": []
   },
   {
-    "title": "Diálogos de Wall Street: la Fed mantuvo las tasas, pero el mercado leyó otra cosa, ¿qué inquietó a los inversores?",
-    "slug": "dialogos-de-wall-street-la-fed-mantuvo-las-tasas-pero-el-mer",
-    "category": "economia",
-    "date": "2026-07-30",
-    "summary": "La Fed mantuvo las tasas, pero Kevin Warsh debió enfrentar tres votos en disidencia.  A contramano, las tasas largas subieron en el mercado de bonos.",
-    "link": "https://www.ambito.com/economia/dialogos-wall-street-la-fed-mantuvo-las-tasas-y-el-mercado-respondio-una-baja-generalizada-n6305057",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las inquietudes de Kristalina Georgieva sobre el rumbo de la economía argentina",
-    "slug": "las-inquietudes-de-kristalina-georgieva-sobre-el-rumbo-de-la",
-    "category": "economia",
-    "date": "2026-07-30",
-    "summary": "La titular del FMI se mostró muy confiada en la firmeza del presidente Javier Milei en defender el equilibrio fiscal.  Indago sobre el tipo de cambio y manifestó su preocupación por la informalidad de la economía.",
-    "link": "https://www.ambito.com/economia/las-inquietudes-kristalina-georgieva-n6305078",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Franquicia en dólares: qué productos se pueden ingresar al país sin pagar aranceles",
-    "slug": "franquicia-en-dolares-que-productos-se-pueden-ingresar-al-pa",
-    "category": "economia",
-    "date": "2026-07-30",
-    "summary": "Antes de regresar desde otro destino, conviene revisar las reglas vigentes para evitar cargos inesperados durante el control aduanero.",
-    "link": "https://www.ambito.com/economia/franquicia-dolares-que-productos-se-pueden-ingresar-al-pais-pagar-aranceles-n6304306",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El economista que más escucha Javier Milei alertó por \"bolsones de desempleo y pobreza\" en el Gran Buenos Aires",
-    "slug": "el-economista-que-mas-escucha-javier-milei-alerto-por-bolson",
-    "category": "economia",
-    "date": "2026-07-30",
-    "summary": "Durante un webinar, Ricardo Arriazu sostuvo que la apertura económica reconfigurará el mapa productivo del país, defendió el equilibrio fiscal como la principal fortaleza del progr",
-    "link": "https://www.ambito.com/economia/el-economista-que-mas-escucha-javier-milei-alerto-bolsones-desempleo-y-pobreza-el-gran-buenos-aires-n6305088",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 30 de julio",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "Dólar hoy: a cuánto cotiza este jueves 30 de julio",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-30-de-julio",
     "category": "economia",
     "date": "2026-07-30",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-30-julio-n6305129",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-30-julio-n6305104",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -109,12 +126,27 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este jueves 30 de julio",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-30-de-julio",
+    "title": "Las acciones de Nvidia suben, mientras se expande hacia la inversión en infraestructura global de IA",
+    "slug": "las-acciones-de-nvidia-suben-mientras-se-expande-hacia-la-in",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Mientras sus acciones cotizan al alza, Nvidia usa su capital para acelerar infraestructura de IA mediante inversiones y apoyo crediticio.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/finanzas/las-acciones-nvidia-suben-mientras-se-expande-la-inversion-infraestructura-global-ia-n6305366",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 30 de julio",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
     "date": "2026-07-30",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-30-julio-n6305104",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-30-julio-n6305129",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -125,13 +157,79 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este jueves 30 de julio",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-jueves-30-de-j",
+    "title": "Dólares del colchón: los FCI ganan terreno como opción de inversión tras la Ley de Inocencia Fiscal",
+    "slug": "dolares-del-colchon-los-fci-ganan-terreno-como-opcion-de-inv",
     "category": "economia",
     "date": "2026-07-30",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-jueves-30-julio-n6305050",
+    "summary": "Los FCI permiten que el dinero de miles de inversores sea administrado por especialistas que invierten en distintos activos según el objetivo del fondo.",
+    "link": "https://www.ambito.com/finanzas/dolares-del-colchon-los-fci-ganan-terreno-como-opcion-inversion-la-ley-inocencia-fiscal-n6303709",
     "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar mayorista vuelve a caer y recorta la brecha con los financieros",
+    "slug": "el-dolar-mayorista-vuelve-a-caer-y-recorta-la-brecha-con-los",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "El tipo de cambio se enfila a cerrar el mes en terreno positivo y el blue se consolidó como la segunda cotización más alta del mercado.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-oficial-primera-vez-una-semana-pero-el-blue-se-mantuvo-firme-y-se-amplio-la-brecha-al-5-n6305137",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "brecha"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El ranking mundial de reservas internacionales y el dominio de Asia: qué países lideran el podio",
+    "slug": "el-ranking-mundial-de-reservas-internacionales-y-el-dominio-",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Ocho de los diez mayores poseedores de reservas del mundo se encuentran en el continente asiático tras décadas de crecimiento impulsado por las exportaciones.  Las lecciones que dejó la crisis financiera de fines de los '90.",
+    "link": "https://www.ambito.com/finanzas/el-ranking-mundial-reservas-internacionales-y-el-dominio-asia-que-paises-lideran-el-podio-n6305247",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar bajó por segundo día y el mayorista se alejó del techo de 1.500 pesos",
+    "slug": "el-dolar-bajo-por-segundo-dia-y-el-mayorista-se-alejo-del-te",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Tras la absorción de pesos por la licitación del Tesoro, el tipo de cambio oficial retrocedió a $1. 488.",
+    "link": "https://www.infobae.com/economia/2026/07/30/el-dolar-bajo-por-segundo-dia-y-el-mayorista-se-alejo-del-techo-de-1500-pesos/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Pop-Up de Harry Styles en CDMX: fechas, horarios y cómo acceder a la tienda exclusiva",
+    "slug": "pop-up-de-harry-styles-en-cdmx-fechas-horarios-y-como-accede",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Te decimos todos los detalles para que no te pierdas la experiencia",
+    "link": "https://www.infobae.com/mexico/2026/07/30/pop-up-de-harry-styles-en-cdmx-fechas-horarios-y-como-acceder-a-la-tienda-exclusiva/",
+    "source": "Infobae",
     "tags": [
       "economía",
       "argentina"
@@ -140,29 +238,91 @@
     "related": []
   },
   {
-    "title": "Las anclas antes que la deuda: por qué el Gobierno deja pasar otra ventana para regresar a los mercados",
-    "slug": "las-anclas-antes-que-la-deuda-por-que-el-gobierno-deja-pasar",
+    "title": "Panorama Financiero | Milei busca blindar la calma financiera, pero bolsillo y empleo siguen débiles",
+    "slug": "panorama-financiero-milei-busca-blindar-la-calma-financiera-",
     "category": "economia",
     "date": "2026-07-30",
-    "summary": "Aunque el riesgo país se sostiene cerca de mínimos en casi una década, desde Economía consideran que aún no es el momento de salir a buscar financiamiento externo.",
-    "link": "https://www.ambito.com/finanzas/las-anclas-antes-que-la-deuda-que-el-gobierno-deja-pasar-otra-ventana-regresar-los-mercados-n6304503",
-    "source": "Ámbito Finanzas",
+    "summary": "El BCRA volvió a comprar dólares, el Tesoro renovó su deuda y Milei prepara una reforma, mientras el consumo y el empleo siguen débiles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/461158-panorama-financiero-milei-busca-blindar-la-calma-financiera-pero-bolsillo-y-empleo-siguen-debiles",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "deuda"
+      "milei"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Interior responde a Ceuta:no se puede activar la emergencia nacional por crisis migratoria",
-    "slug": "interior-responde-a-ceutano-se-puede-activar-la-emergencia-n",
+    "title": "El sueldo más alto que cobra un empleado de comercio en agosto 2026",
+    "slug": "el-sueldo-mas-alto-que-cobra-un-empleado-de-comercio-en-agos",
     "category": "economia",
     "date": "2026-07-30",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/07/30/interior-responde-a-ceutano-se-puede-activar-la-emergencia-nacional-por-crisis-migratoria/",
-    "source": "Infobae",
+    "summary": "FAECyS cerró un esquema de aumentos trimestral.  Categoría por categoría, cuánto cobrará cada empleado de comerico en agosto 2026 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/management/461165-el-sueldo-mas-alto-que-cobra-un-empleado-de-comercio-en-agosto-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cobre, dólares y empleo, los números detrás del nuevo RIGI minero aprobada por el Gobierno",
+    "slug": "cobre-dolares-y-empleo-los-numeros-detras-del-nuevo-rigi-min",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "La resolución del Ministerio de Economía destraba beneficios fiscales por 30 años y fija desembolsos por US$ 2. 000 millones durante los primeros dos años.",
+    "link": "https://www.iprofesional.com/energia/461159-cobre-dolares-y-empleo-los-numeros-detras-del-nuevo-rigi-minero-aprobada-por-el-gobierno",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los drásticos cambios que habrá en el Banco Central y que anunciará Milei por cadena nacional",
+    "slug": "los-drasticos-cambios-que-habra-en-el-banco-central-y-que-an",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "La administración de Javier Milei impulsa cambios fundamentales en la regulación del Central, enfocando su marco legal y restringiendo atribuciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/461032-reforma-banco-central-milei-elimina-emision-tesoro-cambia-reglas-clave",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Esta inmobiliaria permite alquilar a quienes no tienen garantía ni recibo de sueldo",
+    "slug": "esta-inmobiliaria-permite-alquilar-a-quienes-no-tienen-garan",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Con 228. 000 viviendas vacías en CABA, lanzaron una inmobiliaria con un original enfoque para ampliar la oferta de alquileres y reducir barreras de acceso (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/461087-esta-inmobiliaria-permite-alquilar-a-quienes-no-tienen-garantia-ni-recibo-de-sueldo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Qué sueldo corresponde para las empleadas domésticas en agosto 2026, según la categoría",
+    "slug": "que-sueldo-corresponde-para-las-empleadas-domesticas-en-agos",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Siguen sin novedades las discusiones oficiales y el personal de casas particulares cobra el mismo sueldo mientras se mantienen a la espera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/management/461116-cual-sera-el-sueldo-de-una-empleada-domestica-en-agosto-de-2026-por-hora-dia-o-mes",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina"
@@ -183,6 +343,127 @@
       "argentina",
       "dólar",
       "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gigante de financiero advierte que la recesión le está pasando factura al equilibrio fiscal de Milei",
+    "slug": "gigante-de-financiero-advierte-que-la-recesion-le-esta-pasan",
+    "category": "economia",
+    "date": "2026-07-30",
+    "summary": "Con la recaudación desplomándose por la recesión, analistas advierten sobre el impacto en la sostenibilidad fiscal y el clima político local (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/461182-superavit-fiscal-argentino-bajo-amenaza-recaudacion-cae-ajuste-peligro-julio-2026",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El pulso del mercado: el precio de Midnight se debilita y podría extender su caída",
+    "slug": "el-pulso-del-mercado-el-precio-de-midnight-se-debilita-y-pod",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Midnight intenta recuperarse desde un soporte clave, pero las resistencias y el elevado posicionamiento alcista amenazan con prolongar su caída.  La entrada El pulso del mercado: el precio de Midnight se debilita y podría extender su caída se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/30/el-pulso-del-mercado-el-precio-de-midnight-se-debilita-y-podria-extender-su-caida-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿La expansión de los agentes de IA representa una colonización del biotiempo humano por parte de las grandes tecnológicas?",
+    "slug": "la-expansion-de-los-agentes-de-ia-representa-una-colonizacio",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Los agentes de IA prometen transformar la vida cotidiana, pero su expansión podría amenazar la privacidad, la autonomía y las relaciones humanas.  La entrada ¿La expansión de los agentes de IA representa una colonización del biotiempo humano por parte de las grandes tecnológicas?",
+    "link": "https://criptotendencia.com/2026/07/30/la-expansion-de-los-agentes-de-ia-representa-una-colonizacion-del-biotiempo-humano-por-parte-de-las-grandes-tecnologicas-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Silicon Valley protesta contra un posible veto a las empresas chinas de IA",
+    "slug": "silicon-valley-protesta-contra-un-posible-veto-a-las-empresa",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Las grandes compañías de Silicon Valley rechazan un posible veto de EE.  UU.",
+    "link": "https://criptotendencia.com/2026/07/30/silicon-valley-protesta-contra-un-posible-veto-a-las-empresas-chinas-de-ia-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las ballenas de XRP entran en fase de espera y el comercio pierde impulso",
+    "slug": "las-ballenas-de-xrp-entran-en-fase-de-espera-y-el-comercio-p",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Mientras el mercado de criptomonedas atraviesa una fase de incertidumbre, las ballenas de XRP reducen su actividad y permanecen a la espera.  La entrada Las ballenas de XRP entran en fase de espera y el comercio pierde impulso se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/30/las-ballenas-de-xrp-entran-en-fase-de-espera-y-el-comercio-pierde-impulso-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "CZ declara su apoyo a las memecoins y adelanta que podría comprar o vender algunas en las próximas semanas",
+    "slug": "cz-declara-su-apoyo-a-las-memecoins-y-adelanta-que-podria-co",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia CZ, fundador de Binance, expresó su apoyo a las memecoins y aclaró cómo su iniciativa Giggle Academy convierte los tokens donados en BNB para educación.  La entrada CZ declara su apoyo a las memecoins y adelanta que podría comprar o vender algunas en las próximas semanas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/30/cz-declara-su-apoyo-a-las-memecoins-y-adelanta-que-podria-comprar-o-vender-algunas-en-las-proximas-semanas/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aave anuncia una profunda reestructuración para optimizar su plataforma",
+    "slug": "aave-anuncia-una-profunda-reestructuracion-para-optimizar-su",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Aave prepara una profunda reestructuración para retirar mercados poco utilizados, concentrar la liquidez y mejorar la eficiencia del protocolo.  La entrada Aave anuncia una profunda reestructuración para optimizar su plataforma se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/30/aave-anuncia-una-profunda-reestructuracion-para-optimizar-su-plataforma-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Por qué las APIs de criptomonedas son esenciales para las aplicaciones Web3",
+    "slug": "por-que-las-apis-de-criptomonedas-son-esenciales-para-las-ap",
+    "category": "cripto",
+    "date": "2026-07-30",
+    "summary": "CriptoTendencia Descubre por qué las APIs de criptomonedas son esenciales para conectar redes, datos y activos, reducir costes y escalar aplicaciones Web3.  La entrada Por qué las APIs de criptomonedas son esenciales para las aplicaciones Web3 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/07/30/por-que-las-apis-de-criptomonedas-son-esenciales-para-las-aplicaciones-web3/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -233,169 +514,17 @@
     "related": []
   },
   {
-    "title": "Corea del Sur prepararía una ley única para ordenar el mercado de activos digitales",
-    "slug": "corea-del-sur-prepararia-una-ley-unica-para-ordenar-el-merca",
-    "category": "cripto",
-    "date": "2026-07-30",
-    "summary": "CriptoTendencia Corea del Sur avanza hacia una ley única para stablecoins y exchanges, mientras un proyecto opositor busca frenar el impuesto cripto de 2027.  La entrada Corea del Sur prepararía una ley única para ordenar el mercado de activos digitales se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/30/corea-del-sur-prepararia-una-ley-unica-para-ordenar-el-mercado-de-activos-digitales/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La CLARITY Act divide a Wall Street mientras el capital institucional pide reglas",
-    "slug": "la-clarity-act-divide-a-wall-street-mientras-el-capital-inst",
-    "category": "cripto",
-    "date": "2026-07-30",
-    "summary": "CriptoTendencia El respaldo institucional a la CLARITY Act expone quién gana y quién pierde cuando los activos digitales dejan de operar en el margen.  La entrada La CLARITY Act divide a Wall Street mientras el capital institucional pide reglas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/30/la-clarity-act-divide-a-wall-street-mientras-el-capital-institucional-pide-reglas/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los mercados de predicción de Robinhood ya superan al cripto",
-    "slug": "los-mercados-de-prediccion-de-robinhood-ya-superan-al-cripto",
-    "category": "cripto",
-    "date": "2026-07-30",
-    "summary": "CriptoTendencia Los mercados de predicción de Robinhood ya facturan más que el cripto: qué dice su Q2 récord sobre la Robinhood Chain.  La entrada Los mercados de predicción de Robinhood ya superan al cripto se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/30/los-mercados-de-prediccion-de-robinhood-ya-superan-al-cripto/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Zcash vuelve verificable su privacidad con Ironwood",
-    "slug": "zcash-vuelve-verificable-su-privacidad-con-ironwood",
-    "category": "cripto",
-    "date": "2026-07-30",
-    "summary": "CriptoTendencia Zcash activó Ironwood y la mayoría leyó mal la noticia: el cambio de fondo no es el pool nuevo, sino la prueba matemática que respalda su emisión.  La entrada Zcash vuelve verificable su privacidad con Ironwood se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/30/zcash-vuelve-verificable-su-privacidad-con-ironwood/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Monotributo: una especialista escuchada por Luis Caputo propone restablecer a los \"responsables no inscriptos\"",
-    "slug": "monotributo-una-especialista-escuchada-por-luis-caputo-propo",
+    "title": "Cuántos argentinos ya se sumaron al régimen para usar los \"dólares del colchón\"",
+    "slug": "cuantos-argentinos-ya-se-sumaron-al-regimen-para-usar-los-do",
     "category": "economia",
     "date": "2026-07-29",
-    "summary": "Algunos profesionales sostienen que esta categoría intermedia, entre el monotributo y un autónomo del régimen general, podría ayudar a controlar la facturación apócrifa y aumentar",
-    "link": "https://www.ambito.com/economia/monotributo-una-tributarista-escuchada-luis-caputo-propone-restablecer-los-responsables-no-inscriptos-n6304942",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El plazo fijo sigue sin repuntar: lo que se gana al invertir $1.200.000",
-    "slug": "el-plazo-fijo-sigue-sin-repuntar-lo-que-se-gana-al-invertir-",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "Las tasas siguen bajas y los depósitos tradicionales mantienen un rendimiento acotado frente a otras alternativas.",
-    "link": "https://www.ambito.com/economia/el-plazo-fijo-sigue-repuntar-lo-que-se-gana-al-invertir-1200000-n6304795",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Qué es la Carta Orgánica del BCRA y cuáles son los cambios que impulsa Javier Milei con la reforma",
-    "slug": "que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-q",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "El gobierno libertario enviará un proyecto al Congreso para modificar la ley que regula el funcionamiento del BCRA.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/que-es-la-carta-organica-del-bcra-y-cuales-son-los-cambios-que-impulsa-javier-milei-la-reforma-n6304751",
-    "source": "Ámbito",
+    "summary": "El Régimen Simplificado de Ganancias aceleró su nivel de adhesión.  El Gobierno apuesta por Inocencia Fiscal para ampliar el universo de contribuyentes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/461109-cuantos-argentinos-se-sumaron-al-regimen-para-usar-dolares-del-colchon",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "milei",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Microsoft salta casi 8% tras superar las expectativas del mercado con el impulso del negocio de la nube",
-    "slug": "microsoft-salta-casi-8-tras-superar-las-expectativas-del-mer",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "La tecnológica registró ingresos y ganancias mayores a las previstas, mientras su negocio de nube aceleró el ritmo de expansión.  Además, el crecimiento del volumen contratado reforzó la percepción de que los desembolsos en centros de datos comienzan a traducirse en demanda futura.",
-    "link": "https://www.ambito.com/finanzas/microsoft-salta-casi-8-superar-las-expectativas-del-mercado-el-impulso-del-negocio-la-nube-n6305042",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alarma en Wall Street: el rendimiento del bono a 30 años se disparó a niveles previos a la crisis financiera de 2008",
-    "slug": "alarma-en-wall-street-el-rendimiento-del-bono-a-30-anos-se-d",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "Tras la decisión de la Reserva Federal de mantener sin cambios las tasas de interés, el mercado reforzó las apuestas a una suba en septiembre.  Según Bloomberg, el rendimiento del bono a 30 años superó máximos de casi dos décadas y Wall Street recalibró sus expectativas sobre la política monetaria.",
-    "link": "https://www.ambito.com/finanzas/alarma-wall-street-el-rendimiento-del-bono-30-anos-se-disparo-niveles-previos-la-crisis-financiera-2008-n6305068",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Uno de los economista más escuchados por Milei alertó qué puede pasar con la apertura económica",
-    "slug": "uno-de-los-economista-mas-escuchados-por-milei-alerto-que-pu",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "El especialista señala que la flexibilización de importaciones pone en riesgo empleo y puede disparar la fragmentación social en áreas urbanas clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/461107-uno-de-los-economista-preferidos-de-javier-milei-alerto-que-puede-pasar-con-apertura-economica",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Así quedaron las escalas de sueldos para empleados de comercio, tras la nueva paritaria",
-    "slug": "asi-quedaron-las-escalas-de-sueldos-para-empleados-de-comerc",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "La mejora salarial es del 5,7% por un trimestre.  Continúa la suma no remunerativa de $120.",
-    "link": "https://www.iprofesional.com/economia/461100-asi-quedaron-las-escalas-sueldos-para-empleados-de-comercio-tras-nueva-paritaria",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -407,7 +536,7 @@
     "date": "2026-07-29",
     "summary": "El impacto de la suba de costos y caída de flujo de caja disparó ventas masivas en la plaza bursátil pese a ingresos trimestrales récord de Meta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/461102-se-derrumban-acciones-de-duena-de-instagram-facebook-y-whatsapp-tras-un-flojo-balance",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -422,7 +551,7 @@
     "date": "2026-07-29",
     "summary": "Cada una de las tres IA eligió cinco acciones argentinas para invertir.  Doce ruedas después, medimos cuánto rindió cada cartera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/461027-le-pedimos-a-chatgpt-gemini-y-claude-que-inviertan-en-acciones-argentinas-y-asi-les-fue",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -437,28 +566,12 @@
     "date": "2026-07-29",
     "summary": "Tras la jornada tensa del martes, en la que el BCRA no compró divisas, volvió la calma al mercado y Caputo retiró liquidez por $3,77 billones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/461097-luis-caputo-paso-la-aspiradora-de-pesos-capto-dolares-baratos-y-paso-con-exito-otro-test-clave",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar",
       "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuántos argentinos ya se sumaron al régimen para usar los \"dólares del colchón\"",
-    "slug": "cuantos-argentinos-ya-se-sumaron-al-regimen-para-usar-los-do",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "El Régimen Simplificado de Ganancias aceleró su nivel de adhesión.  El Gobierno apuesta por Inocencia Fiscal para ampliar el universo de contribuyentes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/461109-cuantos-argentinos-se-sumaron-al-regimen-para-usar-dolares-del-colchon",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -476,99 +589,6 @@
       "argentina",
       "dólar",
       "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Revive un negocio clásico en la City tras suba del dólar blue y la ganancia toca récord en 6 meses",
-    "slug": "revive-un-negocio-clasico-en-la-city-tras-suba-del-dolar-blu",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "El billete informal trepa en julio 4% y supera a las otras referencias cambiarias.  Así, activó una operación para aprovechar esa diferencia y ganar dinero (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/461081-revive-negocio-clasico-en-la-city-tras-suba-del-dolar-blue-y-la-ganancia-toca-record",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La consultora de Eduardo Costantini da un giro estratégico y revela su nueva inversión estrella",
-    "slug": "la-consultora-de-eduardo-costantini-da-un-giro-estrategico-y",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "One618 reordenó sus inversiones y mostró un cambio de posicionamiento que refleja su nueva lectura sobre la economía argentina y los bonos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/460997-la-consultora-de-eduardo-costantini-da-un-giro-y-revela-su-nueva-inversion-estrella",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Fed mantuvo las tasas de interés sin cambios y advirtió por mayor presión inflacionaria",
-    "slug": "la-fed-mantuvo-las-tasas-de-interes-sin-cambios-y-advirtio-p",
-    "category": "economia",
-    "date": "2026-07-29",
-    "summary": "La Reserva Federal mantuvo sin modificaciones la tasa de interés de referencia en el rango de 3,50 a 3,75%, en una decisión que dividió al Comité (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/461076-la-fed-mantuvo-las-tasas-de-interes-sin-cambios-y-advirtio-por-una-inflacion-elevada",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Banco de Rusia presenta un sistema de custodia regulada para criptomonedas antes de su nueva ley",
-    "slug": "banco-de-rusia-presenta-un-sistema-de-custodia-regulada-para",
-    "category": "cripto",
-    "date": "2026-07-29",
-    "summary": "CriptoTendencia Rusia avanza en la regulación de las criptomonedas mediante un sistema de custodia supervisada y nuevas exigencias para las empresas.  La entrada Banco de Rusia presenta un sistema de custodia regulada para criptomonedas antes de su nueva ley se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/29/banco-de-rusia-presenta-un-sistema-de-custodia-regulada-para-criptomonedas-antes-de-su-nueva-ley-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las acciones tokenizadas de Binance alcanzan 500 millones en siete semanas y la generación Z lidera la demanda",
-    "slug": "las-acciones-tokenizadas-de-binance-alcanzan-500-millones-en",
-    "category": "cripto",
-    "date": "2026-07-29",
-    "summary": "CriptoTendencia Los bStocks de Binance superaron 500 millones en activos en siete semanas, con la generación Z liderando la demanda de acciones tokenizadas 24/7.  La entrada Las acciones tokenizadas de Binance alcanzan 500 millones en siete semanas y la generación Z lidera la demanda se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/29/las-acciones-tokenizadas-de-binance-alcanzan-500-millones-en-siete-semanas-y-la-generacion-z-lidera-la-demanda/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La Fed mantiene las tasas sin cambios y Warsh endurece el tono contra la inflación",
-    "slug": "la-fed-mantiene-las-tasas-sin-cambios-y-warsh-endurece-el-to",
-    "category": "cripto",
-    "date": "2026-07-29",
-    "summary": "CriptoTendencia La Fed mantuvo las tasas entre el 3,50% y el 3,75%, mientras Kevin Warsh reforzó su compromiso contra la inflación.  La entrada La Fed mantiene las tasas sin cambios y Warsh endurece el tono contra la inflación se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/07/29/la-fed-mantiene-las-tasas-sin-cambios-y-warsh-endurece-el-tono-contra-la-inflacion-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "inflación"
     ],
     "featured": false,
     "related": []
