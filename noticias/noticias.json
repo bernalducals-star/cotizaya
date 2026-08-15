@@ -1,5 +1,20 @@
 [
   {
+    "title": "El plazo fijo, cada vez más cuestionado: todo lo que tenés que saber sobre esta herramienta",
+    "slug": "el-plazo-fijo-cada-vez-mas-cuestionado-todo-lo-que-tenes-que",
+    "category": "economia",
+    "date": "2026-08-15",
+    "summary": "El rendimiento depende de la entidad elegida, el canal utilizado y el plazo acordado al momento de constituir la colocación.",
+    "link": "https://www.ambito.com/economia/el-plazo-fijo-cada-vez-mas-cuestionado-todo-lo-que-tenes-que-saber-esta-herramienta-n6310114",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "El Gobierno publicó el decreto que habilita los créditos en dólares para empresas que no generan divisas",
     "slug": "el-gobierno-publico-el-decreto-que-habilita-los-creditos-en-",
     "category": "economia",
@@ -7,6 +22,22 @@
     "summary": "La medida había sido anticipada por el ministro de Economía, Luis Caputo.  El nuevo régimen permitirá utilizar una parte de los depósitos en moneda extranjera para financiar a firmas que no tienen ingresos vinculados al comercio exterior.",
     "link": "https://www.ambito.com/economia/el-gobierno-publico-el-decreto-que-habilita-los-creditos-dolares-empresas-que-no-generan-divisas-n6311101",
     "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este sábado 15 de agosto",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-15-de-agosto",
+    "category": "economia",
+    "date": "2026-08-15",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-agosto-n6311119",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -32,12 +63,12 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este sábado 15 de agosto",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-15-de-agosto",
+    "title": "Créditos en dólares para las empresas: la city anticipa más oferta de divisas, pero advierte por el riesgo cambiario",
+    "slug": "creditos-en-dolares-para-las-empresas-la-city-anticipa-mas-o",
     "category": "economia",
     "date": "2026-08-15",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-agosto-n6311119",
+    "summary": "El Gobierno autorizó a los bancos a prestar hasta un 15% de sus depósitos en dólares a no exportadores para reactivar la economía, aunque analistas advierten sobre posibles riesgos",
+    "link": "https://www.ambito.com/finanzas/creditos-dolares-las-empresas-la-city-anticipa-mas-oferta-divisas-pero-advierte-el-riesgo-cambiario-n6310941",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -64,16 +95,95 @@
     "related": []
   },
   {
-    "title": "María Pérez y Paul McGrath, campeones de Europa de medio maratón de marcha",
-    "slug": "maria-perez-y-paul-mcgrath-campeones-de-europa-de-medio-mara",
+    "title": "La suba de la inflación le pegó al plazo fijo, pero sigue siendo más negocio que el dólar",
+    "slug": "la-suba-de-la-inflacion-le-pego-al-plazo-fijo-pero-sigue-sie",
     "category": "economia",
     "date": "2026-08-15",
-    "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/08/15/maria-perez-y-paul-mcgrath-campeones-de-europa-de-medio-maraton-de-marcha/",
-    "source": "Infobae",
+    "summary": "El dato del índice de precios al consumidor (IPC) de julio, que fue de 2,1%, deja a los depósitos en pesos en alerta, pero para adelante hay optimismo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462343-como-le-fue-al-plazo-fijo-como-inversion-frente-a-la-inflacion-y-el-dolar",
+    "source": "iProfesional",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bonos y acciones que pueden verse beneficiados por los créditos en dólares a las empresas",
+    "slug": "los-bonos-y-acciones-que-pueden-verse-beneficiados-por-los-c",
+    "category": "economia",
+    "date": "2026-08-15",
+    "summary": "Se habilitan los préstamos en dólares para empresas que no están en la cadena de la exportación.  Esto traerá más reservas, menos mora y más actividad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/462320-guru-de-la-city-revela-los-bonos-y-acciones-beneficiados-por-los-creditos-en-dolares",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La salida a bolsa de Unitree, la mayor apuesta por los humanoides de China",
+    "slug": "la-salida-a-bolsa-de-unitree-la-mayor-apuesta-por-los-humano",
+    "category": "cripto",
+    "date": "2026-08-15",
+    "summary": "CriptoTendencia Unitree recaudó 900 millones de dólares en su debut bursátil y ya cotiza a 4x ese precio en Hyperliquid, entre euforia minorista y dudas sobre sus humanoides.  La entrada La salida a bolsa de Unitree, la mayor apuesta por los humanoides de China se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/15/la-salida-a-bolsa-de-unitree-la-mayor-apuesta-por-los-humanoides-de-china/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El premio más importante empieza mañana",
+    "slug": "el-premio-mas-importante-empieza-manana",
+    "category": "cripto",
+    "date": "2026-08-15",
+    "summary": "CriptoTendencia Un premio reconoce lo hecho, pero obliga a más: en CriptoTendencia, la confianza del lector es el activo que sostiene todo el periodismo que viene.  La entrada El premio más importante empieza mañana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/15/el-premio-mas-importante-empieza-manana/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La otra factura de la IA: la energía y el agua detrás de cada consulta",
+    "slug": "la-otra-factura-de-la-ia-la-energia-y-el-agua-detras-de-cada",
+    "category": "cripto",
+    "date": "2026-08-15",
+    "summary": "CriptoTendencia La IEA prevé que los centros de datos dupliquen su consumo eléctrico hacia 2030, mientras el agua y el calor récord tensionan el debate ambiental.  La entrada La otra factura de la IA: la energía y el agua detrás de cada consulta se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/15/la-otra-factura-de-la-ia-la-energia-y-el-agua-detras-de-cada-consulta/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Siete errores que casi todos cometen al empezar en DeFi",
+    "slug": "siete-errores-que-casi-todos-cometen-al-empezar-en-defi",
+    "category": "cripto",
+    "date": "2026-08-15",
+    "summary": "CriptoTendencia Los errores más frecuentes al empezar en DeFi y cómo evitarlos: desde guardar mal tu frase de recuperación hasta perseguir rendimientos que se evaporan.  La entrada Siete errores que casi todos cometen al empezar en DeFi se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/15/siete-errores-que-casi-todos-cometen-al-empezar-en-defi/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -199,21 +309,6 @@
     "related": []
   },
   {
-    "title": "Los bancos podrían prestar u$s6.000 millones tras la nueva flexibilización, afirmó Federico Furiase",
-    "slug": "los-bancos-podrian-prestar-us6000-millones-tras-la-nueva-fle",
-    "category": "economia",
-    "date": "2026-08-14",
-    "summary": "El secretario de Finanzas destacó el impacto positivo que la iniciativa oficial podría tener sobre la economía, en particular el sector de la construcción.",
-    "link": "https://www.ambito.com/economia/los-bancos-podrian-prestar-us6000-millones-la-nueva-flexibilizacion-afirmo-federico-furiase-n6310800",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 14 de agosto",
     "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
@@ -242,22 +337,6 @@
       "argentina",
       "reservas",
       "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Morosidad: vence el plazo para que los bancos adhieran al plan de CABA para refinanciar deudas",
-    "slug": "morosidad-vence-el-plazo-para-que-los-bancos-adhieran-al-pla",
-    "category": "economia",
-    "date": "2026-08-14",
-    "summary": "Banco Ciudad, Santander, ICBC y Supervielle ya se sumaron al Programa de Desendeudamiento Familiar y Personal.  La iniciativa permite refinanciar deudas de tarjetas y préstamos en mora a un plazo mínimo de 24 meses y con una tasa fija de hasta 35% anual.",
-    "link": "https://www.ambito.com/finanzas/morosidad-vence-el-plazo-que-los-bancos-adhieran-al-plan-caba-refinanciar-deudas-n6310886",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
     ],
     "featured": false,
     "related": []
@@ -371,22 +450,6 @@
     "related": []
   },
   {
-    "title": "Bodega Norton responde a la imputación de directivos mientras registra deudas y cheques sin fondos",
-    "slug": "bodega-norton-responde-a-la-imputacion-de-directivos-mientra",
-    "category": "economia",
-    "date": "2026-08-14",
-    "summary": "La bodega atraviesa un momento financiero dramático y personal de peso enfrenta duras acusaciones de presunta estafa.  Acumula una deuda multimillonaria (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/vinos/462322-bodega-norton-responde-por-imputacion-de-directivos-y-enfrenta-deudas-y-cheques-sin-fondos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Subasta inversa, el nuevo modelo de licitación de YPF para abaratar las obras de Argentina LNG",
     "slug": "subasta-inversa-el-nuevo-modelo-de-licitacion-de-ypf-para-ab",
     "category": "economia",
@@ -440,68 +503,6 @@
     "date": "2026-08-14",
     "summary": "CriptoTendencia Un terremoto de magnitud 7,7 golpeó Indonesia cerca de Ende y activó alertas de tsunami en Nusa Tenggara y Sulawesi; sin víctimas confirmadas por ahora.  La entrada Terremoto de magnitud 7,7 sacude Indonesia y activa alertas de tsunami se publicó primero en CriptoTendencia.",
     "link": "https://criptotendencia.com/2026/08/14/terremoto-de-magnitud-77-sacude-indonesia-y-activa-alertas-de-tsunami/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen NFT: del impulso de $24 millones del Mundial 2026 al marco regulatorio de la FCA y alianzas clave",
-    "slug": "resumen-nft-del-impulso-de-24-millones-del-mundial-2026-al-m",
-    "category": "cripto",
-    "date": "2026-08-14",
-    "summary": "CriptoTendencia El Mundial 2026 impulsa $24 millones, FCA avanza en regulación del sector y destacan movimientos de LBank y Rarible.  La entrada Resumen NFT: del impulso de $24 millones del Mundial 2026 al marco regulatorio de la FCA y alianzas clave se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/14/resumen-nft-del-impulso-de-24-millones-del-mundial-2026-al-marco-regulatorio-de-la-fca-y-alianzas-clave-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin termina la semana en frío: qué revela el Termómetro de Mr. Market",
-    "slug": "bitcoin-termina-la-semana-en-frio-que-revela-el-termometro-d",
-    "category": "cripto",
-    "date": "2026-08-14",
-    "summary": "CriptoTendencia El Termómetro de Bitcoin marca 40/100 (frío): caída y salidas de ETF frente a un funding contenido y un Open Interest elevado.  La entrada Bitcoin termina la semana en frío: qué revela el Termómetro de Mr.",
-    "link": "https://criptotendencia.com/2026/08/14/bitcoin-termina-la-semana-en-frio-que-revela-el-termometro-de-mr-market/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Noruega no compró Bitcoin ni Ethereum, pero tiene casi 450 millones de dólares de exposición a cripto: así funciona",
-    "slug": "noruega-no-compro-bitcoin-ni-ethereum-pero-tiene-casi-450-mi",
-    "category": "cripto",
-    "date": "2026-08-14",
-    "summary": "CriptoTendencia El fondo soberano de Noruega tiene casi 450 millones de exposición a cripto, pero no posee Bitcoin ni Ethereum: los tiene a través de acciones de empresas.  La entrada Noruega no compró Bitcoin ni Ethereum, pero tiene casi 450 millones de dólares de exposición a cripto: así funciona se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/14/noruega-no-compro-bitcoin-ni-ethereum-pero-tiene-casi-450-millones-de-dolares-de-exposicion-a-cripto-asi-funciona/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Una estafa con anuncios falsos de Google habría costado $550.000 a un usuario de Hyperliquid",
-    "slug": "una-estafa-con-anuncios-falsos-de-google-habria-costado-5500",
-    "category": "cripto",
-    "date": "2026-08-14",
-    "summary": "CriptoTendencia Los anuncios maliciosos de Google vuelven a generar preocupación después de que un usuario de Hyperliquid perdiera cerca de $550. 000 en USDC.",
-    "link": "https://criptotendencia.com/2026/08/14/una-estafa-con-anuncios-falsos-de-google-habria-costado-550-000-a-un-usuario-de-hyperliquid-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
