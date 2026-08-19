@@ -1,11 +1,26 @@
 [
   {
-    "title": "La canasta de crianza subió por encima de la inflación en julio: cuánto cuesta mantener a un hijo",
-    "slug": "la-canasta-de-crianza-subio-por-encima-de-la-inflacion-en-ju",
+    "title": "Plazo fijo: cuánto ganás por mes si invertís US$ 1.000",
+    "slug": "plazo-fijo-cuanto-ganas-por-mes-si-invertis-us-1000",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "El costo mensual de criar a un niño se ubicó entre $545. 683 y $697.",
-    "link": "https://www.ambito.com/economia/la-canasta-crianza-subio-encima-la-inflacion-julio-cuanto-cuesta-mantener-un-hijo-n6312235",
+    "summary": "La ganancia depende de la tasa que ofrece cada entidad y del tiempo durante el cual se mantenga el dinero depositado.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-ganas-mes-si-invertis-us-1000-n6312429",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La inflación de la zona euro trepó al 2,9% en julio por el impacto de las subas en la energía",
+    "slug": "la-inflacion-de-la-zona-euro-trepo-al-29-en-julio-por-el-imp",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "El IPC se vio impulsado por la energía, mientras que en el Reino Unido escaló al mismo nivel tras el ajuste en las tarifas de los hogares.  El BCE prevé que la inflación ronde el 3% durante el resto del año.",
+    "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-trepo-al-29-julio-el-impacto-las-subas-la-energia-n6312386",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -16,17 +31,48 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este miércoles 19 de agosto",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-miercoles-19-de-agosto",
+    "title": "El Gobierno aprobó una línea de crédito de hasta u$s700 millones del BID",
+    "slug": "el-gobierno-aprobo-una-linea-de-credito-de-hasta-us700-millo",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-19-agosto-n6312251",
-    "source": "Ámbito Finanzas",
+    "summary": "La línea de crédito tendrá una vigencia de diez años y estará destinada a proyectos de inversión para modernizar la atención sanitaria.",
+    "link": "https://www.ambito.com/economia/el-gobierno-aprobo-una-linea-credito-us700-millones-del-bid-n6312292",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El BCRA reglamentó el crédito en dólares para empresas que no generan divisas: las claves y la letra chica de la normativa",
+    "slug": "el-bcra-reglamento-el-credito-en-dolares-para-empresas-que-n",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "La nueva normativa permite a los bancos destinar hasta el 15% de sus depósitos en moneda extranjera a financiar a personas jurídicas que no generan divisas.  La medida establece controles sobre la capacidad de pago y obliga a liquidar los fondos en el mercado cambiario oficial.",
+    "link": "https://www.ambito.com/economia/el-bcra-reglamento-el-credito-dolares-empresas-que-no-generan-divisas-las-claves-y-la-letra-chica-la-normativa-n6312261",
+    "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
-      "dólar"
+      "dólar",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Diálogos de Wall Street: el mercado no cree que la Fed aumente las tasas, mientras crece la tensión en Ormuz",
+    "slug": "dialogos-de-wall-street-el-mercado-no-cree-que-la-fed-aument",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "La Fed no va a subir sus tasas, pero las tasas largas trepan de vuelta.  La de 30 años alcanzó niveles que no pisaba desde casi dos décadas atrás.",
+    "link": "https://www.ambito.com/economia/dialogos-wall-street-el-mercado-no-cree-que-la-fed-aumente-las-tasas-mientras-crece-la-tension-ormuz-n6312197",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -48,60 +94,207 @@
     "related": []
   },
   {
-    "title": "Euro hoy y Euro blue hoy: a cuánto cotiza este miércoles 19 de agosto",
-    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotiza-este-miercoles-19-d",
+    "title": "Dólar hoy: a cuánto cotiza este miércoles 19 de agosto",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-miercoles-19-de-agosto",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
-    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotiza-este-miercoles-19-agosto-n6312162",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-19-agosto-n6312251",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El índice de estabilidad financiera cayó por cuarta semana seguida: cuáles fueron las tres principales razones",
-    "slug": "el-indice-de-estabilidad-financiera-cayo-por-cuarta-semana-s",
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 19 de agosto",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "El referencial, elaborado por la consultora Analytica, se mantuvo por debajo del promedio de 2026.  Las primeras señales de esta semana corta no son alentadoras.",
-    "link": "https://www.ambito.com/finanzas/el-indice-estabilidad-financiera-cayo-cuarta-semana-seguida-cuales-fueron-las-tres-principales-razones-n6312191",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-19-agosto-n6312269",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Canje de deuda dólar linked: el Tesoro tuvo una baja adhesión y persiste la presión por los vencimientos de fin de mes",
-    "slug": "canje-de-deuda-dolar-linked-el-tesoro-tuvo-una-baja-adhesion",
+    "title": "Los bonos soberanos rebotan y el riesgo país se toma un respiro por primera vez en lo que va de agosto",
+    "slug": "los-bonos-soberanos-rebotan-y-el-riesgo-pais-se-toma-un-resp",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "La Secretaría de Finanzas consiguió convertir el 34,12% del valor nominal en circulación de la LELINK D31G6, que vence a fin de mes.  La aceptación fue la menor entre las seis operaciones de este tipo abiertas al mercado durante 2026 y dejó la mayor parte de los compromisos todavía concentrados en agosto.",
-    "link": "https://www.ambito.com/finanzas/canje-deuda-dolar-linked-el-tesoro-tuvo-una-baja-adhesion-y-persiste-la-presion-los-vencimientos-fin-mes-n6312208",
+    "summary": "El rendimiento del bono del Tesoro estadounidense a 30 años alcanzó el martes 5,33%, su nivel más elevado en 19 años, lo que pesa en los activos de riesgo.",
+    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-mixtos-wall-street-y-el-riesgo-pais-se-ubica-encima-los-500-puntos-n6312359",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar oficial avanza a paso firme aunque se contiene en los $1.500, barrera impuesta por el Gobierno",
+    "slug": "el-dolar-oficial-avanza-a-paso-firme-aunque-se-contiene-en-l",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "El mayorista opera en $1. 497,5 y el mercado sigue de cerca las intervenciones del Banco Central y el Tesoro.",
+    "link": "https://www.ambito.com/finanzas/dolar-y-barrera-1500-cual-es-la-estrategia-oficial-que-vuelve-tensionar-las-tasas-y-el-mercado-n6312275",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Inflación, dólar y tasas: el BCRA dijo que seguirá el apretón monetario hasta que el IPC converja al nivel internacional",
+    "slug": "inflacion-dolar-y-tasas-el-bcra-dijo-que-seguira-el-apreton-",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "La autoridad monetaria se mostró optimista sobre la continuidad de la desinflación, aunque anticipó que mantendrá el sesgo contractivo de la política monetaria.  También ratificó las compras de reservas, defendió la reforma de la Carta Orgánica y explicó la reciente medida de flexibilización de los créditos en dólares.",
+    "link": "https://www.ambito.com/finanzas/inflacion-dolar-y-tasas-el-presidente-del-bcra-dijo-que-seguira-el-apreton-monetario-que-el-ipc-converja-al-nivel-internacional-n6312364",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar",
-      "deuda"
+      "inflación"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "El Gobierno boliviano respalda al ministro de Economía pese a ser censurado por la Asamblea",
-    "slug": "el-gobierno-boliviano-respalda-al-ministro-de-economia-pese-",
+    "title": "Inversión en cazas y pilotos de F-16 choca con salarios bajos de la Fuerza Aérea y la caída de FADEA",
+    "slug": "inversion-en-cazas-y-pilotos-de-f-16-choca-con-salarios-bajo",
     "category": "economia",
     "date": "2026-08-19",
-    "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/08/19/el-gobierno-boliviano-respalda-al-ministro-de-economia-pese-a-ser-censurado-por-la-asamblea/",
-    "source": "Infobae",
+    "summary": "La preparación de cada piloto exige hasta u$s5 millones, pero sus salarios no superan los $1,5 millones.  Los Hércules, afectados por falta de fondos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/negocios/462616-inversion-en-cazas-y-pilotos-de-f-16-choca-con-los-salarios-irrisorios-de-la-fuerza-aerea",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gremios que le ganaron a la inflación y los que perdieron, según el ranking oficial de paritarias",
+    "slug": "gremios-que-le-ganaron-a-la-inflacion-y-los-que-perdieron-se",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "Los datos oficiales dan cuenta de una desaceleración de la caída del trabajo registrado del sector privado en mayo y caída del salario medio en junio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/management/462609-ranking-oficial-de-paritarias-gremios-que-le-ganaron-a-la-inflacion-y-los-que-perdieron",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El plazo fijo de Banco Santander rinde más que el dólar: cuánto se gana si se invierten $2 millones",
+    "slug": "el-plazo-fijo-de-banco-santander-rinde-mas-que-el-dolar-cuan",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "Los depósitos en pesos ofrecen un rendimiento que está superando al avance del precio del billete estadounidense.  Cuánto ganás con $2 millones en 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462573-plazo-fijo-de-banco-santander-cuanto-se-gana-si-se-invierten-2-millones-pesos",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo invertir según tu edad en Argentina y no perder ni un peso en el intento",
+    "slug": "como-invertir-segun-tu-edad-en-argentina-y-no-perder-ni-un-p",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "La irrupción de las apps financieras, la pérdida de poder de compra del dólar y los costos y riesgos de otras opciones reconfiguraron los portafolios (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462567-como-armar-una-cartera-de-inversiones-segun-el-perfil-de-riesgo-y-la-edad",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Créditos en dólares: Bausili detalló qué empresas podrán acceder y cuánto podrán prestar los bancos",
+    "slug": "creditos-en-dolares-bausili-detallo-que-empresas-podran-acce",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "Las entidades podrán asistir a firmas sin ventas externas, aunque el máximo a prestar será un porcentaje limitado en relación a los depósitos exigibles (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462620-bausili-anticipo-empresas-podran-acceder-creditos-en-dolares-cual-sera-el-limite",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La estrategia en pesos favorita de la City paga más que el plazo fijo y las billeteras virtuales",
+    "slug": "la-estrategia-en-pesos-favorita-de-la-city-paga-mas-que-el-p",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "La caución volvió al centro de la escena y llegó a negociarse al 35,5%.  Cómo invertir en el instrumento que permite elegir vencimientos de uno a 120 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462551-la-caucion-rinde-mas-que-el-plazo-fijo-y-las-billeteras-virtuales-como-invertir",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El BCRA habilitó créditos en dólares para empresas sin divisas y fijó un límite del 15%",
+    "slug": "el-bcra-habilito-creditos-en-dolares-para-empresas-sin-divis",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "El BCRA amplió el acceso al crédito en dólares para empresas que no generan divisas.  Qué condiciones deberán cumplir y qué límite tendrán los bancos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462602-creditos-en-dolares-que-empresas-podran-acceder-y-cual-es-el-limite-que-fijo-el-bcra",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo banco por banco, el ranking de los que más y menos pagan",
+    "slug": "plazo-fijo-banco-por-banco-el-ranking-de-los-que-mas-y-menos",
+    "category": "economia",
+    "date": "2026-08-19",
+    "summary": "El Banco Central publicó el rendimiento actualizado de las principales entidades bancarias, para mediados de agosto, en depósitos por 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/462510-plazo-fijo-banco-por-banco-el-ranking-de-los-que-mas-y-menos-pagan",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -120,6 +313,111 @@
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Kalshi lanzará futuros perpetuos de índices bursátiles y cobre en Estados Unidos",
+    "slug": "kalshi-lanzara-futuros-perpetuos-de-indices-bursatiles-y-cob",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia Kalshi busca lanzar futuros perpetuos vinculados a índices bursátiles estadounidenses y al cobre, a la espera de la aprobación regulatoria.  La entrada Kalshi lanzará futuros perpetuos de índices bursátiles y cobre en Estados Unidos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/kalshi-lanzara-futuros-perpetuos-de-indices-bursatiles-y-cobre-en-estados-unidos-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aave continúa sufriendo las secuelas del hackeo a KelpDAO y su valor bloqueado cae un 43%",
+    "slug": "aave-continua-sufriendo-las-secuelas-del-hackeo-a-kelpdao-y-",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia Aave continúa sufriendo las consecuencias del hackeo a KelpDAO, mientras su TVL permanece un 43% por debajo de los niveles previos al ataque.  La entrada Aave continúa sufriendo las secuelas del hackeo a KelpDAO y su valor bloqueado cae un 43% se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/aave-continua-sufriendo-las-secuelas-del-hackeo-a-kelpdao-y-su-valor-bloqueado-cae-un-43-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La SEC prepara una regulación para las criptomonedas ante el vacío dejado por CLARITY",
+    "slug": "la-sec-prepara-una-regulacion-para-las-criptomonedas-ante-el",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia La SEC impulsa nuevas exenciones para criptomonedas mientras el proyecto CLARITY permanece estancado en el Congreso estadounidense.  La entrada La SEC prepara una regulación para las criptomonedas ante el vacío dejado por CLARITY se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/la-sec-prepara-una-regulacion-para-las-criptomonedas-ante-el-vacio-dejado-por-clarity-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street tras la apertura: Dow Jones acelera mientras la presión sobre los chips frena al Nasdaq",
+    "slug": "wall-street-tras-la-apertura-dow-jones-acelera-mientras-la-p",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia El Dow Jones lidera la apertura de Wall Street, mientras el Nasdaq pierde fuerza y Broadcom profundiza la presión sobre los chips.  La entrada Wall Street tras la apertura: Dow Jones acelera mientras la presión sobre los chips frena al Nasdaq se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/wall-street-tras-la-apertura-dow-jones-acelera-mientras-la-presion-sobre-los-chips-frena-al-nasdaq/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un estudio con 26.000 estudiantes revela la trampa de usar IA para hacer la tarea",
+    "slug": "un-estudio-con-26000-estudiantes-revela-la-trampa-de-usar-ia",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia Un estudio con 26. 811 estudiantes halló que usar IA para las tareas sube las notas un 18% pero hunde los exámenes un 20%.",
+    "link": "https://criptotendencia.com/2026/08/19/un-estudio-con-26-000-estudiantes-revela-la-trampa-de-usar-ia-para-hacer-la-tarea/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bybit rearma su seguridad con IA tras el hackeo de 2025 y frena $700 millones en pérdidas potenciales",
+    "slug": "bybit-rearma-su-seguridad-con-ia-tras-el-hackeo-de-2025-y-fr",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia Bybit rearma su seguridad con IA tras el hackeo de 2025: frenó $700 millones en pérdidas potenciales y detalla su defensa en tres niveles en el informe H1 2026.  La entrada Bybit rearma su seguridad con IA tras el hackeo de 2025 y frena $700 millones en pérdidas potenciales se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/bybit-rearma-su-seguridad-con-ia-tras-el-hackeo-de-2025-y-frena-700-millones-en-perdidas-potenciales/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Personaje de la Semana: Pablo Escobar y el país que intentó doblegar a sangre y fuego",
+    "slug": "el-personaje-de-la-semana-pablo-escobar-y-el-pais-que-intent",
+    "category": "cripto",
+    "date": "2026-08-19",
+    "summary": "CriptoTendencia Para proteger su fortuna de la extradición, Pablo Escobar le declaró la guerra a Colombia: magnicidios, un avión con 107 civiles y miles de muertos.  La entrada El Personaje de la Semana: Pablo Escobar y el país que intentó doblegar a sangre y fuego se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/19/el-personaje-de-la-semana-pablo-escobar-y-el-pais-que-intento-doblegar-a-sangre-y-fuego/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -161,350 +459,6 @@
     "date": "2026-08-19",
     "summary": "CriptoTendencia La política monetaria de la Reserva Federal redefine la liquidez global y condiciona el flujo de capital institucional hacia los activos digitales.  La entrada La Fed congela las tasas, pero la liquidez cripto ya está sintiendo el impacto se publicó primero en CriptoTendencia.",
     "link": "https://criptotendencia.com/2026/08/19/la-fed-congela-las-tasas-pero-la-liquidez-cripto-ya-esta-sintiendo-el-impacto/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cripto Latin Fest 2026 llega a Bogotá con un Business Day enfocado en la adopción institucional",
-    "slug": "cripto-latin-fest-2026-llega-a-bogota-con-un-business-day-en",
-    "category": "cripto",
-    "date": "2026-08-19",
-    "summary": "CriptoTendencia Cripto Latin Fest celebra su novena edición en Maloka, Bogotá, del 26 al 28 de agosto de 2026, con foco en negocios, regulación, tokenización e IA.  La entrada Cripto Latin Fest 2026 llega a Bogotá con un Business Day enfocado en la adopción institucional se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/19/cripto-latin-fest-2026-llega-a-bogota-con-un-business-day-enfocado-en-la-adopcion-institucional/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitpanda recibe la primera multa de la historia bajo el reglamento MiCA",
-    "slug": "bitpanda-recibe-la-primera-multa-de-la-historia-bajo-el-regl",
-    "category": "cripto",
-    "date": "2026-08-19",
-    "summary": "CriptoTendencia El regulador austríaco FMA sancionó a Bitpanda con 70. 000 euros por incumplir MiCA: fallas en los plazos del libro blanco y en sus comunicaciones de marketing.",
-    "link": "https://criptotendencia.com/2026/08/19/bitpanda-recibe-la-primera-multa-de-la-historia-bajo-el-reglamento-mica/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cobrá en dólares trabajando para el exterior: las mejores páginas para conseguir empleo remoto",
-    "slug": "cobra-en-dolares-trabajando-para-el-exterior-las-mejores-pag",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "Conoce los portales que conectan profesionales argentinos con empresas extranjeras que buscan talento para cubrir todo tipo de puesto.",
-    "link": "https://www.ambito.com/economia/cobra-dolares-trabajando-el-exterior-las-mejores-paginas-conseguir-empleo-remoto-n6311868",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ranking de inflación: qué provincias sufrieron los aumentos de precios más fuertes",
-    "slug": "ranking-de-inflacion-que-provincias-sufrieron-los-aumentos-d",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "La evolución de los precios mostró dinámicas muy heterogéneas a lo largo del país, con distritos que sobrepasaron el índice nacional, y otros dónde el IPC retrocedió.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/ranking-inflacion-que-provincias-sufrieron-los-aumentos-precios-mas-fuertes-n6311910",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Récord de importaciones de bienes de consumo: qué productos registraron subas de hasta 530%",
-    "slug": "record-de-importaciones-de-bienes-de-consumo-que-productos-r",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "En el primer semestre ingresaron bienes de consumo por u$s5. 362 millones, el mayor monto de la serie histórica.",
-    "link": "https://www.ambito.com/economia/record-importaciones-bienes-consumo-que-productos-registraron-subas-530-n6311906",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street: se hundieron las tecnológicas ante el salto de las tasas de los bonos estadounidenses",
-    "slug": "wall-street-se-hundieron-las-tecnologicas-ante-el-salto-de-l",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "Las acciones del sector tecnológico lideraron las caídas, mientras que los rendimientos de los bonos a largo plazo tocaron máximos de 2007 y los precios del petróleo continuaron su",
-    "link": "https://www.ambito.com/finanzas/los-mercados-globales-tambalean-las-nuevas-tensiones-medio-oriente-y-el-nerviosismo-los-bonos-n6311820",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar mayorista anotó su mayor suba en dos semanas y las tasas cortas en pesos superaron el 30% anual",
-    "slug": "el-dolar-mayorista-anoto-su-mayor-suba-en-dos-semanas-y-las-",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "Mientras el tipo de cambios sigue contenido, las tasas cortas en pesos volvieron a tensionarse.  El mercado detecta intervenciones oficiales para contener la cotización y los últimos relevamientos ubican al dólar cerca de $1.",
-    "link": "https://www.ambito.com/finanzas/dolar-el-gobierno-sostiene-la-barrera-cambiaria-y-la-city-proyecta-una-suba-moderada-fin-ano-n6311803",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Riesgo país subió y el mercado anticipa cómo puede impactar en el dólar e inversiones",
-    "slug": "riesgo-pais-subio-y-el-mercado-anticipa-como-puede-impactar-",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "El indicador que mide la confianza local alcanzó su nivel más alto desde el 26 de mayo, por lo que expertos detallan en qué invertir en este momento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/462556-subio-el-riesgo-pais-y-el-mercado-anticipa-como-puede-impactar-en-el-dolar-e-inversiones",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Empleados bancarios acordaron aumento de sueldo y cobrarán más de $2.500.000 entre básico y bono",
-    "slug": "empleados-bancarios-acordaron-aumento-de-sueldo-y-cobraran-m",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "Durante agosto seguirá el mismo mecanismo de actualización salarial y se retomará la negociación paritaria en la segunda quincena de septiembre próximoa (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/462549-aumento-de-sueldo-empleados-bancarios-cobraran-mas-de-2500000-pesos-entre-basico-y-bono",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La inflación mayorista perforó el 1% y Milei lo celebró: \"Al final julio empezó con cero\"",
-    "slug": "la-inflacion-mayorista-perforo-el-1-y-milei-lo-celebro-al-fi",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "De la mano de una caída en los precios del petróleo crudo y el gas, la inflación mayorista cedió y se ubicó en su nivel más bajo desde mayo de 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/462550-la-inflacion-mayorista-perforo-el-1-en-julio-y-milei-lo-celebro-empezo-con-cero",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "De eximir impuestos a estirar plazos, las propuestas del mercado para la crisis de morosidad",
-    "slug": "de-eximir-impuestos-a-estirar-plazos-las-propuestas-del-merc",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "Tras la negativa del Gobierno a intervenir en la crisis de deuda familiar, surgieron distintas propuestas que no implicarían un costo fiscal (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/462070-de-eximir-impuestos-a-estirar-plazos-las-propuestas-del-mercado-para-la-crisis-de-mora",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plan de crédito hipotecario: alcanza con el 4% del FGS y bancos prestarían al costo de un alquiler",
-    "slug": "plan-de-credito-hipotecario-alcanza-con-el-4-del-fgs-y-banco",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "El uso de los fondos del FGS permitiría recuperar el empleo perdido en la construcción y, además, contagiar a otros sectores.  La clave: UVA más tasa baja (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/462459-plan-de-credito-hipotecario-con-fondo-de-anses-bancos-prestarian-al-costo-de-un-alquiler",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las expensas en CABA aumentaron 26% en un año y quedaron 7,8 puntos debajo de la inflación",
-    "slug": "las-expensas-en-caba-aumentaron-26-en-un-ano-y-quedaron-78-p",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "La expensa promedio en la Ciudad bajó 0,6% en julio y quedó en $354. 652.",
-    "link": "https://www.iprofesional.com/realestate/462540-las-expensas-en-caba-subieron-un-26-en-un-ano-y-quedaron-por-debajo-de-la-inflacion",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El riesgo político avanza en la City y operadores advierten cautela en acciones y bonos en dólares",
-    "slug": "el-riesgo-politico-avanza-en-la-city-y-operadores-advierten-",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "La incertidumbre política pesa cada vez más en los activos argentinos.  El mercado espera la aparición de buenas señales que impulse un repunte (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/462462-el-riesgo-politico-avanza-en-la-city-y-operadores-advierten-cautela-para-invertir",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo banco por banco, el ranking de los que más y menos pagan",
-    "slug": "plazo-fijo-banco-por-banco-el-ranking-de-los-que-mas-y-menos",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "El Banco Central publicó el rendimiento actualizado de las principales entidades bancarias, para mediados de agosto, en depósitos por 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/462510-plazo-fijo-banco-por-banco-el-ranking-de-los-que-mas-y-menos-pagan",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El \"dólar Caputo\" ya es un 71% menor que los picos de Alberto Fernández como presidente",
-    "slug": "el-dolar-caputo-ya-es-un-71-menor-que-los-picos-de-alberto-f",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "La cotización actual del dólar marca una notable diferencia frente a los máximos históricos a valores corrientes de los años 2020 y 2023 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/462521-el-toto-dolar-ya-es-un-71-menor-que-los-picos-de-alberto-fernandez-como-presidente",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El peso argentino perdió 18,9% y quedó 38 puntos abajo de la moneda que más ganó",
-    "slug": "el-peso-argentino-perdio-189-y-quedo-38-puntos-abajo-de-la-m",
-    "category": "economia",
-    "date": "2026-08-18",
-    "summary": "El peso argentino perdió 18,9% frente al dólar en un año y quedó último entre las principales monedas, aunque en 2026 mostró una caída menor (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/462517-el-peso-argentino-perdio-casi-19-por-ciento-y-quedo-38-puntos-abajo-de-la-moneda-que-mas-gano",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "BitMart se refugia en un supuesto hackeo mientras crece la sospecha de insolvencia",
-    "slug": "bitmart-se-refugia-en-un-supuesto-hackeo-mientras-crece-la-s",
-    "category": "cripto",
-    "date": "2026-08-18",
-    "summary": "CriptoTendencia BitMart alega un hackeo y esquiva las demandas de auditoría mientras los usuarios siguen sin poder retirar sus fondos y crece la sospecha de insolvencia.  La entrada BitMart se refugia en un supuesto hackeo mientras crece la sospecha de insolvencia se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/18/bitmart-se-refugia-en-un-supuesto-hackeo-mientras-crece-la-sospecha-de-insolvencia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Kraken une acciones de EE.UU. y sus versiones tokenizadas en una sola cuenta regulada en Europa",
-    "slug": "kraken-une-acciones-de-eeuu-y-sus-versiones-tokenizadas-en-u",
-    "category": "cripto",
-    "date": "2026-08-18",
-    "summary": "CriptoTendencia Kraken habilita en el EEE más de 7. 000 acciones de EE.",
-    "link": "https://criptotendencia.com/2026/08/18/kraken-une-acciones-de-ee-uu-y-sus-versiones-tokenizadas-en-una-sola-cuenta-regulada-en-europa/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El pulso del mercado: BNB podría extender su caída si pierde el soporte de $600",
-    "slug": "el-pulso-del-mercado-bnb-podria-extender-su-caida-si-pierde-",
-    "category": "cripto",
-    "date": "2026-08-18",
-    "summary": "CriptoTendencia BNB se mantiene cerca de $600 mientras el mercado de futuros conserva un sesgo alcista moderado.  ¿Podrá defender el soporte y recuperar terreno?",
-    "link": "https://criptotendencia.com/2026/08/18/el-pulso-del-mercado-bnb-podria-extender-su-caida-si-pierde-el-soporte-de-600-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Nasdaq operará sus acciones casi las 24 horas desde diciembre y acorta la distancia con el mercado cripto",
-    "slug": "nasdaq-operara-sus-acciones-casi-las-24-horas-desde-diciembr",
-    "category": "cripto",
-    "date": "2026-08-18",
-    "summary": "CriptoTendencia Nasdaq sumará una sesión nocturna desde diciembre de 2026 y operará casi 23 horas al día, acercándose al modelo de mercado continuo que ofrece el cripto.  La entrada Nasdaq operará sus acciones casi las 24 horas desde diciembre y acorta la distancia con el mercado cripto se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/18/nasdaq-operara-sus-acciones-casi-las-24-horas-desde-diciembre-y-acorta-la-distancia-con-el-mercado-cripto/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Compound Finance se prepara para recuperar su posición en las DeFi mediante una profunda renovación",
-    "slug": "compound-finance-se-prepara-para-recuperar-su-posicion-en-la",
-    "category": "cripto",
-    "date": "2026-08-18",
-    "summary": "CriptoTendencia Compound Finance renueva su liderazgo y aprueba un presupuesto de $52 millones para recuperar protagonismo en las DeFi y atraer capital institucional.  La entrada Compound Finance se prepara para recuperar su posición en las DeFi mediante una profunda renovación se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/08/18/compound-finance-se-prepara-para-recuperar-su-posicion-en-las-defi-mediante-una-profunda-renovacion-2/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
