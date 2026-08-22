@@ -149,6 +149,60 @@
 .qr-label { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.4); margin-bottom: 4px; font-family: monospace; }
 .qr-url { font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.85); font-family: monospace; }
 .qr-hint { font-size: 10px; color: rgba(255,255,255,0.25); margin-top: 8px; line-height: 1.4; font-family: monospace; }
+
+/* Resumen Diario */
+.resumen-diario-card {
+  border-radius: 16px;
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(0,0,0,0.82) 0%, rgba(10,20,40,0.88) 100%),
+    url('assets/img/dolar-fondo.jpg') center/cover no-repeat;
+  border: 1px solid rgba(37,99,235,0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+  min-height: 160px;
+  display: flex;
+  align-items: stretch;
+}
+.resumen-diario-overlay {
+  padding: 28px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+.resumen-diario-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #60a5fa;
+  background: rgba(37,99,235,0.15);
+  border: 1px solid rgba(37,99,235,0.3);
+  border-radius: 20px;
+  padding: 4px 12px;
+  width: fit-content;
+}
+.resumen-diario-texto {
+  font-size: 16px;
+  line-height: 1.7;
+  color: rgba(255,255,255,0.92);
+  font-weight: 400;
+  margin: 0;
+  max-width: 780px;
+}
+.resumen-diario-fecha {
+  font-size: 11px;
+  color: rgba(255,255,255,0.3);
+  font-family: monospace;
+  letter-spacing: 0.05em;
+}
+@media (max-width: 600px) {
+  .resumen-diario-overlay { padding: 20px 18px; }
+  .resumen-diario-texto { font-size: 14px; }
+}
 </style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
 <script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "x59cz2mynz");</script>
@@ -243,10 +297,15 @@
     <!-- RESUMEN DE MERCADO -->
     <section id="resumen-mercado" class="section">
       <div class="section-header">
-        <h2>Resumen rápido del mercado</h2>
+        <h2>Resumen del día</h2>
+        <p class="section-subtitle">Análisis diario del mercado cambiario argentino.</p>
       </div>
-      <div class="card">
-        <p id="market-summary">Cargando resumen del mercado…</p>
+      <div class="resumen-diario-card">
+        <div class="resumen-diario-overlay">
+          <div class="resumen-diario-badge">📊 Cierre del mercado</div>
+          <p id="market-summary" class="resumen-diario-texto">Cargando resumen del mercado…</p>
+          <span class="resumen-diario-fecha" id="resumen-fecha"></span>
+        </div>
       </div>
     </section>
 
@@ -474,6 +533,27 @@
 
   <!-- Cache-buster para que no te tome el JS viejo en Netlify -->
  <script type="module" src="js/script.js?v=2"></script>
+<script>
+  (async function cargarResumenDiario() {
+    try {
+      const res = await fetch('/resumen-diario.json?t=' + Date.now());
+      if (!res.ok) throw new Error('No se pudo cargar el resumen');
+      const texto = await res.text();
+
+      if (texto && texto.trim().length > 0) {
+        document.getElementById('market-summary').textContent = texto.trim();
+      }
+
+      const fechaEl = document.getElementById('resumen-fecha');
+      if (fechaEl) {
+        const hoy = new Date().toLocaleDateString('es-AR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+        fechaEl.textContent = 'Actualizado: ' + hoy;
+      }
+    } catch (e) {
+      document.getElementById('market-summary').textContent = 'El resumen estará disponible al cierre del mercado.';
+    }
+  })();
+</script>
 
 <div class="qr-widget" id="qr-widget">
   <div class="qr-panel" id="qr-panel">
