@@ -150,13 +150,60 @@
 .qr-url { font-size: 13px; font-weight: 500; color: rgba(255,255,255,0.85); font-family: monospace; }
 .qr-hint { font-size: 10px; color: rgba(255,255,255,0.25); margin-top: 8px; line-height: 1.4; font-family: monospace; }
 
+/* En un vistazo */
+.vistazo-section { padding: 8px 0 16px; }
+.vistazo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+.vistazo-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: var(--shadow-soft);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.vistazo-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(0,0,0,.12);
+}
+.vistazo-label {
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--muted-text);
+  letter-spacing: .03em;
+  text-transform: uppercase;
+}
+.vistazo-valor {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -.5px;
+  line-height: 1.1;
+}
+.vistazo-sub {
+  font-size: .75rem;
+  color: var(--muted-text);
+}
+@media (max-width: 768px) {
+  .vistazo-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 400px) {
+  .vistazo-grid { grid-template-columns: 1fr; }
+}
+
 /* Resumen Diario */
 .resumen-diario-card {
   border-radius: 16px;
   overflow: hidden;
   background:
     linear-gradient(135deg, rgba(0,0,0,0.82) 0%, rgba(10,20,40,0.88) 100%),
-    url('assets/img/dolar-fondo.jpg') center/cover no-repeat;
+    url('assets/img/dolar-fondo.png') center/cover no-repeat;
   border: 1px solid rgba(37,99,235,0.25);
   box-shadow: 0 8px 32px rgba(0,0,0,0.45);
   min-height: 160px;
@@ -264,6 +311,32 @@
       </div>
     </section>
 
+
+    <!-- EN UN VISTAZO -->
+    <section class="section vistazo-section">
+      <div class="vistazo-grid">
+        <div class="vistazo-card">
+          <span class="vistazo-label">🔵 Dólar Blue</span>
+          <span class="vistazo-valor" id="vz_blue_venta">–</span>
+          <span class="vistazo-sub">venta</span>
+        </div>
+        <div class="vistazo-card">
+          <span class="vistazo-label">🏦 Dólar Oficial</span>
+          <span class="vistazo-valor" id="vz_oficial_venta">–</span>
+          <span class="vistazo-sub">venta</span>
+        </div>
+        <div class="vistazo-card">
+          <span class="vistazo-label">📈 Dólar MEP</span>
+          <span class="vistazo-valor" id="vz_mep_venta">–</span>
+          <span class="vistazo-sub">venta</span>
+        </div>
+        <div class="vistazo-card">
+          <span class="vistazo-label">🇪🇺 Euro</span>
+          <span class="vistazo-valor" id="vz_euro_venta">–</span>
+          <span class="vistazo-sub">venta</span>
+        </div>
+      </div>
+    </section>
 
     <!-- DÓLAR -->
     <section id="dolar" class="section">
@@ -534,6 +607,29 @@
   <!-- Cache-buster para que no te tome el JS viejo en Netlify -->
  <script type="module" src="js/script.js?v=2"></script>
 <script>
+  // En un vistazo — sincroniza desde IDs existentes
+  function sincronizarVistazo() {
+    const mapa = {
+      vz_blue_venta:    'usd_blue_venta',
+      vz_oficial_venta: 'usd_oficial_venta',
+      vz_mep_venta:     'usd_mep_venta',
+      vz_euro_venta:    'eur_oficial_venta'
+    };
+    Object.entries(mapa).forEach(([vzId, srcId]) => {
+      const src = document.getElementById(srcId);
+      const vz  = document.getElementById(vzId);
+      if (!src || !vz) return;
+      const observer = new MutationObserver(() => {
+        if (src.textContent && src.textContent !== '–') {
+          vz.textContent = src.textContent;
+        }
+      });
+      observer.observe(src, { childList: true, subtree: true, characterData: true });
+      if (src.textContent && src.textContent !== '–') vz.textContent = src.textContent;
+    });
+  }
+  document.addEventListener('DOMContentLoaded', sincronizarVistazo);
+
   (async function cargarResumenDiario() {
     try {
       const res = await fetch('/resumen-diario.json?t=' + Date.now());
