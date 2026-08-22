@@ -1,12 +1,19 @@
-[
+﻿[
   {
     "title": "Dos gobiernos, un mismo problema: con Milei se perdieron 241.020 empleos asalariados privados, camino al nivel de la crisis de Macri",
     "slug": "dos-gobiernos-un-mismo-problema-con-milei-se-perdieron-24102",
     "category": "economia",
+<<<<<<< Updated upstream
     "date": "2026-08-22",
     "summary": "Actualmente hay 140. 000 asalariados privados menos que en mayo de 2018, pero la baja desde noviembre de 2023 es similar a la que hubo entre mayo de 2018 y noviembre de 2019.",
     "link": "https://www.ambito.com/economia/dos-gobiernos-un-mismo-problema-milei-se-perdieron-241020-empleos-asalariados-privados-camino-al-nivel-la-crisis-macri-n6313518",
     "source": "Ámbito",
+=======
+    "date": "2026-09-01",
+    "summary": "Distintas mesas de la City revisaron sus bonos favoritos y marcaron cuáles quedaron en verde, cuáles generan dudas y cuáles conviene evitar 
+    "link": "https://www.iprofesional.com/finanzas/460795-nuevo-semaforo-de-bonos-de-la-city-revela-cuales-comprar-y-cuales-evitar",
+    "source": "iProfesional",
+>>>>>>> Stashed changes
     "tags": [
       "economía",
       "argentina",
@@ -180,6 +187,430 @@
     "tags": [
       "economía",
       "argentina",
+<<<<<<< Updated upstream
+=======
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo banco por banco, el ranking de los que más pagan",
+    "slug": "plazo-fijo-banco-por-banco-el-ranking-de-los-que-mas-pagan",
+    "category": "economia",
+    "date": "2026-08-02",
+    "summary": "El Banco Central publicó el rendimiento actualizado de las principales entidades bancarias, para comienzos de agosto, en depósitos por 30 días 
+    "link": "https://www.iprofesional.com/finanzas/461360-plazo-fijo-banco-por-banco-cual-es-el-ranking-de-los-que-mas-pagan",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bancos que permiten solicitar un crédito hipotecario con ingresos inferiores a $1.500.000",
+    "slug": "los-bancos-que-permiten-solicitar-un-credito-hipotecario-con",
+    "category": "economia",
+    "date": "2026-08-02",
+    "summary": "Qué bancos permiten iniciar el trámite con ingresos inferiores a $1. 500.",
+    "link": "https://www.iprofesional.com/finanzas/461263-que-bancos-permiten-solicitar-un-credito-hipotecario-con-ingresos-inferiores-a-1-500-000",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Emisión de bonos provinciales y corporativos suma más dólares que las exportaciones de Vaca Muerta",
+    "slug": "emision-de-bonos-provinciales-y-corporativos-suma-mas-dolare",
+    "category": "economia",
+    "date": "2026-08-02",
+    "summary": "Ocho distritos impulsan colocaciones en el exterior y generan entusiasmo oficial por el posible ingreso de más dólares a las reservas del país 
+    "link": "https://www.iprofesional.com/finanzas/461298-el-boom-de-bonos-ya-suma-mas-dolares-que-las-ventas-al-mundo-de-vaca-muerta",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Estas son las 5 mejores billeteras para el comercio en las DeFi",
+    "slug": "estas-son-las-5-mejores-billeteras-para-el-comercio-en-las-d",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia En este trabajo ofrecemos el top 5 de las mejores billeteras para el comercio en el sector de finanzas descentralizadas (DeFi).  La entrada Estas son las 5 mejores billeteras para el comercio en las DeFi se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/02/estas-son-las-5-mejores-billeteras-para-el-comercio-en-las-defi/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Calendario económico: Bitcoin se prepara para una desafiante semana",
+    "slug": "calendario-economico-bitcoin-se-prepara-para-una-desafiante-",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia En esta edición del calendario económico, se repasan los datos que podrían tener incidencia fuerte en el precio de Bitcoin y las altcoins.  La entrada Calendario económico: Bitcoin se prepara para una desafiante semana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/02/calendario-economico-bitcoin-se-prepara-para-una-desafiante-semana/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Latam Digital Assets Conf 2026: Argentina, epicentro de la innovación financiera",
+    "slug": "latam-digital-assets-conf-2026-argentina-epicentro-de-la-inn",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia El encuentro del sistema financiero digital.  Súmate a Latam Digital Assets Conf 2026 y analiza la tokenización, pagos y regulación.",
+    "link": "https://criptotendencia.com/2026/08/02/latam-digital-assets-conf-2026-argentina-epicentro-de-la-innovacion-financiera/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Apalancamiento en trading: qué es, cómo funciona y por qué exige cuidado",
+    "slug": "apalancamiento-en-trading-que-es-como-funciona-y-por-que-exi",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia El apalancamiento amplía tus ganancias, pero también tus pérdidas.  Qué es, cómo funciona y por qué un pequeño movimiento en contra puede liquidar tu cuenta.",
+    "link": "https://criptotendencia.com/2026/08/02/apalancamiento-en-trading-que-es-como-funciona-y-por-que-exige-cuidado/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La vez que Wikipedia declaró a Bitcoin «no relevante»",
+    "slug": "la-vez-que-wikipedia-declaro-a-bitcoin-no-relevante",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia En 2010 Wikipedia eliminó la entrada de Bitcoin por considerarlo irrelevante.  La ironía revela lo difícil que es reconocer una revolución a tiempo.",
+    "link": "https://criptotendencia.com/2026/08/02/la-vez-que-wikipedia-declaro-a-bitcoin-no-relevante/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Agosto, un mes decisivo para Bitcoin: ¿qué esperar de BTC?",
+    "slug": "agosto-un-mes-decisivo-para-bitcoin-que-esperar-de-btc",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia Bitcoin enfrenta un agosto decisivo.  Conoce los niveles clave de BTC, el impacto del IPC, la Fed, los ETF y los factores que podrían mover el precio.",
+    "link": "https://criptotendencia.com/2026/08/02/agosto-un-mes-decisivo-para-bitcoin-que-esperar-de-btc/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Deepfakes y voces clonadas: la próxima gran amenaza cripto según el CISO de Solana",
+    "slug": "deepfakes-y-voces-clonadas-la-proxima-gran-amenaza-cripto-se",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia Para el jefe de seguridad de Solana, la IA abarata y masifica el fraude, y la defensa debe asumir que tarde o temprano el usuario será engañado.  La entrada Deepfakes y voces clonadas: la próxima gran amenaza cripto según el CISO de Solana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/02/deepfakes-y-voces-clonadas-la-proxima-gran-amenaza-cripto-segun-el-ciso-de-solana/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Rusia prohíbe la minería cripto en Moscú y su región hasta 2032",
+    "slug": "rusia-prohibe-la-mineria-cripto-en-moscu-y-su-region-hasta-2",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia El Decreto Nº 936 veta la minería cripto en Moscú, su óblast y parte de Kursk hasta fines de 2032 para aliviar la presión sobre la red eléctrica rusa.  La entrada Rusia prohíbe la minería cripto en Moscú y su región hasta 2032 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/08/02/rusia-prohibe-la-mineria-cripto-en-moscu-y-su-region-hasta-2032/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Shelbit, el exchange de Dubái que movió 4.000 millones ligados a Irán",
+    "slug": "shelbit-el-exchange-de-dubai-que-movio-4000-millones-ligados",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia Shelbit operó sin licencia en Dubái y movió al menos 4. 000 millones de dólares conectando una red de apuestas iraní, el banco central y el IRGC.",
+    "link": "https://criptotendencia.com/2026/08/02/shelbit-el-exchange-de-dubai-que-movio-4-000-millones-ligados-a-iran/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La SEC congela las opciones de Bitcoin de Nasdaq tras la impugnación de CME",
+    "slug": "la-sec-congela-las-opciones-de-bitcoin-de-nasdaq-tras-la-imp",
+    "category": "cripto",
+    "date": "2026-08-02",
+    "summary": "CriptoTendencia La SEC suspende las opciones de Bitcoin QBTC de Nasdaq y revisará su aprobación tras el reclamo jurisdiccional de CME.  Plazo hasta el 24 de agosto.",
+    "link": "https://criptotendencia.com/2026/08/02/la-sec-congela-las-opciones-de-bitcoin-de-nasdaq-tras-la-impugnacion-de-cme/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un fondo de cobertura de un exinvestigador de OpenAI perdió el 67% en un mes tras el desplome de las acciones de IA",
+    "slug": "un-fondo-de-cobertura-de-un-exinvestigador-de-openai-perdio-",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Su líder, Leopol Aschenbrenner, admitió ante los inversores que el fondo atravesó su peor mes, aunque aseguró que mantiene una visión optimista sobre el sector.  La firma vendió gran parte de su cartera de acciones y redujo sus activos a cerca de u$s10.",
+    "link": "https://www.ambito.com/finanzas/el-fondo-del-exinvestigador-openai-perdio-el-67-un-mes-el-desplome-las-acciones-ia-n6305985",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: se pone a prueba el techo de $1.500 entre el fin de la racha compradora del BCRA y vencimientos de Lelink",
+    "slug": "dolar-se-pone-a-prueba-el-techo-de-1500-entre-el-fin-de-la-r",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Una fuerte ola de vencimientos generó un recalentamiento del mercado cambiario que obligó a la autoridad monetaria a cambiar de estrategia.",
+    "link": "https://www.ambito.com/finanzas/dolar-se-pone-prueba-el-techo-1500-el-fin-la-racha-compradora-del-bcra-y-vencimientos-lelink-n6305753",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: tras un mes casi estable, el mercado identifica un nuevo frente de riesgo para agosto",
+    "slug": "dolar-tras-un-mes-casi-estable-el-mercado-identifica-un-nuev",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Luego del pico estacional de la liquidación agraria, el Gobierno está decidido a sostener las principales anclas del programa económico.  Los analistas creen que vendrá una nueva etapa en el panorama cambiario, más dependiente de la coyuntura global.",
+    "link": "https://www.ambito.com/finanzas/dolar-un-mes-casi-estable-el-mercado-identifica-un-nuevo-frente-riesgo-agosto-n6305879",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Esta inmobiliaria permite alquilar a quienes no tienen garantía ni recibo de sueldo",
+    "slug": "esta-inmobiliaria-permite-alquilar-a-quienes-no-tienen-garan",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Con 228. 000 viviendas vacías en CABA, lanzaron una inmobiliaria con un original enfoque para ampliar la oferta de alquileres y reducir barreras de acceso 
+    "link": "https://www.iprofesional.com/realestate/461087-que-inmobiliaria-permite-alquilar-a-gente-que-no-tiene-garantia-ni-recibo-de-sueldo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las sugerencias de Redrado, expresidente del BCRA, para la reforma de la Carta Orgánica",
+    "slug": "las-sugerencias-de-redrado-expresidente-del-bcra-para-la-ref",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "El economista, que estuvo al frente del Banco Central entre 2004 y 2010, se sumó a la discusión sobre la reforma del Central y dejó su parecer 
+    "link": "https://www.iprofesional.com/economia/461343-las-sugerencias-de-redrado-expresidente-del-bcra-para-la-reforma-de-la-carta-organica",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Consultoras estiman que la inflación de julio podría mostrar un leve rebote",
+    "slug": "consultoras-estiman-que-la-inflacion-de-julio-podria-mostrar",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Tras el final del séptimo mes del año y luego de tres índices seguidos a la baja, especialistas creen que el IPC de julio podría ser algo superior a junio 
+    "link": "https://www.iprofesional.com/economia/461342-consultoras-estiman-que-la-inflacion-de-julio-podria-mostrar-un-leve-rebote",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Uno por uno, los gremios que cobrarán aumento de sueldo en agosto 2026",
+    "slug": "uno-por-uno-los-gremios-que-cobraran-aumento-de-sueldo-en-ag",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Comercio, Construcción, Peones Rurales y Aceiteros son algunos de los gremios importantes que cobrarán en agosto aumentos de sueldo por paritarias 
+    "link": "https://www.iprofesional.com/management/461239-uno-por-uno-gremios-cobraran-aumento-de-sueldo-agosto-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los 6 aspectos clave del proyecto de reforma de la carta orgánica del BCRA",
+    "slug": "los-6-aspectos-clave-del-proyecto-de-reforma-de-la-carta-org",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "El proyecto busca cambiar la gestión del BCRA para reforzar su independencia y limitar la intervención estatal en la política monetaria 
+    "link": "https://www.iprofesional.com/economia/461320-los-6-aspectos-clave-del-proyecto-de-reforma-de-carta-organica-del-bcra",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El haber que cobra un jubilado en Argentina con 30 años de aportes en 2026",
+    "slug": "el-haber-que-cobra-un-jubilado-en-argentina-con-30-anos-de-a",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "El aumento de las jubilaciones en agosto estará en línea con la inflación oficial de junio, y además, los mayores cobrarán un bono 
+    "link": "https://www.iprofesional.com/management/460959-cuanto-cobra-jubilado-con-30-anos-de-aportes-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "The Economist elogió la reforma del BCRA de Milei pero advirtió que podría pasar en el futuro",
+    "slug": "the-economist-elogio-la-reforma-del-bcra-de-milei-pero-advir",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "La revista británica resaltó el intento de blindar la autonomía financiera mientras remarca riesgos institucionales y dudas sobre su futuro político 
+    "link": "https://www.iprofesional.com/finanzas/461324-the-economist-elogio-reforma-bcra-de-milei-pero-advirtio-que-podria-pasar-en-futuro",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las claves que determinarán el rumbo del dólar en la región en los próximos meses, según experta",
+    "slug": "las-claves-que-determinaran-el-rumbo-del-dolar-en-la-region-",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Analista advierte que la volatilidad cambiaria y la política monetaria de Estados Unidos serán claves para el rumbo financiero de América Latina 
+    "link": "https://www.iprofesional.com/finanzas/461327-claves-que-determinaran-rumbo-dolar-america-latina-proximos-meses-2026-y-2027-segun-experta",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Caputo hizo negocio al vender dólares a $1.500, pero la jugada abrió un debate en el mercado",
+    "slug": "caputo-hizo-negocio-al-vender-dolares-a-1500-pero-la-jugada-",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Una semana de volatilidad financiera terminó con baja del dólar y tasas de interés.  Caputo celebra la ganancia, pero en los bancos critican la estrategia 
+    "link": "https://www.iprofesional.com/finanzas/461301-caputo-hizo-negocio-al-vender-dolares-a-1-500-y-la-jugada-abrio-un-debate-en-la-city",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "En qué bonos y acciones posicionarse en agosto con un dólar que por ahora encontró su techo",
+    "slug": "en-que-bonos-y-acciones-posicionarse-en-agosto-con-un-dolar-",
+    "category": "economia",
+    "date": "2026-08-01",
+    "summary": "Mientras el Gobierno apuesta a fortalecer la credibilidad, el mercado aún ofrece buenas oportunidades en acciones y en instrumentos en pesos 
+    "link": "https://www.iprofesional.com/finanzas/461299-en-que-bonos-y-acciones-recomienda-invertir-guru-de-la-city-con-un-dolar-otra-vez-calmo",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El S&P Merval en dólares rebotó 3% en julio, pero el riesgo país cortó su racha bajista de tres meses",
+    "slug": "el-sp-merval-en-dolares-reboto-3-en-julio-pero-el-riesgo-pai",
+    "category": "economia",
+    "date": "2026-07-31",
+    "summary": "La acumulación de reservas del BCRA, el rollover pleno del Tesoro y el impulso de las energéticas sostuvieron a las acciones argentinas.  En cambio, los bonos soberanos quedaron a contramano de la mejora crediticia y el riesgo país volvió a subir por primera vez desde abril.",
+    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-leves-bajas-y-caen-los-adrs-mientras-wall-street-se-da-vuelta-n6305697",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+>>>>>>> Stashed changes
       "riesgo país"
     ],
     "featured": false,
@@ -189,6 +620,7 @@
     "title": "Las reservas alcanzaron un récord en siete años, pese a que las compras del BCRA perdieron impulso",
     "slug": "las-reservas-alcanzaron-un-record-en-siete-anos-pese-a-que-l",
     "category": "economia",
+<<<<<<< Updated upstream
     "date": "2026-08-21",
     "summary": "El stock bruto subió u$s313 millones y cerró en u$s50. 655 millones, impulsado por una nueva mejora del oro.",
     "link": "https://www.ambito.com/finanzas/las-reservas-alcanzaron-un-record-siete-anos-pese-que-las-compras-del-bcra-perdieron-impulso-n6313535",
@@ -367,6 +799,11 @@
     "date": "2026-08-21",
     "summary": "El valor real del dólar se ubica en mínimos de diez años y los analistas de la City evalúan el impacto del atraso cambiario en la economía (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/462747-el-dolar-quedo-muy-barato-y-su-valor-real-es-el-mas-bajo-en-10-anos",
+=======
+    "date": "2026-07-31",
+    "summary": "El balance cambiario de junio dejó el tercer superávit consecutivo en cuenta corriente.  La compra de dólares de ahorristas subió poco frente a mayo 
+    "link": "https://www.iprofesional.com/finanzas/461308-ahorristas-compraron-us2400-millones-junio-2026-pero-caputo-celebra-que-entran-mas-dolares-de-los-que-salen",
+>>>>>>> Stashed changes
     "source": "iProfesional Finanzas",
     "tags": [
       "economía",
