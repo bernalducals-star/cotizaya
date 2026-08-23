@@ -155,18 +155,39 @@ async function main() {
     return true;
   });
 
-  const final = deduped
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, MAX_ITEMS);
+  const fresh = deduped.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const outDir = path.resolve("noticias");
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-
   const outPath = path.join(outDir, "noticias.json");
-  fs.writeFileSync(outPath, JSON.stringify(final, null, 2), "utf-8");
 
-  console.log(`✅ ${final.length} noticias guardadas en ${outPath}`);
-  final.forEach(n => console.log(`   • [${n.category}] ${n.title}`));
+  // Si no hay noticias nuevas, preservar el archivo existente
+  if (fresh.length === 0) {
+    console.log("⚠️  Sin artículos nuevos — noticias.json sin cambios.");
+    return;
+  }
+
+  // Leer noticias existentes para mergear
+  let existing = [];
+  if (fs.existsSync(outPath)) {
+    try {
+      existing = JSON.parse(fs.readFileSync(outPath, "utf-8"));
+      if (!Array.isArray(existing)) existing = [];
+    } catch {
+      existing = [];
+    }
+  }
+
+  // Slugs de los nuevos para deduplicar contra existentes
+  const freshSlugs = new Set(fresh.map(n => n.slug));
+  const merged = [
+    ...fresh,
+    ...existing.filter(n => !freshSlugs.has(n.slug))
+  ].slice(0, MAX_ITEMS);
+
+  fs.writeFileSync(outPath, JSON.stringify(merged, null, 2), "utf-8");
+  console.log(`✅ ${merged.length} noticias guardadas (${fresh.length} nuevas + ${merged.length - fresh.length} preservadas)`);
+  fresh.forEach(n => console.log(`   • [${n.category}] ${n.title}`));
 }
 
 main().catch(e => {
