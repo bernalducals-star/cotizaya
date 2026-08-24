@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,6 +46,18 @@
       --display:  'Syne', sans-serif;
       --body:     'DM Sans', sans-serif;
       --mono:     'DM Mono', monospace;
+    }
+
+    [data-theme="light"] {
+      --bg:       #f5f6f8;
+      --bg2:      #ffffff;
+      --bg3:      #eef0f3;
+      --bg4:      #e4e8ed;
+      --border:   #dde1e7;
+      --border2:  #c8cdd6;
+      --text:     #111418;
+      --text2:    #4a5568;
+      --text3:    #718096;
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -532,6 +544,17 @@
     }
   </style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9801320510437563" crossorigin="anonymous"></script>
+
+  <!-- Anti-flash dark mode -->
+  <script>
+    (function() {
+      var THEME_KEY = "cotizaya_theme_v1";
+      var saved = localStorage.getItem(THEME_KEY);
+      var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var theme = saved || (prefersDark ? "dark" : "light");
+      if (theme === "dark") document.documentElement.setAttribute("data-theme", "dark");
+    })();
+  </script>
 </head>
 <body>
 
@@ -542,7 +565,8 @@
       <a href="/">Inicio</a>
       <a href="/conversor-euro-peso">€ Euro</a>
       <a href="/noticia.html">Noticias</a>
-    </nav>
+    <button id="theme-toggle" style="background:none;border:none;cursor:pointer;padding:6px;display:flex;align-items:center;color:inherit;" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
+</nav>
   </header>
 
   <!-- Hero -->

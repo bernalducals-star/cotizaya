@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html>
-<html lang="es">
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,6 +24,14 @@
       --font-display: 'Georgia', 'Times New Roman', serif;
       --font-body: system-ui, -apple-system, sans-serif;
       --font-mono: 'SF Mono', 'Fira Code', monospace;
+    }
+
+    [data-theme="light"] {
+      --c-bg:      #f5f6f8;
+      --c-surface: #ffffff;
+      --c-border:  #dde1e7;
+      --c-text:    #111418;
+      --c-muted:   #4a5568;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -348,14 +356,26 @@
       margin-bottom: 12px;
     }
   </style>
+
+  <!-- Anti-flash dark mode -->
+  <script>
+    (function() {
+      var THEME_KEY = "cotizaya_theme_v1";
+      var saved = localStorage.getItem(THEME_KEY);
+      var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var theme = saved || (prefersDark ? "dark" : "light");
+      if (theme === "dark") document.documentElement.setAttribute("data-theme", "dark");
+    })();
+  </script>
 </head>
 <body>
   <div id="loading-bar"></div>
 
   <div class="page-wrap">
 
-    <header class="site-header">
+    <header class="site-header" style="display:flex;align-items:center;justify-content:space-between;">
       <a href="/">← CotizaYa</a>
+      <button id="theme-toggle" style="background:none;border:none;cursor:pointer;padding:6px;display:flex;align-items:center;color:inherit;" aria-label="Cambiar tema"><span id="theme-icon"></span></button>
     </header>
 
     <section class="hero">
