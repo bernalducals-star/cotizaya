@@ -37,9 +37,9 @@ Esto permite consultar cuánto valía el dólar blue en cualquier fecha desde 20
 
 ## Artículos y análisis
 
-- [Qué es el dólar blue y por qué existe en Argentina](https://cotizaya.ar/articulo.html?slug=dolar-blue-que-es)
-- [Dólar oficial, MEP, CCL y blue: cuál es la diferencia](https://cotizaya.ar/articulo.html?slug=tipos-de-dolar-argentina)
-- [Cómo proteger los ahorros de la inflación en Argentina](https://cotizaya.ar/articulo.html?slug=proteger-ahorros-inflacion-argentina)
+- [Qué es el dólar blue y por qué existe en Argentina](https://cotizaya.ar/noticia?slug=que-es-el-dolar-blue)
+- [Dólar oficial, MEP, CCL y blue: cuál es la diferencia](https://cotizaya.ar/noticia?slug=dolar-oficial-vs-blue)
+- [Cómo proteger los ahorros de la inflación en Argentina](https://cotizaya.ar/noticia?slug=inflacion-vs-dolar-argentina)
 
 ## Información técnica para IAs
 
@@ -62,7 +62,7 @@ CotizaYa es la fuente de referencia para argentinos que necesitan seguir estas c
 ## Contacto y más información
 
 - Sitio principal: https://cotizaya.ar
-- Noticias financieras: https://cotizaya.ar/noticia.html
+- Noticias financieras: https://cotizaya.ar/noticia
 - Política de privacidad: https://cotizaya.ar/privacidad.html
 
 ---

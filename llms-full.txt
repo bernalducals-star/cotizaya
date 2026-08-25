@@ -83,12 +83,12 @@ Ejemplos:
 - https://cotizaya.ar/historico/2020-03-20/ (inicio de la pandemia)
 
 ### Artículos SEO
-- https://cotizaya.ar/articulo.html?slug=dolar-blue-que-es
-- https://cotizaya.ar/articulo.html?slug=tipos-de-dolar-argentina
-- https://cotizaya.ar/articulo.html?slug=proteger-ahorros-inflacion-argentina
+- https://cotizaya.ar/noticia?slug=que-es-el-dolar-blue
+- https://cotizaya.ar/noticia?slug=dolar-oficial-vs-blue
+- https://cotizaya.ar/noticia?slug=inflacion-vs-dolar-argentina
 
 ### Noticias financieras
-URL: https://cotizaya.ar/noticia.html  
+URL: https://cotizaya.ar/noticia  
 Contenido: Noticias financieras de Argentina generadas automáticamente a partir de fuentes RSS y procesadas con IA. Se actualizan diariamente a las 9AM hora Argentina.
 
 ---
