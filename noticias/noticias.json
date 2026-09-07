@@ -1,5 +1,50 @@
 [
   {
+    "title": "Banco Nación lanzó nuevos créditos para comprar autos: qué tasa tienen y cuánto costarán las cuotas",
+    "slug": "banco-nacion-lanzo-nuevos-creditos-para-comprar-autos-que-ta",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Los préstamos cubren hasta el 100% del valor del vehículo, con un máximo de $100 millones, y ofrecen cuotas indexadas por UVA con un adicional del 1% anual.  Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/banco-nacion-lanzo-nuevos-creditos-comprar-autos-que-tasa-tienen-y-cuanto-costaran-las-cuotas-n6319334",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La venta de nafta se hundió a su nivel más bajo desde 2023, mientras el impuesto al combustible subió 1.387%",
+    "slug": "la-venta-de-nafta-se-hundio-a-su-nivel-mas-bajo-desde-2023-m",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Las ventas retrocedieron a 5. 667 millones de litros en lo que va del año.",
+    "link": "https://www.ambito.com/economia/la-venta-nafta-se-hundio-su-nivel-mas-2023-mientras-el-impuesto-al-combustible-subio-1387-n6319409",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vuelven los créditos hipotecarios para monotributistas: requisitos y mejores alternativas",
+    "slug": "vuelven-los-creditos-hipotecarios-para-monotributistas-requi",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Varios bancos ofrecen créditos para monotributistas y dan la opción de juntar facturas para demostrar mejores ingresos.",
+    "link": "https://www.ambito.com/economia/vuelven-los-creditos-hipotecarios-monotributistas-requisitos-y-mejores-alternativas-n6319330",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Inocencia Fiscal II: se aproxima el nuevo vencimiento de Ganancias y apremian los plazos del Senado",
     "slug": "inocencia-fiscal-ii-se-aproxima-el-nuevo-vencimiento-de-gana",
     "category": "economia",
@@ -63,28 +108,12 @@
     "related": []
   },
   {
-    "title": "Dólar: vuelve a subir tras el respiro cambiario de la semana pasada",
-    "slug": "dolar-vuelve-a-subir-tras-el-respiro-cambiario-de-la-semana-",
-    "category": "economia",
-    "date": "2026-09-07",
-    "summary": "El mayorista arranca el lunes en $1. 512 y sube tras anotar su primera caída semanal desde mediados de agosto.",
-    "link": "https://www.ambito.com/finanzas/dolar-que-espera-el-mercado-luego-del-respiro-cambiario-la-semana-pasada-n6319229",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 7 de septiembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "El dólar blue comenzó la semana en alza y se mantuvo en \"modo serrucho\"",
+    "slug": "el-dolar-blue-comenzo-la-semana-en-alza-y-se-mantuvo-en-modo",
     "category": "economia",
     "date": "2026-09-07",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-7-septiembre-n6319215",
+    "link": "https://www.ambito.com/finanzas/el-dolar-blue-comenzo-la-semana-alza-y-se-mantuvo-modo-serrucho-n6319540",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -95,18 +124,33 @@
     "related": []
   },
   {
-    "title": "El BCRA cambió lecaps por hasta u$s2.000 millones en títulos atados al dólar",
-    "slug": "el-bcra-cambio-lecaps-por-hasta-us2000-millones-en-titulos-a",
+    "title": "El S&P Merval en pesos retrocede por tercera jornada consecutiva, pero los bonos operan mixtos",
+    "slug": "el-sp-merval-en-pesos-retrocede-por-tercera-jornada-consecut",
     "category": "economia",
     "date": "2026-09-07",
-    "summary": "El Tesoro amplió dos LELINK con vencimientos en septiembre y octubre para realizar la conversión con el Banco Central.  La operación involucra tenencias de la LECAP S30O6 y se liquida este lunes.",
-    "link": "https://www.ambito.com/finanzas/el-bcra-cambio-lecaps-us2000-millones-titulos-atados-al-dolar-n6319300",
+    "summary": "La bolsa porteña cede 0,5% en pesos, aunque avanza medida en dólares.  Los mercados siguen de cerca la escalada del crudo y el movimiento de las tasas internacionales.",
+    "link": "https://www.ambito.com/finanzas/el-sp-merval-opera-leves-bajas-una-rueda-movimiento-y-la-referencia-wall-street-n6319354",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "dólar",
-      "bcra"
+      "bonos",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Shein firma una de las peores salidas a bolsa en Hong Kong y pierde u$s5.000 millones de valor",
+    "slug": "shein-firma-una-de-las-peores-salidas-a-bolsa-en-hong-kong-y",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Las acciones del gigante electrónico acumulan una caída récord, contagiadas por las dudas de los inversores ante el deterioro de los márgenes de rentabilidad, la rigidez regulatori",
+    "link": "https://www.ambito.com/finanzas/shein-firma-una-las-peores-salidas-bolsa-hong-kong-y-pierde-us5000-millones-valor-n6319482",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -144,43 +188,12 @@
     "related": []
   },
   {
-    "title": "Bitcoin perfora los u$s80.000 mientras suben las apuestas por una suba de tasas de la Fed en septiembre",
-    "slug": "bitcoin-perfora-los-us80000-mientras-suben-las-apuestas-por-",
-    "category": "economia",
-    "date": "2026-09-07",
-    "summary": "La principal criptomoneda retrocede desde el máximo de tres meses que tocó el jueves pasado, presionada por un mercado laboral más fuerte de lo esperado, la suba del petróleo ante",
-    "link": "https://www.ambito.com/finanzas/bitcoin-perfora-los-us80000-mientras-suben-las-apuestas-una-suba-tasas-la-fed-septiembre-n6319257",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La economía de la zona euro creció más de lo esperado: el PBI avanzó 0,6% en el segundo trimestre",
-    "slug": "la-economia-de-la-zona-euro-crecio-mas-de-lo-esperado-el-pbi",
-    "category": "economia",
-    "date": "2026-09-07",
-    "summary": "Eurostat revisó al alza el crecimiento entre abril y junio, frente al 0,4% estimado previamente.  En términos interanuales, la actividad aumentó 1,2%, mientras el mercado espera la reunión del BCE de esta semana.",
-    "link": "https://www.ambito.com/finanzas/la-economia-la-zona-euro-crecio-mas-lo-esperado-el-pbi-avanzo-06-el-segundo-trimestre-n6319241",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 6 de septiembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-6-de-septiembre",
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 7 de septiembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
     "category": "economia",
     "date": "2026-09-07",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-6-septiembre-n6319020",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-7-septiembre-n6319215",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -191,16 +204,220 @@
     "related": []
   },
   {
-    "title": "Los Miami Dolphins de la NFL desembarcan en Argentina",
-    "slug": "los-miami-dolphins-de-la-nfl-desembarcan-en-argentina",
+    "title": "Los Cedears de ETF acaparan volumen y dominan el mercado local: cuáles son los más operados",
+    "slug": "los-cedears-de-etf-acaparan-volumen-y-dominan-el-mercado-loc",
     "category": "economia",
     "date": "2026-09-07",
-    "summary": "Lo harán de la mano de TAI como parte de la estrategia que busca el crecimiento internacional del fútbol americano. El domingo 13 de septiembre será la primera Watch Party oficial",
-    "link": "https://www.infobae.com/deportes/2026/09/07/los-miami-dolphins-de-la-nfl-desembarcan-en-argentina/",
+    "summary": "El ganador en materia de volumen de Cedears de ETF fue SPY, que replica al S&P 500.  El instrumento explicó 22,22% del volumen negociado dentro del segmento.",
+    "link": "https://www.ambito.com/finanzas/los-cedears-etf-acaparan-volumen-y-dominan-el-mercado-local-cuales-son-los-mas-operados-n6319400",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un gurú de Wall Street vuelve a poner la mira en las acciones de las Siete Magníficas: ¿por qué?",
+    "slug": "un-guru-de-wall-street-vuelve-a-poner-la-mira-en-las-accione",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Mientras el S&P 500 acumuló una suba cercana al 13% en 2026, varias de las acciones que durante años lideraron al mercado quedaron detrás.",
+    "link": "https://www.ambito.com/finanzas/un-guru-wall-street-vuelve-poner-la-mira-las-acciones-las-siete-magnificas-por-que-n6319255",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Lautaro Martínez reveló la conversación que tuvo con Messi luego de que anunciara su retiro de la selección argentina",
+    "slug": "lautaro-martinez-revelo-la-conversacion-que-tuvo-con-messi-l",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "El goleador del Inter atraviesa un momento especial antes del estreno europeo y compartió su reacción ante la salida del capitán argentino del seleccionado",
+    "link": "https://www.infobae.com/deportes/2026/09/07/lautaro-martinez-revelo-la-conversacion-que-tuvo-con-messi-luego-de-que-anunciara-su-retiro-de-la-seleccion-argentina/",
     "source": "Infobae",
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "De cajas frías de bitcoins a granjas de criptomonedas: así funciona la red de activos digitales que pone en jaque al sistema financiero",
+    "slug": "de-cajas-frias-de-bitcoins-a-granjas-de-criptomonedas-asi-fu",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Estos sistemas son usados para la adquisición de monedas digitales como forma alternativa al sistema financiero tradicional",
+    "link": "https://www.infobae.com/mexico/2026/09/07/de-cajas-frias-de-bitcoins-a-granjas-de-criptomonedas-asi-funciona-la-red-de-activos-digitales-que-pone-en-jaque-al-sistema-financiero/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Caso D4vd: la familia de Celeste Rivas apoya la pena de muerte para el músico tras cargos de asesinato y abuso",
+    "slug": "caso-d4vd-la-familia-de-celeste-rivas-apoya-la-pena-de-muert",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "David Anthony Burke es acusado de quitarle la vida a una menor de 14 años",
+    "link": "https://www.infobae.com/entretenimiento/2026/09/07/caso-d4vd-la-familia-de-celeste-rivas-apoya-la-pena-de-muerte-para-el-musico-tras-cargos-de-asesinato-y-abuso/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "UIF incluye a exsecretario de Economía de Rocha Moya en su lista de personas bloqueadas",
+    "slug": "uif-incluye-a-exsecretario-de-economia-de-rocha-moya-en-su-l",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "La medida también alcanzó al empresario Jorge Armando Lizárraga Angulo y a seis compañías en las que ambos mantienen sociedades; fuentes cercanas a Infobae México confirmaron que l",
+    "link": "https://www.infobae.com/mexico/2026/09/07/uif-incluye-a-exsecretario-de-economia-de-rocha-moya-en-su-lista-de-personas-bloqueadas/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Javier Milei recibió en Casa Rosada a Hela, una perra antidrogas retirada de la Policía Federal",
+    "slug": "javier-milei-recibio-en-casa-rosada-a-hela-una-perra-antidro",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "La Chesapeake Bay Retriever participó en operativos contra una organización vinculada con “Mameluco” Villalba y en allanamientos posteriores al caso de la cocaína adulterada en Pue",
+    "link": "https://www.infobae.com/politica/2026/09/07/javier-milei-recibio-en-casa-rosada-a-hela-una-perra-antidrogas-retirada-de-la-policia-federal/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ni todo al dólar ni todo al plazo fijo: cuál puede ser la mejor inversión para un ahorrista",
+    "slug": "ni-todo-al-dolar-ni-todo-al-plazo-fijo-cual-puede-ser-la-mej",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Estrategias de diversificación en pesos y dólares para armar una cartera conservadora y proteger tus ahorros durante este semestre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/463906-como-invertir-y-cuidar-tus-ahorros-en-los-proximos-seis-meses",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Adelanto de sueldo: cuánto prestan los bancos, tasas de interés y cómo pedir hasta $2 millones",
+    "slug": "adelanto-de-sueldo-cuanto-prestan-los-bancos-tasas-de-intere",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Conozca los montos, tasas de interés y requisitos de las entidades bancarias para solicitar un adelanto de haberes antes de cobrar su salario (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/463903-adelanto-de-sueldo-cuanto-prestan-los-bancos-y-cuales-son-sus-tasas",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo invertir 1 millón de pesos en CEDEARs, según el bróker de bolsa Allaria",
+    "slug": "como-invertir-1-millon-de-pesos-en-cedears-segun-el-broker-d",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "El bróker de la City renovó sus apuestas internacionales para septiembre y mostró cuánto dinero destinar a cada sector al invertir $1 millón (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/463761-como-invertir-1-millon-en-cedears-segun-broker-de-bolsa-allaria",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo: ranking de bancos y cuánto rinde invertir $1 millón",
+    "slug": "plazo-fijo-ranking-de-bancos-y-cuanto-rinde-invertir-1-millo",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Cuánto paga cada entidad financiera, por una inversión a 30 días, tras los últimos ajustes de tasas difundidos por el Banco Central (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/463930-plazo-fijo-ranking-de-bancos-y-cuanto-rinde-invertir-1-millon",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "PAMI suma un nuevo conflicto: ATE anunció un paro y prestadores reclaman por deudas",
+    "slug": "pami-suma-un-nuevo-conflicto-ate-anuncio-un-paro-y-prestador",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "ATE anunció que profundizará el plan de lucha.  Reclama un aumento salarial para el personal y advierte sobre la situación sanitaria de los afiliados.",
+    "link": "https://www.iprofesional.com/economia/463907-pami-ate-anuncio-un-paro-y-prestadores-reclaman-por-deudas-y-aranceles",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Sobran dólares, pero Milei no libera pesos y la City alerta por una economía partida en dos",
+    "slug": "sobran-dolares-pero-milei-no-libera-pesos-y-la-city-alerta-p",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "Aseguran que faltan al menos $50 billones para darle combustible a la economía.  La pregunta de la City: ¿Milei será conservador o ganará el pragmatismo?",
+    "link": "https://www.iprofesional.com/economia/463819-sobran-dolares-pero-milei-no-libera-pesos-y-la-economia-no-arranca",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Caputo reforzó el poder de fuego del BCRA por u$s2.000 millones para contener al dólar",
+    "slug": "caputo-reforzo-el-poder-de-fuego-del-bcra-por-us2000-millone",
+    "category": "economia",
+    "date": "2026-09-07",
+    "summary": "El Banco Central canejó una letra en pesos por instrumentos vinculados al dólar, con los que puede intervenir en el mercado sin vender reservas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/463943-caputo-reforzo-el-poder-de-fuego-del-bcra-para-contener-al-dolar",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bcra"
     ],
     "featured": false,
     "related": []
@@ -212,26 +429,11 @@
     "date": "2026-09-07",
     "summary": "El gasto primario cayó casi 10% interanual en agosto y marcó el mayor ajuste del año para sostener el superávit comprometido por Javier Milei.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/economia/463739-milei-cumple-el-gobierno-ajusto-10-por-ciento-el-gasto-publico-en-agosto",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Nuevos créditos UVA para comprar autos 0km: los requisitos, tasas y plazos de la nueva operatoria",
-    "slug": "nuevos-creditos-uva-para-comprar-autos-0km-los-requisitos-ta",
-    "category": "economia",
-    "date": "2026-09-07",
-    "summary": "Una nueva línea de préstamos en UVA permite acceder a vehículos 0Km con requisitos flexibles y cuotas hasta 40% más accesibles que en pesos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/autos/463895-creditos-uva-para-autos-como-acceder-a-cuotas-bajas-y-sin-prenda",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -249,6 +451,96 @@
       "argentina",
       "dólar",
       "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Uniswap V4 encabeza el sector de depósitos en acciones tokenizadas en las DeFi",
+    "slug": "uniswap-v4-encabeza-el-sector-de-depositos-en-acciones-token",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia Uniswap V4 lidera los depósitos DeFi en acciones tokenizadas con $59. 1 millones, mientras Solana domina entre las principales redes.",
+    "link": "https://criptotendencia.com/2026/09/07/uniswap-v4-encabeza-el-sector-de-depositos-en-acciones-tokenizadas-en-las-defi-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los incidentes con agentes de IA fuera de control continúan rodeando a OpenAI, según reportes",
+    "slug": "los-incidentes-con-agentes-de-ia-fuera-de-control-continuan-",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia Nuevos reportes sobre agentes de IA de OpenAI reavivan el debate sobre seguridad, coordinación autónoma, auditorías independientes y regulación.  La entrada Los incidentes con agentes de IA fuera de control continúan rodeando a OpenAI, según reportes se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/07/los-incidentes-con-agentes-de-ia-fuera-de-control-continuan-rodeando-a-openai-segun-reportes-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los ETF de Bitcoin se mantuvieron con números positivos durante la última semana",
+    "slug": "los-etf-de-bitcoin-se-mantuvieron-con-numeros-positivos-dura",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia Los ETF spot de Bitcoin cerraron una semana positiva, aunque la caída de los flujos del viernes muestra una creciente cautela institucional.  La entrada Los ETF de Bitcoin se mantuvieron con números positivos durante la última semana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/07/los-etf-de-bitcoin-se-mantuvieron-con-numeros-positivos-durante-la-semana-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El efectivo digital antes de Bitcoin: el documento de 1982 que quería hacer pagos imposibles de rastrear",
+    "slug": "el-efectivo-digital-antes-de-bitcoin-el-documento-de-1982-qu",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia En 1982, David Chaum ya buscaba pagos digitales privados.  Su idea: si el dinero se vuelve datos, la privacidad también debe volverse tecnología.",
+    "link": "https://criptotendencia.com/2026/09/07/el-efectivo-digital-antes-de-bitcoin-el-documento-de-1982-que-queria-hacer-pagos-imposibles-de-rastrear/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Truth API: cuando la palabra del presidente cotiza en milisegundos",
+    "slug": "truth-api-cuando-la-palabra-del-presidente-cotiza-en-miliseg",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia Truth API vende acceso en milisegundos a los posts de Trump por hasta 100. 000 USD/mes.",
+    "link": "https://criptotendencia.com/2026/09/07/truth-api-cuando-la-palabra-del-presidente-cotiza-en-milisegundos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El contexto geopolítico global continúa bajo la presión alcista del precio del petróleo",
+    "slug": "el-contexto-geopolitico-global-continua-bajo-la-presion-alci",
+    "category": "cripto",
+    "date": "2026-09-07",
+    "summary": "CriptoTendencia Para esta semana todo apunta que el precio del petróleo continúa como la principal fuente de preocupación global sobre los mercados.  La entrada El contexto geopolítico global continúa bajo la presión alcista del precio del petróleo se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/07/el-contexto-geopolitico-global-continua-bajo-la-presion-alcista-del-precio-del-petroleo/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -314,57 +606,12 @@
     "related": []
   },
   {
-    "title": "La Bolsa de Tokio se contrae por diseño: tercer año consecutivo de exclusiones récord",
-    "slug": "la-bolsa-de-tokio-se-contrae-por-diseno-tercer-ano-consecuti",
+    "title": "“Hasta el metro lo pago con tarjetas de criptomonedas”: hablan usuarios en Venezuela",
+    "slug": "hasta-el-metro-lo-pago-con-tarjetas-de-criptomonedas-hablan-",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "CriptoTendencia La Bolsa de Tokio encadena su tercer año récord de exclusiones: fondos se llevan empresas a lo privado y las reglas echan a las pequeñas.  La entrada La Bolsa de Tokio se contrae por diseño: tercer año consecutivo de exclusiones récord se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/07/la-bolsa-de-tokio-adelgaza-por-diseno-tercer-ano-consecutivo-de-exclusiones-record/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La desnacionalización del dinero: el libro de 1976 que imaginó monedas fuera del monopolio estatal",
-    "slug": "la-desnacionalizacion-del-dinero-el-libro-de-1976-que-imagin",
-    "category": "cripto",
-    "date": "2026-09-07",
-    "summary": "CriptoTendencia Denationalisation of Money (1976): Hayek cuestionó el monopolio estatal del dinero décadas antes de Bitcoin.  La pregunta llegó antes que la tecnología.",
-    "link": "https://criptotendencia.com/2026/09/07/la-desnacionalizacion-del-dinero-el-libro-de-1976-que-imagino-monedas-fuera-del-monopolio-estatal/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen: las 5 noticias más destacadas de la semana en el mundo de la minería de Bitcoin",
-    "slug": "resumen-las-5-noticias-mas-destacadas-de-la-semana-en-el-mun",
-    "category": "cripto",
-    "date": "2026-09-07",
-    "summary": "CriptoTendencia Repasamos las 5 noticias más importantes de la semana sobre minería de Bitcoin, hashrate, IA y grandes compañías del sector.  La entrada Resumen: las 5 noticias más destacadas de la semana en el mundo de la minería de Bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/07/resumen-las-5-noticias-mas-destacadas-de-la-semana-en-el-mundo-de-la-mineria-de-bitcoin-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sergio Lerner tras el ataque a Liquid: «Necesitan añadir un bloqueo con ‘delay'»",
-    "slug": "sergio-lerner-tras-el-ataque-a-liquid-necesitan-anadir-un-bl",
-    "category": "cripto",
-    "date": "2026-09-07",
-    "summary": "El desarrollador señaló que el robo de 4. 000 BTC en la cadena lateral de Bitcoin se habría evitado con un sistema de seguridad de tiempo diferido.",
-    "link": "https://www.criptonoticias.com/tecnologia/sergio-lerner-ataque-liquid-bloqueo-retardo/",
+    "summary": "Las opciones de Binance, OKX y Bybit ya están operativas en el país y se usan tanto para pagos locales como compras en el exterior.  La entrada “Hasta el metro lo pago con tarjetas de criptomonedas”: hablan usuarios en Venezuela se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/metro-pago-tarjetas-criptomonedas-usuarios-venezuela/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -374,12 +621,12 @@
     "related": []
   },
   {
-    "title": "El hack de Liquid expone el riesgo oculto de los BTC que viven fuera de Bitcoin",
-    "slug": "el-hack-de-liquid-expone-el-riesgo-oculto-de-los-btc-que-viv",
+    "title": "De la banca tokenizada en Asia al césped de Florida: la doble apuesta de Ripple",
+    "slug": "de-la-banca-tokenizada-en-asia-al-cesped-de-florida-la-doble",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "El retiro de 4. 000 BTC en Liquid Network confirma que la seguridad de Bitcoin no se traslada a las capas que lo representan fuera de su cadena.",
-    "link": "https://www.criptonoticias.com/tecnologia/hack-liquid-expone-riesgo-oculto-btc-viven-fuera-bitcoin/",
+    "summary": "La empresa emisora de las criptomonedas XRP y RLUSD establece múltiples alianzas a nivel mundial, con diferentes objetivos.  La entrada De la banca tokenizada en Asia al césped de Florida: la doble apuesta de Ripple se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/negocios/banca-tokenizada-asia-cesped-florida-doble-apuesta-ripple/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -389,12 +636,12 @@
     "related": []
   },
   {
-    "title": "Los ETF de XRP encadenan 8 semanas verdes consecutivas",
-    "slug": "los-etf-de-xrp-encadenan-8-semanas-verdes-consecutivas",
+    "title": "ETH cerró la semana debajo de una marca clave: ¿se viene una nueva caída de precio?",
+    "slug": "eth-cerro-la-semana-debajo-de-una-marca-clave-se-viene-una-n",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "Estos instrumentos positivos presentan flujos positivos semanales desde el 17 de julio.  La entrada Los ETF de XRP encadenan 8 semanas verdes consecutivas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/etf-xrp-encadenan-8-semanas-verdes-consecutivas/",
+    "summary": "Ethereum llegó nuevamente a su resistencia clave, alrededor de los 2. 550 dólares, este fin de semana.",
+    "link": "https://www.criptonoticias.com/mercados/eth-precio-resistencia-nueva-caida/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -404,12 +651,12 @@
     "related": []
   },
   {
-    "title": "Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos",
-    "slug": "las-ballenas-no-venden-y-bitcoin-no-repite-la-senal-que-marc",
+    "title": "Más capital y más actividad no alcanzan para sacar a XRP del estancamiento",
+    "slug": "mas-capital-y-mas-actividad-no-alcanzan-para-sacar-a-xrp-del",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "Bitcoin todavía no cae por debajo del precio realizado de los holders de largo plazo, una señal asociada a pisos de ciclos anteriores.  La entrada Las ballenas no venden y bitcoin no repite la señal que marcó sus últimos pisos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/ballenas-bitcoin-venta-senal-piso/",
+    "summary": "Los ETF de XRP llevan 8 semanas de entradas y los futuros marcaron su mayor nivel desde febrero, pero la red no suma nuevos usuarios.  La entrada Más capital y más actividad no alcanzan para sacar a XRP del estancamiento se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/xrp-precio-capital-actividad-ripple/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -419,12 +666,12 @@
     "related": []
   },
   {
-    "title": "El robo de 4.000 BTC a Liquid apenas afectó el sentimiento social sobre bitcoin",
-    "slug": "el-robo-de-4000-btc-a-liquid-apenas-afecto-el-sentimiento-so",
+    "title": "CEO de Ripple: el oro aún viaja lento; las criptomonedas se mueven al instante",
+    "slug": "ceo-de-ripple-el-oro-aun-viaja-lento-las-criptomonedas-se-mu",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "Santiment detecta un fuerte contraste entre esto y la reacción del mercado cuando ocurrió el hackeo a Coldcard, donde se robaron 2. 000 BTC.",
-    "link": "https://www.criptonoticias.com/comunidad/robo-4000-bitcoin-liquid-sentimiento-santiment/",
+    "summary": "Brad Garlinghouse tomó como ejemplo la reubicación de las reservas de oro del banco central de Países Bajos de Nueva York a Londres.  La entrada CEO de Ripple: el oro aún viaja lento; las criptomonedas se mueven al instante se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/ceo-ripple-oro-viaja-lento-criptomonedas-liquidan-instante/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -434,12 +681,12 @@
     "related": []
   },
   {
-    "title": "El hackeo a Liquid Network engañó al sistema que decide qué BTC son válidos",
-    "slug": "el-hackeo-a-liquid-network-engano-al-sistema-que-decide-que-",
+    "title": "Quince empresas sostienen con sus firmas todos los bitcoin que respaldan a Liquid Network",
+    "slug": "quince-empresas-sostienen-con-sus-firmas-todos-los-bitcoin-q",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "Un fallo en la validación de transacciones permitió crear L-BTC sin respaldo y liberar BTC de las reservas de Liquid.  La entrada El hackeo a Liquid Network engañó al sistema que decide qué BTC son válidos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/hackeo-liquid-network-bitcoin/",
+    "summary": "Liquid Network se presenta como sostenida por una federación amplia, pero solo 15 de sus más de 80 empresas pueden mover su bitcoin.  La entrada Quince empresas sostienen con sus firmas todos los bitcoin que respaldan a Liquid Network se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/empresas-liquid-network-bitcoin/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -449,12 +696,12 @@
     "related": []
   },
   {
-    "title": "3 semanas positivas para los ETF de bitcoin impulsaron el precio arriba de USD 81.000",
-    "slug": "3-semanas-positivas-para-los-etf-de-bitcoin-impulsaron-el-pr",
+    "title": "«Las memecoins están muertas»: Darkfost",
+    "slug": "las-memecoins-estan-muertas-darkfost",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "En ese periodo ingresaron un total de 3. 830 millones de dólares a los fondos.",
-    "link": "https://www.criptonoticias.com/mercados/3-semanas-positivas-precio-bitcoin-arriba-80000/",
+    "summary": "El analista señala que estos activos nunca habían sido tan ignorados como ahora.  La entrada «Las memecoins están muertas»: Darkfost se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/memecoins-muertas-darkfost/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -464,12 +711,12 @@
     "related": []
   },
   {
-    "title": "El precio de hyperliquid (HYPE) marcó máximo histórico arriba de USD 89",
-    "slug": "el-precio-de-hyperliquid-hype-marco-maximo-historico-arriba-",
+    "title": "Hijo del expresidente Joe Biden lanzará una memecoin llamada LAPTOP",
+    "slug": "hijo-del-expresidente-joe-biden-lanzara-una-memecoin-llamada",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "2026 ha sido un año de buenas noticias para el protocolo Hyperliquid, lo que impulsó la cotización de su criptomoneda nativa.  La entrada El precio de hyperliquid (HYPE) marcó máximo histórico arriba de USD 89 se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/precio-hyperliquid-maximo-historico-arriba-89-dolares/",
+    "summary": "La iniciativa otorgará un airdrop a usuarios con pérdidas en la memecoin del mandatario Donald Trump.  La entrada Hijo del expresidente Joe Biden lanzará una memecoin llamada LAPTOP se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/hijo-expresidente-joebiden-lanzara-memecoin-laptop/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -479,12 +726,12 @@
     "related": []
   },
   {
-    "title": "Willy Woo: la probabilidad de que bitcoin haya tocado fondo está arriba del 90%",
-    "slug": "willy-woo-la-probabilidad-de-que-bitcoin-haya-tocado-fondo-e",
+    "title": "Elements está en el centro del hackeo a Liquid: ¿Qué más depende de este código?",
+    "slug": "elements-esta-en-el-centro-del-hackeo-a-liquid-que-mas-depen",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "El analista se muestra optimista sobre los próximos movimientos de bitcoin y va dejando atrás sus expectativas bajistas.  La entrada Willy Woo: la probabilidad de que bitcoin haya tocado fondo está arriba del 90% se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/willy-woo-bitcoin-fondo-90-probabilidad/",
+    "summary": "El fallo de Liquid remite a Elements, el software que valida sus transacciones y del que dependen otras redes y activos.  La entrada Elements está en el centro del hackeo a Liquid: ¿Qué más depende de este código?",
+    "link": "https://www.criptonoticias.com/tecnologia/elements-hackeo-liquid-network-bitcoin/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -494,63 +741,16 @@
     "related": []
   },
   {
-    "title": "«Las prácticas de los hackers éticos cambiaron mucho»: CTO de Ledger sobre robo a Liquid",
-    "slug": "las-practicas-de-los-hackers-eticos-cambiaron-mucho-cto-de-l",
+    "title": "Los minoristas venden bitcoin y ponen a prueba la fuerza del rally",
+    "slug": "los-minoristas-venden-bitcoin-y-ponen-a-prueba-la-fuerza-del",
     "category": "cripto",
     "date": "2026-09-07",
-    "summary": "Guillemet llamó la atención sobre los atacantes que prometen devolver los 4. 000 bitcoin robados recién luego de que se solucione la vulnerabilidad.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/practicas-hackers-cambiaron-cto-ledger-robo-bitcoin-liquid/",
+    "summary": "La demanda spot de BTC vuelve a debilitarse pese al avance del precio, mientras las compras institucionales siguen firmes.  La entrada Los minoristas venden bitcoin y ponen a prueba la fuerza del rally se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/minoristas-venden-bitcoin-rally-precio/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "En medio de la suba de la morosidad, Juan Carlos de Pablo la definió como \"una inversión\" para las billeteras",
-    "slug": "en-medio-de-la-suba-de-la-morosidad-juan-carlos-de-pablo-la-",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "El economista sostuvo que las plataformas identifican a los buenos pagadores y aseguró que el atraso forma parte de su modelo de negocio.",
-    "link": "https://www.ambito.com/economia/en-medio-la-suba-la-morosidad-juan-carlos-pablo-la-definio-como-una-inversion-las-billeteras-n6319125",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos hipotecarios: el BCRA pone en marcha el fondeo de ANSES a bancos con una primera licitación por $200.000 millones",
-    "slug": "creditos-hipotecarios-el-bcra-pone-en-marcha-el-fondeo-de-an",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "El esquema contempla diez subastas por un total de $2 billones para financiar préstamos hipotecarios.  Los bancos que accedan a los fondos deberán ofrecer créditos a una tasa máxima de UVA + 7,5%.",
-    "link": "https://www.ambito.com/economia/creditos-hipotecarios-el-bcra-pone-marcha-el-fondeo-anses-bancos-una-primera-licitacion-200000-millones-n6319109",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Chubut eximió del impuesto inmobiliario a productores ganaderos y prorrogó deudas de 2023 y 2024",
-    "slug": "chubut-eximio-del-impuesto-inmobiliario-a-productores-ganade",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "La medida regirá durante todo 2026 para establecimientos afectados exclusivamente a la actividad ganadera y ubicados fuera de los tejidos municipales.  Los pagos ya realizados este año podrán computarse a cuenta de 2027 y ejercicios posteriores.",
-    "link": "https://www.ambito.com/economia/chubut-eximio-del-impuesto-inmobiliario-productores-ganaderos-y-prorrogo-deudas-2023-y-2024-n6319099",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
     ],
     "featured": false,
     "related": []
@@ -567,210 +767,6 @@
       "economía",
       "argentina",
       "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo invertir 1 millón de pesos en CEDEARs, según el bróker de bolsa Allaria",
-    "slug": "como-invertir-1-millon-de-pesos-en-cedears-segun-el-broker-d",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "El bróker de la City renovó sus apuestas internacionales para septiembre y mostró cuánto dinero destinar a cada sector al invertir $1 millón (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/463761-como-invertir-1-millon-en-cedears-segun-broker-de-bolsa-allaria",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo cambiaron los indicadores de la economía argentina en los 1.000 días de Javier Milei",
-    "slug": "como-cambiaron-los-indicadores-de-la-economia-argentina-en-l",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "A 1. 000 días de la gestión de Milei, se realizó una comparación de los indicadores económicos entre diciembre de 2023 y los últimos datos oficiales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/463866-como-cambiaron-los-indicadores-de-la-economia-argentina-en-los-1-000-dias-de-javier-milei",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El riesgo país puede caer hasta los 400 puntos y es un gran momento para tomar posición en bonos",
-    "slug": "el-riesgo-pais-puede-caer-hasta-los-400-puntos-y-es-un-gran-",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "La volatilidad en el plano internacional y un comicio clave en Brasil redefinen perspectivas de activos y abre nuevas opciones para ahorristas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/463812-por-que-es-un-gran-momento-para-tomar-posicion-en-bonos-argentinos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Reporte semanal: lo más importante del comercio de las ballenas de Bitcoin",
-    "slug": "reporte-semanal-lo-mas-importante-del-comercio-de-las-ballen",
-    "category": "cripto",
-    "date": "2026-09-06",
-    "summary": "CriptoTendencia En este reporte semanal repasamos los movimientos de las ballenas de Bitcoin, las reservas en exchanges y los flujos institucionales hacia ETF.  La entrada Reporte semanal: lo más importante del comercio de las ballenas de Bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/06/reporte-semanal-lo-mas-importante-del-comercio-de-las-ballenas-de-bitcoin-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Berkshire está a los dos lados del boom de la IA",
-    "slug": "berkshire-esta-a-los-dos-lados-del-boom-de-la-ia",
-    "category": "cripto",
-    "date": "2026-09-06",
-    "summary": "CriptoTendencia El verdadero límite de la IA no es el chip, es la energía.  Y Berkshire ya está a los dos lados del boom.",
-    "link": "https://criptotendencia.com/2026/09/06/berkshire-esta-a-los-dos-lados-del-boom-de-la-ia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Análisis: Bitcoin en medio de fechas y eventos cruciales",
-    "slug": "analisis-bitcoin-en-medio-de-fechas-y-eventos-cruciales",
-    "category": "cripto",
-    "date": "2026-09-06",
-    "summary": "CriptoTendencia Bitcoin enfrenta una semana clave con el dato de inflación de EE.  UU.",
-    "link": "https://criptotendencia.com/2026/09/06/analisis-bitcoin-en-medio-de-fechas-y-eventos-cruciales-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Vale la pena la energía solar en casa? Costos, retorno de inversión y ahorro",
-    "slug": "vale-la-pena-la-energia-solar-en-casa-costos-retorno-de-inve",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "El tamaño del sistema depende del consumo mensual, el tipo de techo y los equipos eléctricos, por eso tenés que saber que mirar antes de avanzar con una instalación.",
-    "link": "https://www.ambito.com/economia/vale-la-pena-la-energia-solar-casa-costos-retorno-inversion-y-ahorro-energetico-n6318584",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Inflación de agosto: el mercado espera que perfore el 2%",
-    "slug": "inflacion-de-agosto-el-mercado-espera-que-perfore-el-2",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "El mercado espera que el IPC de agosto marque uno de los registros más bajos del año.  El REM proyectó 1,7% para el mes y un rango de entre 1,6% y 1,8% hasta febrero.",
-    "link": "https://www.ambito.com/economia/inflacion-agosto-el-mercado-espera-que-perfore-el-2-n6319028",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos hipotecarios UVA: ¿cuánto cuesta la cuota para una propiedad de USD 75.000?",
-    "slug": "creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-para-una-pr",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "Los nuevos préstamos permiten financiar hasta el total de un hogar, pero hay que calcular cuánto habría que pagar por mes y qué ingresos exige el sistema.",
-    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-cuesta-la-cuota-una-propiedad-usd-75000-n6318124",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Pablo Goldin: \"El BCRA está entrampado monetariamente, percibe el problema, pero no encuentra salida\"",
-    "slug": "pablo-goldin-el-bcra-esta-entrampado-monetariamente-percibe-",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "Para el director de MacroView, las restricciones del esquema monetario no permite la reactivación, elemento central de un programa económico “exitoso”.  Advierte por la cantidad de pesos faltantes respecto de otros periodos de reactivación.",
-    "link": "https://www.ambito.com/economia/pablo-goldin-el-banco-central-esta-entrampado-monetariamente-percibe-el-problema-pero-no-encuentra-salida-n6318985",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 6 de septiembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-6-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-6-septiembre-n6319019",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cerró este viernes 4 de septiembre",
-    "slug": "dolar-hoy-a-cuanto-cerro-este-viernes-4-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-4-septiembre-n6318729",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este sábado 5 de septiembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-sabado-5-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-06",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-5-septiembre-n6318847",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
