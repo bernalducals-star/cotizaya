@@ -1,7 +1,500 @@
 [
   {
-    "title": "La inflación de agosto fue del 1,7%, el valor más bajo en 14 meses",
-    "slug": "la-inflacion-de-agosto-fue-del-17-el-valor-mas-bajo-en-14-me",
+    "title": "Créditos hipotecarios UVA: 13 bancos recibieron fondos de ANSES y lanzan nuevas líneas para la vivienda",
+    "slug": "creditos-hipotecarios-uva-13-bancos-recibieron-fondos-de-ans",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "La inyección de fondos estatales busca darle un empujón a los préstamos para la vivienda y bajar las trabas para acceder a la casa propia.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-13-bancos-recibieron-fondos-anses-y-lanzan-nuevas-lineas-la-vivienda-n6320437",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Inflación: sube el gasto en jubilaciones y se pierde el efecto \"licuadora\"",
+    "slug": "inflacion-sube-el-gasto-en-jubilaciones-y-se-pierde-el-efect",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "El gasto previsional se ajusta por la inflación pasada, que en un proceso de desinflación suele ser más alta que la actual.  Explica el 45% del gasto primario total.",
+    "link": "https://www.ambito.com/economia/inflacion-sube-el-gasto-jubilaciones-y-se-pierde-el-efecto-licuadora-n6321013",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Día del Maestro: cuánto ganan los docentes en la Argentina y cuál es la provincia que mejor paga",
+    "slug": "dia-del-maestro-cuanto-ganan-los-docentes-en-la-argentina-y-",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "El gobierno de Javier Milei redujo la inversión en el gasto educativo desde 2023, mientras las provincias asumieron una mayor carga y los sueldos perdieron poder adquisitivo.",
+    "link": "https://www.ambito.com/economia/dia-del-maestro-cuanto-ganan-los-docentes-la-argentina-y-cual-es-la-provincia-que-mejor-paga-n6320513",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El salario de los estatales se hundió 40,5% en la era Milei y los más afectados son los policías y miembros del Ejército",
+    "slug": "el-salario-de-los-estatales-se-hundio-405-en-la-era-milei-y-",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Un informe de ATE Ciudad advirtió que la mora crediticia entre los empleados públicos se multiplicó por 3,4 en los últimos dos años y alcanzó al 18,63% en junio.",
+    "link": "https://www.ambito.com/economia/el-salario-los-estatales-se-hundio-405-la-era-milei-y-los-mas-afectados-son-los-policias-y-miembros-del-ejercito-n6321059",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El empleo formal privado cayó en junio por 13° mes consecutivo y está en el mismo nivel que en 2014",
+    "slug": "el-empleo-formal-privado-cayo-en-junio-por-13-mes-consecutiv",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "El retroceso se concentra en la industria y el comercio, según los datos del SIPA.  Por otra parte, los salarios reales de los asalariados privados no tuvieron variación y quedaron 0,8% por debajo del nivel de noviembre de 2023.",
+    "link": "https://www.ambito.com/economia/el-empleo-formal-privado-cayo-junio-13-mes-consecutivo-y-esta-el-mismo-nivel-que-2014-n6321027",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 11 de septiembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-11-septiembre-n6321084",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar sostiene sus máximos ante la crisis energética en Medio Oriente mientras el yen busca rebotar",
+    "slug": "el-dolar-sostiene-sus-maximos-ante-la-crisis-energetica-en-m",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "El dólar roza máximos semanales y el crudo sostiene los u$s100 tras la escalada en el mar Rojo.  El alza energética reaviva las presiones inflacionarias y acelera las apuestas de suba de tasas de la Fed.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-sostiene-sus-maximos-la-crisis-energetica-medio-oriente-mientras-el-yen-busca-rebotar-n6321125",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar mayorista se estabiliza y se encamina a cerrar su primera semana por encima de los $1.510",
+    "slug": "el-dolar-mayorista-se-estabiliza-y-se-encamina-a-cerrar-su-p",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Si bien el tipo de cambio ayer cayó por primera vez en cinco jornadas, se mantiene en niveles elevados.  El retroceso del mayorista coincidió con la publicación de la inflación de agosto.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-estabiliza-y-se-encamina-cerrar-su-primera-semana-encima-los-1510-n6321103",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este viernes 11 de septiembre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-viernes-11-de-septiembre",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-11-septiembre-n6321072",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este viernes 11 de septiembre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-viernes-11-de-septiembre",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-11-septiembre-n6321073",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar calmo, demanda récord: por qué los argentinos aceleran la compra de billetes",
+    "slug": "dolar-calmo-demanda-record-por-que-los-argentinos-aceleran-l",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Según datos del Banco Central, las compras de dólares por parte de los argentinos aumentaron 35% mensual en julio.",
+    "link": "https://www.ambito.com/finanzas/dolar-calmo-demanda-record-que-los-argentinos-aceleran-la-compra-billetes-n6320814",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "BCRP lleva más de un año con tasa de referencia a 4,25%: “Términos de intercambio siguen favoreciendo al Perú”",
+    "slug": "bcrp-lleva-mas-de-un-ano-con-tasa-de-referencia-a-425-termin",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Ya van doce meses que el BCRP toma la decisión de no mover la tasa de interés de referencia. A pesar de los buenos términos de intercambio, sí se mantienen los riesgo globales",
+    "link": "https://www.infobae.com/peru/2026/09/11/bcrp-lleva-mas-de-un-ano-con-tasa-de-referencia-a-425-terminos-de-intercambio-siguen-favoreciendo-al-peru/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Efectos de la Reforma laboral: Renault-SMATA firman acuerdo por el banco de horas. Cómo se aplicará",
+    "slug": "efectos-de-la-reforma-laboral-renault-smata-firman-acuerdo-p",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "Las partes explicaron que se evitarán suspensiones cuando caiga la producción, aunque tampoco se pagarán horas extras en caso de mayor demanda.  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/464265-efectos-de-la-reforma-laboral-acuerdo-entre-renault-y-smata-por-el-banco-de-horas",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Gremios que le ganaron a la inflación oficial de agosto en paritarias",
+    "slug": "gremios-que-le-ganaron-a-la-inflacion-oficial-de-agosto-en-p",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "La inflación fue del 1,7% y muchos de los gremios más importantes del país habían negociado en paritarias aumentos de sueldo superiores a es cifra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/management/464257-paritarias-gremios-que-le-ganaron-a-la-inflacion-oficial-en-agosto",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Milei tiene la llave para llegar a las elecciones con la inflación \"exterminada\"",
+    "slug": "milei-tiene-la-llave-para-llegar-a-las-elecciones-con-la-inf",
+    "category": "economia",
+    "date": "2026-09-11",
+    "summary": "El Presidente festejó el IPC de agosto, y se acerca el momento para tomar una decisión: qué hacer con las tarifas y el costo del transporte (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/464244-como-milei-puede-llegar-a-las-elecciones-con-inflacion-exterminada",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El radar de Bitcoin: vulnerabilidad en Coldcard, liquidez institucional y las raíces de la privacidad digital",
+    "slug": "el-radar-de-bitcoin-vulnerabilidad-en-coldcard-liquidez-inst",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia Vulnerabilidad en Coldcard, dividendo de Trump, entradas en IBIT, los orígenes de David Chaum y la recuperación de 61 BTC.  La entrada El radar de Bitcoin: vulnerabilidad en Coldcard, liquidez institucional y las raíces de la privacidad digital se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/11/el-radar-de-bitcoin-vulnerabilidad-en-coldcard-liquidez-institucional-y-las-raices-de-la-privacidad-digital-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El derecho a la privacidad: el texto de 1890 que reaccionó a una tecnología que empezaba a observarlo todo",
+    "slug": "el-derecho-a-la-privacidad-el-texto-de-1890-que-reacciono-a-",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia En 1890, Warren y Brandeis reaccionaron a la cámara con el derecho «a ser dejado en paz».  La cámara cambió; la pregunta sigue siendo quién puede mirar.",
+    "link": "https://criptotendencia.com/2026/09/11/el-derecho-a-la-privacidad-el-texto-de-1890-que-reacciono-a-una-tecnologia-que-empezaba-a-observarlo-todo/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dinero corre hacia el oro: US$ 17.900 millones en agosto y un récord de 4.189 toneladas",
+    "slug": "el-dinero-corre-hacia-el-oro-us-17900-millones-en-agosto-y-u",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia Los ETF de oro captaron US$ 17. 900M en agosto y tocaron un récord de 4.",
+    "link": "https://criptotendencia.com/2026/09/11/el-dinero-corre-hacia-el-oro-us-17-900-millones-en-agosto-y-un-record-de-4-189-toneladas/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin frente a los $80.000: por qué el giro de los bancos centrales complica la consolidación",
+    "slug": "bitcoin-frente-a-los-80000-por-que-el-giro-de-los-bancos-cen",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia Con BCE, Fed y BoJ endureciendo a la vez, los $80. 000 son hoy resistencia y no soporte.",
+    "link": "https://criptotendencia.com/2026/09/11/bitcoin-frente-a-los-80-000-por-que-el-giro-de-los-bancos-centrales-complica-la-consolidacion/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Personaje de la Semana: Nikola Tesla, la reivindicación que llegó cuando ya no podía disfrutarla",
+    "slug": "el-personaje-de-la-semana-nikola-tesla-la-reivindicacion-que",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia Nikola Tesla murió solo y en la ruina en 1943.  Décadas después, su nombre vale fortunas y hasta bautiza autos, sin que él tocara un centavo La entrada El Personaje de la Semana: Nikola Tesla, la reivindicación que llegó cuando ya no podía disfrutarla se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/11/el-personaje-de-la-semana-nikola-tesla-la-reivindicacion-que-llego-cuando-ya-no-podia-disfrutarla/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dilema global de la IA: de la alerta de la ONU al impulso energético de Vaca Muerta",
+    "slug": "el-dilema-global-de-la-ia-de-la-alerta-de-la-onu-al-impulso-",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "CriptoTendencia La ONU reclama regulación, Vaca Muerta atrae centros de datos y Google estudia comportamientos inesperados de agentes autónomos.  La entrada El dilema global de la IA: de la alerta de la ONU al impulso energético de Vaca Muerta se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/11/el-dilema-global-de-la-ia-de-la-alerta-de-la-onu-al-impulso-energetico-de-vaca-muerta-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tron Inc. entra en los índices Russell 2000, 2500 y 3000",
+    "slug": "tron-inc-entra-en-los-indices-russell-2000-2500-y-3000",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "Los índices miden el rendimiento de acciones de empresas estadounidenses según su capitalización de mercado.  La entrada Tron Inc.",
+    "link": "https://www.criptonoticias.com/mercados/tron-entra-indices-russell-2000-2500-y-3000/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "«No me gusta lo que encontré»: Francisco Calderón tras análisis forense de lnp2pbot",
+    "slug": "no-me-gusta-lo-que-encontre-francisco-calderon-tras-analisis",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "El desarrollador venezolano reveló que un error en una dependencia externa provocó los ataques que acabaron con la plataforma.  La entrada «No me gusta lo que encontré»: Francisco Calderón tras análisis forense de lnp2pbot se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/francisco-calderon-analisis-lnp2pbot-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cierra el ETF de dogecoin gestionado por Bitwise",
+    "slug": "cierra-el-etf-de-dogecoin-gestionado-por-bitwise",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "La firma ya estableció un cronograma para la exclusión y liquidación del fondo.  La entrada Cierra el ETF de dogecoin gestionado por Bitwise se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/cierra-etf-dogecoin-gestionado-bitwise/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ripple lanza agentes de IA para gestión de tesorerías",
+    "slug": "ripple-lanza-agentes-de-ia-para-gestion-de-tesorerias",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "Este desarrollo se integra dentro Ripple Treasury, la suite de Ripple para gestión financiera empresarial.  La entrada Ripple lanza agentes de IA para gestión de tesorerías se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/ripple-lanza-agentes-ia-gestion-tesorerias/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "«Blockstream no pagará rescate por la devolución de los bitcoin robados», dice la empresa",
+    "slug": "blockstream-no-pagara-rescate-por-la-devolucion-de-los-bitco",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "La empresa advierte con medidas legales a los responsables del ataque a Liquid si no devuelven los 598,5 bitcoin que mantienen en su poder.  La entrada «Blockstream no pagará rescate por la devolución de los bitcoin robados», dice la empresa se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/blockstream-no-rescate-devolucion-bitcoin-robados/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin discute dejar de tratar la clave como un botón de gasto instantáneo",
+    "slug": "bitcoin-discute-dejar-de-tratar-la-clave-como-un-boton-de-ga",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "Un informe del MIT compara seis vaults para Bitcoin, pensados para que la clave ya no alcance para vaciar los fondos al instante.  La entrada Bitcoin discute dejar de tratar la clave como un botón de gasto instantáneo se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/bitcoin-clave-vault-seguridad-hackeos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una wallet de Bitcoin puede tener tus fondos y aun así no saber que existen",
+    "slug": "una-wallet-de-bitcoin-puede-tener-tus-fondos-y-aun-asi-no-sa",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "Un fallo en Bitcoin Dev Kit, librería usada por varias wallets, mostró que tener las claves no garantiza ver todos tus fondos.  La entrada Una wallet de Bitcoin puede tener tus fondos y aun así no saber que existen se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/fallo-wallet-fondos-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin podría iniciar un ciclo alcista de hasta dos años, dice Brian Armstrong",
+    "slug": "bitcoin-podria-iniciar-un-ciclo-alcista-de-hasta-dos-anos-di",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "El CEO de Coinbase vincula su expectativa alcista con el próximo halving, aunque reconoce que no existe certeza sobre el mercado.  La entrada Bitcoin podría iniciar un ciclo alcista de hasta dos años, dice Brian Armstrong se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/bitcoin-podria-iniciar-ciclo-alcista-dos-anos-dice-brian-armstrong/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dos ciudades concentran más de la mitad de la producción de bloques de Solana",
+    "slug": "dos-ciudades-concentran-mas-de-la-mitad-de-la-produccion-de-",
+    "category": "cripto",
+    "date": "2026-09-11",
+    "summary": "El dominio de dos ciudades plantea un riesgo: una falla regional podría afectar una porción relevante de la producción de bloques.  La entrada Dos ciudades concentran más de la mitad de la producción de bloques de Solana se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/ciudades-concentran-slots-lideres-solana-europa/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La inflación tuvo una merma en agosto: cuáles fueron los productos que más subieron",
+    "slug": "la-inflacion-tuvo-una-merma-en-agosto-cuales-fueron-los-prod",
+    "category": "economia",
+    "date": "2026-09-10",
+    "summary": "El INDEC informó que el IPC aumentó 1,7%, contra el 2,1% del mes previo.  Tuvieron una fuerte incidencia cuestiones estacionales.",
+    "link": "https://www.ambito.com/economia/la-inflacion-tuvo-una-merma-agosto-cuales-fueron-los-productos-que-mas-subieron-n6320981",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Gobierno celebró la baja de la inflación: \"A seguir por este camino\"",
+    "slug": "el-gobierno-celebro-la-baja-de-la-inflacion-a-seguir-por-est",
+    "category": "economia",
+    "date": "2026-09-10",
+    "summary": "Después de más de un año, el Gobierno nacional festejó por la caída más importante de la inflación desde junio de 2025.  Las reacciones de Javier Milei, Luis Caputo y Federico Sturzenegger.",
+    "link": "https://www.ambito.com/economia/el-gobierno-celebro-la-baja-la-inflacion-a-seguir-este-camino-n6320941",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La inflación de agosto se desaceleró al 1,7%, el nivel más bajo en 14 meses",
+    "slug": "la-inflacion-de-agosto-se-desacelero-al-17-el-nivel-mas-bajo",
     "category": "economia",
     "date": "2026-09-10",
     "summary": "\"La media móvil de 3 meses de la inflación general se ubicó en 1,9%, reflejando la quinta reducción consecutiva\", festejó tras conocer el dato el ministro de Economía, Luis Caputo.",
@@ -16,13 +509,29 @@
     "related": []
   },
   {
-    "title": "Tras la licitación del FGS, el Banco Ciudad anunció que bajó la tasa para créditos hipotecarios",
-    "slug": "tras-la-licitacion-del-fgs-el-banco-ciudad-anuncio-que-bajo-",
+    "title": "En modo defensivo, Caputo renuncia a su bono preferido y sólo emite deuda de corto plazo",
+    "slug": "en-modo-defensivo-caputo-renuncia-a-su-bono-preferido-y-solo",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "La nueva tasa de interés preferencial, fija, es del 6,5%, y tendrá como objetivo créditos para acceder a la primera vivienda.",
-    "link": "https://www.ambito.com/economia/tras-la-licitacion-del-fgs-el-banco-ciudad-anuncio-que-la-tasa-creditos-hipotecarios-n6320845",
-    "source": "Ámbito",
+    "summary": "Por segunda vez, la licitación del Tesoro se abstendrá de captar dólares, para no convalidar \"riesgo kuka\".  Prioriza corto plazo para forzar baja de tasas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464238-caputo-renuncia-a-su-bono-preferido-y-emite-deuda-de-corto-plazo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Toda la actividad vinculada a Mercado Libre ya genera el 1% del PBI argentino",
+    "slug": "toda-la-actividad-vinculada-a-mercado-libre-ya-genera-el-1-d",
+    "category": "economia",
+    "date": "2026-09-10",
+    "summary": "Así lo informó la propia empresa, al resaltar que todo el ecosistema que opera en la plataforma generó en 2025 u$s5. 400 millones en la economía argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/negocios/464239-la-actividad-vinculada-a-mercado-libre-ya-genera-el-1-por-ciento-del-pbi-argentino",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina"
@@ -31,187 +540,12 @@
     "related": []
   },
   {
-    "title": "Para el FMI, la morosidad no representa un riesgo para la estabilidad financiera",
-    "slug": "para-el-fmi-la-morosidad-no-representa-un-riesgo-para-la-est",
+    "title": "Sueldos están por ganarle a la inflación y Milei sueña con la reactivación del consumo",
+    "slug": "sueldos-estan-por-ganarle-a-la-inflacion-y-milei-suena-con-l",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "El FMI aseguró que el aumento de la morosidad de los hogares no representa un riesgo para la estabilidad financiera de la Argentina.  Además, volvió a elogiar el plan de Javier Milei y pidió profundizar el crédito y la acumulación de reservas.",
-    "link": "https://www.ambito.com/economia/para-el-fmi-la-morosidad-no-representa-un-riesgo-la-estabilidad-financiera-n6320763",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo Fijo en dólares: los errores que hay que evitar antes de depositar los ahorros",
-    "slug": "plazo-fijo-en-dolares-los-errores-que-hay-que-evitar-antes-d",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Antes de hacer un plazo fijo en dólares conviene revisar la tasa, el plazo y las condiciones para evitar errores que reduzcan la ganancia.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-los-errores-que-hay-que-evitar-antes-depositar-los-ahorros-n6320404",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Banco Central Europeo aumentó la tasa de interés al 2,5% ante la aceleración de los precios de la energía",
-    "slug": "el-banco-central-europeo-aumento-la-tasa-de-interes-al-25-an",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "El organismo elevó sus tasas de referencia tras estimar que la inflación alcanzará el 3% este año y revisar al alza sus previsiones a mediano plazo por el conflicto en Medio Oriente.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/el-banco-central-europeo-aumento-la-tasa-interes-al-25-la-aceleracion-los-precios-la-energia-n6320723",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto cerró este jueves 10 de septiembre",
-    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-jueves-10-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-jueves-10-septiembre-n6320909",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cerró este jueves 10 de septiembre",
-    "slug": "dolar-hoy-a-cuanto-cerro-este-jueves-10-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-jueves-10-septiembre-n6320908",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 10 de septiembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-10-septiembre-n6320597",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las tres acciones que dominan casi la mitad de las inversiones de Warren Buffett: cuáles son y por qué",
-    "slug": "las-tres-acciones-que-dominan-casi-la-mitad-de-las-inversion",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Un reporte regulatorio de Berkshire Hathaway confirmó una fuerte concentración en tres gigantes de consumo, apoyada en el poder de fijación de precios, la rentabilidad recurrente y",
-    "link": "https://www.ambito.com/finanzas/las-tres-acciones-que-dominan-casi-la-mitad-las-inversiones-warren-buffett-cuales-son-y-que-n6320863",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este jueves 10 de septiembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-jueves-10-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-10-septiembre-n6320586",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este jueves 10 de septiembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-10-de-septiembre",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-10-septiembre-n6320585",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar mayorista cayó por primera vez en cinco ruedas y la brecha con el techo de la banda volvió a superar el 25%",
-    "slug": "el-dolar-mayorista-cayo-por-primera-vez-en-cinco-ruedas-y-la",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "El tipo de cambio mayorista bajó hasta los $1. 513, luego de tres ruedas consecutivas en alza.",
-    "link": "https://www.ambito.com/finanzas/dolar-e-inflacion-el-mayorista-toco-maximos-dos-semanas-y-el-mercado-espera-hoy-el-dato-clave-del-ipc-n6320614",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El S&P Merval en dólares vuelve a subir mientras que el riesgo país baja de los 490 puntos",
-    "slug": "el-sp-merval-en-dolares-vuelve-a-subir-mientras-que-el-riesg",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "El INDEC publicará este jueves el dato de inflación correspondiente al mes de agosto, el mercado espera 1,7% mensual, en línea con el dato de CABA.",
-    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-mixtos-y-el-riesgo-pais-se-acerca-los-500-puntos-basicos-n6320721",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "\"¡Vamos Toto!\": Milei y Caputo celebraron el dato de inflación de agosto",
-    "slug": "vamos-toto-milei-y-caputo-celebraron-el-dato-de-inflacion-de",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "El Presidente felicitó a su ministro de Economía tras la publicación del IPC.  \"El ritmo más bajo para un mes de agosto desde 2017\", escribió Caputo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/464223-vamos-toto-milei-y-caputo-celebraron-el-dato-de-inflacion-de-agosto",
+    "summary": "Tras el IPC de agosto, Milei necesita que la economía vuelva a moverse.  Y, sobre todo, que esa recuperación se sienta en el bolsillo de los votantes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/463977-dato-clave-sueldos-comenzaron-a-ganarle-a-la-inflacion-en-argentina",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -223,12 +557,12 @@
     "related": []
   },
   {
-    "title": "La inflación de agosto fue de 1,7%, la menor en 14 meses: qué IPC prevén para septiembre",
-    "slug": "la-inflacion-de-agosto-fue-de-17-la-menor-en-14-meses-que-ip",
+    "title": "Jubilación: cuánto cobrarán de mínima y máxima en octubre tras dato de inflación",
+    "slug": "jubilacion-cuanto-cobraran-de-minima-y-maxima-en-octubre-tra",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "El Índice de Precios al Consumidor se desaceleró luego del 2,1% de julio, en línea con lo que habían anticipado las consultoras (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/464216-la-inflacion-de-agosto-fue-la-menor-en-14-meses-que-preven-para-septiembre",
+    "summary": "Se conocieron los valores actualizados que regirán en los haberes que abona la ANSES en octubre, incorporando el ajuste más reciente (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/464240-jubilacion-cuanto-cobraran-de-minima-y-maxima-en-octubre-2026-tras-dato-inflacion",
     "source": "iProfesional",
     "tags": [
       "economía",
@@ -239,13 +573,13 @@
     "related": []
   },
   {
-    "title": "Créditos hipotecarios: Banco Ciudad bajó la tasa al 6,5% y cuánto se paga por $100 millones",
-    "slug": "creditos-hipotecarios-banco-ciudad-bajo-la-tasa-al-65-y-cuan",
+    "title": "Plazo fijo Banco Santander: cuánto ganará un ahorrista que invierta $2 millones",
+    "slug": "plazo-fijo-banco-santander-cuanto-ganara-un-ahorrista-que-in",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "Las nuevas líneas de financiación permiten a la clase media acceder a préstamos de hasta $100 millones para adquirir la vivienda propia en CABA (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/464213-creditos-hipotecarios-banco-ciudad-cuotas-igual-alquiler-prestamos-100-millones-septiembre-2026",
-    "source": "iProfesional",
+    "summary": "Los depósitos en pesos brindan una renta que supera al dólar y se acerca a la inflación mensual.  Cuánto ganás con un depósito a 30 días (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464229-plazo-fijo-banco-santander-cuanto-se-gana-invirtiendo-2-millones",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -254,24 +588,8 @@
     "related": []
   },
   {
-    "title": "Tras el dato de inflación en CABA, estos fueron los alimentos que más aumentaron en agosto",
-    "slug": "tras-el-dato-de-inflacion-en-caba-estos-fueron-los-alimentos",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "La inflación porteña fue de 1,7% en agosto y los alimentos subieron 1,8%.  Frutas, pescados, pan y cereales registraron los mayores aumentos del mes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/464055-inflacion-en-caba-cuales-fueron-los-alimentos-que-mas-aumentaron-en-agosto",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El FMI monitorea la morosidad de los hogares y descartó por ahora un riesgo para los bancos",
-    "slug": "el-fmi-monitorea-la-morosidad-de-los-hogares-y-descarto-por-",
+    "title": "Para el FMI, la mora no es un riesgo y anticipó que la tercera revisión comenzará este mes",
+    "slug": "para-el-fmi-la-mora-no-es-un-riesgo-y-anticipo-que-la-tercer",
     "category": "economia",
     "date": "2026-09-10",
     "summary": "Mientras se eleva la dificultad de pago para muchas familias, delegados internacionales arribarán para analizar el cumplimiento de metas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
@@ -347,6 +665,21 @@
     "related": []
   },
   {
+    "title": "Bitcoin hoy: BTC prueba los mínimos del rango antes del IPC",
+    "slug": "bitcoin-hoy-btc-prueba-los-minimos-del-rango-antes-del-ipc",
+    "category": "cripto",
+    "date": "2026-09-10",
+    "summary": "CriptoTendencia Bitcoin prueba los mínimos del rango antes del IPC de Estados Unidos.  Analizamos niveles clave y posibles escenarios.",
+    "link": "https://criptotendencia.com/2026/09/10/bitcoin-hoy-btc-prueba-los-minimos-del-rango-antes-del-ipc-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Bitcoin todavía no completa el «reset» de las ballenas, según CryptoQuant",
     "slug": "bitcoin-todavia-no-completa-el-reset-de-las-ballenas-segun-c",
     "category": "cripto",
@@ -392,118 +725,12 @@
     "related": []
   },
   {
-    "title": "Tras un nuevo hackeo, Trezor, BitBox y CoinTracking alertan sobre una campaña masiva de phishing",
-    "slug": "tras-un-nuevo-hackeo-trezor-bitbox-y-cointracking-alertan-so",
+    "title": "Nubank anuncia la creación de una cuenta global con stablecoins",
+    "slug": "nubank-anuncia-la-creacion-de-una-cuenta-global-con-stableco",
     "category": "cripto",
     "date": "2026-09-10",
-    "summary": "CriptoTendencia Trezor, BitBox y CoinTracking alertan sobre una campaña masiva de phishing vinculada a un proveedor externo.  La entrada Tras un nuevo hackeo, Trezor, BitBox y CoinTracking alertan sobre una campaña masiva de phishing se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/10/tras-un-nuevo-hackeo-trezor-bitbox-y-cointracking-alertan-sobre-una-campana-masiva-de-phishing-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street tras la apertura: la inflación y el petróleo hunden a los índices mientras Apple resiste",
-    "slug": "wall-street-tras-la-apertura-la-inflacion-y-el-petroleo-hund",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia Wall Street retrocede mientras el petróleo supera los $100 y los semiconductores caen, aunque Apple logra avanzar contra la tendencia.  La entrada Wall Street tras la apertura: la inflación y el petróleo hunden a los índices mientras Apple resiste se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/10/wall-street-tras-la-apertura-la-inflacion-y-el-petroleo-hunden-a-los-indices-mientras-apple-resiste-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "NEAR corrige tras subir un 60% en tres semanas: ¿qué sigue para el precio?",
-    "slug": "near-corrige-tras-subir-un-60-en-tres-semanas-que-sigue-para",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia NEAR corrige tras subir cerca de un 60% en tres semanas.  Analizamos sus catalizadores, soportes, resistencias y principales señales técnicas.",
-    "link": "https://criptotendencia.com/2026/09/10/near-corrige-tras-subir-un-60-en-tres-semanas-que-sigue-para-el-precio-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street se establece en la blockchain: ¿de qué se trata Binance Town?",
-    "slug": "wall-street-se-establece-en-la-blockchain-de-que-se-trata-bi",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia Binance Town explora la convergencia entre Wall Street y blockchain mediante acciones tokenizadas y activos financieros digitales.  La entrada Wall Street se establece en la blockchain: ¿de qué se trata Binance Town?",
-    "link": "https://criptotendencia.com/2026/09/10/wall-street-se-establece-en-la-blockchain-de-que-se-trata-binance-town-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dilema de la Ley CLARITY: el Senado de EE. UU. define el futuro de los activos digitales",
-    "slug": "el-dilema-de-la-ley-clarity-el-senado-de-ee-uu-define-el-fut",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia La CLARITY Act puede redefinir las reglas del mercado cripto en Estados Unidos, desde la regulación y el capital institucional hasta la innovación DeFi.  La entrada El dilema de la Ley CLARITY: el Senado de EE.",
-    "link": "https://criptotendencia.com/2026/09/10/el-dilema-de-la-ley-clarity-el-senado-de-ee-uu-define-el-futuro-de-los-activos-digitales/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alan Turing y la pregunta de 1950 que todavía persigue a la inteligencia artificial",
-    "slug": "alan-turing-y-la-pregunta-de-1950-que-todavia-persigue-a-la-",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia En 1950, Alan Turing cambió la pregunta: no qué es pensar, sino cuándo una máquina se vuelve indistinguible de nosotros.  Sigue sin respuesta.",
-    "link": "https://criptotendencia.com/2026/09/10/alan-turing-y-la-pregunta-de-1950-que-todavia-persigue-a-la-inteligencia-artificial/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dividendo Trump y la memoria de 2020 en Bitcoin",
-    "slug": "el-dividendo-trump-y-la-memoria-de-2020-en-bitcoin",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "CriptoTendencia El dividendo de 5. 000 dólares de Trump supera todo el estímulo COVID y equivale al mercado de Bitcoin.",
-    "link": "https://criptotendencia.com/2026/09/10/el-dividendo-trump-y-la-memoria-de-2020-en-bitcoin/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Bitcoin está en un “superciclo” o simplemente sigue haciendo lo de siempre?",
-    "slug": "bitcoin-esta-en-un-superciclo-o-simplemente-sigue-haciendo-l",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "Willy Woo cree que BTC podría estar entrando en una nueva fase.  Pero la tendencia alcista de largo plazo no es precisamente algo nuevo.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-superciclo-analisis/",
+    "summary": "La expansión del banco supone una prueba para un modelo que la compañía desarrolló principalmente en Brasil, México y Colombia.  La entrada Nubank anuncia la creación de una cuenta global con stablecoins se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/nubank-creacion-cuenta-global-stablecoin-usdc-bitcoin-ethereum/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -513,178 +740,12 @@
     "related": []
   },
   {
-    "title": "El súper ciclo de Bitcoin: ¿una realidad o el reflejo de un mercado que está madurando?",
-    "slug": "el-super-ciclo-de-bitcoin-una-realidad-o-el-reflejo-de-un-me",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "La creencia de que el ciclo de cuatro años impulsado por el halving podría estar llegando a su fin, encuentra sus detractores dentro de la comunidad.  La entrada El súper ciclo de Bitcoin: ¿una realidad o el reflejo de un mercado que está madurando?",
-    "link": "https://www.criptonoticias.com/mercados/super-ciclo-bitcoin-realidad-reflejo-mercado/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "MoneyGram lanza tarjeta Visa respaldada por stablecoins en Colombia",
-    "slug": "moneygram-lanza-tarjeta-visa-respaldada-por-stablecoins-en-c",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "La empresa especializada en remesas internacionales ofrece sus servicios con USDC.  La entrada MoneyGram lanza tarjeta Visa respaldada por stablecoins en Colombia se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/adopcion/moneygram-lanza-tarjeta-visa-respaldada-stablecoins-colombia/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Liquid reanudó la producción de bloques tras el robo de 4.000 bitcoin",
-    "slug": "liquid-reanudo-la-produccion-de-bloques-tras-el-robo-de-4000",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "Blockstream actualizó los nodos de la red para su estabilización, aunque los retiros y depósitos continúan temporalmente deshabilitados.  La entrada Liquid reanudó la producción de bloques tras el robo de 4.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/liquid-reanudo-produccion-bloques-robo-4000-bitcoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin oculta su propia red incluso de sí misma, y eso la hace más segura",
-    "slug": "bitcoin-oculta-su-propia-red-incluso-de-si-misma-y-eso-la-ha",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "Un estudio revela que la opacidad de la red P2P de Bitcoin, lejos de ser una falla, funciona como defensa.  La entrada Bitcoin oculta su propia red incluso de sí misma, y eso la hace más segura se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/bitcoin-oculta-nodo-propia-red-incluso-segura/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Stacks puso en marcha un bono para tesorerías de bitcoin",
-    "slug": "stacks-puso-en-marcha-un-bono-para-tesorerias-de-bitcoin",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "La herramienta permite obtener dividendos semanales sin necesidad de préstamos a terceros.  La entrada Stacks puso en marcha un bono para tesorerías de bitcoin se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/stacks-bono-tesorerias-bitcoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "U.S. Bank hizo prueba internacional de su stablecoin en la red Stellar",
-    "slug": "us-bank-hizo-prueba-internacional-de-su-stablecoin-en-la-red",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "El banco estadounidense, la séptima entidad bancaria más grande del país, cuenta con presencia en Europa.  La entrada U.",
-    "link": "https://www.criptonoticias.com/tecnologia/usbank-prueba-internacional-stablecoin-stellar/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Un bono de 3% en bitcoin podría cambiar la estrategia de las tesorerías",
-    "slug": "un-bono-de-3-en-bitcoin-podria-cambiar-la-estrategia-de-las-",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "Stacks busca volver más atractivo mantener BTC en tesorería con un rendimiento objetivo de 3% sin sacar el capital de Bitcoin L1.  La entrada Un bono de 3% en bitcoin podría cambiar la estrategia de las tesorerías se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/bono-bitcoin-stacks-tesorerias-empresas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Qué es un “súper ciclo” y qué implicaciones tendría para bitcoin?",
-    "slug": "que-es-un-super-ciclo-y-que-implicaciones-tendria-para-bitco",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "Según el analista Willy Woo, parecen haber señales de que este fenómeno se está gestando en el mercado.  La entrada ¿Qué es un “súper ciclo” y qué implicaciones tendría para bitcoin?",
-    "link": "https://www.criptonoticias.com/mercados/que-es-super-ciclo-implicaciones-bitcoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin perdió el soporte de USD 77.000 tras repunte de inflación en EE. UU.",
-    "slug": "bitcoin-perdio-el-soporte-de-usd-77000-tras-repunte-de-infla",
-    "category": "cripto",
-    "date": "2026-09-10",
-    "summary": "La inflación para los productores en agosto superó las expectativas del mercado, lo que incrementó las probabilidades de un aumento en las tasas de interés.  La entrada Bitcoin perdió el soporte de USD 77.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-cayo-77000-repunte-inflacion-eeuu/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Morosidad: crecen refinanciaciones, pero más de la mitad de los deudores son \"irrecuperables\", ¿cómo impactará en el crédito?",
-    "slug": "morosidad-crecen-refinanciaciones-pero-mas-de-la-mitad-de-lo",
+    "title": "La inflación de agosto fue del 1,7%, el valor más bajo en 14 meses",
+    "slug": "la-inflacion-de-agosto-fue-del-17-el-valor-mas-bajo-en-14-me",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "El crecimiento en el ratio de irregularidad de los créditos a las familias tuvo un reciente freno, pero los analistas avizoran un camino largo de cara al anhelo de que el financiam",
-    "link": "https://www.ambito.com/economia/morosidad-crecen-refinanciaciones-pero-mas-la-mitad-los-deudores-son-irrecuperables-como-impactara-el-credito-n6320431",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos hipotecarios: ¿conviene comprar ahora o esperar a que sigan bajando las tasas?",
-    "slug": "creditos-hipotecarios-conviene-comprar-ahora-o-esperar-a-que",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Los bancos muestran condiciones más competitivas, pero una mejora del financiamiento también podría empujar el valor de las propiedades.",
-    "link": "https://www.ambito.com/economia/creditos-hipotecarios-conviene-comprar-ahora-o-esperar-que-sigan-bajando-las-tasas-n6319973",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El INDEC da a conocer la inflación de agosto: el mercado prevé que perfore otra vez el 2%",
-    "slug": "el-indec-da-a-conocer-la-inflacion-de-agosto-el-mercado-prev",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Las principales consultoras prevén que la inflación se ubique entre el 1,4% y el 1,9%, en línea con la desaceleración de CABA.",
-    "link": "https://www.ambito.com/economia/el-indec-da-conocer-la-inflacion-agosto-el-mercado-preve-que-perfore-otra-vez-el-2-n6320432",
+    "summary": "\"La media móvil de 3 meses de la inflación general se ubicó en 1,9%, reflejando la quinta reducción consecutiva\", festejó tras conocer el dato el ministro de Economía, Luis Caputo.",
+    "link": "https://www.ambito.com/economia/la-inflacion-agosto-fue-17-el-valor-mas-14-meses-n6320907",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -695,75 +756,13 @@
     "related": []
   },
   {
-    "title": "Demandan a Mercado Pago por el cobro abusivo de intereses",
-    "slug": "demandan-a-mercado-pago-por-el-cobro-abusivo-de-intereses",
+    "title": "Tras la licitación del FGS, el Banco Ciudad anunció que bajó la tasa para créditos hipotecarios",
+    "slug": "tras-la-licitacion-del-fgs-el-banco-ciudad-anuncio-que-bajo-",
     "category": "economia",
     "date": "2026-09-10",
-    "summary": "Una asociación de consumidores inició una acción judicial contra la billetera, a partir del caso de dos usuarias.  Según el cálculo realizado por la organización, las tasas aplicadas superan el 1.",
-    "link": "https://www.ambito.com/economia/demandan-mercado-pago-el-cobro-abusivo-intereses-n6320566",
+    "summary": "La nueva tasa de interés preferencial, fija, es del 6,5%, y tendrá como objetivo créditos para acceder a la primera vivienda.",
+    "link": "https://www.ambito.com/economia/tras-la-licitacion-del-fgs-el-banco-ciudad-anuncio-que-la-tasa-creditos-hipotecarios-n6320845",
     "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo: qué banco paga más al invertir $500.000",
-    "slug": "plazo-fijo-que-banco-paga-mas-al-invertir-500000",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Las tasas para depósitos a 30 días varían entre entidades y pueden modificarse según el tiempo y las condiciones de contratación.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-que-banco-paga-mas-al-invertir-500000-n6320416",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alerta en las economías regionales: nueve sectores están en rojo por la caída de la demanda y el aumento de los costos",
-    "slug": "alerta-en-las-economias-regionales-nueve-sectores-estan-en-r",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Un informe advirtió que casi la mitad de las actividades relevadas atraviesa una situación crítica.  Yerba mate, vino, leche y arroz integran el grupo más afectado, mientras solo cuatro sectores se mantienen en verde.",
-    "link": "https://www.ambito.com/finanzas/alerta-las-economias-regionales-nueve-sectores-estan-rojo-la-caida-la-demanda-y-el-aumento-los-costos-n6320628",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar e inflación: el mayorista tocó máximos de dos semanas y el mercado espera hoy el dato clave del IPC",
-    "slug": "dolar-e-inflacion-el-mayorista-toco-maximos-de-dos-semanas-y",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "El tipo de cambio mayorista cerró el miércoles en $1. 514 y acumuló dos ruedas consecutivas en alza.",
-    "link": "https://www.ambito.com/finanzas/dolar-e-inflacion-el-mayorista-toco-maximos-dos-semanas-y-el-mercado-espera-hoy-el-dato-clave-del-ipc-n6320614",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los bancos pisan el acelerador por los FAL: ofrecen fuertes beneficios para captar los fondos de indemnizaciones",
-    "slug": "los-bancos-pisan-el-acelerador-por-los-fal-ofrecen-fuertes-b",
-    "category": "economia",
-    "date": "2026-09-10",
-    "summary": "Algunas entidades ya salieron a ofrecer comisión cero y beneficios exclusivos para las empresas, y apuntan, como mínimo, a duplicar la cantidad de compañías a las que prestan servi",
-    "link": "https://www.ambito.com/finanzas/los-bancos-pisan-el-acelerador-los-fal-ofrecen-fuertes-beneficios-captar-los-fondos-las-indemnizaciones-n6320539",
-    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina"
