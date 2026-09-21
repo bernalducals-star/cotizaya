@@ -1,5 +1,35 @@
 [
   {
+    "title": "Empeoraron las expectativas de los industriales sobre la demanda: solo el 13,8% prevé una mejora para fin de año",
+    "slug": "empeoraron-las-expectativas-de-los-industriales-sobre-la-dem",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "El débil consumo interno es lo que más preocupa en la industria manufacturera.  Le siguen la competencia de las importaciones y la incertidumbre económica.",
+    "link": "https://www.ambito.com/economia/empeoraron-las-expectativas-los-industriales-la-demanda-solo-el-138-preve-una-mejora-fin-ano-n6324961",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Comprar con crédito hipotecario o alquilar en Argentina? Cómo funciona el simulador gratuito que define qué conviene hacer",
+    "slug": "comprar-con-credito-hipotecario-o-alquilar-en-argentina-como",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "La cuenta cambia bastante cuando se suman los ahorros, los gastos de compra y la posibilidad de invertir ese dinero mientras se alquila.",
+    "link": "https://www.ambito.com/economia/comprar-credito-hipotecario-o-alquilar-argentina-como-funciona-el-simulador-gratuito-que-define-que-conviene-hacer-n6324769",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza",
     "slug": "morosidad-record-las-deudas-de-casi-900000-personas-ya-pasar",
     "category": "economia",
@@ -62,17 +92,67 @@
     "related": []
   },
   {
-    "title": "Plazo fijo en pesos: cuánto se gana por $1 millón y qué tasas ofrecen los bancos en septiembre 2026?",
-    "slug": "plazo-fijo-en-pesos-cuanto-se-gana-por-1-millon-y-que-tasas-",
+    "title": "Las reservas del BCRA se alejaron de los u$s50.000 millones y marcaron un nuevo mínimo mensual",
+    "slug": "las-reservas-del-bcra-se-alejaron-de-los-us50000-millones-y-",
     "category": "economia",
     "date": "2026-09-21",
-    "summary": "Las tasas de los plazos fijos en pesos varían entre bancos y permiten calcular de antemano cuánto dinero se recibirá al vencimiento.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-pesos-cuanto-se-gana-1-millon-y-que-tasas-ofrecen-los-bancos-septiembre-2026-n6324096",
-    "source": "Ámbito",
+    "summary": "La autoridad monetaria compró u$s8 millones y llevó el saldo de septiembre a u$s211 millones, mientras las reservas brutas cayeron u$s103 millones hasta u$s49. 695 millones.",
+    "link": "https://www.ambito.com/finanzas/las-reservas-del-bcra-se-alejaron-los-us50000-millones-y-marcaron-un-nuevo-minimo-mensual-n6324956",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
-      "peso"
+      "reservas",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar: por qué el BCRA compra menos a pesar de la buena liquidación del agro",
+    "slug": "dolar-por-que-el-bcra-compra-menos-a-pesar-de-la-buena-liqui",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Las compras acumuladas del mes alcanzan apenas u$s205 millones, cuando restan ocho ruedas para cerrar septiembre.  Esto implica un promedio de solo u$s15 millones por día.",
+    "link": "https://www.ambito.com/finanzas/dolar-que-el-bcra-compra-menos-pesar-la-buena-liquidacion-del-agro-n6324789",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cerró este lunes 21 de septiembre",
+    "slug": "dolar-hoy-a-cuanto-cerro-este-lunes-21-de-septiembre",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-21-septiembre-n6324911",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este lunes 21 de septiembre",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-lunes-21-de-septiembre",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-lunes-21-septiembre-n6324912",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -110,11 +190,11 @@
     "related": []
   },
   {
-    "title": "El dólar mayorista marca un nuevo récord nominal pero los futuros bajan de forma generalizada",
-    "slug": "el-dolar-mayorista-marca-un-nuevo-record-nominal-pero-los-fu",
+    "title": "El dólar mayorista bajó tras tocar un récord nominal mientras los futuros retroceden de forma generalizada",
+    "slug": "el-dolar-mayorista-bajo-tras-tocar-un-record-nominal-mientra",
     "category": "economia",
     "date": "2026-09-21",
-    "summary": "El mayorista avanza hasta los $1. 516 tras registrar su mayor suba semanal desde fines de agosto, aunque todavía se mantiene más de 25% por debajo del techo de la banda.",
+    "summary": "La cotización oficial opera casi sin cambios respecto del cierre del viernes, en una rueda marcada por escasa volatilidad y una fuerte oferta de divisas.  En paralelo, los contratos a término muestran caídas en todos los plazos, con diciembre en torno a los $1.",
     "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-opera-un-nuevo-record-nominal-y-la-city-sigue-cerca-la-compra-reservas-n6324632",
     "source": "Ámbito Finanzas",
     "tags": [
@@ -126,67 +206,93 @@
     "related": []
   },
   {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 21 de septiembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "title": "La Unión Europea no logró renovar por tres años las sanciones contra 2.600 personas y entidades vinculadas a la invasión rusa",
+    "slug": "la-union-europea-no-logro-renovar-por-tres-anos-las-sancione",
     "category": "economia",
     "date": "2026-09-21",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-21-septiembre-n6323827",
-    "source": "Ámbito Finanzas",
+    "summary": "Los Veintisiete no alcanzaron la unanimidad para prolongar las medidas restrictivas vinculadas a la guerra después de que el procedimiento escrito concluyera sin consenso en Brusel",
+    "link": "https://www.infobae.com/america/mundo/2026/09/21/la-union-europea-no-logro-renovar-por-tres-anos-las-sanciones-contra-2600-personas-y-entidades-vinculadas-a-la-invasion-rusa/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo funciona la logística detrás de la exportación de caballos argentinos al mundo",
+    "slug": "como-funciona-la-logistica-detras-de-la-exportacion-de-cabal",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "La Argentina certificó envíos de miles de ejemplares a 38 países en el último año, mediante un trámite sanitario clave ante SENASA y organismos internacionales",
+    "link": "https://www.infobae.com/movant/2026/09/20/como-funciona-la-logistica-detras-de-la-exportacion-de-caballos-argentinos-al-mundo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las 5 acciones argentinas que pueden más que duplicar su precio, según el bróker Allaria",
+    "slug": "las-5-acciones-argentinas-que-pueden-mas-que-duplicar-su-pre",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "La magnitud de los porcentajes resulta atractiva, especialmente para quienes apuntan a una recuperación de las acciones argentinas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464624-5-acciones-argentinas-que-podrian-mas-que-duplicar-su-precio",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vicentin consiguió un crédito por u$s50 millones del gigante agroindustrial Bunge",
+    "slug": "vicentin-consiguio-un-credito-por-us50-millones-del-gigante-",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "El juez del concurso habilitó el financiamiento.  Vicentin dejará en prenda el 8,33% de una planta y deberá rendir cuentas cada tres meses (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/negocios/464861-vicentin-consiguio-un-credito-por-us50-millones-del-gigante-agroindustrial-bunge",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Quién se queda con los u$s170 millones diarios que liquida el agro y que no compra el BCRA",
+    "slug": "quien-se-queda-con-los-us170-millones-diarios-que-liquida-el",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "La demanda del sector privado absorbe la liquidación diaria del campo ante las bajas compras de divisas por parte del Banco Central (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464841-dolares-del-agro-quien-se-queda-con-las-divisas-del-campo",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cuál es el precio del dólar que prevén las 6 consultoras que más aciertan en la City",
+    "slug": "cual-es-el-precio-del-dolar-que-preven-las-6-consultoras-que",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Entre las entidades figuran MAPFRE Econmics, Credicorp Capital e Invecq Consulting.  Esto prevén para diciembre, tras acertar en 2025 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464762-nuevo-precio-del-dolar-que-preven-las-6-consultoras-que-mas-aciertan",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los bonos en dólares abren al alza en Wall Street pero el riesgo país no quiebra los 520 puntos",
-    "slug": "los-bonos-en-dolares-abren-al-alza-en-wall-street-pero-el-ri",
-    "category": "economia",
-    "date": "2026-09-21",
-    "summary": "Llega la tercera misión del FMI que evaluará desembolsar u$s870 millones a Argentina, mientras el mercado internacional espera el encuentro entre EEUU y China.",
-    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-al-alza-wall-street-pero-el-riesgo-pais-no-quiebra-los-520-puntos-n6324700",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Boom de deuda corporativa: las emisiones de ON tocaron un máximo en 12 meses y las tasas en dólares cayeron al 5,1%",
-    "slug": "boom-de-deuda-corporativa-las-emisiones-de-on-tocaron-un-max",
-    "category": "economia",
-    "date": "2026-09-21",
-    "summary": "En agosto se concretaron 41 colocaciones de Obligaciones Negociables, la mayor cantidad del último año, aunque el monto total cayó 25% frente a julio.  Las empresas emitieron casi u$s1.",
-    "link": "https://www.ambito.com/finanzas/boom-deuda-corporativa-las-emisiones-on-tocaron-un-maximo-12-meses-y-las-tasas-dolares-cayeron-al-51-n6324704",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Manuel Adorni justificó sus bienes ante la Justicia: dijo que tenía ahorros por casi USD 600 mil en bitcoin",
-    "slug": "manuel-adorni-justifico-sus-bienes-ante-la-justicia-dijo-que",
-    "category": "economia",
-    "date": "2026-09-21",
-    "summary": "Luego de que la Justicia le concediera una prórroga, el ex jefe de Gabinete cumplió con el trámite judicial. Dijo que guardaba en su casa dólares de sus ganancias en criptomonedas",
-    "link": "https://www.infobae.com/judiciales/2026/09/21/manuel-adorni-presento-la-justificacion-de-sus-bienes/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -222,47 +328,16 @@
     "related": []
   },
   {
-    "title": "Plazo fijo: por qué dejar $1 millón en tu banco puede hacerte perder $6.000 en un mes",
-    "slug": "plazo-fijo-por-que-dejar-1-millon-en-tu-banco-puede-hacerte-",
+    "title": "ChatGPT, Gemini y Claude nos dijeron qué acciones comprar: 2 meses después hay un ganador",
+    "slug": "chatgpt-gemini-y-claude-nos-dijeron-que-acciones-comprar-2-m",
     "category": "economia",
     "date": "2026-09-21",
-    "summary": "La tasa que paga un banco por un plazo fijo dejó de ser un dato menor para los ahorristas, por lo que hay que buscar cuáles son los más rendidores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/464795-plazo-fijo-por-que-dejar-1-millon-de-pesos-te-puede-costar-6000-pesos",
-    "source": "iProfesional",
+    "summary": "Luego de consultar a tres IA, repasamos cuánto rindieron las acciones argentinas que recomendaron y qué asistente obtuvo el mejor rendimiento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/464512-chatgpt-gemini-y-claude-nos-dijeron-que-acciones-comprar-cual-acerto",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Llegan los técnicos del FMI para la tercera revisión del acuerdo",
-    "slug": "llegan-los-tecnicos-del-fmi-para-la-tercera-revision-del-acu",
-    "category": "economia",
-    "date": "2026-09-21",
-    "summary": "La misión del organismo arriba para auditar el desempeño fiscal argentino en medio de un escenario financiero volátil y bajo presión cambiaria (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/464807-llegan-los-tecnicos-del-fmi-para-la-tercera-revision-del-acuerdo",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Emisiones de empresas y provincias superan los u$s20.000 M y habrá más lluvia de dólares",
-    "slug": "emisiones-de-empresas-y-provincias-superan-los-us20000-m-y-h",
-    "category": "economia",
-    "date": "2026-09-21",
-    "summary": "La racha de emisiones de títulos de deuda en dólares, que arrancó tras el triunfo electoral de Milei en las legislativas de octubre, seguirá firme (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/464699-empresas-logran-record-de-dolares-por-emision-de-deuda",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -310,6 +385,82 @@
       "economía",
       "argentina",
       "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tokenización de deuda pública: la estrategia silenciosa del BCE frente al avance de las stablecoins",
+    "slug": "tokenizacion-de-deuda-publica-la-estrategia-silenciosa-del-b",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "CriptoTendencia El BCE prepara la compra de deuda pública tokenizada y avanza en la integración de la tecnología DLT al corazón del sistema financiero europeo.  La entrada Tokenización de deuda pública: la estrategia silenciosa del BCE frente al avance de las stablecoins se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/21/tokenizacion-de-deuda-publica-la-estrategia-silenciosa-del-bce-frente-al-avance-de-las-stablecoins/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Izertis se alía con Bit2Me para llevar los criptoactivos regulados a las empresas",
+    "slug": "izertis-se-alia-con-bit2me-para-llevar-los-criptoactivos-reg",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "CriptoTendencia Izertis se alía con Bit2Me para dar a las empresas criptoactivos regulados bajo MiCA: pagos, tesorería y custodia sin construir el stack.  La entrada Izertis se alía con Bit2Me para llevar los criptoactivos regulados a las empresas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/21/izertis-se-alia-con-bit2me-para-llevar-los-criptoactivos-regulados-a-las-empresas/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El explosivo rally de las memecoins dispara un 129% el volumen del sector",
+    "slug": "el-explosivo-rally-de-las-memecoins-dispara-un-129-el-volume",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "CriptoTendencia Las memecoins registran un fuerte rally que impulsa la capitalización del sector y dispara más de un 129% su volumen semanal.  La entrada El explosivo rally de las memecoins dispara un 129% el volumen del sector se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/21/el-explosivo-rally-de-las-memecoins-dispara-un-129-el-volumen-del-sector-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Polymarket asigna un 62% a una victoria demócrata en ambas cámaras en noviembre",
+    "slug": "polymarket-asigna-un-62-a-una-victoria-democrata-en-ambas-ca",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "CriptoTendencia Polymarket asigna un 62% a una victoria demócrata en ambas cámaras, un escenario que podría alterar la regulación cripto en EE.  UU.",
+    "link": "https://criptotendencia.com/2026/09/21/polymarket-asigna-un-62-a-una-victoria-democrata-en-ambas-camaras-en-noviembre-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy compró bitcoin tras dos semanas seguidas de pausa",
+    "slug": "strategy-compro-bitcoin-tras-dos-semanas-seguidas-de-pausa",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "CriptoTendencia Strategy reanudó sus compras de bitcoin tras dos semanas de pausa y sumó 950 BTC por un total de $75 millones.  La entrada Strategy compró bitcoin tras dos semanas seguidas de pausa se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/09/21/strategy-compro-bitcoin-tras-dos-semanas-seguidas-de-pausa-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -390,13 +541,13 @@
     "related": []
   },
   {
-    "title": "Flash 24/7 | Bitcoin abre sobre $ 81.000, pero la acción está fuera de BTC",
-    "slug": "flash-247-bitcoin-abre-sobre-81000-pero-la-accion-esta-fuera",
+    "title": "Circle lleva su bitcoin tokenizado a Arc para facilitar préstamos en USDC",
+    "slug": "circle-lleva-su-bitcoin-tokenizado-a-arc-para-facilitar-pres",
     "category": "cripto",
     "date": "2026-09-21",
-    "summary": "CriptoTendencia Bitcoin abre la semana sobre los $ 81. 000, pero la acción está fuera de BTC: Ethereum sube 3%, Zcash extiende su rally y NEAR se dispara 27%.",
-    "link": "https://criptotendencia.com/2026/09/21/flash-24-7-bitcoin-abre-sobre-81-000-pero-la-accion-esta-fuera-de-btc/",
-    "source": "CriptoTendencia",
+    "summary": "El nuevo activo permite mantener exposición a BTC mientras se accede a liquidez en dólares mediante mercados de préstamos.  La entrada Circle lleva su bitcoin tokenizado a Arc para facilitar préstamos en USDC se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/circle-lleva-bitcoin-tokenizado-arc-para-facilitar-prestamos-usdc/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -405,13 +556,62 @@
     "related": []
   },
   {
-    "title": "Tu teléfono tiene dos millones de veces más RAM que la computadora del Apollo 11",
-    "slug": "tu-telefono-tiene-dos-millones-de-veces-mas-ram-que-la-compu",
+    "title": "La cola de salida de Ethereum toca su máximo de tres meses",
+    "slug": "la-cola-de-salida-de-ethereum-toca-su-maximo-de-tres-meses",
     "category": "cripto",
     "date": "2026-09-21",
-    "summary": "CriptoTendencia Un smartphone de 8 GB tiene dos millones de veces más RAM que el Apollo Guidance Computer.  La verdadera hazaña no fue el hardware.",
-    "link": "https://criptotendencia.com/2026/09/21/tu-telefono-tiene-dos-millones-de-veces-mas-ram-que-la-computadora-del-apollo-11/",
-    "source": "CriptoTendencia",
+    "summary": "Los validadores de la red reactivan la solicitud de retiro de sus fondos, tras una recuperación en la cotización de la criptomoneda.  La entrada La cola de salida de Ethereum toca su máximo de tres meses se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/cola-salida-ethereum-toca-maximo-tres-meses/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Token de ether.fi busca los 0,80 dólares mientras se aleja de la sombra de Ethereum",
+    "slug": "token-de-etherfi-busca-los-080-dolares-mientras-se-aleja-de-",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "Ether. fi amplía su plataforma financiera y activa compras programáticas de ETHFI, mientras el token se acerca a su máximo anual.",
+    "link": "https://www.criptonoticias.com/mercados/token-ether-fi-busca-080-dolares-aleja-sombra-ethereum/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitmine posee ya 4,9% del suministro total de Ethereum",
+    "slug": "bitmine-posee-ya-49-del-suministro-total-de-ethereum",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "La empresa anunció la compra de 27. 562 ether (ETH) la semana pasada.",
+    "link": "https://www.criptonoticias.com/mercados/bitmine-posee-ya-49-del-suministro-total-ethereum/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Banco Central de Brasil revela la primera empresa de criptomonedas en proceso de autorización",
+    "slug": "banco-central-de-brasil-revela-la-primera-empresa-de-criptom",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "Como parte del avance regulatorio, las plataformas operativas deben efectuar un pedido de autorización ante la autoridad financiera para seguir funcionando.  La entrada Banco Central de Brasil revela la primera empresa de criptomonedas en proceso de autorización se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/regulacion/banco-central-brasil-revela-primera-empresa-criptomonedas-autorizacion/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -420,13 +620,13 @@
     "related": []
   },
   {
-    "title": "La regla más vieja de la fiebre del oro explica por qué el rey de la IA insiste en que no hay nada que temer",
-    "slug": "la-regla-mas-vieja-de-la-fiebre-del-oro-explica-por-que-el-r",
+    "title": "El BCE entra en las redes de activos digitales sin esperar a su euro digital",
+    "slug": "el-bce-entra-en-las-redes-de-activos-digitales-sin-esperar-a",
     "category": "cripto",
     "date": "2026-09-21",
-    "summary": "CriptoTendencia El único que jura que la IA no es peligrosa es quien vende las palas.  La fiebre del oro de 1848 explica esa escena.",
-    "link": "https://criptotendencia.com/2026/09/21/la-regla-mas-vieja-de-la-fiebre-del-oro-explica-por-que-el-rey-de-la-ia-insiste-en-que-no-hay-nada-que-temer/",
-    "source": "CriptoTendencia",
+    "summary": "Pontes permite al BCE llevar dinero de banco central a mercados de activos tokenizados antes de que exista un euro digital para el público.  La entrada El BCE entra en las redes de activos digitales sin esperar a su euro digital se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/finanzas/bce-entra-redes-activos-digitales-esperar-euro-digital-pontes/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -435,13 +635,13 @@
     "related": []
   },
   {
-    "title": "Esta semana los problemas geopolíticos podrían tensionar aún más los mercados financieros",
-    "slug": "esta-semana-los-problemas-geopoliticos-podrian-tensionar-aun",
+    "title": "¿Por qué el FMI prefiere USDT en Bolivia pero rechaza bitcoin en El Salvador?",
+    "slug": "por-que-el-fmi-prefiere-usdt-en-bolivia-pero-rechaza-bitcoin",
     "category": "cripto",
     "date": "2026-09-21",
-    "summary": "CriptoTendencia Los mercados financieros afrontan una semana marcada por las tensiones en Medio Oriente, el petróleo elevado y una nueva escalada entre Rusia y Ucrania.  La entrada Esta semana los problemas geopolíticos podrían tensionar aún más los mercados financieros se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/09/21/esta-semana-los-problemas-geopoliticos-podrian-tensionar-aun-mas-los-mercados-financieros-2/",
-    "source": "CriptoTendencia",
+    "summary": "Dos países y dos activos bajo la doctrina del FMI: ve a bitcoin como amenaza monetaria y a USDT como la versión digital del dólar.  La entrada ¿Por qué el FMI prefiere USDT en Bolivia pero rechaza bitcoin en El Salvador?",
+    "link": "https://www.criptonoticias.com/regulacion/por-que-fmi-prefiere-usdt-bolivia-bitcoin-elsalvador/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -450,13 +650,28 @@
     "related": []
   },
   {
-    "title": "11.000 personas después: qué aprendimos en Threads intentando contar las noticias antes de que fueran noticia",
-    "slug": "11000-personas-despues-que-aprendimos-en-threads-intentando-",
+    "title": "El capital vuelve a las altcoins, pero todavía no alcanza para activar una altseason",
+    "slug": "el-capital-vuelve-a-las-altcoins-pero-todavia-no-alcanza-par",
     "category": "cripto",
     "date": "2026-09-21",
-    "summary": "CriptoTendencia Mirar las señales antes de que se vuelvan noticia: lo que aprendimos con un experimento editorial que sigue en marcha.  La entrada 11.",
-    "link": "https://criptotendencia.com/2026/09/21/10-000-personas-despues-que-aprendimos-en-threads-intentando-contar-las-noticias-antes-de-que-fueran-noticia/",
-    "source": "CriptoTendencia",
+    "summary": "La capitalización y el volumen de las altcoins repuntan, aunque el Altseason Index sigue en 49 puntos.  La entrada El capital vuelve a las altcoins, pero todavía no alcanza para activar una altseason se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/capital-altcoins-altseason-mercad-criptomonedas/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Coinbase quiere que bitcoin entre al Estado porque el Estado también puede ser su cliente",
+    "slug": "coinbase-quiere-que-bitcoin-entre-al-estado-porque-el-estado",
+    "category": "cripto",
+    "date": "2026-09-21",
+    "summary": "El exchange promueve la Reserva Estratégica de Bitcoin en EE.  UU.",
+    "link": "https://www.criptonoticias.com/opinion/coinbase-reserva-estrategica-bitcoin/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -480,290 +695,83 @@
     "related": []
   },
   {
-    "title": "¿Industria de criptomonedas no necesita la Ley Clarity o quiere convencerse de ello?",
-    "slug": "industria-de-criptomonedas-no-necesita-la-ley-clarity-o-quie",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "Bitcoin puede vivir sin la ley, pero el resto del mercado necesitaba una regulación que lo integrara al sistema financiero estadounidense.  La entrada ¿Industria de criptomonedas no necesita la Ley Clarity o quiere convencerse de ello?",
-    "link": "https://www.criptonoticias.com/opinion/industria-criptomonedas-no-necesita-ley-clarity/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Un fallo en los pools puede dejar «varados» a mineros que reducen su potencia",
-    "slug": "un-fallo-en-los-pools-puede-dejar-varados-a-mineros-que-redu",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "Un fallo en los controladores de dificultad de los pools puede dejar atrapados a mineros que reducen su potencia de forma deliberada.  La entrada Un fallo en los pools puede dejar «varados» a mineros que reducen su potencia se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/fallo-pools-puede-dejar-varados-mineros-reducen-potencia/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "BCE pone en marcha la liquidación de activos tokenizados con dinero de banco central",
-    "slug": "bce-pone-en-marcha-la-liquidacion-de-activos-tokenizados-con",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "El Eurosistema lanzó Pontes para liquidar transacciones mayoristas de activos tokenizados con dinero de banco central.  La entrada BCE pone en marcha la liquidación de activos tokenizados con dinero de banco central se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/bce-liquidacion-activos-tokenizados-dinero-banco-central/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin recupera una estructura perdida en 2025 en medio del alivio geopolítico",
-    "slug": "bitcoin-recupera-una-estructura-perdida-en-2025-en-medio-del",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "La cancelación de ataques de EE. UU.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-estructura-alcista-alivio-geopolitico-estadosunidos-yemen/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin recupera los USD 85.000 alimentando el optimismo por un bull market",
-    "slug": "bitcoin-recupera-los-usd-85000-alimentando-el-optimismo-por-",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "La moneda digital superó un nivel clave e impulsó el cierre forzado de USD 641 millones en posiciones bajistas en el mercado.  La entrada Bitcoin recupera los USD 85.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-recupera-usd-85000-alimentando-optimismo-bull-market/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "España: Dos detenidos tras retener a un hombre y forzarlo a enviar sus criptomonedas",
-    "slug": "espana-dos-detenidos-tras-retener-a-un-hombre-y-forzarlo-a-e",
-    "category": "cripto",
-    "date": "2026-09-21",
-    "summary": "La Guardia Civil española investiga a una pareja arrestada en Barcelona y Guipúzcoa por intento de robo, violencia e intimidación.  La entrada España: Dos detenidos tras retener a un hombre y forzarlo a enviar sus criptomonedas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/sucesos/espana-dos-detenidos-robo-criptomonedas-alicante/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Presupuesto 2027: cuáles serán las obras públicas más importantes para el cuarto año de Milei y cuántos fondos recibirán",
-    "slug": "presupuesto-2027-cuales-seran-las-obras-publicas-mas-importa",
+    "title": "Plazo fijo en pesos: cuánto se gana por $1 millón y qué tasas ofrecen los bancos en septiembre 2026?",
+    "slug": "plazo-fijo-en-pesos-cuanto-se-gana-por-1-millon-y-que-tasas-",
     "category": "economia",
-    "date": "2026-09-20",
-    "summary": "El proyecto contempla más de 435 obras.  Buenos Aires concentra la mayor partida, mientras que San Luis recibirá el menor monto.",
-    "link": "https://www.ambito.com/economia/presupuesto-2027-cuales-seran-las-obras-publicas-mas-importantes-el-cuarto-ano-milei-y-cuantos-fondos-recibiran-n6324542",
+    "date": "2026-09-21",
+    "summary": "Las tasas de los plazos fijos en pesos varían entre bancos y permiten calcular de antemano cuánto dinero se recibirá al vencimiento.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-pesos-cuanto-se-gana-1-millon-y-que-tasas-ofrecen-los-bancos-septiembre-2026-n6324096",
     "source": "Ámbito",
     "tags": [
       "economía",
       "argentina",
-      "milei"
+      "peso"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Pocho Lavezzi, Julián Álvarez, Mario Pergolini, Tini y la depresión: ¿cuánto cuesta un psicólogo en Argentina en septiembre 2026?",
-    "slug": "pocho-lavezzi-julian-alvarez-mario-pergolini-tini-y-la-depre",
+    "title": "El dólar mayorista marca un nuevo récord nominal pero los futuros bajan de forma generalizada",
+    "slug": "el-dolar-mayorista-marca-un-nuevo-record-nominal-pero-los-fu",
     "category": "economia",
-    "date": "2026-09-20",
-    "summary": "Los valores cambian según la provincia, la experiencia y la modalidad, pero también existen alternativas gratuitas o de menor costo.",
-    "link": "https://www.ambito.com/economia/pocho-lavezzi-julian-alvarez-mario-pergolini-tini-y-la-depresion-cuanto-cuesta-un-psicologo-argentina-septiembre-2026-n6324014",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sociedad de bolsa IEB revela su estrategia para invertir $1 millón en 13 acciones",
-    "slug": "sociedad-de-bolsa-ieb-revela-su-estrategia-para-invertir-1-m",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "YPF y Pampa Energía se quedan con los lugares más importantes de la cartera que presentó IEB.  Entre ambas reúnen el 30% del portafolio (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/464008-broker-ieb-revela-estrategia-para-inveritr-1-millon-de-pesos-en-13-empresas",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Michael Saylor prefiere las normas de los reguladores a la ley CLARITY",
-    "slug": "michael-saylor-prefiere-las-normas-de-los-reguladores-a-la-l",
-    "category": "cripto",
-    "date": "2026-09-20",
-    "summary": "Saylor argumenta que la regulación vigente ofrece más oportunidades para la industria y cuestiona las restricciones de la versión final de CLARITY.  La entrada Michael Saylor prefiere las normas de los reguladores a la ley CLARITY se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/michael-saylor-prefiere-normas-reguladores-ley-clarity/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Familia es víctima de un secuestro ligado a criptomonedas en Francia",
-    "slug": "familia-es-victima-de-un-secuestro-ligado-a-criptomonedas-en",
-    "category": "cripto",
-    "date": "2026-09-20",
-    "summary": "El caso se suma a una ola de ataques contra tenedores de criptomonedas vinculada a filtraciones de datos fiscales en el país.  La entrada Familia es víctima de un secuestro ligado a criptomonedas en Francia se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/sucesos/familia-victima-secuestro-ligado-criptomonedas-francia/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Coinbase negocia con el gobierno de EE. UU. el futuro de su Reserva de Bitcoin",
-    "slug": "coinbase-negocia-con-el-gobierno-de-ee-uu-el-futuro-de-su-re",
-    "category": "cripto",
-    "date": "2026-09-20",
-    "summary": "El Senado frenó la Ley Clarity, pero la Cámara avanzó en comité el proyecto que busca blindar por ley la Reserva de Bitcoin.  La entrada Coinbase negocia con el gobierno de EE.",
-    "link": "https://www.criptonoticias.com/regulacion/coinbase-negocia-gobierno-ee-uu-futuro-reserva-bitcoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentina quedó última en un ranking de adopción de inteligencia artificial: qué impacto tiene sobre el empleo",
-    "slug": "argentina-quedo-ultima-en-un-ranking-de-adopcion-de-intelige",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "Un informe de Goldman Sachs ubicó al país en el último puesto entre 28 economías analizadas, con una utilización inferior al 10%.  El banco detectó menor contratación en los sectores más expuestos a la automatización, aunque por ahora el efecto sobre el empleo agregado y la actividad sigue siendo limitado.",
-    "link": "https://www.ambito.com/economia/argentina-quedo-ultima-un-ranking-adopcion-inteligencia-artificial-que-impacto-tiene-el-empleo-n6324525",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las exportaciones pesqueras saltaron 23% y alcanzaron u$s1.677 millones: qué productos impulsaron el crecimiento",
-    "slug": "las-exportaciones-pesqueras-saltaron-23-y-alcanzaron-us1677-",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "El sector despachó 414. 252 toneladas entre enero y agosto, un 10,2% más que un año atrás.",
-    "link": "https://www.ambito.com/economia/las-exportaciones-pesqueras-saltaron-23-y-alcanzaron-us1677-millones-que-productos-impulsaron-el-crecimiento-n6324524",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El FMI vuelve a la Argentina: revisará las cuentas públicas y el Gobierno deberá explicar cómo cumplirá la meta fiscal",
-    "slug": "el-fmi-vuelve-a-la-argentina-revisara-las-cuentas-publicas-y",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "Una misión técnica llegará este lunes para iniciar la tercera revisión del acuerdo.  El superávit primario del primer semestre alcanzó el 0,6% del PBI, por debajo de la meta de 0,7%, mientras que el objetivo para todo 2026 se mantiene en 1,4%.",
-    "link": "https://www.ambito.com/economia/el-fmi-vuelve-la-argentina-revisara-las-cuentas-publicas-y-el-gobierno-debera-explicar-como-cumplira-la-meta-fiscal-n6324510",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Crisis de ingresos: 6 de cada 10 argentinos se endeudaron y el 76% lo hizo para para pagar alimentos, salud, tarifas y servicios",
-    "slug": "crisis-de-ingresos-6-de-cada-10-argentinos-se-endeudaron-y-e",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "Un informe reciente reveló que el 60,2% tomó deuda en los últimos seis meses.  Los gastos en productos y servicios básicos se llevan la mayor parte del gasto del crédito.",
-    "link": "https://www.ambito.com/economia/crisis-ingresos-6-cada-10-argentinos-se-endeudaron-y-el-76-lo-hizo-para-pagar-alimentos-salud-tarifas-y-servicios-n6324445",
-    "source": "Ámbito",
+    "date": "2026-09-21",
+    "summary": "El mayorista avanza hasta los $1. 516 tras registrar su mayor suba semanal desde fines de agosto, aunque todavía se mantiene más de 25% por debajo del techo de la banda.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-opera-un-nuevo-record-nominal-y-la-city-sigue-cerca-la-compra-reservas-n6324632",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 21 de septiembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-21-septiembre-n6323827",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los bonos en dólares abren al alza en Wall Street pero el riesgo país no quiebra los 520 puntos",
+    "slug": "los-bonos-en-dolares-abren-al-alza-en-wall-street-pero-el-ri",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "Llega la tercera misión del FMI que evaluará desembolsar u$s870 millones a Argentina, mientras el mercado internacional espera el encuentro entre EEUU y China.",
+    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-al-alza-wall-street-pero-el-riesgo-pais-no-quiebra-los-520-puntos-n6324700",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Boom de deuda corporativa: las emisiones de ON tocaron un máximo en 12 meses y las tasas en dólares cayeron al 5,1%",
+    "slug": "boom-de-deuda-corporativa-las-emisiones-de-on-tocaron-un-max",
+    "category": "economia",
+    "date": "2026-09-21",
+    "summary": "En agosto se concretaron 41 colocaciones de Obligaciones Negociables, la mayor cantidad del último año, aunque el monto total cayó 25% frente a julio.  Las empresas emitieron casi u$s1.",
+    "link": "https://www.ambito.com/finanzas/boom-deuda-corporativa-las-emisiones-on-tocaron-un-maximo-12-meses-y-las-tasas-dolares-cayeron-al-51-n6324704",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
       "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Martín Rossi, exfuncionario de Javier Milei: \"El país lleva tres años ordenando la macro, pero el crecimiento no vendrá solo”",
-    "slug": "martin-rossi-exfuncionario-de-javier-milei-el-pais-lleva-tre",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "El exsecretario de Desregulación divide el programa económico en tres columnas: fiscal, aperturista y desregulatoria.  Celebra la primera y la tercera, aunque reconoce que sostiene matices con la segunda.",
-    "link": "https://www.ambito.com/economia/martin-rossi-exfuncionario-javier-milei-el-pais-lleva-tres-anos-ordenando-la-macro-pero-el-crecimiento-no-vendra-solo-n6324342",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos hipotecarios en septiembre de 2026: ¿Cuánto hay que ganar para comprar un departamento?",
-    "slug": "creditos-hipotecarios-en-septiembre-de-2026-cuanto-hay-que-g",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "Las líneas UVA siguen activas, pero los bancos fijan distintos pisos salariales y limitan cuánto puede representar la primera cuota sobre los ingresos.",
-    "link": "https://www.ambito.com/economia/creditos-hipotecarios-septiembre-2026-cuanto-hay-que-ganar-comprar-un-departamento-n6323661",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Pobreza, informalidad y recaudación: advierten un \"círculo vicioso\" que golpea al modelo de Javier Milei",
-    "slug": "pobreza-informalidad-y-recaudacion-advierten-un-circulo-vici",
-    "category": "economia",
-    "date": "2026-09-20",
-    "summary": "El desempleo alcanzó los dos dígitos en el Gran Córdoba y el Gran Rosario.  Las apps se consolidan como refugio laboral y la crisis golpea a un sector inesperado: el funerario.",
-    "link": "https://www.ambito.com/economia/pobreza-informalidad-y-recaudacion-advierten-un-circulo-vicioso-que-golpea-al-modelo-javier-milei-n6324284",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
     ],
     "featured": false,
     "related": []
