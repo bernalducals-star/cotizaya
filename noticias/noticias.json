@@ -1,15 +1,17 @@
 [
   {
-    "title": "Créditos hipotecarios UVA: bajan las tasas y reducen los ingresos mínimos para acceder",
-    "slug": "creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingr",
+    "title": "Alberto Ades, sobre el dólar: \"El tipo de cambio está más apreciado que en 2017, pero esto no es 2018\"",
+    "slug": "alberto-ades-sobre-el-dolar-el-tipo-de-cambio-esta-mas-aprec",
     "category": "economia",
     "date": "2026-10-03",
-    "summary": "Con las nuevas condiciones, más familias vuelven a mirar qué ofrecen los bancos para financiar una vivienda.",
-    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingresos-minimos-acceder-n6329018",
+    "summary": "El economista analizó el escenario económico local y aseguró que el país cuenta con una mayor credibilidad fiscal y menores desequilibrios que antes de la crisis de 2018.  Durante una charla en la Facultad de Ciencias Económicas, también advirtió por los vencimientos de deuda de 2027 y sostuvo que las reformas impositiva, previsional y de coparticipación podrían generar efectos positivos.",
+    "link": "https://www.ambito.com/economia/alberto-ades-el-dolar-el-tipo-cambio-esta-mas-apreciado-que-2017-pero-esto-no-es-2018-n6329729",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar",
+      "tipo de cambio"
     ],
     "featured": false,
     "related": []
@@ -21,6 +23,21 @@
     "date": "2026-10-03",
     "summary": "El ministro brindó una entrevista luego de tres días en París, en el marco del evento Argentina Week.  Sostuvo que las inversiones anunciadas servirán para las próximas gestiones y reconoció que la actividad económica crece a velocidad más baja de los esperado.",
     "link": "https://www.ambito.com/economia/luis-caputo-la-esta-creciendo-solo-que-un-ritmo-mas-bajo-no-estamos-recesion-n6329657",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Créditos hipotecarios UVA: bajan las tasas y reducen los ingresos mínimos para acceder",
+    "slug": "creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingr",
+    "category": "economia",
+    "date": "2026-10-03",
+    "summary": "Con las nuevas condiciones, más familias vuelven a mirar qué ofrecen los bancos para financiar una vivienda.",
+    "link": "https://www.ambito.com/economia/creditos-hipotecarios-uva-bajan-las-tasas-y-reducen-los-ingresos-minimos-acceder-n6329018",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -141,6 +158,37 @@
     "related": []
   },
   {
+    "title": "Conductora invade carril del Metrobús y descubren sus más de 200 multas: deberá pagar medio millón de pesos para recuperar su auto",
+    "slug": "conductora-invade-carril-del-metrobus-y-descubren-sus-mas-de",
+    "category": "economia",
+    "date": "2026-10-03",
+    "summary": "",
+    "link": "https://www.infobae.com/mexico/2026/10/03/conductora-invade-carril-del-metrobus-y-descubren-sus-mas-de-200-multas-debera-pagar-medio-millon-de-pesos-para-recuperar-su-auto/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Salario rural UATRE: cuánto cobra un peón y las distintas categorías en octubre",
+    "slug": "salario-rural-uatre-cuanto-cobra-un-peon-y-las-distintas-cat",
+    "category": "economia",
+    "date": "2026-10-03",
+    "summary": "Las nuevas escalas salariales pactadas en la paritaria UATRE reconocen adicionales y zonas, garantizando mejoras para el sector hasta 2027 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/465826-salarios-rurales-cuanto-cobra-peon-uatre-adicionales-octubre-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Hoy en día no se puede vivir dignamente con un sueldo menor a $2.5 millones",
     "slug": "hoy-en-dia-no-se-puede-vivir-dignamente-con-un-sueldo-menor-",
     "category": "economia",
@@ -168,6 +216,37 @@
       "argentina",
       "dólar",
       "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Marina Bay Sands: el icono de Singapur que será sede de TOKEN2049",
+    "slug": "marina-bay-sands-el-icono-de-singapur-que-sera-sede-de-token",
+    "category": "cripto",
+    "date": "2026-10-03",
+    "summary": "CriptoTendencia Marina Bay Sands, sede de TOKEN2049: arquitectura, turismo y negocios en el complejo que redefinió la silueta de Singapur.  La entrada Marina Bay Sands: el icono de Singapur que será sede de TOKEN2049 se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/03/marina-bay-sands-el-icono-de-singapur-que-sera-sede-de-token2049-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "1971 | La noche en que el dólar dejó de prometer oro",
+    "slug": "1971-la-noche-en-que-el-dolar-dejo-de-prometer-oro",
+    "category": "cripto",
+    "date": "2026-10-03",
+    "summary": "CriptoTendencia El 15 de agosto de 1971, Nixon cerró la ventana del oro y cambió la base del dinero.  El oro salió de la promesa; la confianza se quedó.",
+    "link": "https://criptotendencia.com/2026/10/03/1971-la-noche-en-que-el-dolar-dejo-de-prometer-oro/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -294,13 +373,13 @@
     "related": []
   },
   {
-    "title": "Paul Atkins anticipa más propuestas cripto tras el plan de custodia de la SEC",
-    "slug": "paul-atkins-anticipa-mas-propuestas-cripto-tras-el-plan-de-c",
+    "title": "Zcash vive una semana de enfriamiento en ETF y spot",
+    "slug": "zcash-vive-una-semana-de-enfriamiento-en-etf-y-spot",
     "category": "cripto",
     "date": "2026-10-03",
-    "summary": "CriptoTendencia Paul Atkins anticipa más propuestas cripto después del plan de custodia de la SEC, que aún debe superar la consulta pública.  La entrada Paul Atkins anticipa más propuestas cripto tras el plan de custodia de la SEC se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/03/paul-atkins-anticipa-mas-propuestas-cripto-tras-el-plan-de-custodia-de-la-sec/",
-    "source": "CriptoTendencia",
+    "summary": "El giro en los flujos marca un cambio abrupto en la demanda por el fondo, mientras ZEC profundiza su caída desde máximos recientes.  La entrada Zcash vive una semana de enfriamiento en ETF y spot se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/zcash-semana-enfriamiento-etf-precio-spot/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -309,13 +388,28 @@
     "related": []
   },
   {
-    "title": "El G7 acuerda liberar 100 millones de barriles de combustible tras la presión sobre Europa",
-    "slug": "el-g7-acuerda-liberar-100-millones-de-barriles-de-combustibl",
+    "title": "Tommaso Gagliardoni: bitcoiners escépticos de lo cuántico «esconden la cabeza en la arena»",
+    "slug": "tommaso-gagliardoni-bitcoiners-escepticos-de-lo-cuantico-esc",
     "category": "cripto",
     "date": "2026-10-03",
-    "summary": "CriptoTendencia El G7 acuerda liberar 100 millones de barriles de petróleo y derivados en cuatro meses, con una entrega inicial de diésel.  La entrada El G7 acuerda liberar 100 millones de barriles de combustible tras la presión sobre Europa se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/03/el-g7-acuerda-liberar-100-millones-de-barriles-de-combustible-tras-la-presion-sobre-europa/",
-    "source": "CriptoTendencia",
+    "summary": "Gagliardoni advierte que esperar al \"Q-Day\" es un error: migrar firmas lleva años y la criptoagilidad es, en la práctica, casi un mito.  La entrada Tommaso Gagliardoni: bitcoiners escépticos de lo cuántico «esconden la cabeza en la arena» se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/tommaso-gagliardoni-computacion-cuantica-migracion-firmas-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "BlackRock compró más de USD 1.500 millones en bitcoin en los últimos 30 días",
+    "slug": "blackrock-compro-mas-de-usd-1500-millones-en-bitcoin-en-los-",
+    "category": "cripto",
+    "date": "2026-10-03",
+    "summary": "Las compras de IBIT sostienen la demanda institucional y aportan presión compradora sobre el precio de bitcoin.  La entrada BlackRock compró más de USD 1.",
+    "link": "https://www.criptonoticias.com/mercados/blackrock-compro-usd-1-500-millones-bitcoin-ultimos-30-dias/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -379,38 +473,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El G7 acuerda la liberación de 100 millones de barriles de reservas para frenar la suba de los combustibles",
-    "slug": "el-g7-acuerda-la-liberacion-de-100-millones-de-barriles-de-r",
-    "category": "economia",
-    "date": "2026-10-02",
-    "summary": "En una acción coordinada por la AIE, las principales potencias volcarán stock estratégico de crudo y diésel durante cuatro meses para estabilizar el mercado internacional tras los bloqueos en el estrecho de Ormuz.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/el-g7-acuerda-la-liberacion-100-millones-barriles-reservas-frenar-la-suba-los-combustibles-n6329407",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Luis Caputo ligó la suba del riesgo país al \"temor de volver al infierno\"",
-    "slug": "luis-caputo-ligo-la-suba-del-riesgo-pais-al-temor-de-volver-",
-    "category": "economia",
-    "date": "2026-10-02",
-    "summary": "En el Coloquio de IDEA, Luis Caputo ratificó el rumbo económico, rechazó devaluar, justificó la suba del riesgo país por factores externos y electorales, y prometió seguir reduciendo la carga impositiva.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/luis-caputo-ligo-la-suba-del-riesgo-pais-al-temor-del-volver-al-infierno-n6329459",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
     ],
     "featured": false,
     "related": []
@@ -668,52 +730,6 @@
     "related": []
   },
   {
-    "title": "Ethereum permite pagar por consultas de IA sin revelar quién las realiza",
-    "slug": "ethereum-permite-pagar-por-consultas-de-ia-sin-revelar-quien",
-    "category": "cripto",
-    "date": "2026-10-02",
-    "summary": "El protocolo llega a la red principal mientras su desarrollo continúa bajo una clasificación experimental.  La entrada Ethereum permite pagar por consultas de IA sin revelar quién las realiza se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/ethereum-permite-pagar-consultas-ia-revelar-quien-realiza/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Devuelven 3,8 millones en bitcoin y criptomonedas del robo a NEAR Intents",
-    "slug": "devuelven-38-millones-en-bitcoin-y-criptomonedas-del-robo-a-",
-    "category": "cripto",
-    "date": "2026-10-02",
-    "summary": "La rápida identificación del atacante permitió a NEAR recuperar los fondos y cerrar la investigación antes de cumplir 48 horas.  La entrada Devuelven 3,8 millones en bitcoin y criptomonedas del robo a NEAR Intents se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/devuelven-38-millones-bitcoin-criptomonedas-robo-near-intents/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "SUI se disparó ante la siembra de una expectativa: ¿se viene venta de la noticia?",
-    "slug": "sui-se-disparo-ante-la-siembra-de-una-expectativa-se-viene-v",
-    "category": "cripto",
-    "date": "2026-10-02",
-    "summary": "La expectativa por una presentación de Mysten Labs impulsó al token, pero la falta de detalles abre la posibilidad de una toma de ganancias.  La entrada SUI se disparó ante la siembra de una expectativa: ¿se viene venta de la noticia?",
-    "link": "https://www.criptonoticias.com/mercados/sui-precio-expectativa-mystenlabs-basecamp/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Dólar, plazo fijo tradicional o UVA: cuál ganó la carrera hasta fin de septiembre",
     "slug": "dolar-plazo-fijo-tradicional-o-uva-cual-gano-la-carrera-hast",
     "category": "economia",
@@ -730,48 +746,31 @@
     "related": []
   },
   {
-    "title": "Más presión para el BCE: la inflación de la Unión Europea toca su nivel más alto en tres años",
-    "slug": "mas-presion-para-el-bce-la-inflacion-de-la-union-europea-toc",
-    "category": "economia",
-    "date": "2026-10-02",
-    "summary": "Los elevados precios de la energía tras el inicio de la guerra en Medio Oriente dispararon la inflación de la Unión Europea a su pico de desde 2023.  Sin embargo, el banco central europeo se muestra reticente a subir las tasas por tercera vez en el año.",
-    "link": "https://www.ambito.com/economia/mas-presion-el-bce-la-inflacion-la-union-europea-toca-su-nivel-mas-alto-tres-anos-n6329496",
-    "source": "Ámbito",
+    "title": "Paul Atkins anticipa más propuestas cripto tras el plan de custodia de la SEC",
+    "slug": "paul-atkins-anticipa-mas-propuestas-cripto-tras-el-plan-de-c",
+    "category": "cripto",
+    "date": "2026-10-03",
+    "summary": "CriptoTendencia Paul Atkins anticipa más propuestas cripto después del plan de custodia de la SEC, que aún debe superar la consulta pública.  La entrada Paul Atkins anticipa más propuestas cripto tras el plan de custodia de la SEC se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/03/paul-atkins-anticipa-mas-propuestas-cripto-tras-el-plan-de-custodia-de-la-sec/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "inflación"
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Luis Caputo ligó la suba del riesgo país al \"temor del volver al infierno\"",
-    "slug": "luis-caputo-ligo-la-suba-del-riesgo-pais-al-temor-del-volver",
-    "category": "economia",
-    "date": "2026-10-02",
-    "summary": "En el Coloquio de IDEA, Luis Caputo ratificó el rumbo económico, rechazó devaluar, justificó la suba del riesgo país por factores externos y electorales, y prometió seguir reduciendo la carga impositiva.  Los detalles, en la nota.",
-    "link": "https://www.ambito.com/economia/luis-caputo-ligo-la-suba-del-riesgo-pais-al-temor-del-volver-al-infierno-n6329459",
-    "source": "Ámbito",
+    "title": "El G7 acuerda liberar 100 millones de barriles de combustible tras la presión sobre Europa",
+    "slug": "el-g7-acuerda-liberar-100-millones-de-barriles-de-combustibl",
+    "category": "cripto",
+    "date": "2026-10-03",
+    "summary": "CriptoTendencia El G7 acuerda liberar 100 millones de barriles de petróleo y derivados en cuatro meses, con una entrega inicial de diésel.  La entrada El G7 acuerda liberar 100 millones de barriles de combustible tras la presión sobre Europa se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/03/el-g7-acuerda-liberar-100-millones-de-barriles-de-combustible-tras-la-presion-sobre-europa/",
+    "source": "CriptoTendencia",
     "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentina Week: el embajador en Francia señaló que los anuncios de inversión alcanzaron los u$s27.000 millones",
-    "slug": "argentina-week-el-embajador-en-francia-senalo-que-los-anunci",
-    "category": "economia",
-    "date": "2026-10-02",
-    "summary": "Ian Sielecki celebró la totalidad de las inversiones que anunciaron en París.  Asimismo, destacó la \"seriedad macroeconómica\" que llevó al financiamiento.",
-    "link": "https://www.ambito.com/economia/argentina-week-el-embajador-francia-senalo-que-los-anuncios-inversion-alcanzaron-los-us27000-millones-n6329440",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
