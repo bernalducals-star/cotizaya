@@ -1,16 +1,30 @@
 [
   {
-    "title": "Javier Milei y Flávio Bolsonaro ponen en jaque al Mercosur, ruido en el sector automotor y desplome de la inversión",
-    "slug": "javier-milei-y-flavio-bolsonaro-ponen-en-jaque-al-mercosur-r",
+    "title": "La informalidad laboral alcanza al 45% en Argentina y supera el 80% entre cuentapropistas de algunas ciudades del norte",
+    "slug": "la-informalidad-laboral-alcanza-al-45-en-argentina-y-supera-",
     "category": "economia",
     "date": "2026-10-11",
-    "summary": "El candidato más votado en Brasil sintoniza con la mirada aperturista del mandatario argentino.  Ya advirtió que su país debe “liberarse de las amarras del Mercosur”.",
-    "link": "https://www.ambito.com/economia/javier-milei-y-flavio-bolsonaro-ponen-jaque-al-mercosur-ruido-el-sector-automotor-y-desplome-la-inversion-n6332375",
+    "summary": "Un informe de la Universidad Nacional de Rosario advirtió que el empleo no registrado aumentó desde fines de 2023.  El crecimiento del trabajo por cuenta propia profundiza las diferencias entre regiones y sectores económicos.",
+    "link": "https://www.ambito.com/economia/la-informalidad-laboral-alcanza-al-45-argentina-y-supera-el-80-cuentapropistas-algunas-ciudades-del-norte-n6332540",
     "source": "Ámbito",
     "tags": [
       "economía",
-      "argentina",
-      "milei"
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Advierten sobre el riesgo de estanflación y una posible recesión técnica en la Argentina",
+    "slug": "advierten-sobre-el-riesgo-de-estanflacion-y-una-posible-rece",
+    "category": "economia",
+    "date": "2026-10-11",
+    "summary": "Lorenzo Sigaut Gravina, de Equilibra, proyectó una expansión de apenas 1,3% para este año.  Señaló que la incertidumbre electoral podría complicar la recuperación en 2027 y cuestionó el uso del dólar como ancla antiinflacionaria.",
+    "link": "https://www.ambito.com/economia/advierten-el-riesgo-estanflacion-y-una-posible-recesion-tecnica-la-argentina-n6332391",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -28,6 +42,22 @@
       "argentina",
       "dólar",
       "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Javier Milei y Flávio Bolsonaro ponen en jaque al Mercosur, ruido en el sector automotor y desplome de la inversión",
+    "slug": "javier-milei-y-flavio-bolsonaro-ponen-en-jaque-al-mercosur-r",
+    "category": "economia",
+    "date": "2026-10-11",
+    "summary": "El candidato más votado en Brasil sintoniza con la mirada aperturista del mandatario argentino.  Ya advirtió que su país debe “liberarse de las amarras del Mercosur”.",
+    "link": "https://www.ambito.com/economia/javier-milei-y-flavio-bolsonaro-ponen-jaque-al-mercosur-ruido-el-sector-automotor-y-desplome-la-inversion-n6332375",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
     ],
     "featured": false,
     "related": []
@@ -97,17 +127,16 @@
     "related": []
   },
   {
-    "title": "Le ofrecieron 40 millones de dólares por callar sobre Elon Musk. En cambio, decidió hablar",
-    "slug": "le-ofrecieron-40-millones-de-dolares-por-callar-sobre-elon-m",
+    "title": "Preocupación por los ruidos alrededor de Caputo y una interna que crece sobre la economía",
+    "slug": "preocupacion-por-los-ruidos-alrededor-de-caputo-y-una-intern",
     "category": "economia",
     "date": "2026-10-11",
-    "summary": "Reportajes Especiales - Business",
-    "link": "https://www.infobae.com/america/the-new-york-times/2026/10/11/le-ofrecieron-40-millones-de-dolares-por-callar-sobre-elon-musk-en-cambio-decidio-hablar/",
-    "source": "Infobae",
+    "summary": "En la City y Wall Street hay intranquilidad por los rumores que involucran al ministro.  Más que en Alberto Ades, las miradas van hacia Sturzenegger (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/466329-preocupacion-por-los-ruidos-alrededor-del-ministro-luis-caputo",
+    "source": "iProfesional",
     "tags": [
       "economía",
-      "argentina",
-      "dólar"
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -153,6 +182,81 @@
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Reporte semanal sobre la actividad comercial de las ballenas de bitcoin",
+    "slug": "reporte-semanal-sobre-la-actividad-comercial-de-las-ballenas",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia Las ballenas de bitcoin muestran señales de acumulación, pero las salidas de los ETF y el aumento de reservas generan cautela.  La entrada Reporte semanal sobre la actividad comercial de las ballenas de bitcoin se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/11/reporte-semanal-sobre-la-actividad-comercial-de-las-ballenas-de-bitcoin-5-4/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Termómetro Bitcoin: la codicia resiste mientras el precio y los ETF giran en contra",
+    "slug": "termometro-bitcoin-la-codicia-resiste-mientras-el-precio-y-l",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia El Termómetro Bitcoin cae a 47/100.  El sentimiento sigue en codicia, pero el precio gira a la baja y los ETF registran salidas netas.",
+    "link": "https://criptotendencia.com/2026/10/11/termometro-bitcoin-la-codicia-resiste-mientras-el-precio-y-los-etf-giran-en-contra/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin cumple un año en mercado bajista y persisten los riesgos de nuevas caídas",
+    "slug": "bitcoin-cumple-un-ano-en-mercado-bajista-y-persisten-los-rie",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia A un año del histórico desplome de bitcoin, el mercado sigue bajo presión y persisten las dudas sobre el inicio de una recuperación.  La entrada Bitcoin cumple un año en mercado bajista y persisten los riesgos de nuevas caídas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/11/bitcoin-cumple-un-ano-en-mercado-bajista-y-persisten-los-riesgos-de-nuevas-caidas-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Análisis: semana importante para bitcoin en medio de un punto de inflexión",
+    "slug": "analisis-semana-importante-para-bitcoin-en-medio-de-un-punto",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia Bitcoin afronta una semana decisiva entre señales bajistas, datos de inflación y niveles técnicos que podrían definir su próximo movimiento.  La entrada Análisis: semana importante para bitcoin en medio de un punto de inflexión se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/11/analisis-semana-importante-para-bitcoin-en-medio-de-un-punto-de-inflexion-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Calendario económico: el bitcoin listo para una semana de abundantes datos",
+    "slug": "calendario-economico-el-bitcoin-listo-para-una-semana-de-abu",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia En esta edición del calendario económico ofrecemos los elementos de la agenda que podrían cambiar la tendencia del precio de bitcoin.  La entrada Calendario económico: el bitcoin listo para una semana de abundantes datos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/11/calendario-economico-el-bitcoin-listo-para-una-semana-de-abundantes-datos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -235,13 +339,73 @@
     "related": []
   },
   {
-    "title": "El terremoto de 7,7 pone a prueba al Canal de Panamá: la obra que ya sobrevivió a un sismo antes de nacer",
-    "slug": "el-terremoto-de-77-pone-a-prueba-al-canal-de-panama-la-obra-",
+    "title": "CEO de Nasdaq: la tokenización podría liberar miles de millones en capital “atrapado”",
+    "slug": "ceo-de-nasdaq-la-tokenizacion-podria-liberar-miles-de-millon",
     "category": "cripto",
     "date": "2026-10-11",
-    "summary": "CriptoTendencia Tras el terremoto de 7,7 en Panamá, el Canal sigue operando.  Un sismo de 1913 también sacudió la obra antes de su inauguración.",
-    "link": "https://criptotendencia.com/2026/10/11/el-terremoto-de-77-pone-a-prueba-al-canal-de-panama-la-obra-que-ya-sobrevivio-a-un-sismo-antes-de-nacer/",
-    "source": "CriptoTendencia",
+    "summary": "Friedman, CEO de Nasdaq, cree que la tokenización favorecería la liquidez en el mercado de diversos instrumentos financieros.  La nota CEO de Nasdaq: la tokenización podría liberar miles de millones en capital “atrapado” se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/ceo-nasdaq-tokenizacion-liberar-miles-millones-en-capital-atrapado/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Memecoin inspirada en Flávio Bolsonaro fue prohibida por la justicia de Brasil",
+    "slug": "memecoin-inspirada-en-flavio-bolsonaro-fue-prohibida-por-la-",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "La campaña de Bolsonaro rechazó cualquier vínculo con la memecoin B22, cuyo sitio web fue suspendido por el TSE.  La nota Memecoin inspirada en Flávio Bolsonaro fue prohibida por la justicia de Brasil se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/regulacion/memecoin-flavio-bolsonaro-prohibida-brasil/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Rusia y Ucrania habrían firmado un «cese al fuego energético»; sube el precio de bitcoin",
+    "slug": "rusia-y-ucrania-habrian-firmado-un-cese-al-fuego-energetico-",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "Donald Trump comunicó un acuerdo entre Rusia y Ucrania que reduciría la tensión internacional existente.  La nota Rusia y Ucrania habrían firmado un «cese al fuego energético»; sube el precio de bitcoin se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/rusia-ucrania-fuego-energetico-bitcoin-donaldtrump/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Rusia autoriza cortes de energía a mineros de bitcoin",
+    "slug": "rusia-autoriza-cortes-de-energia-a-mineros-de-bitcoin",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "El gobierno podrá interrumpir el suministro de manera forzosa e inmediata ante situaciones de déficit energético en el país.  La nota Rusia autoriza cortes de energía a mineros de bitcoin se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mineria/rusia-cortes-energia-mineros-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ledger confirma implante de hardware no autorizado en un dispositivo",
+    "slug": "ledger-confirma-implante-de-hardware-no-autorizado-en-un-dis",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "El hallazgo del implante refuerza descubrimientos previos con ingeniería inversa en dispositivos Ledger Nano X que capturan la frase semilla.  La nota Ledger confirma implante de hardware no autorizado en un dispositivo se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/ledger-implante-hardware-autorizado-dispositivo/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -325,36 +489,6 @@
     "related": []
   },
   {
-    "title": "¿A quién le pertenece tu propiedad?",
-    "slug": "a-quien-le-pertenece-tu-propiedad",
-    "category": "cripto",
-    "date": "2026-10-11",
-    "summary": "De Madrid a Managua, tu propiedad dura lo que el Estado decida.  Bitcoin no cambia la ley, pero hace mucho más difícil quitarte lo tuyo.",
-    "link": "https://www.criptonoticias.com/editorial/a-quie-pertenece-propiedad/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Advierten sobre el riesgo de estanflación y una posible recesión técnica en la Argentina",
-    "slug": "advierten-sobre-el-riesgo-de-estanflacion-y-una-posible-rece",
-    "category": "economia",
-    "date": "2026-10-10",
-    "summary": "Lorenzo Sigaut Gravina, de Equilibra, proyectó una expansión de apenas 1,3% para este año.  Señaló que la incertidumbre electoral podría complicar la recuperación en 2027 y cuestionó el uso del dólar como ancla antiinflacionaria.",
-    "link": "https://www.ambito.com/economia/advierten-el-riesgo-estanflacion-y-una-posible-recesion-tecnica-la-argentina-n6332391",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Alberto Ades volvió a advertir sobre el atraso cambiario: \"Me gustaría un tipo de cambio más alto\"",
     "slug": "alberto-ades-volvio-a-advertir-sobre-el-atraso-cambiario-me-",
     "category": "economia",
@@ -397,38 +531,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Créditos UVA o alquiler: el dato financiero decisivo antes de endeudarse",
-    "slug": "creditos-uva-o-alquiler-el-dato-financiero-decisivo-antes-de",
-    "category": "economia",
-    "date": "2026-10-10",
-    "summary": "La cuota inicial no alcanza para saber si un préstamo conviene.  El verdadero riesgo se da cuando los ingresos dejan de acompañar su actualización.",
-    "link": "https://www.ambito.com/economia/creditos-uva-o-alquiler-el-dato-financiero-decisivo-antes-endeudarse-n6331289",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en dólares: cuánto rinden US$ 5.000 y qué bancos pagan más tasa hoy",
-    "slug": "plazo-fijo-en-dolares-cuanto-rinden-us-5000-y-que-bancos-pag",
-    "category": "economia",
-    "date": "2026-10-10",
-    "summary": "Con tasas que volvieron a moverse, dejar los dólares en el banco empieza a mostrar diferencias más claras entre una entidad y otra.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-y-que-bancos-pagan-mas-tasa-hoy-n6331380",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -513,145 +615,6 @@
     "related": []
   },
   {
-    "title": "Ataque al aeropuerto de Riad deja 12 muertos y 309 heridos, según Arabia Saudita",
-    "slug": "ataque-al-aeropuerto-de-riad-deja-12-muertos-y-309-heridos-s",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "CriptoTendencia Arabia Saudita reporta 12 muertos y 309 heridos tras el ataque al aeropuerto de Riad; los vuelos siguen afectados y evalúan los daños.  La entrada Ataque al aeropuerto de Riad deja 12 muertos y 309 heridos, según Arabia Saudita se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/10/ataque-al-aeropuerto-de-riad-deja-12-muertos-y-309-heridos-segun-arabia-saudita/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "XRP Ledger corrige un fallo que podía crear XRP fuera de su límite de emisión",
-    "slug": "xrp-ledger-corrige-un-fallo-que-podia-crear-xrp-fuera-de-su-",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "CriptoTendencia XRP Ledger corrigió un fallo que podía crear XRP de forma indebida.  Los desarrolladores no hallaron indicios de uso en la red pública.",
-    "link": "https://criptotendencia.com/2026/10/10/xrp-ledger-corrige-un-fallo-que-podia-crear-xrp-fuera-de-su-limite-de-emision/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tío Rico y Bitcoin: el tesoro que no cabía en su bóveda",
-    "slug": "tio-rico-y-bitcoin-el-tesoro-que-no-cabia-en-su-boveda",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "CriptoTendencia ¿Qué pasaría si Tío Rico descubriera Bitcoin?  Una aventura imaginaria sobre el oro, la riqueza digital y los 21 millones de BTC.",
-    "link": "https://criptotendencia.com/2026/10/10/tio-rico-y-bitcoin-el-tesoro-que-no-cabia-en-su-boveda/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Petróleo, bonos y criptoactivos: los mercados globales ante la tregua entre Washington y Teherán",
-    "slug": "petroleo-bonos-y-criptoactivos-los-mercados-globales-ante-la",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "CriptoTendencia La tregua temporal entre Washington y Teherán alivia la tensión en los mercados y redefine el comportamiento del petróleo, los bonos y los activos digitales.  La entrada Petróleo, bonos y criptoactivos: los mercados globales ante la tregua entre Washington y Teherán se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/10/petroleo-bonos-y-criptoactivos-los-mercados-globales-ante-la-tregua-entre-washington-y-teheran/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Hacker de Ledger mezcla criptomonedas y apunta a Binance bajo presión para actuar",
-    "slug": "hacker-de-ledger-mezcla-criptomonedas-y-apunta-a-binance-baj",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "El sospechoso convierte stablecoins y usa mezcladores mientras Binance no confirma si bloqueará las cuentas señaladas por el rastreo on-chain.  La nota Hacker de Ledger mezcla criptomonedas y apunta a Binance bajo presión para actuar se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/hacker-ledger-criptomonedas-fondos-tornadocash/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "TRON prueba firmas poscuánticas en testnet, pero aún depende de una votación",
-    "slug": "tron-prueba-firmas-poscuanticas-en-testnet-pero-aun-depende-",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "Según Justin Sun, la red puede pasar a mainnet de inmediato.  La propuesta técnica reconoce transacciones 9,5 veces más pesadas y exige votación.",
-    "link": "https://www.criptonoticias.com/tecnologia/tron-prueba-firmas-poscuanticas-testnet-mainnet-depende-votacion/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "China proyecta una red de registro cerrada y soberana al margen de Bitcoin y Ethereum",
-    "slug": "china-proyecta-una-red-de-registro-cerrada-y-soberana-al-mar",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "Pekín aprueba directrices para controlar sus datos industriales mediante un estándar estatal propio.  La nota China proyecta una red de registro cerrada y soberana al margen de Bitcoin y Ethereum se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/adopcion/china-red-registro-cerrada-soberana-bitcoin-ethereum/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Detectan wallets Ledger manipuladas con chips falsos para drenar criptomonedas",
-    "slug": "detectan-wallets-ledger-manipuladas-con-chips-falsos-para-dr",
-    "category": "cripto",
-    "date": "2026-10-10",
-    "summary": "Investigadores identifican microcontroladores ocultos que interceptan las frases de recuperación directamente desde la pantalla.  La nota Detectan wallets Ledger manipuladas con chips falsos para drenar criptomonedas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/wallets-ledger-manipuladas-chips-falsos-criptomonedas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Inflación en dólares: pese a abaratarse en julio, Argentina tiene los restaurantes y la indumentaria más caros de la región",
-    "slug": "inflacion-en-dolares-pese-a-abaratarse-en-julio-argentina-ti",
-    "category": "economia",
-    "date": "2026-10-09",
-    "summary": "Argentina resulta relativamente más barata en alimentos, educación, vivienda y servicios, alcohol y tabaco y salud.  Además, quedó por encima en precios relativos que Chile por primera vez desde abril de 2025.",
-    "link": "https://www.ambito.com/economia/inflacion-dolares-pese-abaratarse-julio-argentina-tiene-los-restaurantes-y-la-indumentaria-mas-caros-la-region-n6332214",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "El dólar blue registró su mayor retroceso semanal en dos meses y ya vale casi lo mismo que el oficial",
     "slug": "el-dolar-blue-registro-su-mayor-retroceso-semanal-en-dos-mes",
     "category": "economia",
@@ -701,21 +664,6 @@
     "related": []
   },
   {
-    "title": "Hacia un Wall Street que nunca duerma: cada vez más exchanges cripto ofrecen acciones tokenizadas",
-    "slug": "hacia-un-wall-street-que-nunca-duerma-cada-vez-mas-exchanges",
-    "category": "economia",
-    "date": "2026-10-09",
-    "summary": "La convergencia entre las finanzas tradicionales y las finanzas descentralizadas avanza con la tokenización de acciones, que apunta a un mercado global capaz de operar las 24 horas.  Sin embargo, el proceso no está exento de desafíos y resistencias.",
-    "link": "https://www.ambito.com/finanzas/hacia-un-wall-street-que-nunca-duerma-cada-vez-mas-exchanges-cripto-ofrecen-acciones-tokenizadas-n6331964",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Cuánto se cobra por salario mínimo en octubre y cuáles son los aumentos hasta abril 2027",
     "slug": "cuanto-se-cobra-por-salario-minimo-en-octubre-y-cuales-son-l",
     "category": "economia",
@@ -737,7 +685,7 @@
     "date": "2026-10-09",
     "summary": "El gobierno destaca la calma del dólar, a pesar del mal clima internacional y del ruido político.  Las tasas de la deuda en pesos, de nuevo atractivas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/economia/465815-con-dolar-controlado-el-carry-trade-vuelve-a-ser-atractivo",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -774,6 +722,52 @@
       "economía",
       "argentina",
       "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Le ofrecieron 40 millones de dólares por callar sobre Elon Musk. En cambio, decidió hablar",
+    "slug": "le-ofrecieron-40-millones-de-dolares-por-callar-sobre-elon-m",
+    "category": "economia",
+    "date": "2026-10-11",
+    "summary": "Reportajes Especiales - Business",
+    "link": "https://www.infobae.com/america/the-new-york-times/2026/10/11/le-ofrecieron-40-millones-de-dolares-por-callar-sobre-elon-musk-en-cambio-decidio-hablar/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El terremoto de 7,7 pone a prueba al Canal de Panamá: la obra que ya sobrevivió a un sismo antes de nacer",
+    "slug": "el-terremoto-de-77-pone-a-prueba-al-canal-de-panama-la-obra-",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "CriptoTendencia Tras el terremoto de 7,7 en Panamá, el Canal sigue operando.  Un sismo de 1913 también sacudió la obra antes de su inauguración.",
+    "link": "https://criptotendencia.com/2026/10/11/el-terremoto-de-77-pone-a-prueba-al-canal-de-panama-la-obra-que-ya-sobrevivio-a-un-sismo-antes-de-nacer/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿A quién le pertenece tu propiedad?",
+    "slug": "a-quien-le-pertenece-tu-propiedad",
+    "category": "cripto",
+    "date": "2026-10-11",
+    "summary": "De Madrid a Managua, tu propiedad dura lo que el Estado decida.  Bitcoin no cambia la ley, pero hace mucho más difícil quitarte lo tuyo.",
+    "link": "https://www.criptonoticias.com/editorial/a-quie-pertenece-propiedad/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
     ],
     "featured": false,
     "related": []
