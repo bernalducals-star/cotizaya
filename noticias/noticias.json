@@ -1,5 +1,53 @@
 [
   {
+    "title": "Una prestigiosa consultora internacional ve riesgos para Javier Milei en 2027 y recorta su apuesta por activos argentinos",
+    "slug": "una-prestigiosa-consultora-internacional-ve-riesgos-para-jav",
+    "category": "economia",
+    "date": "2026-10-18",
+    "summary": "La consultora advirtió que la pérdida de puestos de trabajo en sectores tradicionales todavía no encuentra compensación en nuevas inversiones.  Recomienda tomar ganancias en activos argentinos ante los riesgos económicos y políticos de cara a las elecciones de 2027.",
+    "link": "https://www.ambito.com/economia/una-prestigiosa-consultora-internacional-ve-riesgos-javier-milei-2027-y-recorta-su-apuesta-activos-argentinos-n6335066",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El futuro de Javier Milei, según Federico Sturzenegger: las reformas con las que busca cambiar la economía argentina",
+    "slug": "el-futuro-de-javier-milei-segun-federico-sturzenegger-las-re",
+    "category": "economia",
+    "date": "2026-10-18",
+    "summary": "El ministro de Desregulación destacó las reformas en energía, minería, agro, logística y mercados de capitales.  Sostuvo que el legado del Presidente dependerá de que esos cambios se consoliden y permitan ampliar las exportaciones y la inversión.",
+    "link": "https://www.ambito.com/economia/el-futuro-javier-milei-segun-federico-sturzenegger-las-reformas-las-que-busca-cambiar-la-argentina-n6335024",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La economía bajo presión: los salarios duran cada vez menos, cae el margen de ahorro y crece el endeudamiento",
+    "slug": "la-economia-bajo-presion-los-salarios-duran-cada-vez-menos-c",
+    "category": "economia",
+    "date": "2026-10-18",
+    "summary": "Distintas encuestas muestran que los ingresos pierden capacidad para cubrir los gastos cotidianos, crece el recurso al crédito y la recuperación salarial gana prioridad frente a la estabilidad de precios.  Los relevamientos también registran una evaluación negativa de la economía y dudas sobre el rumbo del Gobierno.",
+    "link": "https://www.ambito.com/economia/la-presion-los-salarios-duran-cada-vez-menos-cae-el-margen-ahorro-y-crece-el-endeudamiento-n6335007",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Javier Milei elogia el empleo informal, pero los trabajadores cobran la mitad y pierden la obra social",
     "slug": "javier-milei-elogia-el-empleo-informal-pero-los-trabajadores",
     "category": "economia",
@@ -59,6 +107,23 @@
       "economía",
       "argentina",
       "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Riesgo país arriba de los 600 puntos: qué puede pasar con los bonos y el dólar esta semana",
+    "slug": "riesgo-pais-arriba-de-los-600-puntos-que-puede-pasar-con-los",
+    "category": "economia",
+    "date": "2026-10-18",
+    "summary": "El indicador cerró el viernes en 648 puntos básicos, tras subir cerca de un 10% en la semana.  Qué miran los inversores y cuáles son las claves para los próximos días.",
+    "link": "https://www.ambito.com/finanzas/riesgo-pais-arriba-los-600-puntos-que-puede-pasar-los-bonos-y-el-dolar-esta-semana-n6335015",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
     ],
     "featured": false,
     "related": []
@@ -128,6 +193,96 @@
     "related": []
   },
   {
+    "title": "Las tensiones en Medio Oriente persisten y el tablero geopolítico enciende las alarmas en Ucrania",
+    "slug": "las-tensiones-en-medio-oriente-persisten-y-el-tablero-geopol",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia Las tensiones en Medio Oriente persisten mientras Estados Unidos flexibiliza sanciones contra Rusia, una decisión que genera críticas en Ucrania.  La entrada Las tensiones en Medio Oriente persisten y el tablero geopolítico enciende las alarmas en Ucrania se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/las-tensiones-en-medio-oriente-persisten-y-el-tablero-geopolitico-enciende-las-alarmas-en-ucrania-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Análisis: bitcoin entre la presión bajista y un récord histórico de grandes billeteras",
+    "slug": "analisis-bitcoin-entre-la-presion-bajista-y-un-record-histor",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia Bitcoin cotiza en una zona decisiva mientras las grandes billeteras alcanzan un récord histórico.  Analizamos soportes, resistencias y ETF.",
+    "link": "https://criptotendencia.com/2026/10/18/analisis-bitcoin-entre-la-presion-bajista-y-un-record-historico-de-grandes-billeteras-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Calendario económico: el bitcoin frente a los datos de esta semana",
+    "slug": "calendario-economico-el-bitcoin-frente-a-los-datos-de-esta-s",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia En esta edición del calendario económico se repasa la agenda de datos que podrían tener incidencia en el precio de bitcoin y otras monedas.  La entrada Calendario económico: el bitcoin frente a los datos de esta semana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/calendario-economico-el-bitcoin-frente-a-los-datos-de-esta-semana/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "MSCI aprueba la regla que puede sacar a Strategy y Metaplanet de sus índices",
+    "slug": "msci-aprueba-la-regla-que-puede-sacar-a-strategy-y-metaplane",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia MSCI aprobó excluir a las empresas no operativas de sus índices globales: Strategy y Metaplanet, en la lista de posibles bajas.  La entrada MSCI aprueba la regla que puede sacar a Strategy y Metaplanet de sus índices se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/msci-aprueba-la-regla-que-puede-sacar-a-strategy-y-metaplanet-de-sus-indices/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin se mueve con el bono a 10 años, y eso cambia cómo leer la caída de los rendimientos",
+    "slug": "bitcoin-se-mueve-con-el-bono-a-10-anos-y-eso-cambia-como-lee",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia Bitcoin se mueve con el bono a 10 años: por qué la caída de rendimientos de octubre nace del miedo y no de la Fed.  La entrada Bitcoin se mueve con el bono a 10 años, y eso cambia cómo leer la caída de los rendimientos se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/bitcoin-se-mueve-con-el-bono-a-10-anos-y-eso-cambia-como-leer-la-caida-de-los-rendimientos/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Reporte sobre la actividad comercial de las ballenas de bitcoin durante la semana",
+    "slug": "reporte-sobre-la-actividad-comercial-de-las-ballenas-de-bitc",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia En esta nueva edición del reporte de ballenas se hace un repaso por la actividad comercial de las grandes carteras de bitcoin en la semana.  La entrada Reporte sobre la actividad comercial de las ballenas de bitcoin durante la semana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/reporte-sobre-la-actividad-comercial-de-las-ballenas-de-bitcoin-durante-la-semana-2-3/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Francia investiga quién calentó los refrigeradores de hasta 700 supermercados",
     "slug": "francia-investiga-quien-calento-los-refrigeradores-de-hasta-",
     "category": "cripto",
@@ -188,13 +343,13 @@
     "related": []
   },
   {
-    "title": "Markets.xyz supera los $4.700 millones de volumen y alcanza más de 13.000 usuarios",
-    "slug": "marketsxyz-supera-los-4700-millones-de-volumen-y-alcanza-mas",
+    "title": "Usuarios de Qubic sufrieron un robo por un fallo de entropía como el de Coldcard",
+    "slug": "usuarios-de-qubic-sufrieron-un-robo-por-un-fallo-de-entropia",
     "category": "cripto",
     "date": "2026-10-18",
-    "summary": "CriptoTendencia Markets. xyz supera los $4.",
-    "link": "https://criptotendencia.com/2026/10/18/markets-xyz-supera-los-4-700-millones-de-volumen-y-alcanza-mas-de-13-000-usuarios/",
-    "source": "CriptoTendencia",
+    "summary": "Qubic atribuye el ataque a wallets creadas con aleatoriedad insuficiente y afirma que 87% de los fondos vaciados sigue congelado en su red.  La nota Usuarios de Qubic sufrieron un robo por un fallo de entropía como el de Coldcard se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/usuarios-qubic-robo-entropia-coldcard/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -203,13 +358,28 @@
     "related": []
   },
   {
-    "title": "La stablecoin en yenes de SBI y Startale busca conectarse con OUSD",
-    "slug": "la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-co",
+    "title": "Tenedores de bitcoin aún no tendrían ganancias suficientes como para vender en masa",
+    "slug": "tenedores-de-bitcoin-aun-no-tendrian-ganancias-suficientes-c",
     "category": "cripto",
     "date": "2026-10-18",
-    "summary": "CriptoTendencia SBI y Startale estudian conectar JPYSC con una stablecoin en dólares, tras el lanzamiento limitado de su token en yenes en Japón.  La entrada La stablecoin en yenes de SBI y Startale busca conectarse con OUSD se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/18/la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-con-ousd/",
-    "source": "CriptoTendencia",
+    "summary": "La plataforma de datos Bitview estima que las ganancias sin vender de los tenedores de bitcoin siguen en niveles bajos frente a su historial.  La nota Tenedores de bitcoin aún no tendrían ganancias suficientes como para vender en masa se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/tenedores-bitcoin-ganancias-ventas-masivas/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cysic suspende su puente entre redes tras crearse 10 millones de tokens sin autorización",
+    "slug": "cysic-suspende-su-puente-entre-redes-tras-crearse-10-millone",
+    "category": "cripto",
+    "date": "2026-10-18",
+    "summary": "La fundación del proyecto mantiene cerrada la herramienta que traslada criptomonedas entre redes y bloqueó la dirección que recibió los tokens.  La nota Cysic suspende su puente entre redes tras crearse 10 millones de tokens sin autorización se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/cysic-puente-bnb-chain-diez-millones-tokens-cys/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -244,52 +414,6 @@
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Qué banco tiene la tasa más baja para créditos hipotecarios en octubre 2026?",
-    "slug": "que-banco-tiene-la-tasa-mas-baja-para-creditos-hipotecarios-",
-    "category": "economia",
-    "date": "2026-10-17",
-    "summary": "Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.",
-    "link": "https://www.ambito.com/economia/que-banco-tiene-la-tasa-mas-baja-creditos-hipotecarios-octubre-2026-n6334271",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en dólares: cuánto rinden US$ 5.000 hoy y qué bancos pagan las mejores tasas",
-    "slug": "plazo-fijo-en-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos",
-    "category": "economia",
-    "date": "2026-10-17",
-    "summary": "Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos-pagan-las-mejores-tasas-n6334330",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El superávit fiscal de septiembre obliga al Gobierno a forzar la motosierra para cumplir la meta del FMI",
-    "slug": "el-superavit-fiscal-de-septiembre-obliga-al-gobierno-a-forza",
-    "category": "economia",
-    "date": "2026-10-17",
-    "summary": "Entre octubre y noviembre, el Ejecutivo tendría que lograr un saldo a favor muy consistente que le permita compensar el déficit esperado de diciembre.  En 2025, el cierre del año fue negativo en $2,8 billones.",
-    "link": "https://www.ambito.com/economia/el-superavit-fiscal-septiembre-obliga-al-gobierno-forzar-la-motosierra-cumplir-la-meta-del-fmi-n6334755",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
@@ -356,67 +480,6 @@
       "economía",
       "argentina",
       "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Francia arde en la calle y en el mercado de bonos",
-    "slug": "francia-arde-en-la-calle-y-en-el-mercado-de-bonos",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Francia vive su protesta más violenta en años: 550. 000 personas en las calles, 400 detenidos y una deuda en máximos desde 2002.",
-    "link": "https://criptotendencia.com/2026/10/17/francia-arde-en-la-calle-y-en-el-mercado-de-bonos/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La expansión de la IA reabre el debate sobre tasas de interés más altas",
-    "slug": "la-expansion-de-la-ia-reabre-el-debate-sobre-tasas-de-intere",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Banqueros centrales advierten que la inversión en IA eleva la demanda de capital y podría mantener las tasas de interés altas más tiempo.  La entrada La expansión de la IA reabre el debate sobre tasas de interés más altas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/la-expansion-de-la-ia-reabre-el-debate-sobre-tasas-de-interes-mas-altas/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Yemen: Emiratos y Arabia Saudita habrían pactado una nueva ofensiva contra los hutíes",
-    "slug": "yemen-emiratos-y-arabia-saudita-habrian-pactado-una-nueva-of",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Fuentes en Yemen describen un nuevo apoyo de Emiratos y Arabia Saudita contra los hutíes, mientras crece la crisis humanitaria.  La entrada Yemen: Emiratos y Arabia Saudita habrían pactado una nueva ofensiva contra los hutíes se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/yemen-emiratos-y-arabia-saudita-habrian-pactado-una-nueva-ofensiva-contra-los-huties/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Money20/20 arranca en Las Vegas: cinco señales que cripto debe vigilar estos días",
-    "slug": "money2020-arranca-en-las-vegas-cinco-senales-que-cripto-debe",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Money20/20 abre en Las Vegas: stablecoins, IA agéntica, Kalshi y Mercado Pago, las señales que cripto debe seguir estos días.  La entrada Money20/20 arranca en Las Vegas: cinco señales que cripto debe vigilar estos días se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/money20-20-arranca-en-las-vegas-cinco-senales-que-cripto-debe-vigilar-estos-dias/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
     ],
     "featured": false,
     "related": []
@@ -503,51 +566,6 @@
     "date": "2026-10-17",
     "summary": "Bitcoin enfrenta otro mes difícil y revive el debate sobre si el mercado atraviesa una corrección temporal o una fase de mayor debilidad.  La nota Bitcoin podría sumar dos octubres en rojo y romper con su patrón histórico se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
     "link": "https://www.criptonoticias.com/mercados/bitcoin-podria-sumar-dos-octubres-rojo-romper-patron-historico/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitget anuncia una suspensión parcial de servicios para algunos usuarios",
-    "slug": "bitget-anuncia-una-suspension-parcial-de-servicios-para-algu",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "El anuncio genera interrogantes sobre el alcance de la medida, cuyos criterios de selección y motivos siguen sin aclararse.  La nota Bitget anuncia una suspensión parcial de servicios para algunos usuarios se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/negocios/bitget-anuncia-suspension-parcial-servicios-algunos-usuarios/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "LayerZero presenta un sistema para acelerar las firmas postcuánticas",
-    "slug": "layerzero-presenta-un-sistema-para-acelerar-las-firmas-postc",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "La agregación de firmas postcuánticas agiliza las redes, pero migrar sin aumentar costos sigue siendo un reto.  La nota LayerZero presenta un sistema para acelerar las firmas postcuánticas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/layerzero-presenta-sistema-acelerar-firmas-postcuanticas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "ETF de bitcoin pierden USD 82 millones en una nueva jornada negativa",
-    "slug": "etf-de-bitcoin-pierden-usd-82-millones-en-una-nueva-jornada-",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "Con más de USD 600 millones retirados en octubre, los ETF afrontan una prueba para recuperar el impulso que mostraron en septiembre.  La nota ETF de bitcoin pierden USD 82 millones en una nueva jornada negativa se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/etf-bitcoin-pierden-usd-82-millones-nueva-jornada-negativa/",
     "source": "CriptoNoticias",
     "tags": [
       "cripto",
@@ -652,12 +670,12 @@
     "related": []
   },
   {
-    "title": "Visa Direct activa con Inyo Global la prefinanciación de pagos internacionales con USDC",
-    "slug": "visa-direct-activa-con-inyo-global-la-prefinanciacion-de-pag",
+    "title": "Markets.xyz supera los $4.700 millones de volumen y alcanza más de 13.000 usuarios",
+    "slug": "marketsxyz-supera-los-4700-millones-de-volumen-y-alcanza-mas",
     "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Visa Direct lleva a producción la prefinanciación con USDC junto a Inyo Global para facilitar pagos internacionales a clientes elegibles.  La entrada Visa Direct activa con Inyo Global la prefinanciación de pagos internacionales con USDC se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/visa-direct-activa-con-inyo-global-la-prefinanciacion-de-pagos-internacionales-con-usdc/",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia Markets. xyz supera los $4.",
+    "link": "https://criptotendencia.com/2026/10/18/markets-xyz-supera-los-4-700-millones-de-volumen-y-alcanza-mas-de-13-000-usuarios/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -667,12 +685,12 @@
     "related": []
   },
   {
-    "title": "Agentes autónomos de IA: ¿riesgo real de perder el control o alarmismo digital?",
-    "slug": "agentes-autonomos-de-ia-riesgo-real-de-perder-el-control-o-a",
+    "title": "La stablecoin en yenes de SBI y Startale busca conectarse con OUSD",
+    "slug": "la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-co",
     "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia Los agentes autónomos de IA plantean nuevos desafíos en privacidad, seguridad y responsabilidad jurídica.  ¿Cuáles son los riesgos reales de esta tecnología?",
-    "link": "https://criptotendencia.com/2026/10/17/agentes-autonomos-de-ia-riesgo-real-de-perder-el-control-o-alarmismo-digital/",
+    "date": "2026-10-18",
+    "summary": "CriptoTendencia SBI y Startale estudian conectar JPYSC con una stablecoin en dólares, tras el lanzamiento limitado de su token en yenes en Japón.  La entrada La stablecoin en yenes de SBI y Startale busca conectarse con OUSD se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/18/la-stablecoin-en-yenes-de-sbi-y-startale-busca-conectarse-con-ousd/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
@@ -682,87 +700,74 @@
     "related": []
   },
   {
-    "title": "Flash 24/7 Q-Day: Google reduce errores en Willow y el ecosistema cripto acelera su defensa poscuántica",
-    "slug": "flash-247-q-day-google-reduce-errores-en-willow-y-el-ecosist",
-    "category": "cripto",
+    "title": "¿Qué banco tiene la tasa más baja para créditos hipotecarios en octubre 2026?",
+    "slug": "que-banco-tiene-la-tasa-mas-baja-para-creditos-hipotecarios-",
+    "category": "economia",
     "date": "2026-10-17",
-    "summary": "CriptoTendencia Google reduce 40× errores en Willow mientras Starknet, la nueva Quantum Alliance y Aerie aceleran la defensa cripto frente a la amenaza cuántica.  La entrada Flash 24/7 Q-Day: Google reduce errores en Willow y el ecosistema cripto acelera su defensa poscuántica se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/flash-24-7-q-day-google-reduce-errores-en-willow-y-el-ecosistema-cripto-acelera-su-defensa-poscuantica/",
-    "source": "CriptoTendencia",
+    "summary": "Encontrar una tasa baja es importante, pero también hay que ver si se cumplen los requisitos para acceder a las mejores condiciones.",
+    "link": "https://www.ambito.com/economia/que-banco-tiene-la-tasa-mas-baja-creditos-hipotecarios-octubre-2026-n6334271",
+    "source": "Ámbito",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "PetroChina apunta a ganancias récord en trading por las disrupciones del petróleo",
-    "slug": "petrochina-apunta-a-ganancias-record-en-trading-por-las-disr",
-    "category": "cripto",
+    "title": "Plazo fijo en dólares: cuánto rinden US$ 5.000 hoy y qué bancos pagan las mejores tasas",
+    "slug": "plazo-fijo-en-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos",
+    "category": "economia",
     "date": "2026-10-17",
-    "summary": "CriptoTendencia PetroChina podría registrar ganancias récord en trading de petróleo en 2026, según fuentes, por los descuentos y márgenes de la guerra.  La entrada PetroChina apunta a ganancias récord en trading por las disrupciones del petróleo se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/petrochina-apunta-a-ganancias-record-en-trading-por-las-disrupciones-del-petroleo/",
-    "source": "CriptoTendencia",
+    "summary": "Las entidades volvieron a mejorar algunas tasas en moneda extranjera, pero la diferencia en cuanto tiempo se inmoviliza el dinero puede ser amplia.",
+    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinden-us-5000-hoy-y-que-bancos-pagan-las-mejores-tasas-n6334330",
+    "source": "Ámbito",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Flash 24/7 IA: agentes fuera de guion, un «freno judicial» para la IA y simulacros del G7",
-    "slug": "flash-247-ia-agentes-fuera-de-guion-un-freno-judicial-para-l",
-    "category": "cripto",
+    "title": "El superávit fiscal de septiembre obliga al Gobierno a forzar la motosierra para cumplir la meta del FMI",
+    "slug": "el-superavit-fiscal-de-septiembre-obliga-al-gobierno-a-forza",
+    "category": "economia",
     "date": "2026-10-17",
-    "summary": "CriptoTendencia Tencent detecta conductas no previstas en agentes de IA, Anthropic propone un freno judicial para modelos peligrosos y el G7 ensaya ciberataques.  La entrada Flash 24/7 IA: agentes fuera de guion, un «freno judicial» para la IA y simulacros del G7 se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/flash-24-7-ia-agentes-fuera-de-guion-un-freno-judicial-para-la-ia-y-simulacros-del-g7/",
-    "source": "CriptoTendencia",
+    "summary": "Entre octubre y noviembre, el Ejecutivo tendría que lograr un saldo a favor muy consistente que le permita compensar el déficit esperado de diciembre.  En 2025, el cierre del año fue negativo en $2,8 billones.",
+    "link": "https://www.ambito.com/economia/el-superavit-fiscal-septiembre-obliga-al-gobierno-forzar-la-motosierra-cumplir-la-meta-del-fmi-n6334755",
+    "source": "Ámbito",
     "tags": [
-      "cripto",
-      "bitcoin"
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Halloween en CriptoTendencia: 14 historias para no dormir",
-    "slug": "halloween-en-criptotendencia-14-historias-para-no-dormir",
+    "title": "Francia arde en la calle y en el mercado de bonos",
+    "slug": "francia-arde-en-la-calle-y-en-el-mercado-de-bonos",
     "category": "cripto",
     "date": "2026-10-17",
-    "summary": "CriptoTendencia CriptoTendencia estrena su colección de Halloween 2026: 14 historias inquietantes, una cada día del 18 al 31 de octubre.  La entrada Halloween en CriptoTendencia: 14 historias para no dormir se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/halloween-en-criptotendencia-14-historias-para-no-dormir/",
+    "summary": "CriptoTendencia Francia vive su protesta más violenta en años: 550. 000 personas en las calles, 400 detenidos y una deuda en máximos desde 2002.",
+    "link": "https://criptotendencia.com/2026/10/17/francia-arde-en-la-calle-y-en-el-mercado-de-bonos/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
-      "bitcoin"
+      "bitcoin",
+      "bonos"
     ],
     "featured": false,
     "related": []
   },
   {
-    "title": "Tu chatbot no es tu diario: por qué lo que le cuentas a la IA nunca es del todo privado",
-    "slug": "tu-chatbot-no-es-tu-diario-por-que-lo-que-le-cuentas-a-la-ia",
+    "title": "La expansión de la IA reabre el debate sobre tasas de interés más altas",
+    "slug": "la-expansion-de-la-ia-reabre-el-debate-sobre-tasas-de-intere",
     "category": "cripto",
     "date": "2026-10-17",
-    "summary": "CriptoTendencia Un arresto en Florida por amenazas escritas a una IA muestra por qué tu chatbot no es un diario privado y qué datos no compartirle.  La entrada Tu chatbot no es tu diario: por qué lo que le cuentas a la IA nunca es del todo privado se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/17/tu-chatbot-no-es-tu-diario-por-que-lo-que-le-cuentas-a-la-ia-nunca-es-del-todo-privado/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El déficit fiscal de Estados Unidos roza los US$ 2 billones en 2026",
-    "slug": "el-deficit-fiscal-de-estados-unidos-roza-los-us-2-billones-e",
-    "category": "cripto",
-    "date": "2026-10-17",
-    "summary": "CriptoTendencia El déficit fiscal de EE.  UU.",
-    "link": "https://criptotendencia.com/2026/10/17/el-deficit-fiscal-de-estados-unidos-roza-los-us-2-billones-en-2026/",
+    "summary": "CriptoTendencia Banqueros centrales advierten que la inversión en IA eleva la demanda de capital y podría mantener las tasas de interés altas más tiempo.  La entrada La expansión de la IA reabre el debate sobre tasas de interés más altas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/17/la-expansion-de-la-ia-reabre-el-debate-sobre-tasas-de-interes-mas-altas/",
     "source": "CriptoTendencia",
     "tags": [
       "cripto",
