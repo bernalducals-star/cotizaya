@@ -1,5 +1,36 @@
 [
   {
+    "title": "Semana clave para los bancos centrales: la Fed, el BCE y el BoJ deciden sobre sus tasas",
+    "slug": "semana-clave-para-los-bancos-centrales-la-fed-el-bce-y-el-bo",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Los bancos centrales más importantes a nivel global se reunirán esta semana, en un contexto en que los precios del petróleo siguen siendo el principal factor detrás del incremento",
+    "link": "https://www.ambito.com/economia/semana-clave-los-bancos-centrales-la-fed-el-bce-y-el-boj-deciden-sus-tasas-n6337997",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Boom de deuda corporativa en la Argentina: las empresas emitieron más de u$s2.700 millones en un mes",
+    "slug": "boom-de-deuda-corporativa-en-la-argentina-las-empresas-emiti",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Según un informe de PwC, septiembre registró uno de los mayores volúmenes de colocaciones de obligaciones negociables de la última década, impulsado por YPF y el sector energético.  Los fideicomisos financieros también alcanzaron su máximo de emisiones de 2026.",
+    "link": "https://www.ambito.com/economia/boom-deuda-corporativa-argentina-las-empresas-emitieron-mas-us2700-millones-un-mes-n6337913",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "AySA busca subir las tarifas de agua a 2 millones de usuarios en medio de la privatización: ¿de cuánto sería el aumento?",
     "slug": "aysa-busca-subir-las-tarifas-de-agua-a-2-millones-de-usuario",
     "category": "economia",
@@ -61,13 +92,13 @@
     "related": []
   },
   {
-    "title": "Las tasas largas siguen bajando y le facilitan la tarea a la Fed",
-    "slug": "las-tasas-largas-siguen-bajando-y-le-facilitan-la-tarea-a-la",
+    "title": "Wall Street subió en la previa a la decisión de la Fed y tras el anuncio de que Anthropic saldrá a la bolsa",
+    "slug": "wall-street-subio-en-la-previa-a-la-decision-de-la-fed-y-tra",
     "category": "economia",
     "date": "2026-10-26",
-    "summary": "Los bonos del Tesoro estadounidense ganan atractivo frente a los riesgos de la inteligencia artificial, mientras los inversores siguen de cerca la inflación, el precio del petróleo",
-    "link": "https://www.ambito.com/economia/las-tasas-largas-siguen-bajando-y-le-facilitan-la-tarea-la-fed-n6337713",
-    "source": "Ámbito",
+    "summary": "Las acciones comenzaron la semana al alza, a medida que el precio del petróleo retrocedía desde su nivel más alto en seis meses y los inversores aguardaban una intensa serie de res",
+    "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-suben-y-buscan-dejar-atras-su-mala-racha-n6337857",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -82,6 +113,70 @@
     "date": "2026-10-26",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
     "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-26-octubre-n6337798",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar blue alcanzó un nuevo máximo nominal, en medio de la presión sobre monedas emergentes",
+    "slug": "el-dolar-blue-alcanzo-un-nuevo-maximo-nominal-en-medio-de-la",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-blue-alcanzo-un-nuevo-maximo-nominal-medio-la-presion-monedas-emergentes-n6338082",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este lunes 26 de octubre",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-lunes-26-de-octubre",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-lunes-26-octubre-n6338066",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cerró este lunes 26 de octubre",
+    "slug": "dolar-hoy-a-cuanto-cerro-este-lunes-26-de-octubre",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-26-octubre-n6338065",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este lunes 26 de octubre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-26-de-octubre",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-26-octubre-n6337788",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -108,17 +203,396 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 26 de octubre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-26-de-octubre",
+    "title": "El Banco Nación ya otorgó 210 créditos hipotecarios con los fondos de ANSES",
+    "slug": "el-banco-nacion-ya-otorgo-210-creditos-hipotecarios-con-los-",
     "category": "economia",
     "date": "2026-10-26",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-26-octubre-n6337788",
-    "source": "Ámbito Finanzas",
+    "summary": "La entidad informó que colocó los $32. 000 millones que obtuvo en la primera licitación del Fondo de Garantía de Sustentabilidad de ANSES (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/realestate/467368-el-banco-nacion-ya-otorgo-210-creditos-hipotecarios-con-los-fondos-de-anses",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aliados y opositores piden a Milei que reconozca a Lula y arregle la relación bilateral",
+    "slug": "aliados-y-opositores-piden-a-milei-que-reconozca-a-lula-y-ar",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "El PRO y la UCR se diferenciaron del silencio en el Gobierno.  La oposición alista un proyecto incómodo para LLA.",
+    "link": "https://www.iprofesional.com/politica/467510-presionan-a-milei-para-que-reconozca-a-lula-y-arregle-relacion-con-brasil",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Obligaciones negociables de empresas para invertir en dólares y cobrar hasta 7,7% anual",
+    "slug": "obligaciones-negociables-de-empresas-para-invertir-en-dolare",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Tecpetrol, YPF y Vista Energy aparecen entre las elegidas de Allaria para invertir en dólares.  Qué ONs recomienda y cuánto rinden por año (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467405-5-obligaciones-negociables-para-ganar-mas-del-5-por-ciento-en-dolares-al-ano",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El riesgo país saltó a 765 puntos y las acciones argentinas se hundieron en Wall Street",
+    "slug": "el-riesgo-pais-salto-a-765-puntos-y-las-acciones-argentinas-",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "El nerviosismo se apodera de los inversores tras los resultados en Brasil, impulsando fuertes retrocesos en activos argentinos en Wall Street (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467451-el-riesgo-pais-salto-a-765-puntos-y-las-acciones-argentinas-se-hundieron-en-wall-street",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar mayorista trepó más de $10 y alcanzó un nuevo récord tras el triunfo de Lula",
+    "slug": "el-dolar-mayorista-trepo-mas-de-10-y-alcanzo-un-nuevo-record",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Los inversores reaccionan con cautela tras los comicios en Brasil y atentos a señales sobre política monetaria y reservas futuras en la Argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467506-el-dolar-mayorista-trepo-mas-de-10-y-alcanzo-un-nuevo-record-tras-el-triunfo-de-lula",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin hoy: BTC sigue bajo presión y no logra recuperar terreno",
+    "slug": "bitcoin-hoy-btc-sigue-bajo-presion-y-no-logra-recuperar-terr",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Bitcoin pierde una zona clave de soporte y continúa consolidando en niveles inferiores.  Analizamos los escenarios y niveles a vigilar.",
+    "link": "https://criptotendencia.com/2026/10/26/bitcoin-hoy-btc-sigue-bajo-presion-y-no-logra-recuperar-terreno-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Aviva Investors lanza una clase tokenizada de su fondo de liquidez en libras sobre XRP Ledger",
+    "slug": "aviva-investors-lanza-una-clase-tokenizada-de-su-fondo-de-li",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Aviva Investors lanza una clase tokenizada de su fondo de liquidez en libras sobre XRP Ledger, según anunció Ripple en X.  La entrada Aviva Investors lanza una clase tokenizada de su fondo de liquidez en libras sobre XRP Ledger se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/26/aviva-investors-clase-tokenizada-fondo-liquidez-libras-xrp-ledger/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La correlación entre Apple y el Nasdaq se rompe: ¿son sus acciones un refugio ante la volatilidad de la IA?",
+    "slug": "la-correlacion-entre-apple-y-el-nasdaq-se-rompe-son-sus-acci",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Apple rompe su correlación histórica con el Nasdaq 100 y gana protagonismo como posible alternativa defensiva ante la volatilidad de la IA.  La entrada La correlación entre Apple y el Nasdaq se rompe: ¿son sus acciones un refugio ante la volatilidad de la IA?",
+    "link": "https://criptotendencia.com/2026/10/26/la-correlacion-entre-apple-y-el-nasdaq-se-rompe-son-sus-acciones-un-refugio-ante-la-volatilidad-de-la-ia-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "CFD de Bitcoin en 2026: las 5 plataformas que mejor protegen al trader",
+    "slug": "cfd-de-bitcoin-en-2026-las-5-plataformas-que-mejor-protegen-",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Descubre las 5 mejores plataformas de CFD de Bitcoin en 2026.  Compara seguridad, comisiones, apalancamiento y herramientas de gestión del riesgo.",
+    "link": "https://criptotendencia.com/2026/10/26/cfd-de-bitcoin-en-2026-las-5-plataformas-que-mejor-protegen-al-trader/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El precio del oro se estabiliza cerca de los $4.000 antes de la reunión de la Fed",
+    "slug": "el-precio-del-oro-se-estabiliza-cerca-de-los-4000-antes-de-l",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia El oro intenta consolidarse cerca de los $4. 000 mientras los inversores esperan la decisión de la Fed y nuevas señales sobre la inflación.",
+    "link": "https://criptotendencia.com/2026/10/26/el-precio-del-oro-se-estabiliza-cerca-de-los-4-000-antes-de-la-reunion-de-la-fed-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy pausa sus compras de bitcoin tras cinco semanas consecutivas de adquisiciones",
+    "slug": "strategy-pausa-sus-compras-de-bitcoin-tras-cinco-semanas-con",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Strategy interrumpe cinco semanas de compras de bitcoin y recompra acciones preferentes, mientras enfrenta incertidumbre por las nuevas reglas de MSCI.  La entrada Strategy pausa sus compras de bitcoin tras cinco semanas consecutivas de adquisiciones se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/26/strategy-pausa-sus-compras-de-bitcoin-tras-cinco-semanas-consecutivas-de-adquisiciones/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "BingX inicia en la UCAB el BingX Campus Tour, un ciclo de educación financiera para universitarios en Latinoamerica",
+    "slug": "bingx-inicia-en-la-ucab-el-bingx-campus-tour-un-ciclo-de-edu",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia BingX inicia el Campus Tour en la UCAB con un programa de educación financiera sobre criptomonedas, blockchain y gestión del riesgo para universitarios.  La entrada BingX inicia en la UCAB el BingX Campus Tour, un ciclo de educación financiera para universitarios en Latinoamerica se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/26/bingx-inicia-en-la-ucab-el-bingx-campus-tour-un-ciclo-de-educacion-financiera-para-universitarios-en-latinoamerica/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wall Street tras la apertura: Tesla lidera el rebote en el mercado y los semiconductores recuperan terreno",
+    "slug": "wall-street-tras-la-apertura-tesla-lidera-el-rebote-en-el-me",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Wall Street intenta recuperar terreno antes de la FED y los resultados de las megacaps.  ¿Podrá sostenerse el rebote?",
+    "link": "https://criptotendencia.com/2026/10/26/wall-street-tras-la-apertura-tesla-lidera-el-rebote-en-el-mercado-y-los-semiconductores-recuperan-terreno/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La victoria de Lula, las protestas en Francia y la escalada en Medio Oriente ocupan el tablero geopolítico",
+    "slug": "la-victoria-de-lula-las-protestas-en-francia-y-la-escalada-e",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Esta semana el tablero geopolítico está marcado por la victoria de Lula en Brasil, la situación en Francia y la escalada en Medio Oriente.  La entrada La victoria de Lula, las protestas en Francia y la escalada en Medio Oriente ocupan el tablero geopolítico se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/26/la-victoria-de-lula-las-protestas-en-francia-y-la-escalada-en-medio-oriente-ocupan-el-tablero-geopolitico/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Anthropic presenta su OPI en el Nasdaq con el ticker ANT",
+    "slug": "anthropic-presenta-su-opi-en-el-nasdaq-con-el-ticker-ant",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "CriptoTendencia Anthropic presenta su OPI en el Nasdaq: ingresos de 16. 286 millones en el semestre y una pérdida contable que crece con su valoración.",
+    "link": "https://criptotendencia.com/2026/10/26/anthropic-presenta-su-opi-en-el-nasdaq-con-el-ticker-ant/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Armar tu propia hardware wallet de bitcoin: qué riesgos evitas y cuáles asumes",
+    "slug": "armar-tu-propia-hardware-wallet-de-bitcoin-que-riesgos-evita",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "Las wallets DIY (hazlo tú mismo) dejan fuera a las empresas, pero no eliminan la confianza, que pasa al código, a las piezas y a quien las arma.  La nota Armar tu propia hardware wallet de bitcoin: qué riesgos evitas y cuáles asumes se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/tecnologia/armar-hardware-wallet-diy-bitcoin-riesgos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Keystone destruirá 18.800 hardware wallets tras una brecha de seguridad",
+    "slug": "keystone-destruira-18800-hardware-wallets-tras-una-brecha-de",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "Los datos de envío pueden revelar dónde vive un comprador de hardware wallets y convertirlo en blanco de ataques.  La nota Keystone destruirá 18.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/keystone-destruira-18800-hardware-wallets-brecha-seguridad/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "brecha"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La llegada del euro digital al comercio choca con una factura de 6.000 millones",
+    "slug": "la-llegada-del-euro-digital-al-comercio-choca-con-una-factur",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "El BCE promete el euro digital para 2029, pero la industria necesita hasta 36 meses para adaptar las máquinas de cobro: un 30% necesitará un técnico.  La nota La llegada del euro digital al comercio choca con una factura de 6.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/llegada-euro-digital-comercio-factura-6000millones/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Israel considera usar criptomonedas para eludir sanciones",
+    "slug": "israel-considera-usar-criptomonedas-para-eludir-sanciones",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "El primer ministro Benjamin Netanyahu evalúa vías financieras alternativas ante el riesgo de embargos internacionales al sistema bancario.  La nota Israel considera usar criptomonedas para eludir sanciones se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/israel-criptomonedas-eludir-sanciones/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Minero solitario de Bitcoin gana la «lotería» del bloque 973.262",
+    "slug": "minero-solitario-de-bitcoin-gana-la-loteria-del-bloque-97326",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "El minero empleó un equipo FutureBit Apollo para procesar operaciones, llevándose la recompensa completa sin tener que compartirla con terceros.  La nota Minero solitario de Bitcoin gana la «lotería» del bloque 973.",
+    "link": "https://www.criptonoticias.com/mineria/minero-solitario-bitcoin-bloque-973262/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El efecto menos visible de los ETF está en los derivados de bitcoin y las criptomonedas",
+    "slug": "el-efecto-menos-visible-de-los-etf-esta-en-los-derivados-de-",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "Tras el lanzamiento de fondos cotizados en bolsa (ETF), aumentó la exposición del mercado a procesos de desapalancamiento.  La nota El efecto menos visible de los ETF está en los derivados de bitcoin y las criptomonedas se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/efecto-etf-derivados-bitcoin-criptomonedas/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "LINK busca una reversión alcista mientras Chainlink se alía con LG",
+    "slug": "link-busca-una-reversion-alcista-mientras-chainlink-se-alia-",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "La alianza con el brazo tecnológico del grupo surcoreano LG apunta a desarrollar infraestructura para activos digitales.  La nota LINK busca una reversión alcista mientras Chainlink se alía con LG se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/mercados/link-reversion-alcista-alianza-lg/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La capa base: PHP2Shell no tocó a Bitcoin, tu riesgo vive en servidores ajenos",
+    "slug": "la-capa-base-php2shell-no-toco-a-bitcoin-tu-riesgo-vive-en-s",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "La falla de PHP no rompe ninguna red, pero puede filtrar tus claves y desviar cobros.  Cuantos menos intermediarios uses, menos te alcanza.",
+    "link": "https://www.criptonoticias.com/opinion/bitcoin-php-servidor-problema-hacke/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Filtración en Foundation expone datos personales en ataque de phishing",
+    "slug": "filtracion-en-foundation-expone-datos-personales-en-ataque-d",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "El fabricante de la hardware wallet Passport investiga el envío de más de 23. 000 correos fraudulentos dirigidos a sus clientes.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/filtracion-foundation-datos-personales-phishing/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ciudadela Interior: ¿Qué está menguando al bitcoin sin KYC?",
+    "slug": "ciudadela-interior-que-esta-menguando-al-bitcoin-sin-kyc",
+    "category": "cripto",
+    "date": "2026-10-26",
+    "summary": "El comercio P2P de bitcoin está acorralado por la regulación desde arriba y por la falta de uso desde abajo.  La nota Ciudadela Interior: ¿Qué está menguando al bitcoin sin KYC?",
+    "link": "https://www.criptonoticias.com/opinion/ciudadela-interior-quien-menguando-bitcoin-kyc/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las tasas largas siguen bajando y le facilitan la tarea a la Fed",
+    "slug": "las-tasas-largas-siguen-bajando-y-le-facilitan-la-tarea-a-la",
+    "category": "economia",
+    "date": "2026-10-26",
+    "summary": "Los bonos del Tesoro estadounidense ganan atractivo frente a los riesgos de la inteligencia artificial, mientras los inversores siguen de cerca la inflación, el precio del petróleo",
+    "link": "https://www.ambito.com/economia/las-tasas-largas-siguen-bajando-y-le-facilitan-la-tarea-la-fed-n6337713",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -288,479 +762,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Qué puede pasar en el mercado tras el triunfo de Lula y las repersusiones en Argentina",
-    "slug": "que-puede-pasar-en-el-mercado-tras-el-triunfo-de-lula-y-las-",
-    "category": "economia",
-    "date": "2026-10-26",
-    "summary": "La victoria del actual presidente podría generar volatilidad en el real, las acciones y los bonos, con el frente fiscal como principal foco (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467426-que-puede-pasar-con-el-dolar-y-la-bolsa-tras-el-triunfo-de-lula-en-brasil",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La victoria de Lula, las protestas en Francia y la escalada en Medio Oriente ocupan el tablero geopolítico",
-    "slug": "la-victoria-de-lula-las-protestas-en-francia-y-la-escalada-e",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Esta semana el tablero geopolítico está marcado por la victoria de Lula en Brasil, la situación en Francia y la escalada en Medio Oriente.  La entrada La victoria de Lula, las protestas en Francia y la escalada en Medio Oriente ocupan el tablero geopolítico se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/26/la-victoria-de-lula-las-protestas-en-francia-y-la-escalada-en-medio-oriente-ocupan-el-tablero-geopolitico/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Anthropic presenta su OPI en el Nasdaq con el ticker ANT",
-    "slug": "anthropic-presenta-su-opi-en-el-nasdaq-con-el-ticker-ant",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Anthropic presenta su OPI en el Nasdaq: ingresos de 16. 286 millones en el semestre y una pérdida contable que crece con su valoración.",
-    "link": "https://criptotendencia.com/2026/10/26/anthropic-presenta-su-opi-en-el-nasdaq-con-el-ticker-ant/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Personaje de la Semana: Leonardo da Vinci, el hijo ilegítimo que se convirtió en el genio universal",
-    "slug": "el-personaje-de-la-semana-leonardo-da-vinci-el-hijo-ilegitim",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Leonardo da Vinci nació hijo ilegítimo y sin educación formal, y esa desventaja lo liberó para ser el genio universal.  Así empezó su historia.",
-    "link": "https://criptotendencia.com/2026/10/26/el-personaje-de-la-semana-leonardo-da-vinci-el-hijo-ilegitimo-que-se-convirtio-en-el-genio-universal/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "SoftBank estudia un plan de US$ 50.000 millones para IA y centros de datos en Malasia",
-    "slug": "softbank-estudia-un-plan-de-us-50000-millones-para-ia-y-cent",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia SoftBank estudia un plan de US$ 50. 000 millones para IA y centros de datos en Malasia, según el primer ministro Anwar Ibrahim.",
-    "link": "https://criptotendencia.com/2026/10/26/softbank-estudia-un-plan-de-us-50-000-millones-para-ia-y-centros-de-datos-en-malasia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El lago Nyos: la nube invisible que provocó una tragedia mientras todos dormían",
-    "slug": "el-lago-nyos-la-nube-invisible-que-provoco-una-tragedia-mien",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia La noche del 21 de agosto de 1986, el lago Nyos, en Camerún, liberó una nube de gas invisible que mató a unas 1. 700 personas.",
-    "link": "https://criptotendencia.com/2026/10/26/el-lago-nyos-la-nube-invisible-que-provoco-una-tragedia-mientras-todos-dormian/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Flash 24/7 | Brasil: Lula gana, Bolsonaro cuestiona el resultado y los mercados se desploman",
-    "slug": "flash-247-brasil-lula-gana-bolsonaro-cuestiona-el-resultado-",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Lula logra la reelección con 51,79%, Flávio Bolsonaro pedirá anular el balotaje y EWZ y Petrobras caen con fuerza fuera de horario.  La entrada Flash 24/7 | Brasil: Lula gana, Bolsonaro cuestiona el resultado y los mercados se desploman se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/26/flash-24-7-brasil-lula-gana-bolsonaro-cuestiona-el-resultado-y-los-mercados-se-desploman/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Claude sorteó una barrera de pago para consultar datos electorales públicos de Georgia",
-    "slug": "claude-sorteo-una-barrera-de-pago-para-consultar-datos-elect",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Claude accedió por su cuenta a recuentos electorales públicos de Georgia mediante un token.  Anthropic descarta cambios en registros.",
-    "link": "https://criptotendencia.com/2026/10/26/claude-sorteo-una-barrera-de-pago-para-consultar-datos-electorales-publicos-de-georgia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Musk afirma que SpaceX cerró deuda por US$ 40.000 millones para comprar chips de IA",
-    "slug": "musk-afirma-que-spacex-cerro-deuda-por-us-40000-millones-par",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Musk asegura que SpaceX cerró US$ 40. 000 millones en deuda para comprar GPUs de IA, con entregas previstas para el primer semestre de 2027.",
-    "link": "https://criptotendencia.com/2026/10/26/musk-afirma-que-spacex-cerro-deuda-por-us-40-000-millones-para-comprar-chips-de-ia/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Lula gana el balotaje en Brasil frente a Flávio Bolsonaro y se encamina a un cuarto mandato",
-    "slug": "lula-gana-el-balotaje-en-brasil-frente-a-flavio-bolsonaro-y-",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "CriptoTendencia Lula venció a Flávio Bolsonaro en el balotaje de Brasil y se encamina a un cuarto mandato tras remontar la primera vuelta.  La entrada Lula gana el balotaje en Brasil frente a Flávio Bolsonaro y se encamina a un cuarto mandato se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/26/lula-gana-el-balotaje-en-brasil-frente-a-flavio-bolsonaro-y-se-encamina-a-un-cuarto-mandato-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Cómo afectan los fallos críticos de PHP a las wallets y a los exchanges de criptomonedas?",
-    "slug": "como-afectan-los-fallos-criticos-de-php-a-las-wallets-y-a-lo",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "Las vulnerabilidades apuntan a servidores web, como los de exchanges, y no a las wallets, que dependen de otro software y de quién lo actualiza.  La nota ¿Cómo afectan los fallos críticos de PHP a las wallets y a los exchanges de criptomonedas?",
-    "link": "https://www.criptonoticias.com/tecnologia/fallos-criticos-php-wallets-exchanges-criptomonedas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Qué están haciendo las altcoins para protegerse de la cuántica?",
-    "slug": "que-estan-haciendo-las-altcoins-para-protegerse-de-la-cuanti",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "Redes como XRP Ledger, Solana y Cardano anuncian planes poscuánticos, pero van de un voto programado a informes de prueba y propuestas en revisión.  La nota ¿Qué están haciendo las altcoins para protegerse de la cuántica?",
-    "link": "https://www.criptonoticias.com/tecnologia/altcoins-criptomonedas-proteccion-computacion-cuantica/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin en USD 80.000 expone la brecha entre minoristas y ballenas",
-    "slug": "bitcoin-en-usd-80000-expone-la-brecha-entre-minoristas-y-bal",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "El precio lleva semanas encerrado en un rango que obliga a los participantes de corto plazo a decidir cuánto tiempo están dispuestos a esperar.  La nota Bitcoin en USD 80.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-lateralizacion-brecha-minoristas-ballenas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Fondo que administra 22.000 millones de libras es tokenizado en XRP Ledger",
-    "slug": "fondo-que-administra-22000-millones-de-libras-es-tokenizado-",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "La firma Aviva Investors ha integrado la red de Ripple en su mayor fondo, el Aviva Investors Sterling (GBP) Liquidity Fund.  La nota Fondo que administra 22.",
-    "link": "https://www.criptonoticias.com/mercados/fondo-administra-22000-millones-libras-tokenizado-xrp-ledger/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Se confirma explotación de la falla en PHP con más de 100 millones de servidores expuestos",
-    "slug": "se-confirma-explotacion-de-la-falla-en-php-con-mas-de-100-mi",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "Mientras millones de servidores quedan a merced de atacantes, la infraestructura comercial de bitcoin enfrenta riesgo inminente por falta de parches.  La nota Se confirma explotación de la falla en PHP con más de 100 millones de servidores expuestos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/explotacion-falla-php-millones-servidores-vulnerables/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Banco de España y Portugal firmaron pacto contra riesgos cuánticos",
-    "slug": "banco-de-espana-y-portugal-firmaron-pacto-contra-riesgos-cua",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "Ambas entidades evaluaron los riesgos derivados de compartir proveedores de servicios e infraestructuras de mercado.  La nota Banco de España y Portugal firmaron pacto contra riesgos cuánticos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/banco-espana-portugal-pacto-riesgos-cuanticos/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Electrum confirma robo de bitcoin mediante servidores maliciosos y fallo RBF",
-    "slug": "electrum-confirma-robo-de-bitcoin-mediante-servidores-malici",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "Lo que parecía un fallo teórico ya vació la wallet de al menos un usuario: así funciona el engaño visual en la wallet Electrum.  La nota Electrum confirma robo de bitcoin mediante servidores maliciosos y fallo RBF se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/sucesos/electrum-confirma-robo-bitcoin-fallo-rgb/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin inicia la semana en USD 80.000 con la mirada puesta en la FED",
-    "slug": "bitcoin-inicia-la-semana-en-usd-80000-con-la-mirada-puesta-e",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "A pesar de incertidumbre macroeconómica, la presión de venta se agota y algunos analistas ven en los 80. 000 dólares una oportunidad de compra.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-semana-usd80000-fed/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sube USDT en Brasil tras el triunfo de Lula da Silva",
-    "slug": "sube-usdt-en-brasil-tras-el-triunfo-de-lula-da-silva",
-    "category": "cripto",
-    "date": "2026-10-26",
-    "summary": "A través del precio de USDT, el mercado expresa su incertidumbre e incoformidad con el resultado electoral.  La nota Sube USDT en Brasil tras el triunfo de Lula da Silva se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/mercados/sube-usdt-brasil-luladasilva/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Banco por banco: cuánto se gana con un plazo fijo por $1 millón a 30 días",
-    "slug": "banco-por-banco-cuanto-se-gana-con-un-plazo-fijo-por-1-millo",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Las tasas en pesos van del 16% al 24% nominal anual y generan una diferencia de más de $6. 500 en intereses según el banco elegido (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467037-banco-por-banco-cuanto-se-gana-con-un-plazo-fijo-por-1-millon-a-30-dias",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Termómetro Bitcoin: el indicador recupera temperatura mientras el precio sigue sin despegar",
-    "slug": "termometro-bitcoin-el-indicador-recupera-temperatura-mientra",
-    "category": "cripto",
-    "date": "2026-10-25",
-    "summary": "CriptoTendencia El indicador recupera temperatura y marca 53/100: regresan las entradas de ETF, aunque el precio todavía no cierra una semana en verde.  La entrada Termómetro Bitcoin: el indicador recupera temperatura mientras el precio sigue sin despegar se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/25/termometro-bitcoin-el-indicador-recupera-temperatura-mientras-el-precio-sigue-sin-despegar/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "PHP2Shell: el debate sobre si es tan fácil de vulnerar como parecía",
-    "slug": "php2shell-el-debate-sobre-si-es-tan-facil-de-vulnerar-como-p",
-    "category": "cripto",
-    "date": "2026-10-25",
-    "summary": "Por precaución, gobiernos y empresas desconectaron sistemas; investigaciones indican que un ataque funcional exige alto nivel técnico.  La nota PHP2Shell: el debate sobre si es tan fácil de vulnerar como parecía se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/php2shell-debate-facil-vulnerar-parecia/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Moratoria de ARBA: desde el lunes se podrán regularizar deudas con bonificaciones de hasta el 40%",
-    "slug": "moratoria-de-arba-desde-el-lunes-se-podran-regularizar-deuda",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "El régimen alcanza a Ingresos Brutos, Sellos, Inmobiliario, Automotor y Embarcaciones Deportivas.  Los descuentos serán escalonados hasta el 31 de diciembre y la adhesión se hará de forma digital.",
-    "link": "https://www.ambito.com/economia/moratoria-arba-el-lunes-se-podran-regularizar-deudas-bonificaciones-el-40-n6337690",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Exportaciones récord: Argentina superó los u$s100.000 millones y alcanzó un superávit comercial histórico",
-    "slug": "exportaciones-record-argentina-supero-los-us100000-millones-",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Las ventas externas alcanzaron un máximo histórico en los últimos doce meses, mientras que el superávit comercial superó los u$s26. 000 millones.",
-    "link": "https://www.ambito.com/economia/exportaciones-record-argentina-supero-los-us100000-millones-y-alcanzo-un-superavit-comercial-historico-n6337688",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cuánto cuesta la camiseta alternativa de Boca que utilizó en el Maracanazo contra Vasco Da Gama",
-    "slug": "cuanto-cuesta-la-camiseta-alternativa-de-boca-que-utilizo-en",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "La indumentaria utilizada por el Xeneize en las semifinales de la Sudamericana fue utilizada pocas veces, pero ya se ganó un lugar en el corazón del hincha.",
-    "link": "https://www.ambito.com/economia/cuanto-cuesta-la-camiseta-alternativa-boca-que-utilizo-el-maracanazo-contra-vasco-da-gama-n6337183",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Presión tributaria: las pymes argentinas enfrentan al menos 62 obligaciones entre impuestos, retenciones y trámites fiscales",
-    "slug": "presion-tributaria-las-pymes-argentinas-enfrentan-al-menos-6",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Un informe identificó 34 tributos nacionales, provinciales y municipales, además de 28 regímenes de retención, percepción e información.",
-    "link": "https://www.ambito.com/economia/presion-tributaria-las-pymes-argentinas-enfrentan-al-menos-62-obligaciones-impuestos-retenciones-y-tramites-fiscales-n6337677",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 25 de octubre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-25-de-octubre",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-25-octubre-n6337608",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 25 de octubre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-25-de-octubre",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-25-octubre-n6337607",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este sábado 24 de octubre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-24-de-octubre",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-24-octubre-n6337452",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este sábado 24 de octubre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-sabado-24-de-octubre",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-24-octubre-n6337453",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Moody's mantuvo la nota de Francia, pero advirtió por el déficit y la deuda",
-    "slug": "moodys-mantuvo-la-nota-de-francia-pero-advirtio-por-el-defic",
-    "category": "economia",
-    "date": "2026-10-25",
-    "summary": "La agencia ratificó la calificación Aa3 con perspectiva negativa, bajo el supuesto de que París aprobará un presupuesto que reduzca el desequilibrio fiscal.  El Gobierno busca sancionarlo antes de fin de año, en medio de tensiones políticas y sociales.",
-    "link": "https://www.ambito.com/finanzas/moodys-mantuvo-la-nota-francia-pero-advirtio-el-deficit-y-la-deuda-n6337585",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "deuda"
     ],
     "featured": false,
     "related": []
