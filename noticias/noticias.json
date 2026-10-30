@@ -1,5 +1,542 @@
 [
   {
+    "title": "La inversión real no arranca: los factores detrás de una caída que no cede y por qué demorará en recuperarse",
+    "slug": "la-inversion-real-no-arranca-los-factores-detras-de-una-caid",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La inversión bruta volvió a caer en septiembre, golpeada por el desplome en maquinaria y equipos.  La debilidad de la actividad, el crédito escaso y la limitada tracción inicial del RIGI postergan las decisiones de las empresas.",
+    "link": "https://www.ambito.com/economia/la-inversion-real-no-arranca-los-factores-detras-una-caida-que-no-cede-y-que-demorara-recuperarse-n6339404",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este viernes 30 de octubre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-viernes-30-de-octubre",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-30-octubre-n6339597",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este viernes 30 de octubre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-viernes-30-de-octubre",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-30-octubre-n6339598",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 30 de octubre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-30-octubre-n6339615",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El riesgo país sin tendencia fija mantiene en vilo al mercado mientras que ADRs caen hasta 6%",
+    "slug": "el-riesgo-pais-sin-tendencia-fija-mantiene-en-vilo-al-mercad",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "En el epílogo de una semana marcada por el viento adverso del exterior producto del resultado de las elecciones en Brasil, los activos argentinos tratan de sostener un rebote.",
+    "link": "https://www.ambito.com/finanzas/el-riesgo-pais-se-somete-la-ultima-rueda-semanal-el-respiro-que-se-tomaron-los-bonos-dolares-n6339658",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El Banco de Japón mantuvo la tasa sin cambios y el yen encadena su tercera suba consecutiva",
+    "slug": "el-banco-de-japon-mantuvo-la-tasa-sin-cambios-y-el-yen-encad",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "En paralelo, la baja en acciones tecnológicas afecta al dólar, que no se beneficia de la búsqueda de refugio de los inversores.  Otras autoridades monetarias como el BCE y la Fed mantuvieron sus tasas, aguardando un escenario más propicio para recortes.",
+    "link": "https://www.ambito.com/finanzas/el-banco-japon-mantuvo-la-tasa-cambios-y-el-yen-encadena-su-tercera-suba-consecutiva-n6339723",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar mayorista opera a la baja, pero igual se encamina a su tercera suba semanal consecutiva",
+    "slug": "el-dolar-mayorista-opera-a-la-baja-pero-igual-se-encamina-a-",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "El dólar anota un incremento mensual por encima del 1%, mientras la City sigue atentamente las intervenciones del BCRA y la demanda de cobertura ante la cercanía del cierre de mes.",
+    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-encadena-su-tercera-suba-semanal-y-el-mercado-sigue-cerca-la-demanda-cobertura-n6339634",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Golpe al mercado cripto: Bitcoin se hunde hasta los u$s77.000 tras el hackeo a Binance",
+    "slug": "golpe-al-mercado-cripto-bitcoin-se-hunde-hasta-los-us77000-t",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La mayor plataforma de intercambio de criptomonedas del mundo suspendió depósitos y retiros.  Circle, Tether y Ripple congelaron activos vinculados al ataque, y las acciones de Circle llegaron a caer 5% en la previa de Wall Street.",
+    "link": "https://www.ambito.com/finanzas/golpe-al-mercado-cripto-bitcoin-se-hunde-los-us77000-el-hackeo-binance-n6339662",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "“Vamos a cubrir todas las pérdidas”: Richard Teng, CEO de Binance, devolverá los 6.340 millones de dólares robados en hackeo",
+    "slug": "vamos-a-cubrir-todas-las-perdidas-richard-teng-ceo-de-binanc",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La compañía afirmó que los fondos de sus clientes no fueron afectados y que presentará una prueba de reservas para respaldar su compromiso de cubrir las pérdidas",
+    "link": "https://www.infobae.com/tecno/2026/10/30/vamos-a-cubrir-todas-las-perdidas-richard-teng-ceo-de-binance-devolvera-los-6340-millones-de-dolares-robados-en-hackeo/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El FMI elogia a Caputo pero le cobra cada vez más caro y llega un vencimiento millonario",
+    "slug": "el-fmi-elogia-a-caputo-pero-le-cobra-cada-vez-mas-caro-y-lle",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La primera señal llegará el próximo lunes 2, cuando la Argentina deberá afrontar un vencimiento de u$s880 millones solamente en concepto de intereses (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467754-fmi-vencimiento-intereses-altos-campana-electoral-complican-milei-octubre-2026",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La suba de alimentos continúa en octubre, pero la inflación mensual se desaceleró al 2,7%",
+    "slug": "la-suba-de-alimentos-continua-en-octubre-pero-la-inflacion-m",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "Panificados y bebidas encabezaron las subas, mientras que aceites y verduras bajaron.  EcoGo proyectó una inflación general del 1,8% para el mes (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/467906-precios-de-alimentos-la-suba-mensual-se-desacelero-en-octubre",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Crece el cuentapropismo y se amplía la brecha de ingresos con el empleo formal",
+    "slug": "crece-el-cuentapropismo-y-se-amplia-la-brecha-de-ingresos-co",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "El cuentapropismo informal creció mientras cayó el empleo privado registrado.  Un informe revela la brecha de ingresos entre ambos sectores (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/467769-crece-el-cuentapropismo-y-se-amplia-la-brecha-de-ingresos-con-el-empleo-formal",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "brecha"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Jubilación máxima de ANSES: cuánto cobra en noviembre y qué pasa con el bono",
+    "slug": "jubilacion-maxima-de-anses-cuanto-cobra-en-noviembre-y-que-p",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La jubilación máxima sube a casi $3 millones en noviembre tras el ajuste del 1,93%.  Por qué sus beneficiarios quedan fuera del bono de $70.",
+    "link": "https://www.iprofesional.com/economia/467824-jubilacion-maxima-de-anses-cuanto-cobra-en-noviembre-y-que-pasa-con-el-bono",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Banco Nación: cuánto se paga por un préstamo de $5 millones para jubilados",
+    "slug": "banco-nacion-cuanto-se-paga-por-un-prestamo-de-5-millones-pa",
+    "category": "economia",
+    "date": "2026-10-30",
+    "summary": "La línea Nación Previsional permite financiarse en hasta 72 cuotas.  Cuánto se pagaría por mes, qué ingresos se necesitan y cómo solicitarlo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467730-banco-nacion-cuanto-se-paga-por-un-prestamo-de-5-millones-para-jubilados",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Intel vive su peor día en medio siglo: la memoria se come el rally",
+    "slug": "intel-vive-su-peor-dia-en-medio-siglo-la-memoria-se-come-el-",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia La acción de Intel se hunde casi un 30% por una guía débil: la escasez de memoria frena el PC y opaca la demanda de la IA.  La entrada Intel vive su peor día en medio siglo: la memoria se come el rally se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/intel-vive-su-peor-dia-en-medio-siglo-la-memoria-se-come-el-rally/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El hackeo a Binance provoca ventas masivas y caídas en los precios de las criptomonedas",
+    "slug": "el-hackeo-a-binance-provoca-ventas-masivas-y-caidas-en-los-p",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Tras conocerse el hackeo a la mayor plataforma comercial de activos digitales del mundo, Binance, el mercado cripto se sacude.  La entrada El hackeo a Binance provoca ventas masivas y caídas en los precios de las criptomonedas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/el-hackeo-a-binance-provoca-ventas-masivas-y-caidas-en-los-precios-de-las-criptomonedas/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La SEC vigila la manipulación y el uso de información privilegiada en mercados de predicción",
+    "slug": "la-sec-vigila-la-manipulacion-y-el-uso-de-informacion-privil",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia La SEC vigila posibles abusos en mercados de predicción vinculados a empresas, mientras avanza el debate sobre su supervisión.  La entrada La SEC vigila la manipulación y el uso de información privilegiada en mercados de predicción se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/la-sec-vigila-la-manipulacion-y-el-uso-de-informacion-privilegiada-en-mercados-de-prediccion/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bloomberg y dos firmas acuerdan pagar por acceso rápido a Truth Social, según reporte",
+    "slug": "bloomberg-y-dos-firmas-acuerdan-pagar-por-acceso-rapido-a-tr",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Bloomberg y dos firmas acordaron pagar por acceso rápido a los mensajes de Trump en Truth Social, según un reporte que abre debate.  La entrada Bloomberg y dos firmas acuerdan pagar por acceso rápido a Truth Social, según reporte se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/bloomberg-y-dos-firmas-acuerdan-pagar-por-acceso-rapido-a-truth-social-segun-reporte/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Satoshi Nakamoto es argentino? Buenos Aires ya tiene su monumento",
+    "slug": "satoshi-nakamoto-es-argentino-buenos-aires-ya-tiene-su-monum",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Buenos Aires inauguró el monumento a Satoshi Nakamoto, el primero de América Latina, en la antesala de LABITCONF 2026.  La entrada ¿Satoshi Nakamoto es argentino?",
+    "link": "https://criptotendencia.com/2026/10/30/satoshi-nakamoto-es-argentino-buenos-aires-ya-tiene-su-monumento/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Binance estima un impacto de US$ 6.300 millones tras un incidente de seguridad",
+    "slug": "binance-estima-un-impacto-de-us-6300-millones-tras-un-incide",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Binance estima un impacto de US$ 6. 300 millones, pausa depósitos y retiros y promete cubrir pérdidas con SAFU y fondos propios.",
+    "link": "https://criptotendencia.com/2026/10/30/binance-estima-un-impacto-de-us-6-300-millones-tras-un-incidente-de-seguridad/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "LABITCONF 2026 arranca bajo la sombra del hackeo a Binance",
+    "slug": "labitconf-2026-arranca-bajo-la-sombra-del-hackeo-a-binance",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia LABITCONF 2026 abre en Buenos Aires con charlas sobre stablecoins congeladas y autocustodia, en plena investigación del caso Binance.  La entrada LABITCONF 2026 arranca bajo la sombra del hackeo a Binance se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/labitconf-2026-arranca-bajo-la-sombra-del-hackeo-a-binance/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La inflación de Tokio se modera al 2,6%, pero sigue por encima del objetivo del Banco de Japón",
+    "slug": "la-inflacion-de-tokio-se-modera-al-26-pero-sigue-por-encima-",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia La inflación subyacente de Tokio bajó al 2,6% en octubre, pero siguió sobre el objetivo del Banco de Japón y mantiene la presión.  La entrada La inflación de Tokio se modera al 2,6%, pero sigue por encima del objetivo del Banco de Japón se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/la-inflacion-de-tokio-se-modera-al-26-pero-sigue-por-encima-del-objetivo-del-banco-de-japon/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nvidia responde a reporte sobre presunto espionaje a Jensen Huang",
+    "slug": "nvidia-responde-a-reporte-sobre-presunto-espionaje-a-jensen-",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Nvidia defendió los contactos de Jensen Huang con Megaspeed y afirmó que las acusaciones de desvío de chips fueron refutadas.  La entrada Nvidia responde a reporte sobre presunto espionaje a Jensen Huang se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/10/30/nvidia-responde-a-reporte-sobre-presunto-espionaje-a-jensen-huang/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Alphabet pierde cerca de US$ 500.000 millones en su peor jornada bursátil",
+    "slug": "alphabet-pierde-cerca-de-us-500000-millones-en-su-peor-jorna",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "CriptoTendencia Alphabet cayó casi un 13% y perdió unos US$ 500. 000 millones de valor bursátil, presionada por el gasto en IA y el flujo de caja.",
+    "link": "https://criptotendencia.com/2026/10/30/alphabet-pierde-cerca-de-us-500-000-millones-en-su-peor-jornada-bursatil/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La tormenta cuántica se acerca a Bitcoin y Google ya vende paraguas a los bancos",
+    "slug": "la-tormenta-cuantica-se-acerca-a-bitcoin-y-google-ya-vende-p",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "La maniobra de Google no es casual sino comercial.  La misma empresa que fija los plazos del riesgo tecnológico vende la solución en la nube.",
+    "link": "https://www.criptonoticias.com/opinion/tormenta-cuantica-acerca-bitcoin-google-ya/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Puede Binance absorber un robo de USD 6.300 millones sin afectar a sus usuarios?",
+    "slug": "puede-binance-absorber-un-robo-de-usd-6300-millones-sin-afec",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "El SAFU, fondo de emergencia de Binance, cubre solo una parte del robo.  El resto depende de activos congelados y recursos La nota ¿Puede Binance absorber un robo de USD 6.",
+    "link": "https://www.criptonoticias.com/mercados/binance-safu-robo-6300millones-hackeo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Chainalysis vincula el hackeo a Binance al grupo norcoreano TraderTraitor",
+    "slug": "chainalysis-vincula-el-hackeo-a-binance-al-grupo-norcoreano-",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "La firma de seguridad asegura que los fondos robados se mezclaron con los sustraídos del ataque a Bitget.  La nota Chainalysis vincula el hackeo a Binance al grupo norcoreano TraderTraitor se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainalysis-vincula-hackeo-a-binance-grupo-norcoreano-tradertraitor/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Cuántas y cuáles criptomonedas robaron en el ataque a Binance?",
+    "slug": "cuantas-y-cuales-criptomonedas-robaron-en-el-ataque-a-binanc",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "Elliptic y TRM Labs estiman que nueve criptomonedas principales fueron sustraídas en el hackeo al exchange, con ETH concentrando las mayores pérdidas.  La nota ¿Cuántas y cuáles criptomonedas robaron en el ataque a Binance?",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/cuantas-cuales-criptomonedas-robaron-ataque-a-binance/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Binance inicia la recuperación de las criptomonedas afectadas durante el hackeo",
+    "slug": "binance-inicia-la-recuperacion-de-las-criptomonedas-afectada",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "El exchange reservó 6. 340 millones de dólares propios para cubrir a los usuarios tras el quiebre de seguridad en su sistema.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/binance-inicia-recuperacion-criptomonedas-afectadas-durante-hackeo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Analistas destacan la resistencia de bitcoin tras el hackeo a Binance",
+    "slug": "analistas-destacan-la-resistencia-de-bitcoin-tras-el-hackeo-",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "Pese a una caída del 5% en el precio de bitcoin, está mostrando fuerte resistencia tras el robo de USD 6. 300 millones de Binance.",
+    "link": "https://www.criptonoticias.com/mercados/analistas-destacan-resistencia-bitcoin-hackeo-binance/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Strategy domina las tesorerías de bitcoin: ¿hay negocio más allá de Michael Saylor?",
+    "slug": "strategy-domina-las-tesorerias-de-bitcoin-hay-negocio-mas-al",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "La firma concentra casi dos tercios del BTC corporativo mientras muchas imitadoras cotizan con descuento.  El modelo empieza a mostrar sus límites.",
+    "link": "https://www.criptonoticias.com/mercados/strategy-domina-tesorerias-bitcoin-hay-negocio-mas-alla/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Hackeo a Binance provoca subida de 15% en el precio de HYPE",
+    "slug": "hackeo-a-binance-provoca-subida-de-15-en-el-precio-de-hype",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "El ataque por 6. 300 millones de dólares a Binance impulsó el token de Hyperliquid, su competidor descentralizado, superando los 91 dólares.",
+    "link": "https://www.criptonoticias.com/mercados/hackeo-binance-subida-15-precio-hyperliquid-hype/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Binance promete habilitar retiros de bitcoin y criptomonedas en 2 días",
+    "slug": "binance-promete-habilitar-retiros-de-bitcoin-y-criptomonedas",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "La empresa asegura que los fondos de los usuarios están a salvo y que las pérdidas del ataque serán cubiertas por sus fondos corporativos y el SAFU.  La nota Binance promete habilitar retiros de bitcoin y criptomonedas en 2 días se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/binance-habilitar-retiros-bitcoin-criptomonedas-2-dias/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Binance confirma hackeo y robo por más de 6.300 millones de dólares",
+    "slug": "binance-confirma-hackeo-y-robo-por-mas-de-6300-millones-de-d",
+    "category": "cripto",
+    "date": "2026-10-30",
+    "summary": "El exchange suspendió retiros tras el hecho, aunque asegura que los fondos de usuarios están a salvo.  La nota Binance confirma hackeo y robo por más de 6.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/binance-confirma-hackeo-robo-6300-millones/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
+    "slug": "dolares-del-colchon-arca-postergo-por-sexta-vez-la-presentac",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "El nuevo plazo vence el 16 de noviembre.  Contadores y tributaristas advertían que faltaba tiempo para aplicar los cambios al régimen simplificado, mientras siguen pendientes normas de la UIF sobre los fondos fuera del sistema financiero.",
+    "link": "https://www.ambito.com/economia/dolares-del-colchon-arca-postergo-sexta-vez-la-presentacion-la-ddjj-ganancias-n6339476",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Plazo fijo UVA en 2026: por qué es la inversión más rentable del año en Argentina",
     "slug": "plazo-fijo-uva-en-2026-por-que-es-la-inversion-mas-rentable-",
     "category": "economia",
@@ -27,6 +564,82 @@
       "argentina",
       "peso",
       "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bausili dijo que no tiene una \"proyección de corrida\" para 2027 y habló del oro del BCRA",
+    "slug": "bausili-dijo-que-no-tiene-una-proyeccion-de-corrida-para-202",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "El presidente del BCRA anticipó también que la inflación cederá en el último trimestre y habló de los swap con China y Estados Unidos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/467847-bausili-dio-detalles-de-la-operatoria-con-el-oro-de-las-reservas-del-bcra",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bancos en alerta: qué pasará si Mercado Pago gana la batalla por las cuentas sueldo",
+    "slug": "bancos-en-alerta-que-pasara-si-mercado-pago-gana-la-batalla-",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "La fintech está más cerca de obtener la licencia del BCRA.  Su base de usuarios, datos de Mercado Libre y una gran red de comercios le dan gran ventaja (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/467854-alerta-bancos-que-pasara-si-mercado-pago-se-queda-con-cuentas-sueldo",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo invertir desde $25.000 en Mercado Pago para apostar a su crecimiento en el país",
+    "slug": "como-invertir-desde-25000-en-mercado-pago-para-apostar-a-su-",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "Es posible comprar un CEDEAR de Mercado Libre, la firma detrás de Mercado Pago, que cotiza en Nueva York.  Cómo hacerlo en pesos, paso a paso (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/467855-como-invertir-desde-25000-en-mercado-pago-para-apostar-a-su-crecimiento-en-el-pais",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Tres gigantes fintech se meten de lleno en el negocio de los bancos en Argentina",
+    "slug": "tres-gigantes-fintech-se-meten-de-lleno-en-el-negocio-de-los",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "La competencia entre firmas tecnológicas crece de la mano de Mercado Pago, Cocos y Revolut.  Qué estrategia despliega cada compañía (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/negocios/467852-3-gigantes-fintech-se-meten-en-el-negocio-de-los-bancos-en-argentina",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Mercado Pago entra al top 20 de las marcas financieras más valiosas del mundo",
+    "slug": "mercado-pago-entra-al-top-20-de-las-marcas-financieras-mas-v",
+    "category": "economia",
+    "date": "2026-10-29",
+    "summary": "La marca alcanzó un valor de u$s27. 721 millones y quedó en el puesto 19 del ranking de Kantar BrandZ.",
+    "link": "https://www.iprofesional.com/negocios/467596-mercado-pago-entra-al-top-20-de-las-marcas-financieras-mas-valiosas-del-mundo",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -73,22 +686,6 @@
       "economía",
       "argentina",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 29 de octubre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-29-octubre-n6339154",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -170,605 +767,6 @@
       "economía",
       "argentina",
       "bonos"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cerró este jueves 29 de octubre",
-    "slug": "dolar-hoy-a-cuanto-cerro-este-jueves-29-de-octubre",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-jueves-29-octubre-n6339454",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bausili dio detalles de la operatoria del BCRA con el oro de las reservas",
-    "slug": "bausili-dio-detalles-de-la-operatoria-del-bcra-con-el-oro-de",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "El presidente del BCRA y el vice Vladimir Werning brindó una conferencia para presentar detalles del Índice de Política Moneteria (IPOM) (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/467847-bausili-dio-detalles-de-la-operatoria-con-el-oro-de-las-reservas-del-bcra",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "reservas",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bancos en alerta: qué pasará si Mercado Pago gana la batalla por las cuentas sueldo",
-    "slug": "bancos-en-alerta-que-pasara-si-mercado-pago-gana-la-batalla-",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "La fintech está más cerca de obtener la licencia del BCRA.  Su base de usuarios, datos de Mercado Libre y una gran red de comercios le dan gran ventaja (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467854-alerta-bancos-que-pasara-si-mercado-pago-se-queda-con-cuentas-sueldo",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo invertir desde $25.000 en Mercado Pago para apostar a su crecimiento en el país",
-    "slug": "como-invertir-desde-25000-en-mercado-pago-para-apostar-a-su-",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Es posible comprar un CEDEAR de Mercado Libre, la firma detrás de Mercado Pago, que cotiza en Nueva York.  Cómo hacerlo en pesos, paso a paso (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/467855-como-invertir-desde-25000-en-mercado-pago-para-apostar-a-su-crecimiento-en-el-pais",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Tres gigantes fintech se meten de lleno en el negocio de los bancos en Argentina",
-    "slug": "tres-gigantes-fintech-se-meten-de-lleno-en-el-negocio-de-los",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "La competencia entre firmas tecnológicas crece de la mano de Mercado Pago, Cocos y Revolut.  Qué estrategia despliega cada compañía (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/negocios/467852-3-gigantes-fintech-se-meten-en-el-negocio-de-los-bancos-en-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Senado avanza con un RIGI para inversiones medianas en economías regionales llamado RIIR",
-    "slug": "senado-avanza-con-un-rigi-para-inversiones-medianas-en-econo",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "El nuevo RIIR apunta a los no alcanzados por el RIGI, con beneficios fiscales similares.  Agroindustria y transición energética, entre los beneficiados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/politica/467844-senado-avanza-con-rigi-para-inversiones-medianas-en-economias-regionales-llamado-riir",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Qué cambiará para los usuarios cuando Mercado Pago se convierta en banco",
-    "slug": "que-cambiara-para-los-usuarios-cuando-mercado-pago-se-convie",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "El BCRA aprobó la instancia técnica de la licencia solicitada por la empresa de Marcos Galperin.  Qué pasará con cuentas, sueldos, créditos y tarjetas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467849-que-cambiara-para-los-usuarios-si-mercado-pago-se-convierte-en-banco",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Mercado Pago, a un paso de ser banco tras una autorización clave del BCRA",
-    "slug": "mercado-pago-a-un-paso-de-ser-banco-tras-una-autorizacion-cl",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "La Superintendencia de Entidades Financieras dio el visto bueno técnico al pedido de la fintech.  ¿Cuándo llegaría la aprobación definitiva?",
-    "link": "https://www.iprofesional.com/finanzas/467843-mercado-pago-a-un-paso-de-ser-banco-tras-autorizacion-clave-del-banco-central-argentino",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCRA cortó la racha y volvió a comprar dólares luego de tres días sin intervenciones",
-    "slug": "el-bcra-corto-la-racha-y-volvio-a-comprar-dolares-luego-de-t",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Luego de tres ruedas en las que no compró divisas, el BCRA sumó este jueves u$s47 millones y alcanzó los u$s1. 299 millones en lo que va de octubre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/467842-el-bcra-volvio-a-comprar-dolares-de-tres-dias-sin-intervenir-en-el-mercado",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "bcra"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Una empresa chino-canadiense controla la mina que más oro produce en Argentina",
-    "slug": "una-empresa-chino-canadiense-controla-la-mina-que-mas-oro-pr",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Shandong Gold Group y Barrick Gold Corporation manejan Veladero, el yacimiento que desde el 2005 extrae oro y plata de la cordillera sanjuanina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/467837-empresa-chino-canadiense-controla-la-mina-que-mas-oro-produce-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Mercado Pago entra al top 20 de las marcas financieras más valiosas del mundo",
-    "slug": "mercado-pago-entra-al-top-20-de-las-marcas-financieras-mas-v",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "La marca alcanzó un valor de u$s27. 721 millones y quedó en el puesto 19 del ranking de Kantar BrandZ.",
-    "link": "https://www.iprofesional.com/negocios/467596-mercado-pago-entra-al-top-20-de-las-marcas-financieras-mas-valiosas-del-mundo",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bonos argentinos rebotan tras la decisión de la Fed y el riesgo país baja de 750 puntos",
-    "slug": "bonos-argentinos-rebotan-tras-la-decision-de-la-fed-y-el-rie",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Los bonos en dólares avanzan en Wall Street y el riesgo país se ubica en 749 puntos, mientras las acciones locales muestran mayoría de subas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467828-bonos-argentinos-rebotan-y-el-riesgo-pais-cae-debajo-de-750-puntos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina",
-    "slug": "inflacion-reservas-y-credito-las-claves-del-nuevo-informe-de",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "En su informe trimestral, la entidad alertó sobre riesgos estacionales y de tarifas que podrían impactar en el costo de vida y la producción (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/467826-bcra-baja-inflacion-riesgos-economia",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "inflación",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Polymarket reanuda el trading tras un incidente de seguridad y promete compensaciones",
-    "slug": "polymarket-reanuda-el-trading-tras-un-incidente-de-seguridad",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Polymarket reanudó el trading tras un incidente con un proveedor externo y prometió compensaciones a los usuarios afectados.  La entrada Polymarket reanuda el trading tras un incidente de seguridad y promete compensaciones se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/polymarket-reanuda-el-trading-tras-un-incidente-de-seguridad-y-promete-compensaciones/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Coinbase supera las previsiones de EBITDA en un trimestre débil para el mercado cripto",
-    "slug": "coinbase-supera-las-previsiones-de-ebitda-en-un-trimestre-de",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Coinbase superó el EBITDA esperado en el tercer trimestre de 2026, con ingresos en línea y una cuota de mercado del 10,7%.  La entrada Coinbase supera las previsiones de EBITDA en un trimestre débil para el mercado cripto se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/coinbase-supera-las-previsiones-de-ebitda-en-un-trimestre-debil-para-el-mercado-cripto/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La vulnerabilidad EDK2 amenaza la seguridad de centros de datos a escala global",
-    "slug": "la-vulnerabilidad-edk2-amenaza-la-seguridad-de-centros-de-da",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia La vulnerabilidad crítica CVE-2026-97631 afecta al firmware EDK II y pone en riesgo servidores que utilizan el arranque por red PXE.  La entrada La vulnerabilidad EDK2 amenaza la seguridad de centros de datos a escala global se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/la-vulnerabilidad-edk2-amenaza-la-seguridad-de-centros-de-datos-a-escala-global-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "HYPE se dispara un 17% mientras bitcoin retrocede: Wall Street se acerca a los futuros perpetuos",
-    "slug": "hype-se-dispara-un-17-mientras-bitcoin-retrocede-wall-street",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia HYPE sube un 17% tras el acuerdo de ICE con Trade[XYZ] para perpetuos en EE. UU.",
-    "link": "https://criptotendencia.com/2026/10/29/hype-se-dispara-un-17-mientras-bitcoin-retrocede-wall-street-se-acerca-a-los-futuros-perpetuos/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las ballenas de bitcoin antiguas aprovechan la recuperación para recoger ganancias",
-    "slug": "las-ballenas-de-bitcoin-antiguas-aprovechan-la-recuperacion-",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Las ballenas antiguas de bitcoin realizan ganancias por $157. 3 millones mientras BTC intenta sostener su recuperación cerca de los $80.",
-    "link": "https://criptotendencia.com/2026/10/29/las-ballenas-de-bitcoin-antiguas-aprovechan-la-recuperacion-para-recoger-ganancias-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cambios en el Pentágono y bombardeos en Gaza y Yemen agitan el tablero geopolítico",
-    "slug": "cambios-en-el-pentagono-y-bombardeos-en-gaza-y-yemen-agitan-",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia El Pentágono destituye a un alto mando mientras aumentan los ataques en Yemen y Gaza y continúan las negociaciones sobre Irán y Rusia.  La entrada Cambios en el Pentágono y bombardeos en Gaza y Yemen agitan el tablero geopolítico se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/cambios-en-el-pentagono-y-bombardeos-en-gaza-y-yemen-agitan-el-tablero-geopolitico-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street en rojo: Alphabet se desploma y amenaza con perder $500.000 millones",
-    "slug": "wall-street-en-rojo-alphabet-se-desploma-y-amenaza-con-perde",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Alphabet se hunde casi 13% y amenaza con perder $500. 000 millones; el PIB de EE.",
-    "link": "https://criptotendencia.com/2026/10/29/wall-street-en-rojo-alphabet-se-desploma-y-amenaza-con-perder-500-000-millones/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCE mantuvo las tasas de interés sin cambios a pesar de la presión inflacionaria",
-    "slug": "el-bce-mantuvo-las-tasas-de-interes-sin-cambios-a-pesar-de-l",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia El BCE mantiene las tasas en el 2,5% pese al repunte de la inflación, mientras crecen las expectativas de una subida en diciembre.  La entrada El BCE mantuvo las tasas de interés sin cambios a pesar de la presión inflacionaria se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/el-bce-mantuvo-las-tasas-de-interes-sin-cambios-a-pesar-de-la-presion-inflacionaria-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wall Street tras la apertura: Alphabet sacude al Nasdaq mientras Eli Lilly desafía las ventas",
-    "slug": "wall-street-tras-la-apertura-alphabet-sacude-al-nasdaq-mient",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Alphabet se desploma y arrastra al Nasdaq por el gasto en IA, mientras Eli Lilly destaca en una jornada de fuerte rotación sectorial en Wall Street.  La entrada Wall Street tras la apertura: Alphabet sacude al Nasdaq mientras Eli Lilly desafía las ventas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/wall-street-tras-la-apertura-alphabet-sacude-al-nasdaq-mientras-eli-lilly-desafia-las-ventas-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ondo Finance ve en Argentina uno de los mercados con más potencial para las acciones tokenizadas",
-    "slug": "ondo-finance-ve-en-argentina-uno-de-los-mercados-con-mas-pot",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "CriptoTendencia Ondo Finance apunta a Argentina para acciones tokenizadas de Wall Street: 12,3M de cuentas y más de un millón de inversores en CEDEARs.  La entrada Ondo Finance ve en Argentina uno de los mercados con más potencial para las acciones tokenizadas se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/10/29/ondo-finance-ve-en-argentina-uno-de-los-mercados-con-mas-potencial-para-las-acciones-tokenizadas/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Polygon integra Solana en su plataforma de pagos con stablecoins",
-    "slug": "polygon-integra-solana-en-su-plataforma-de-pagos-con-stablec",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Una empresa puede recibir dólares, convertirlos en USDC y pagar desde Solana sin construir por separado cada tramo de la operación.  La nota Polygon integra Solana en su plataforma de pagos con stablecoins se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/sin-categoria/polygon-integra-solana-plataforma-pagos-stablecoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Hackeo en Binance? El exchange investiga extraños movimientos por USD 2.000 millones",
-    "slug": "hackeo-en-binance-el-exchange-investiga-extranos-movimientos",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Los movimientos están a la vista, pero falta la pieza clave: saber quién controla las direcciones que recibieron los activos.  La nota ¿Hackeo en Binance?",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackeo-binance-exchange-investiga-movimientos-usd-2000-criptomonedas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Qué es Start9 y cómo se relaciona con Bitcoin?",
-    "slug": "que-es-start9-y-como-se-relaciona-con-bitcoin",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "La privacidad y el control tienen un precio en tiempo, almacenamiento y mantenimiento.  Start9 busca hacer más sencilla esa tarea.",
-    "link": "https://www.criptonoticias.com/criptopedia/es-start9-como-se-relaciona-bitcoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "LABITCONF 2026: una invitación personal a seguir hodleando juntos",
-    "slug": "labitconf-2026-una-invitacion-personal-a-seguir-hodleando-ju",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Coordiné speakers y este año seré maestro de ceremonias: te cuento por qué vale la pena ir a LABITCONF este 30 y 31 de octubre en Costa Salguero.  La nota LABITCONF 2026: una invitación personal a seguir hodleando juntos se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/opinion/labitconf-buenos-aires-14-edicion-hernan-gonzalez/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo el Banco de la República de Colombia capturó la regulación de criptomonedas",
-    "slug": "como-el-banco-de-la-republica-de-colombia-capturo-la-regulac",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "El proyecto con tres debates aprobados se retiró tras negociar con el Banco de la República.  Según Tovar, hubo amenaza de demanda ante las cortes.",
-    "link": "https://www.criptonoticias.com/regulacion/como-banco-republica-colombia-capturo-regulacion-criptomonedas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las voces y las charlas que trae LABITCONF 2026",
-    "slug": "las-voces-y-las-charlas-que-trae-labitconf-2026",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Exness, Nexo, Roxom y JusToken anticipan un cambio de fase: de las criptomonedas como refugio al crédito, la tokenización y las tesorerías.  La nota Las voces y las charlas que trae LABITCONF 2026 se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/comunidad/eventos/labitconf-2026-stablecoins-ia-halving-voces-charlas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Fiat tokenizado vs stablecoins: una falsa revancha entre dos formas compatibles del dinero",
-    "slug": "fiat-tokenizado-vs-stablecoins-una-falsa-revancha-entre-dos-",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Los depósitos tokenizados y las stablecoins resuelven problemas distintos; la clave de éxito para el mercado es conectarlos.  La nota Fiat tokenizado vs stablecoins: una falsa revancha entre dos formas compatibles del dinero se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/opinion/dinero-fiat-tokenizado-stablecoins-cual-mejor-mercados/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Rusia cierra 5 exchanges de criptomonedas vinculados a la dark web",
-    "slug": "rusia-cierra-5-exchanges-de-criptomonedas-vinculados-a-la-da",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "La infraestructura empleada utilizaba mecanismos para ocultar la identidad de los usuarios.  La nota Rusia cierra 5 exchanges de criptomonedas vinculados a la dark web se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/sucesos/rusia-cierra-5-exchanges-criptomonedas-darkweb/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin Core empieza a pagar el costo de adaptarse a la IA con su nueva política",
-    "slug": "bitcoin-core-empieza-a-pagar-el-costo-de-adaptarse-a-la-ia-c",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "Core ahora publica sus fallas más rápido, pero la protección no es automática: algunos nodos siguen expuestos incluso después de actualizar.  La nota Bitcoin Core empieza a pagar el costo de adaptarse a la IA con su nueva política se publicó primero en CriptoNoticias - Noticias de Bitcoin, Ethereum y criptomonedas.",
-    "link": "https://www.criptonoticias.com/tecnologia/bitcoin-core-empieza-a-pagar-costo-adaptarse-a/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "BTCPay Server lanza parche urgente en medio de crisis de ciberseguridad",
-    "slug": "btcpay-server-lanza-parche-urgente-en-medio-de-crisis-de-cib",
-    "category": "cripto",
-    "date": "2026-10-29",
-    "summary": "La actualización de emergencia 2. 4.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/btcpay-server-parche-urgente-crisis-ciberseguridad/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El FMI alerta por el crecimiento y el riesgo país, pero pide al Gobierno mantener el rumbo económico",
-    "slug": "el-fmi-alerta-por-el-crecimiento-y-el-riesgo-pais-pero-pide-",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Para potenciar el crecimiento y extender sus beneficios, el Fondo acordó con las autoridades argentinas profundizar los mercados de capitales y de créditos hipotecarios, mejorar la",
-    "link": "https://www.ambito.com/economia/preocupado-el-crecimiento-y-el-riesgo-pais-el-fmi-recomienda-al-gobierno-mantener-el-rumbo-la-n6339322",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Luis Caputo habló en Rosario y defendió el RIGI: \"Estas inversiones garantizan que no tengamos problemas con el tipo de cambio\"",
-    "slug": "luis-caputo-hablo-en-rosario-y-defendio-el-rigi-estas-invers",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "El ministro de Economía señaló que el Régimen de Incentivo a las Grandes Inversiones captó fondos por u$s210 mil millones.  \"No nos podemos correr un centímetro del camino\", dijo.",
-    "link": "https://www.ambito.com/economia/luis-caputo-hablo-rosario-y-defendio-el-rigi-estas-inversiones-garantizan-que-no-vamos-tener-problema-el-tipo-cambio-n6339249",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "tipo de cambio"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Salarios: cuánto cobrarán los empleados de Comercio en noviembre de 2026",
-    "slug": "salarios-cuanto-cobraran-los-empleados-de-comercio-en-noviem",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Los trabajadores recibirán una suba del 1,9% y la segunda cuota del bono extraordinario.  También continuará el pago de los $120.",
-    "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-comercio-noviembre-2026-n6338567",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Empleados de Comercio: con aumento y bono confirmado, el salario que cobra cada categoría FAECyS en noviembre 2026",
-    "slug": "empleados-de-comercio-con-aumento-y-bono-confirmado-el-salar",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Las liquidaciones del mes llegan con una suba salarial del 1,9% y el pago del bono extraordinario.",
-    "link": "https://www.ambito.com/economia/empleados-comercio-aumento-y-bono-confirmado-el-salario-que-cobra-cada-categoria-faecys-noviembre-2026-n6339259",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Christine Lagarde renuncia a la presidencia del Banco Central Europeo y dejará su cargo en febrero",
-    "slug": "christine-lagarde-renuncia-a-la-presidencia-del-banco-centra",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "La titular del BCE dejará el cargo el 7 de febrero de 2027, luego de muchas especulaciones.  La salida anticipada busca garantizar una transición ordenada antes de los comicios presidenciales en Francia, donde lidera la extrema derecha.",
-    "link": "https://www.ambito.com/economia/christine-lagarde-renuncia-la-presidencia-del-banco-central-europeo-y-dejara-su-cargo-febrero-n6339167",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este jueves 29 de octubre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-29-de-octubre",
-    "category": "economia",
-    "date": "2026-10-29",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-29-octubre-n6339140",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
