@@ -5,10 +5,11 @@ import path from "path";
 
 const parser = new RSSParser();
 
-// Solo fuentes en español — removemos CoinDesk, CoinTelegraph y Decrypt
+// Solo fuentes en español.
+// Se quitó "Ámbito Dólar" (https://www.ambito.com/rss/dolar.xml): devuelve HTTP 404.
+// Las notas de dólar ya entran por los feeds de Ámbito Economía y Ámbito Finanzas.
 const FEEDS = [
   { url: "https://www.ambito.com/rss/economia.xml", source: "Ámbito", category: "economia" },
-  { url: "https://www.ambito.com/rss/dolar.xml", source: "Ámbito Dólar", category: "economia" },
   { url: "https://www.ambito.com/rss/finanzas.xml", source: "Ámbito Finanzas", category: "economia" },
   { url: "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml", source: "Infobae", category: "economia" },
   { url: "https://www.cronista.com/rss/economia/", source: "El Cronista", category: "economia" },
@@ -18,8 +19,9 @@ const FEEDS = [
   { url: "https://www.criptonoticias.com/feed/", source: "CriptoNoticias", category: "cripto" },
 ];
 
-const MAX_ITEMS = 50;
+const MAX_ITEMS = 100;          // antes 50: más margen para que las notas viejas no desaparezcan enseguida
 const ITEMS_PER_FEED = 10;
+const CRIPTO_MAX_PER_FEED = 5;  // evita que cripto ocupe la mitad de la lista
 
 function slugify(text) {
   return text
@@ -34,21 +36,36 @@ function slugify(text) {
     .slice(0, 60);
 }
 
+// Fecha en hora de Argentina (antes se usaba UTC y las notas de la noche quedaban con el día siguiente)
+function todayAR() {
+  return new Date().toLocaleDateString("sv-SE", { timeZone: "America/Argentina/Buenos_Aires" });
+}
+
 function toDate(dateStr) {
   try {
     const d = new Date(dateStr);
-    if (isNaN(d.getTime())) return new Date().toISOString().slice(0, 10);
-    return d.toISOString().slice(0, 10);
+    if (isNaN(d.getTime())) return todayAR();
+    return d.toLocaleDateString("sv-SE", { timeZone: "America/Argentina/Buenos_Aires" });
   } catch {
-    return new Date().toISOString().slice(0, 10);
+    return todayAR();
   }
+}
+
+// Escapa los "&" sueltos que rompen el parser XML (caso El Cronista)
+function sanitizeXml(xml) {
+  return xml.replace(/&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, "&amp;");
 }
 
 function toSummary(text) {
   if (!text) return "";
-  const clean = text.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+  let clean = text.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+  // Quita el relleno que agregan algunos medios: "La nota X se publicó primero en Y" / "The post X appeared first on Y"
+  clean = clean
+    .replace(/\s*La nota .*? se publicó primero en .*$/i, "")
+    .replace(/\s*The post .*? appeared first on .*$/i, "")
+    .trim();
   const sentences = clean.match(/[^.!?]+[.!?]+/g) || [];
-  if (sentences.length >= 2) return (sentences[0] + " " + sentences[1]).trim();
+  if (sentences.length >= 2) return (sentences[0].trim() + " " + sentences[1].trim());
   return clean.slice(0, 180).trim();
 }
 
@@ -79,10 +96,10 @@ function isEnglish(text) {
 function isRelevant(title, category) {
   // Filtrar noticias en inglés
   if (isEnglish(title)) return false;
-  
+
   if (category === "cripto") return true;
   const t = title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  
+
   const exclude = [
     "spacex", "colombia", "venezuela", "chile", "mexico", "brasil",
     "uribe", "petro", "maduro", "trump", "biden", "eeuu", "china",
@@ -111,10 +128,10 @@ async function fetchFeed(feed) {
     });
 
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const xml = await response.text();
+    const xml = sanitizeXml(await response.text());
     const parsed = await parser.parseString(xml);
 
-    return (parsed.items || []).slice(0, ITEMS_PER_FEED).map(item => {
+    const items = (parsed.items || []).slice(0, ITEMS_PER_FEED).map(item => {
       const title = item.title?.trim() || "";
       const slug = slugify(title);
       const category = feed.category;
@@ -132,6 +149,8 @@ async function fetchFeed(feed) {
         related: [],
       };
     }).filter(it => it.title && it.slug && isRelevant(it.title, it.category));
+
+    return feed.category === "cripto" ? items.slice(0, CRIPTO_MAX_PER_FEED) : items;
 
   } catch (e) {
     console.warn(`⚠️  Feed falló: ${feed.source} — ${e.message}`);
@@ -178,16 +197,22 @@ async function main() {
     }
   }
 
-  // Slugs de los nuevos para deduplicar contra existentes
+  // Slugs para deduplicar y para contar cuántas son realmente nuevas
+  const existingSlugs = new Set(existing.map(n => n.slug));
   const freshSlugs = new Set(fresh.map(n => n.slug));
+  const reallyNew = fresh.filter(n => !existingSlugs.has(n.slug));
+
+  // Mezcla y ordena por fecha (el orden previo se mantiene entre notas del mismo día)
   const merged = [
     ...fresh,
     ...existing.filter(n => !freshSlugs.has(n.slug))
-  ].slice(0, MAX_ITEMS);
+  ]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, MAX_ITEMS);
 
   fs.writeFileSync(outPath, JSON.stringify(merged, null, 2), "utf-8");
-  console.log(`✅ ${merged.length} noticias guardadas (${fresh.length} nuevas + ${merged.length - fresh.length} preservadas)`);
-  fresh.forEach(n => console.log(`   • [${n.category}] ${n.title}`));
+  console.log(`✅ ${merged.length} noticias guardadas (${reallyNew.length} realmente nuevas, ${fresh.length - reallyNew.length} ya existían y se actualizaron)`);
+  reallyNew.forEach(n => console.log(`   • [${n.category}] ${n.title}`));
 }
 
 main().catch(e => {
