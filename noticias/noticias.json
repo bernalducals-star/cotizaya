@@ -30,12 +30,12 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este sábado 7 de noviembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-sabado-7-de-noviembre",
+    "title": "Dólar hoy: a cuánto cotiza este sábado 7 de noviembre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-7-de-noviembre",
     "category": "economia",
     "date": "2026-11-07",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-7-noviembre-n6342694",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-7-noviembre-n6342693",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -46,12 +46,12 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este sábado 7 de noviembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-sabado-7-de-noviembre",
+    "title": "Dólar blue hoy: a cuánto opera este sábado 7 de noviembre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-sabado-7-de-noviembre",
     "category": "economia",
     "date": "2026-11-07",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-7-noviembre-n6342693",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-7-noviembre-n6342694",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -79,21 +79,6 @@
     "related": []
   },
   {
-    "title": "Destitución de Santiago Peña: el impacto financiero según Moody's del cimbronazo político en Paraguay",
-    "slug": "destitucion-de-santiago-pena-el-impacto-financiero-segun-moo",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "Depreciación del guaraní, suba del riesgo país y caída del consumo fueron los efectos inmediatos en la economía paraguaya.",
-    "link": "https://www.ambito.com/finanzas/destitucion-santiago-pena-el-impacto-financiero-segun-moodys-del-cimbronazo-politico-paraguay-n6342640",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Wall Street en caída libre: por qué el mercado teme una espiral de ventas forzadas y hasta dónde puede bajar",
     "slug": "wall-street-en-caida-libre-por-que-el-mercado-teme-una-espir",
     "category": "economia",
@@ -109,17 +94,46 @@
     "related": []
   },
   {
-    "title": "Sturzenegger contó las regulaciones paradas en la Justicia y explicó por qué es el “plomero” del gobierno, “la macro es para vagos” y Milei habla como habla",
-    "slug": "sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y",
+    "title": "Destitución de Santiago Peña: el impacto financiero según Moody's del cimbronazo político en Paraguay",
+    "slug": "destitucion-de-santiago-pena-el-impacto-financiero-segun-moo",
     "category": "economia",
     "date": "2026-11-07",
-    "summary": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo partido conservador de la Argentina y defendió la forma",
-    "link": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
+    "summary": "Depreciación del guaraní, suba del riesgo país y caída del consumo fueron los efectos inmediatos en la economía paraguaya.",
+    "link": "https://www.ambito.com/finanzas/destitucion-santiago-pena-el-impacto-financiero-segun-moodys-del-cimbronazo-politico-paraguay-n6342640",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Un acertante de Lorca gana 3,6 millones de euros en el sorteo de Bonoloto del sábado",
+    "slug": "un-acertante-de-lorca-gana-36-millones-de-euros-en-el-sorteo",
+    "category": "economia",
+    "date": "2026-11-07",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/11/07/un-acertante-de-lorca-gana-36-millones-de-euros-en-el-sorteo-de-bonoloto-del-sabado/",
     "source": "Infobae",
     "tags": [
       "economía",
-      "argentina",
-      "milei"
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Más de 100 grupos protestaron en 15 países de Europa para pedir una pausa a los centros de datos de IA",
+    "slug": "mas-de-100-grupos-protestaron-en-15-paises-de-europa-para-pe",
+    "category": "economia",
+    "date": "2026-11-07",
+    "summary": "La campaña no pide cancelar los proyectos sino una moratoria hasta que haya reglas claras, y un grupo ajeno a ella ocupó una obra de Microsoft",
+    "link": "https://www.infobae.com/tecno/2026/11/07/mas-de-100-grupos-protestaron-en-15-paises-de-europa-para-pedir-una-pausa-a-los-centros-de-datos-de-ia/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -202,6 +216,66 @@
     "related": []
   },
   {
+    "title": "World Liberty Financial anuncia otra recompra de WLFI tras una caída del token superior al 66%",
+    "slug": "world-liberty-financial-anuncia-otra-recompra-de-wlfi-tras-u",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "CriptoTendencia World Liberty Financial planea recomprar WLFI con posibles comisiones de USD1, mientras el token acumula una caída superior al 66% en 2026. La entrada World Liberty Financial anuncia otra recompra de WLFI tras una caída del token superior al 66% se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/07/world-liberty-financial-anuncia-otra-recompra-de-wlfi-tras-una-caida-del-token-superior-al-66/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "The AI Summit New York 2026 vuelve al Javits tras triplicar su tamaño",
+    "slug": "the-ai-summit-new-york-2026-vuelve-al-javits-tras-triplicar-",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "CriptoTendencia The AI Summit New York 2026 reúne en el Javits a más de 350 oradores para llevar la IA empresarial de la prueba al retorno. La entrada The AI Summit New York 2026 vuelve al Javits tras triplicar su tamaño se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/07/the-ai-summit-new-york-2026-vuelve-al-javits-tras-triplicar-su-tamano/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ciencia descentralizada: ¿pueden las criptomonedas sostener un laboratorio?",
+    "slug": "ciencia-descentralizada-pueden-las-criptomonedas-sostener-un",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "CriptoTendencia La ciencia descentralizada busca financiar la investigación en longevidad, pero enfrenta desafíos económicos, científicos y legales. La entrada Ciencia descentralizada: ¿pueden las criptomonedas sostener un laboratorio?",
+    "link": "https://criptotendencia.com/2026/11/07/ciencia-descentralizada-pueden-las-criptomonedas-sostener-un-laboratorio/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin Korea 2026 arranca en Seúl fiel a una sola moneda",
+    "slug": "bitcoin-korea-2026-arranca-en-seul-fiel-a-una-sola-moneda",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "CriptoTendencia Bitcoin Korea 2026 arranca en el COEX de Seúl con más de 40 oradores y la meta de reunir a 2. 000 asistentes.",
+    "link": "https://criptotendencia.com/2026/11/07/bitcoin-korea-2026-arranca-en-seul-fiel-a-una-sola-moneda/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "La caída tecnológica borra las ganancias de los fondos de cobertura más expuestos",
     "slug": "la-caida-tecnologica-borra-las-ganancias-de-los-fondos-de-co",
     "category": "cripto",
@@ -212,6 +286,99 @@
     "tags": [
       "cripto",
       "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Usuarios de Kontigo en Venezuela denuncian bloqueos y dificultades para retirar fondos",
+    "slug": "usuarios-de-kontigo-en-venezuela-denuncian-bloqueos-y-dificu",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "De las restricciones bancarias a los fondos bloqueados: la sucesión de incidentes vuelve a poner a prueba a Kontigo.",
+    "link": "https://www.criptonoticias.com/comunidad/usuarios-kontigo-venezuela-bloqueos-dificultades-retirar-fondos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "EE. UU. sanciona a 8 exchanges canadienses por mover criptomonedas hacia Irán",
+    "slug": "ee-uu-sanciona-a-8-exchanges-canadienses-por-mover-criptomon",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "Una de las compañías habría movilizado fondos para grupos vinculados al terrorismo y al narcotráfico.",
+    "link": "https://www.criptonoticias.com/regulacion/eeuu-sanciona-8-exchanges-criptomonedas-iran/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ethereum demora Glamsterdam por 8 alertas sobre la seguridad de sus contratos",
+    "slug": "ethereum-demora-glamsterdam-por-8-alertas-sobre-la-seguridad",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "Los auditores buscan determinar si el cambio en las tarifas puede alterar instrucciones ejecutadas después de un error.",
+    "link": "https://www.criptonoticias.com/tecnologia/ethereum-demora-glamsterdam-ocho-alertas-seguridad-contratos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Hackean el sistema de tarjetas de Gnosis Pay y exponen datos de clientes",
+    "slug": "hackean-el-sistema-de-tarjetas-de-gnosis-pay-y-exponen-datos",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "El peligro no termina con el hackeo: la información obtenida podría utilizarse para nuevos ataques contra los clientes.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackean-tarjetas-gnosis-pay-datos-clientes/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "«Las stablecoins le dieron acceso al dólar al mundo; la tokenización es un paso más»",
+    "slug": "las-stablecoins-le-dieron-acceso-al-dolar-al-mundo-la-tokeni",
+    "category": "cripto",
+    "date": "2026-11-07",
+    "summary": "La tokenización transforma Wall Street. Melanie Steiner, de Ondo Finance profundiza en el futuro del mercado y sus desafíos actuales.",
+    "link": "https://www.criptonoticias.com/entrevistas/melanie-steiner-tokenizacion-ondo-finance-labitconf2026/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Sturzenegger contó las regulaciones paradas en la Justicia y explicó por qué es el “plomero” del gobierno, “la macro es para vagos” y Milei habla como habla",
+    "slug": "sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y",
+    "category": "economia",
+    "date": "2026-11-07",
+    "summary": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo partido conservador de la Argentina y defendió la forma",
+    "link": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei"
     ],
     "featured": false,
     "related": []
@@ -272,37 +439,6 @@
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Hackean el sistema de tarjetas de Gnosis Pay y exponen datos de clientes",
-    "slug": "hackean-el-sistema-de-tarjetas-de-gnosis-pay-y-exponen-datos",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "El peligro no termina con el hackeo: la información obtenida podría utilizarse para nuevos ataques contra los clientes.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackean-tarjetas-gnosis-pay-datos-clientes/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "«Las stablecoins le dieron acceso al dólar al mundo; la tokenización es un paso más»",
-    "slug": "las-stablecoins-le-dieron-acceso-al-dolar-al-mundo-la-tokeni",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "La tokenización transforma Wall Street. Melanie Steiner, de Ondo Finance profundiza en el futuro del mercado y sus desafíos actuales.",
-    "link": "https://www.criptonoticias.com/entrevistas/melanie-steiner-tokenizacion-onfo-finance-labitconf2026/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -1405,148 +1541,6 @@
       "economía",
       "argentina",
       "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Renunció el presidente Peña, pero el riesgo país subió más en Argentina que en Paraguay",
-    "slug": "renuncio-el-presidente-pena-pero-el-riesgo-pais-subio-mas-en",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "El presidente paraguayo presentó su renuncia al cargo tras el escándalo Ueno Bank. Qué ocurrió con el riesgo país y la comparación con Argentina (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/economia/468469-renuncio-el-presidente-pena-pero-el-riesgo-pais-subio-mas-en-argentina-que-en-paraguay",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Reactivan las represas del río Santa Cruz y se generarán 4.000 empleos",
-    "slug": "reactivan-las-represas-del-rio-santa-cruz-y-se-generaran-400",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "Tras la firma de acuerdos con la UTE y la UOCRA, se concretó el reinicio de las obras bajo el esquema 90/10 para trabajadores y pymes locales. (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/energia/468445-reactivan-las-represas-del-rio-santa-cruz-y-se-generaran-4-000-empleos",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "\"Impuestos cero\", el anuncio de La Pampa para proveedores de Vaca Muerta",
-    "slug": "impuestos-cero-el-anuncio-de-la-pampa-para-proveedores-de-va",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "El gobernador Sergio Ziliotto presentó un plan de incentivos fiscales y logísticos para posicionar a la provincia como proveedora clave de Vaca Muerta (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/energia/468450-impuestos-cero-el-anuncio-de-la-pampa-para-proveedores-de-vaca-muerta",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Por qué descartan efecto contagio en bancos argentinos tras descalabro de Ueno en Paraguay",
-    "slug": "por-que-descartan-efecto-contagio-en-bancos-argentinos-tras-",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "A raíz de la debacle financiera en Paraguay, el sistema argentino demuestra fortaleza gracias a reservas, regulaciones y políticas sólidas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/468463-por-que-la-crisis-de-ueno-bank-no-debe-afectar-a-bancos-de-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Los créditos hipotecarios crecieron 24% y anotaron la mayor suba mensual en un año",
-    "slug": "los-creditos-hipotecarios-crecieron-24-y-anotaron-la-mayor-s",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "Fue luego de que el Gobierno lanzara los préstamos con fondos del FGS de ANSES. También crecieron los créditos ajustados por UVA (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/realestate/468467-los-creditos-hipotecarios-crecieron-24-y-anotaron-la-mayor-suba-mensual-en-un-ano",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Caputo anunció la segunda ronda de negocios RIGI en la provincia de Buenos Aires",
-    "slug": "caputo-anuncio-la-segunda-ronda-de-negocios-rigi-en-la-provi",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "El Gobierno oficializó la segunda Ronda RIGI de hidrocarburos en Buenos Aires, con el foco en PyMEs y la presencia confirmada de Javier Milei. (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/energia/468465-caputo-anuncio-la-segunda-ronda-de-negocios-rigi-en-la-provincia-de-buenos-aires",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCRA compró dólares, pero las reservas cayeron por un pago al FMI",
-    "slug": "el-bcra-compro-dolares-pero-las-reservas-cayeron-por-un-pago",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "El Banco Central compró u$s42 millones y ya acumula más de u$S16. 000 millones en lo que va del año.",
-    "link": "https://www.iprofesional.com/finanzas/468475-el-bcra-compro-dolares-pero-las-reservas-cayeron-por-un-pago-al-fmi",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar se disparó en Paraguay y el riesgo país pegó un salto tras la renuncia de Peña",
-    "slug": "el-dolar-se-disparo-en-paraguay-y-el-riesgo-pais-pego-un-sal",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "La intervención de la entidad dejó a 2,9 millones de clientes sin acceso a sus ahorros y agravó la incertidumbre económica y política (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/468448-el-dolar-se-disparo-en-paraguay-y-el-riesgo-pais-subio-16-tras-la-renuncia-de-pena",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Riesgo país rumbo a 1.000 puntos: qué pasará con la economía y dólar si trepa la tensión",
-    "slug": "riesgo-pais-rumbo-a-1000-puntos-que-pasara-con-la-economia-y",
-    "category": "economia",
-    "date": "2026-11-05",
-    "summary": "El riesgo país duplicó el nivel respecto a julio. En el mercado advierten que la dinámica será alcista hasta que mejoren las expectativas electorales.",
-    "link": "https://www.iprofesional.com/finanzas/468380-que-pasara-con-la-economia-y-dolar-si-el-riesgo-pais-supera-los-1000-puntos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "riesgo país"
     ],
     "featured": false,
     "related": []
