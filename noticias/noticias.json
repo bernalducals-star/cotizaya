@@ -1,5 +1,113 @@
 [
   {
+    "title": "RIGI: advierten que dos tercios de las importaciones pueden ser abastecidas por la industria local",
+    "slug": "rigi-advierten-que-dos-tercios-de-las-importaciones-pueden-s",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Así lo reportó un informe de la Cámara de Industriales de Proyectos de Ingeniería de Bienes de Capital. Mientras tanto, el Gobierno parece reconocer el problema productivo con la agenda de rondas de negocios.",
+    "link": "https://www.ambito.com/economia/rigi-advierten-que-dos-tercios-las-importaciones-pueden-ser-abastecidas-la-industria-local-n6343676",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Finanzas al día: novedades de bancos, inversiones y mercado de capitales",
+    "slug": "finanzas-al-dia-novedades-de-bancos-inversiones-y-mercado-de",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Las noticias de entidades financieras, brókers, fintech, fondos y empresas cotizantes, seleccionadas por Ámbito y actualizadas cada día. Nuevos productos y fondos, emisiones de obligaciones negociables y cambios regulatorios, en breves con contexto.",
+    "link": "https://www.ambito.com/economia/finanzas-al-dia-novedades-bancos-inversiones-y-mercado-capitales-n6335525",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El oro al contado se hundió más de 2% ante apuesta por alza de tasas de un funcionario de la Fed",
+    "slug": "el-oro-al-contado-se-hundio-mas-de-2-ante-apuesta-por-alza-d",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Ante una inflación por encima del objetivo y un desempleo \"aceptable\", casi la totalidad del mercado prevé una suba de tasas en diciembre.",
+    "link": "https://www.ambito.com/finanzas/el-oro-se-hunde-mas-2-apuesta-alza-tasas-un-funcionario-la-fed-n6343645",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Euro hoy y Euro blue hoy: a cuánto cotizó este martes 10 de noviembre",
+    "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotizo-este-martes-10-de-n",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Mirá a cuánto cotizan el euro oficial y el euro blue.",
+    "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cotizo-este-martes-10-noviembre-n6343703",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Perú realizó la mayor colocación de deuda de su historia: captó u$s4.500 millones a una tasa de hasta 6,45%",
+    "slug": "peru-realizo-la-mayor-colocacion-de-deuda-de-su-historia-cap",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Según informó el ministerio de economía del país sudamericano, la demanda de los inversores fue ampliamente superior a la que se preveía. Los fondos serían utilizados para la lucha contra el cambio climático y la reducción de brechas sociales.",
+    "link": "https://www.ambito.com/finanzas/peru-realizo-la-mayor-colocacion-deuda-su-historia-capto-us4500-millones-una-tasa-645-n6343653",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este martes 10 de noviembre",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-martes-10-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-martes-10-noviembre-n6343659",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cerró este martes 10 de noviembre",
+    "slug": "dolar-hoy-a-cuanto-cerro-este-martes-10-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-martes-10-noviembre-n6343658",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Dólar blue hoy: a cuánto opera este martes 10 de noviembre",
     "slug": "dolar-blue-hoy-a-cuanto-opera-este-martes-10-de-noviembre",
     "category": "economia",
@@ -16,17 +124,62 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este martes 10 de noviembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-martes-10-de-noviembre",
+    "title": "Sofía Neves sorprende con su opinión sobre el vóley peruano: “El nivel es mejor que varias ligas europeas”",
+    "slug": "sofia-neves-sorprende-con-su-opinion-sobre-el-voley-peruano-",
     "category": "economia",
     "date": "2026-11-10",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-10-noviembre-n6343411",
-    "source": "Ámbito Finanzas",
+    "summary": "La voleibolista uruguaya, figura de Rebaza Acosta y una de las máximas anotadoras de la Liga Peruana de Vóley, destacó la competitividad del torneo y la calidez que encontró desde",
+    "link": "https://www.infobae.com/peru/deportes/2026/11/10/sofia-neves-sorprende-con-su-opinion-sobre-el-voley-peruano-el-nivel-es-mejor-que-varias-ligas-europeas/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Quiénes pueden acceder a los préstamos UVA con tasa 0% en el rubro artístico",
+    "slug": "quienes-pueden-acceder-a-los-prestamos-uva-con-tasa-0-en-el-",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "El Fondo Nacional de las Artes lanzó una línea de créditos destinada a salas teatrales de todo el país, con topes de hasta $15 millones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/468741-quienes-pueden-acceder-a-los-prestamos-uva-con-tasa-0-en-el-rubro-artistico",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Plazo fijo, dólar o UVA: cuál puede dar más rendimiento en los próximos seis meses y qué riesgos hay",
+    "slug": "plazo-fijo-dolar-o-uva-cual-puede-dar-mas-rendimiento-en-los",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Analistas privados consideran que la carrera entre plazo fijo tradicional, ajustado por UVA y el dólar tiene un ganador con vencimiento en abril (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/468730-que-inversion-conviene-antes-de-las-elecciones-2027-dolar-plazo-fijo-o-uva",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
       "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una mina de oro argentina sufrió una fuerte caída por el impacto de El Niño",
+    "slug": "una-mina-de-oro-argentina-sufrio-una-fuerte-caida-por-el-imp",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "En el tercer trimestre, la producción de Veladero cayó 45% y disparó sus costos unitarios. Operaciones paralizadas y tareas de emergencia (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/economia/468720-mina-de-oro-argentina-veladero-sufrio-fuerte-caida-por-impacto-de-el-nino",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -47,13 +200,28 @@
     "related": []
   },
   {
+    "title": "Plazo fijo: cuánto hay que invertir para ganar $100.000 por mes",
+    "slug": "plazo-fijo-cuanto-hay-que-invertir-para-ganar-100000-por-mes",
+    "category": "economia",
+    "date": "2026-11-10",
+    "summary": "Las tasas de los bancos presentan diferencias importantes en noviembre. Cuánto dinero hay que depositar a 30 días para obtener $100.",
+    "link": "https://www.iprofesional.com/finanzas/468683-plazo-fijo-cuanto-hay-que-invertir-para-ganar-100000-por-mes",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Morgan Stanley avisa qué acciones pueden ganar y perder con las limitaciones para la IA",
     "slug": "morgan-stanley-avisa-que-acciones-pueden-ganar-y-perder-con-",
     "category": "economia",
     "date": "2026-11-10",
     "summary": "Tras las elecciones en Estados Unidos, Morgan Stanley revisó el negocio de la IA y detectó oportunidades y riesgos para varias acciones (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/468561-morgan-stanley-avisa-que-acciones-de-ia-pueden-subir-o-caer",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -68,7 +236,7 @@
     "date": "2026-11-10",
     "summary": "El chatbot puede dar respuestas rápidas y organizadas, pero el problema es que opera con datos desactualizados y sin conocer tu situación real (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/tecnologia/468562-iadiccion-riesgos-de-pedirle-consejos-economicos-a-chatgpt",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -83,7 +251,7 @@
     "date": "2026-11-10",
     "summary": "En plena tensión por un riesgo país que escala, el dólar vuelve al centro de la escena. Las proyecciones de economistas top del mercado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
     "link": "https://www.iprofesional.com/finanzas/468590-precio-mas-alto-del-dolar-en-diciembre-2026-segun-15-bancos-y-consultoras",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -93,16 +261,167 @@
     "related": []
   },
   {
-    "title": "Plazo fijo: cuánto hay que invertir para ganar $100.000 por mes",
-    "slug": "plazo-fijo-cuanto-hay-que-invertir-para-ganar-100000-por-mes",
+    "title": "Bitcoin hoy: BTC cae con fuerza tras el IPC, pero consigue rebotar desde los mínimos",
+    "slug": "bitcoin-hoy-btc-cae-con-fuerza-tras-el-ipc-pero-consigue-reb",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "CriptoTendencia Bitcoin cae con fuerza tras el IPC, pero consigue rebotar desde los mínimos. Analizamos los Big Trades y niveles clave para mañana.",
+    "link": "https://criptotendencia.com/2026/11/10/bitcoin-hoy-btc-cae-con-fuerza-tras-el-ipc-pero-consigue-rebotar-desde-los-minimos-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Quieres aprovechar la fiebre del GTA VI? Las acciones de TTWO podrían marcar la diferencia",
+    "slug": "quieres-aprovechar-la-fiebre-del-gta-vi-las-acciones-de-ttwo",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "CriptoTendencia Con GTA VI a días de su estreno, un analista proyecta que las acciones de Take-Two podrían subir hasta un 40% en los próximos dos años. La entrada ¿Quieres aprovechar la fiebre del GTA VI?",
+    "link": "https://criptotendencia.com/2026/11/10/quieres-aprovechar-la-fiebre-del-gta-vi-las-acciones-de-ttwo-podrian-marcar-la-diferencia-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Honda apuesta por los vehículos híbridos en el mercado estadounidense",
+    "slug": "honda-apuesta-por-los-vehiculos-hibridos-en-el-mercado-estad",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "CriptoTendencia Honda refuerza su apuesta por los híbridos en Estados Unidos con una planta en Ohio y eleva sus previsiones pese al retroceso en China. La entrada Honda apuesta por los vehículos híbridos en el mercado estadounidense se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/10/honda-apuesta-por-los-vehiculos-hibridos-en-el-mercado-estadounidense-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "PNC abre la puerta a los pagos en USDC para sus clientes corporativos de la mano de Coinbase",
+    "slug": "pnc-abre-la-puerta-a-los-pagos-en-usdc-para-sus-clientes-cor",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "CriptoTendencia PNC Bank y Coinbase lanzan un piloto para que empresas cobren en USDC con conversión automática a dólares. La entrada PNC abre la puerta a los pagos en USDC para sus clientes corporativos de la mano de Coinbase se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/10/pnc-abre-la-puerta-a-los-pagos-en-usdc-para-sus-clientes-corporativos-de-la-mano-de-coinbase/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El apalancamiento y la actividad de las ballenas de bitcoin presionan los precios",
+    "slug": "el-apalancamiento-y-la-actividad-de-las-ballenas-de-bitcoin-",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "CriptoTendencia El apalancamiento elevado, los depósitos de ballenas en exchanges y las salidas de ETF mantienen la presión sobre el precio de bitcoin. La entrada El apalancamiento y la actividad de las ballenas de bitcoin presionan los precios se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/10/el-apalancamiento-y-la-actividad-de-las-ballenas-de-bitcoin-presionan-los-precios-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Dónde está más seguro tu bitcoin: en Lightning o en una wallet offline?",
+    "slug": "donde-esta-mas-seguro-tu-bitcoin-en-lightning-o-en-una-walle",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "La L2 exige varias piezas conectadas a internet, mientras que una semilla bien generada en la capa base y offline expone menos.",
+    "link": "https://www.criptonoticias.com/tecnologia/donde-esta-mas-seguro-bitcoin-lightning-wallet-offline/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "21 bancos ponen USD 270 millones para entrar al negocio de las stablecoins",
+    "slug": "21-bancos-ponen-usd-270-millones-para-entrar-al-negocio-de-l",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "La banca tradicional quiere competir en el mercado del dinero digital, pero Tether y Circle lo dominan ampliamente.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/21-bancos-ponen-usd-270-millones-entrar-negocio-stablecoins/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una nueva subida de tasas de interés se asoma por la ventana y bitcoin lo resiente",
+    "slug": "una-nueva-subida-de-tasas-de-interes-se-asoma-por-la-ventana",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "Las expectativas de un endurecimiento monetario de la FED amenazan con reducir la liquidez y provocar nuevas caídas de bitcoin antes de diciembre.",
+    "link": "https://www.criptonoticias.com/mercados/nueva-subida-tasas-interes-se-asoma-ventana-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Cuándo empezó bitcoin a depender tanto de la economía de Estados Unidos?",
+    "slug": "cuando-empezo-bitcoin-a-depender-tanto-de-la-economia-de-est",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "La moneda digital nació al margen del sistema financiero, pero hoy sus inversionistas miran cada dato de inflación y tasas de Estados Unidos.",
+    "link": "https://www.criptonoticias.com/mercados/cuando-empezo-bitcoin-a-depender-tanto-economia-estados/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Google Chrome lanzó una actualización para corregir nueve fallos de seguridad",
+    "slug": "google-chrome-lanzo-una-actualizacion-para-corregir-nueve-fa",
+    "category": "cripto",
+    "date": "2026-11-10",
+    "summary": "El despliegue resuelve una falla de tipo cero días en el navegador web que ya está siendo explotada por atacantes informáticos.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/google-chrome-lanzo-actualizacion-corregir-nueve-fallos-seguridad/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este martes 10 de noviembre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-martes-10-de-noviembre",
     "category": "economia",
     "date": "2026-11-10",
-    "summary": "Las tasas de los bancos presentan diferencias importantes en noviembre. Cuánto dinero hay que depositar a 30 días para obtener $100.",
-    "link": "https://www.iprofesional.com/finanzas/468683-plazo-fijo-cuanto-hay-que-invertir-para-ganar-100-000-por-mes",
-    "source": "iProfesional Finanzas",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-10-noviembre-n6343411",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
-      "argentina"
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -276,6 +595,22 @@
     "related": []
   },
   {
+    "title": "El dólar tarjeta está más caro de lo esperado: ya superó los $2.000",
+    "slug": "el-dolar-tarjeta-esta-mas-caro-de-lo-esperado-ya-supero-los-",
+    "category": "economia",
+    "date": "2026-11-09",
+    "summary": "La percepción a cuenta de Ganancias sobre compras en el exterior está vigente y afecta a quienes usan tarjetas fuera del país o en servicios digitales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/468686-dolar-tarjeta-caro-recargo-extra-golpea-consumos-noviembre-2026",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Euro hoy y Euro blue hoy: a cuánto cotizó este lunes 9 de noviembre",
     "slug": "euro-hoy-y-euro-blue-hoy-a-cuanto-cotizo-este-lunes-9-de-nov",
     "category": "economia",
@@ -318,22 +653,6 @@
       "argentina",
       "dólar",
       "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar tarjeta está más caro de lo esperado: ya superó los $2.000",
-    "slug": "el-dolar-tarjeta-esta-mas-caro-de-lo-esperado-ya-supero-los-",
-    "category": "economia",
-    "date": "2026-11-09",
-    "summary": "La percepción a cuenta de Ganancias sobre compras en el exterior está vigente y afecta a quienes usan tarjetas fuera del país o en servicios digitales (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/468686-dolar-tarjeta-caro-recargo-extra-golpea-consumos-noviembre-2026",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -1218,325 +1537,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Destitución de Santiago Peña: el impacto financiero según Moody's del cimbronazo político en Paraguay",
-    "slug": "destitucion-de-santiago-pena-el-impacto-financiero-segun-moo",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "Depreciación del guaraní, suba del riesgo país y caída del consumo fueron los efectos inmediatos en la economía paraguaya.",
-    "link": "https://www.ambito.com/finanzas/destitucion-santiago-pena-el-impacto-financiero-segun-moodys-del-cimbronazo-politico-paraguay-n6342640",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Caputo y las elecciones 2027: \"La única persona que garantiza el orden económico es Milei\"",
-    "slug": "caputo-y-las-elecciones-2027-la-unica-persona-que-garantiza-",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "El Ministro de Economía habló en un evento de la Sociedad Rural Argentina y remarcó que el gobierno sacó a \"12 millones de personas de la pobreza\" (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/468617-caputo-y-las-elecciones-2027-la-unica-persona-que-garantiza-el-orden-economico-es-milei",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Gobierno modificó los créditos hipotecarios financiados con fondos de Anses",
-    "slug": "el-gobierno-modifico-los-creditos-hipotecarios-financiados-c",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "El Gobierno de Javier Milei modificó uno de los requisitos para acceder a los préstamos a partir de la segunda etapa del programa (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/468605-el-gobierno-modifico-el-acceso-a-creditos-hipotecarios-con-fondos-de-anses",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Una salida al teatro y a cenar ya consume un salario mínimo completo",
-    "slug": "una-salida-al-teatro-y-a-cenar-ya-consume-un-salario-minimo-",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "Un relevamiento de los costos en la avenida Corrientes desnuda la cruda realidad que enfrenta una familia si quiere hacer una salida de fin de semana (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/468603-una-familia-tipo-ya-gasta-un-salario-minimo-en-una-salida-al-teatro-y-a-cenar",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Minería y energía: Grupo L busca crecer al ritmo de las inversiones en Argentina",
-    "slug": "mineria-y-energia-grupo-l-busca-crecer-al-ritmo-de-las-inver",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "La firma mplía sus servicios para proyectos de diversos sectores y apuesta al desarrollo de proveedores locales, acompañando la expansión productiva (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/468560-mineria-y-energia-grupo-l-busca-crecer-al-ritmo-de-las-inversiones-en-argentina",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo: cuánto se gana al colocar $1.000.000 durante un mes",
-    "slug": "plazo-fijo-cuanto-se-gana-al-colocar-1000000-durante-un-mes",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "Las entidades ofrecen distintos rendimientos según la modalidad elegida, por lo que hay que comparar las tasas para tomar la mejor decisión.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-gana-al-colocar-1000000-un-mes-n6341898",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Motosierra: Luis Caputo profundizó el ajuste y recortó casi 10% el gasto público en octubre",
-    "slug": "motosierra-luis-caputo-profundizo-el-ajuste-y-recorto-casi-1",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "En febrero, el recorte había alcanzado el 14%. La caída de octubre fue la segunda más pronunciada del año, con las provincias y las universidades entre las principales afectadas por el ajuste del gasto público.",
-    "link": "https://www.ambito.com/economia/motosierra-luis-caputo-profundizo-el-ajuste-y-recorto-casi-10-el-gasto-publico-octubre-n6342474",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Usuarios de Kontigo en Venezuela denuncian bloqueos y dificultades para retirar fondos",
-    "slug": "usuarios-de-kontigo-en-venezuela-denuncian-bloqueos-y-dificu",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "De las restricciones bancarias a los fondos bloqueados: la sucesión de incidentes vuelve a poner a prueba a Kontigo.",
-    "link": "https://www.criptonoticias.com/comunidad/usuarios-kontigo-venezuela-bloqueos-dificultades-retirar-fondos/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "EE. UU. sanciona a 8 exchanges canadienses por mover criptomonedas hacia Irán",
-    "slug": "ee-uu-sanciona-a-8-exchanges-canadienses-por-mover-criptomon",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "Una de las compañías habría movilizado fondos para grupos vinculados al terrorismo y al narcotráfico.",
-    "link": "https://www.criptonoticias.com/regulacion/eeuu-sanciona-8-exchanges-criptomonedas-iran/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ethereum demora Glamsterdam por 8 alertas sobre la seguridad de sus contratos",
-    "slug": "ethereum-demora-glamsterdam-por-8-alertas-sobre-la-seguridad",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "Los auditores buscan determinar si el cambio en las tarifas puede alterar instrucciones ejecutadas después de un error.",
-    "link": "https://www.criptonoticias.com/tecnologia/ethereum-demora-glamsterdam-ocho-alertas-seguridad-contratos/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Un acertante de Lorca gana 3,6 millones de euros en el sorteo de Bonoloto del sábado",
-    "slug": "un-acertante-de-lorca-gana-36-millones-de-euros-en-el-sorteo",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/11/07/un-acertante-de-lorca-gana-36-millones-de-euros-en-el-sorteo-de-bonoloto-del-sabado/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Más de 100 grupos protestaron en 15 países de Europa para pedir una pausa a los centros de datos de IA",
-    "slug": "mas-de-100-grupos-protestaron-en-15-paises-de-europa-para-pe",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "La campaña no pide cancelar los proyectos sino una moratoria hasta que haya reglas claras, y un grupo ajeno a ella ocupó una obra de Microsoft",
-    "link": "https://www.infobae.com/tecno/2026/11/07/mas-de-100-grupos-protestaron-en-15-paises-de-europa-para-pedir-una-pausa-a-los-centros-de-datos-de-ia/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "World Liberty Financial anuncia otra recompra de WLFI tras una caída del token superior al 66%",
-    "slug": "world-liberty-financial-anuncia-otra-recompra-de-wlfi-tras-u",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia World Liberty Financial planea recomprar WLFI con posibles comisiones de USD1, mientras el token acumula una caída superior al 66% en 2026. La entrada World Liberty Financial anuncia otra recompra de WLFI tras una caída del token superior al 66% se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/07/world-liberty-financial-anuncia-otra-recompra-de-wlfi-tras-una-caida-del-token-superior-al-66/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "The AI Summit New York 2026 vuelve al Javits tras triplicar su tamaño",
-    "slug": "the-ai-summit-new-york-2026-vuelve-al-javits-tras-triplicar-",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia The AI Summit New York 2026 reúne en el Javits a más de 350 oradores para llevar la IA empresarial de la prueba al retorno. La entrada The AI Summit New York 2026 vuelve al Javits tras triplicar su tamaño se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/07/the-ai-summit-new-york-2026-vuelve-al-javits-tras-triplicar-su-tamano/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ciencia descentralizada: ¿pueden las criptomonedas sostener un laboratorio?",
-    "slug": "ciencia-descentralizada-pueden-las-criptomonedas-sostener-un",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia La ciencia descentralizada busca financiar la investigación en longevidad, pero enfrenta desafíos económicos, científicos y legales. La entrada Ciencia descentralizada: ¿pueden las criptomonedas sostener un laboratorio?",
-    "link": "https://criptotendencia.com/2026/11/07/ciencia-descentralizada-pueden-las-criptomonedas-sostener-un-laboratorio/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin Korea 2026 arranca en Seúl fiel a una sola moneda",
-    "slug": "bitcoin-korea-2026-arranca-en-seul-fiel-a-una-sola-moneda",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia Bitcoin Korea 2026 arranca en el COEX de Seúl con más de 40 oradores y la meta de reunir a 2. 000 asistentes.",
-    "link": "https://criptotendencia.com/2026/11/07/bitcoin-korea-2026-arranca-en-seul-fiel-a-una-sola-moneda/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La caída tecnológica borra las ganancias de los fondos de cobertura más expuestos",
-    "slug": "la-caida-tecnologica-borra-las-ganancias-de-los-fondos-de-co",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia La caída tecnológica borra las ganancias de 2026 de los fondos más expuestos al sector y lleva a Walleye Capital a reducir su equipo. La entrada La caída tecnológica borra las ganancias de los fondos de cobertura más expuestos se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/07/la-caida-tecnologica-borra-las-ganancias-de-los-fondos-de-cobertura-mas-expuestos-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Hackean el sistema de tarjetas de Gnosis Pay y exponen datos de clientes",
-    "slug": "hackean-el-sistema-de-tarjetas-de-gnosis-pay-y-exponen-datos",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "El peligro no termina con el hackeo: la información obtenida podría utilizarse para nuevos ataques contra los clientes.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/hackean-tarjetas-gnosis-pay-datos-clientes/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "«Las stablecoins le dieron acceso al dólar al mundo; la tokenización es un paso más»",
-    "slug": "las-stablecoins-le-dieron-acceso-al-dolar-al-mundo-la-tokeni",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "La tokenización transforma Wall Street. Melanie Steiner, de Ondo Finance profundiza en el futuro del mercado y sus desafíos actuales.",
-    "link": "https://www.criptonoticias.com/entrevistas/melanie-steiner-tokenizacion-ondo-finance-labitconf2026/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sturzenegger contó las regulaciones paradas en la Justicia y explicó por qué es el “plomero” del gobierno, “la macro es para vagos” y Milei habla como habla",
-    "slug": "sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y",
-    "category": "economia",
-    "date": "2026-11-07",
-    "summary": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo partido conservador de la Argentina y defendió la forma",
-    "link": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Base activa Denim y pasa a producir cinco bloques canónicos por segundo",
-    "slug": "base-activa-denim-y-pasa-a-producir-cinco-bloques-canonicos-",
-    "category": "cripto",
-    "date": "2026-11-07",
-    "summary": "CriptoTendencia La red de Coinbase incorpora precisión en milisegundos, simplifica las integraciones y refuerza las reglas de transferencia de tokens B20. La entrada Base activa Denim y pasa a producir cinco bloques canónicos por segundo se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/07/base-activa-denim-y-pasa-a-producir-cinco-bloques-canonicos-por-segundo/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
     ],
     "featured": false,
     "related": []
