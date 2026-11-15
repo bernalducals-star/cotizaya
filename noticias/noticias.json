@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alerta por el bolsillo: casi el 70% de los argentinos se queda sin plata antes del día 20 y crece el endeudamiento",
+    "slug": "alerta-por-el-bolsillo-casi-el-70-de-los-argentinos-se-queda",
+    "category": "economia",
+    "date": "2026-11-15",
+    "summary": "Un relevamiento de Zentrix Consultora reveló que apenas tres de cada diez hogares logran cubrir sus gastos mensuales. La situación se agrava entre los jóvenes y los sectores de menores ingresos, mientras crece el endeudamiento para financiar alimentos, salud y servicios.",
+    "link": "https://www.ambito.com/economia/el-68-los-argentinos-se-queda-ingresos-antes-del-dia-20-y-casi-el-60-se-endeuda-llegar-fin-mes-n6345436",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Miguel Kiguel advirtió que el Gobierno subestimó la inflación y pidió priorizar la actividad económica y el empleo",
     "slug": "miguel-kiguel-advirtio-que-el-gobierno-subestimo-la-inflacio",
     "category": "economia",
@@ -62,6 +78,22 @@
     "related": []
   },
   {
+    "title": "Dólar blue hoy: a cuánto opera este domingo 15 de noviembre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-15-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-15",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-15-noviembre-n6345364",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Dólar hoy: a cuánto cotiza este domingo 15 de noviembre",
     "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-15-de-noviembre",
     "category": "economia",
@@ -78,17 +110,17 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 15 de noviembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-15-de-noviembre",
+    "title": "Nuevo mal dato para Milei: 2 de cada 3 argentinos se quedan sin sueldo el 20 de cada mes",
+    "slug": "nuevo-mal-dato-para-milei-2-de-cada-3-argentinos-se-quedan-s",
     "category": "economia",
     "date": "2026-11-15",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-15-noviembre-n6345364",
-    "source": "Ámbito Finanzas",
+    "summary": "Un relevamiento nacional reveló que el 59,4% se endeudó en los últimos seis meses para afrontar gastos y 8 de cada 10 que pierden ante la inflación (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/469171-nuevo-mal-dato-para-milei-2-de-cada-3-argentinos-se-quedan-sin-sueldo-el-20-de-cada-mes",
+    "source": "iProfesional",
     "tags": [
       "economía",
       "argentina",
-      "dólar"
+      "milei"
     ],
     "featured": false,
     "related": []
@@ -125,6 +157,158 @@
     "related": []
   },
   {
+    "title": "Jensen Huang evalúa volver a Nvidia mientras sus aliados presionan al directorio",
+    "slug": "jensen-huang-evalua-volver-a-nvidia-mientras-sus-aliados-pre",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "CriptoTendencia Scott Bessent pide que Nvidia busque un CEO externo. Colette Kress sigue al frente y la empresa presentará resultados este martes.",
+    "link": "https://criptotendencia.com/2026/11/15/jensen-huang-evalua-volver-nvidia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La cumbre de APEC en Shenzhen y los resultados de Nvidia marcan la semana financiera en Asia",
+    "slug": "la-cumbre-de-apec-en-shenzhen-y-los-resultados-de-nvidia-mar",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "CriptoTendencia Los mercados asiáticos siguen las cumbres de líderes, la política monetaria de Indonesia y las perspectivas del sector tecnológico. La entrada La cumbre de APEC en Shenzhen y los resultados de Nvidia marcan la semana financiera en Asia se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/15/la-cumbre-de-apec-en-shenzhen-y-los-resultados-de-nvidia-marcan-la-semana-financiera-en-asia-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Claude ayuda a reconstruir las demostraciones inéditas de Kurt Gödel",
+    "slug": "claude-ayuda-a-reconstruir-las-demostraciones-ineditas-de-ku",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "CriptoTendencia Claude examinó 1. 009 páginas transcritas de Kurt Gödel.",
+    "link": "https://criptotendencia.com/2026/11/15/claude-kurt-godel-cuadernos-demostraciones-ia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Flash 24/7 | Crypto: bitcoin cede más del 14% en una semana dominada por el miedo extremo",
+    "slug": "flash-247-crypto-bitcoin-cede-mas-del-14-en-una-semana-domin",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "CriptoTendencia Bitcoin cae 14,33% y toca $62. 000; ETH lidera las pérdidas, XRP pierde el dólar y el sentimiento marca miedo extremo con 10 puntos.",
+    "link": "https://criptotendencia.com/2026/11/15/flash-24-7-crypto-bitcoin-cede-mas-del-14-en-una-semana-dominada-por-el-miedo-extremo/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La frágil calma en Medio Oriente se rompe tras nuevos ataques entre EE. UU. e Irán",
+    "slug": "la-fragil-calma-en-medio-oriente-se-rompe-tras-nuevos-ataque",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "CriptoTendencia Irán y los hutíes elevan la tensión en Medio Oriente mientras Trump prepara una cumbre en Asia y Nvidia afronta nuevas investigaciones. La entrada La frágil calma en Medio Oriente se rompe tras nuevos ataques entre EE.",
+    "link": "https://criptotendencia.com/2026/11/15/la-fragil-calma-en-medio-oriente-se-rompe-tras-nuevos-ataques-entre-ee-uu-e-iran-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Demócratas preparan una nueva ley de criptomonedas más estricta",
+    "slug": "democratas-preparan-una-nueva-ley-de-criptomonedas-mas-estri",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "El partido quiere reforzar el rol de la SEC y limitar a la CFTC, reactivando la \"regulación por aplicación\" que se aplicó por varios años.",
+    "link": "https://www.criptonoticias.com/regulacion/democratas-preparan-nueva-ley-criptomonedas-estricta/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin cae hasta USD 62.000 y se anticipa otra semana de presión bajista",
+    "slug": "bitcoin-cae-hasta-usd-62000-y-se-anticipa-otra-semana-de-pre",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "El desplome de esta semana va más allá de Bitcoin: refleja los movimientos de un mercado que está reduciendo su exposición al riesgo.",
+    "link": "https://www.criptonoticias.com/mercados/bitcoin-cae-hasta-usd-62-000-anticipa/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las reservas de ETH en Binance se desploman un 42%",
+    "slug": "las-reservas-de-eth-en-binance-se-desploman-un-42",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "El movimiento apunta a una posible acumulación, aunque el desplome del precio plantea dudas sobre el optimismo del mercado.",
+    "link": "https://www.criptonoticias.com/mercados/reservas-eth-binance-se-desploman-42/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "XRP pierde casi 60% de su valor desde el máximo de enero",
+    "slug": "xrp-pierde-casi-60-de-su-valor-desde-el-maximo-de-enero",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "El retroceso no responde a un problema de Ripple, sino a la retirada de capital que también está golpeando a bitcoin y a la criptomoneda de Ethereum.",
+    "link": "https://www.criptonoticias.com/mercados/xrp-pierde-60-valor-maximo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Wallet vinculada a la Fundación Ethereum vende 7.500 ETH en medio de la caída del mercado",
+    "slug": "wallet-vinculada-a-la-fundacion-ethereum-vende-7500-eth-en-m",
+    "category": "cripto",
+    "date": "2026-11-15",
+    "summary": "Las operaciones suman 14,52 millones de USDS y coinciden con una política de tesorería que contempla ventas para cubrir gastos anuales.",
+    "link": "https://www.criptonoticias.com/mercados/wallet-vinculada-fundacion-ethereum-vende-7500/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin",
+      "ethereum"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Por qué un estudio de 1960 fechó el «apocalipsis demográfico» en 2026",
     "slug": "por-que-un-estudio-de-1960-fecho-el-apocalipsis-demografico-",
     "category": "cripto",
@@ -150,22 +334,6 @@
     "tags": [
       "cripto",
       "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Wallet vinculada a la Fundación Ethereum vende 7.500 ETH en medio de la caída del mercado",
-    "slug": "wallet-vinculada-a-la-fundacion-ethereum-vende-7500-eth-en-m",
-    "category": "cripto",
-    "date": "2026-11-15",
-    "summary": "Las operaciones suman 14,52 millones de USDS y coinciden con una política de tesorería que contempla ventas para cubrir gastos anuales.",
-    "link": "https://www.criptonoticias.com/mercados/wallet-vinculada-fundacion-ethereum-vende-7500/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "ethereum"
     ],
     "featured": false,
     "related": []
@@ -254,21 +422,6 @@
     "date": "2026-11-14",
     "summary": "Con esa cantidad de dinero, vale la pena mirar cuánto se puede ganar antes de decidir dónde invertir los ahorros.",
     "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-obtiene-al-invertir-1500000-n6344958",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El resultado fiscal de octubre definirá si el Gobierno logra cumplir la meta de superávit acordada con el FMI",
-    "slug": "el-resultado-fiscal-de-octubre-definira-si-el-gobierno-logra",
-    "category": "economia",
-    "date": "2026-11-14",
-    "summary": "Este lunes se conocerá el dato oficial. Privados anticipan un fuerte ajuste del gasto en octubre.",
-    "link": "https://www.ambito.com/economia/el-resultado-fiscal-octubre-definira-si-el-gobierno-logra-cumplir-la-meta-superavit-acordada-el-fmi-n6345009",
     "source": "Ámbito",
     "tags": [
       "economía",
@@ -395,12 +548,27 @@
     "date": "2026-11-14",
     "summary": "Dado el programa financiero que tiene armado el Gobierno para el año 2027, no vemos posibilidades de que se caiga en cesación de pagos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/469083-bonos-en-dolares-prometen-rentabilidad-de-mas-del-40-por-ciento-medidos-en-pesos",
-    "source": "iProfesional",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina",
       "dólar",
       "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El resultado fiscal de octubre definirá si el Gobierno logra cumplir la meta de superávit acordada con el FMI",
+    "slug": "el-resultado-fiscal-de-octubre-definira-si-el-gobierno-logra",
+    "category": "economia",
+    "date": "2026-11-14",
+    "summary": "Este lunes se conocerá el dato oficial. Privados anticipan un fuerte ajuste del gasto en octubre.",
+    "link": "https://www.ambito.com/economia/el-resultado-fiscal-octubre-definira-si-el-gobierno-logra-cumplir-la-meta-superavit-acordada-el-fmi-n6345009",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -709,22 +877,6 @@
     "related": []
   },
   {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 13 de noviembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-11-13",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-13-noviembre-n6344766",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Qué puede pasar con las acciones de 6 gigantes tras cisne negro para la IA",
     "slug": "que-puede-pasar-con-las-acciones-de-6-gigantes-tras-cisne-ne",
     "category": "economia",
@@ -751,6 +903,22 @@
       "economía",
       "argentina",
       "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 13 de noviembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-11-13",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-13-noviembre-n6344766",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -1371,172 +1539,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Precios en Argentina superan hasta 51% el promedio regional en restaurantes y otros rubros",
-    "slug": "precios-en-argentina-superan-hasta-51-el-promedio-regional-e",
-    "category": "economia",
-    "date": "2026-11-13",
-    "summary": "El país supera los valores regionales en cinco de los 11 rubros relevados, aunque en agosto quedó 1,7% por debajo del promedio latinoamericano (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469041-precios-en-argentina-son-hasta-51-mas-caros-que-el-promedio-regional",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Vitalik Buterin plantea endurecer los privacy pools ante un posible «apocalipsis de ciberseguridad» en 2027",
-    "slug": "vitalik-buterin-plantea-endurecer-los-privacy-pools-ante-un-",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "CriptoTendencia El cofundador de Ethereum contempla una espera de 24 horas y una comisión por depósito rechazado, sin introducir puertas traseras. La entrada Vitalik Buterin plantea endurecer los privacy pools ante un posible «apocalipsis de ciberseguridad» en 2027 se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/13/vitalik-buterin-privacy-pools/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La caída global de Microsoft 365 supera las 20 horas y deja sin Outlook ni Copilot a empresas y gobiernos",
-    "slug": "la-caida-global-de-microsoft-365-supera-las-20-horas-y-deja-",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "CriptoTendencia La caída global de Microsoft 365 supera las 20 horas: Outlook y Copilot fallan en 74 países y Microsoft descarta un ciberataque. La entrada La caída global de Microsoft 365 supera las 20 horas y deja sin Outlook ni Copilot a empresas y gobiernos se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/13/la-caida-global-de-microsoft-365-supera-las-20-horas-y-deja-sin-outlook-ni-copilot-a-empresas-y-gobiernos/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "América Latina utiliza la IA, pero no captura su valor: la advertencia de CAF, CEPAL y BID en Córdoba",
-    "slug": "america-latina-utiliza-la-ia-pero-no-captura-su-valor-la-adv",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "CriptoTendencia CAF, CEPAL y BID analizaron en Córdoba las brechas de inversión, capacidades y gestión que limitan el impacto de la IA en las pymes. La entrada América Latina utiliza la IA, pero no captura su valor: la advertencia de CAF, CEPAL y BID en Córdoba se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/13/america-latina-utiliza-la-ia-pero-no-captura-su-valor-la-advertencia-de-caf-cepal-y-bid-en-cordoba/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Puede la tokenización del cuidado humano transformar el futuro de las pensiones?",
-    "slug": "puede-la-tokenizacion-del-cuidado-humano-transformar-el-futu",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "CriptoTendencia Una propuesta basada en blockchain busca reconocer las horas de cuidado familiar y convertirlas en derechos futuros de asistencia. La entrada ¿Puede la tokenización del cuidado humano transformar el futuro de las pensiones?",
-    "link": "https://criptotendencia.com/2026/11/13/puede-la-tokenizacion-del-cuidado-humano-transformar-el-futuro-de-las-pensiones/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Personaje de la Semana: Colón, el hombre que cambió el mundo sin llegar a entenderlo",
-    "slug": "el-personaje-de-la-semana-colon-el-hombre-que-cambio-el-mund",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "CriptoTendencia El hombre que cambió el mundo sin comprenderlo: Colón murió convencido de haber llegado a Asia, y su legado quedó partido en dos para siempre. La entrada El Personaje de la Semana: Colón, el hombre que cambió el mundo sin llegar a entenderlo se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/13/el-personaje-de-la-semana-colon-el-hombre-que-cambio-el-mundo-sin-llegar-a-entenderlo/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Sin licencia MiCA, Binance cierra cuentas en cuatro países de la UE",
-    "slug": "sin-licencia-mica-binance-cierra-cuentas-en-cuatro-paises-de",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "Binance cerrará cuentas en España, Francia, Italia y Polonia el 31 de diciembre de 2026 por no contar con licencia MiCA.",
-    "link": "https://www.criptonoticias.com/regulacion/binance-sin-mica-cierra-cuentas-ue/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Quién fue SEK3 y cómo su agorismo influyó en Bitcoin?",
-    "slug": "quien-fue-sek3-y-como-su-agorismo-influyo-en-bitcoin",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "Samuel Edward Konkin III fue un anarquista de libre mercado que proponía la contraeconomía como herramienta para luchar contra el Estado",
-    "link": "https://www.criptonoticias.com/criptopedia/quien-fue-sek3-agorismo-bitcoin-silk-road/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Nakamoto acumula una deuda con Kraken mayor a su capitalización bursátil",
-    "slug": "nakamoto-acumula-una-deuda-con-kraken-mayor-a-su-capitalizac",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "La firma renegoció los plazos de un préstamo de 165 millones de USDT con el exchange, mientras su valor en bolsa cayó a 104 millones de dólares.",
-    "link": "https://www.criptonoticias.com/mercados/nakamoto-deuda-kraken-mayor-capitalizacion/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin",
-      "deuda"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin puede blindarse contra la cuántica, salvo donde está el primer blanco",
-    "slug": "bitcoin-puede-blindarse-contra-la-cuantica-salvo-donde-esta-",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "Más de un tercio de las monedas emitidas muestra la clave pública que necesita un potencial ataque cuántico para enajenarlas.",
-    "link": "https://www.criptonoticias.com/tecnologia/bitcoin-blindarse-contra-cuantica-salvo-primera-vulnerabilidad/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Caída de Microsoft 365 interrumpe servicios corporativos y herramientas de IA",
-    "slug": "caida-de-microsoft-365-interrumpe-servicios-corporativos-y-h",
-    "category": "cripto",
-    "date": "2026-11-13",
-    "summary": "El incidente, originado por fallas internas en servidores de Exchange, afectó a millones de cuentas. La empresa descartó un ciberataque.",
-    "link": "https://www.criptonoticias.com/tecnologia/caida-microsoft365-interrumpe-servicios-corporativos-herramientas-ia/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
     ],
     "featured": false,
     "related": []
