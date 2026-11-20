@@ -28,5 +28,5 @@ jobs:
           git config user.name "cotizaya-bot"
           git config user.email "bot@cotizaya.com"
           git add noticias/noticias.json
-          git diff --cached --quiet || git commit -m "chore: actualizar noticias [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: actualizar noticias"
           git push
