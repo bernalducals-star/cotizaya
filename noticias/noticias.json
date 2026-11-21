@@ -47,12 +47,12 @@
     "related": []
   },
   {
-    "title": "Vivas afirma que Sánchez demostró en el debate que está \"de retirada o despedida\"",
-    "slug": "vivas-afirma-que-sanchez-demostro-en-el-debate-que-esta-de-r",
+    "title": "Ministerio de Defensa respondió a cuestionamientos por contrato de $3.991 millones con distribuidora exclusiva de Blackboard: “No es un capricho de turno”",
+    "slug": "ministerio-de-defensa-respondio-a-cuestionamientos-por-contr",
     "category": "economia",
     "date": "2026-11-21",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/11/21/vivas-afirma-que-sanchez-demostro-en-el-debate-que-esta-de-retirada-o-despedida/",
+    "summary": "La entidad se pronunció luego de que se pusiera en duda las condiciones del contrato, la modalidad de selección, los tiempos del trámite y el pago de los recursos",
+    "link": "https://www.infobae.com/colombia/2026/11/21/ministerio-de-defensa-respondio-a-cuestionamientos-por-contrato-de-3991-millones-con-distribuidora-exclusiva-de-blackboard-no-es-un-capricho-de-turno/",
     "source": "Infobae",
     "tags": [
       "economía",
@@ -62,18 +62,16 @@
     "related": []
   },
   {
-    "title": "El dólar registra un nuevo récord en Cuba y alcanza los 950 pesos en el mercado informal",
-    "slug": "el-dolar-registra-un-nuevo-record-en-cuba-y-alcanza-los-950-",
+    "title": "Por qué Wall Street está recortando su apuesta por grandes acciones argentinas",
+    "slug": "por-que-wall-street-esta-recortando-su-apuesta-por-grandes-a",
     "category": "economia",
     "date": "2026-11-21",
-    "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/11/21/el-dolar-registra-un-nuevo-record-en-cuba-y-alcanza-los-950-pesos-en-el-mercado-informal/",
-    "source": "Infobae",
+    "summary": "Citi y Goldman Sachs bajaron valuaciones para energéticas y BofA aplicó un recorte del 19% para Supervielle. Cuáles conservan recomendación de compra (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/469373-por-que-wall-street-recorta-su-apuesta-por-acciones-argentinas",
+    "source": "iProfesional",
     "tags": [
       "economía",
-      "argentina",
-      "dólar",
-      "peso"
+      "argentina"
     ],
     "featured": false,
     "related": []
@@ -111,6 +109,51 @@
     "related": []
   },
   {
+    "title": "Hyperliquid pierde terreno y una advertencia regulatoria aumenta la tensión en el mercado",
+    "slug": "hyperliquid-pierde-terreno-y-una-advertencia-regulatoria-aum",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "CriptoTendencia HYPE intenta estabilizarse cerca de un soporte técnico, mientras las recompras y la actividad del protocolo contrastan con nuevas alertas. La entrada Hyperliquid pierde terreno y una advertencia regulatoria aumenta la tensión en el mercado se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/21/hyperliquid-pierde-terreno-y-una-advertencia-regulatoria-aumenta-la-tension-en-el-mercado-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El sector cripto-IA se desploma: la caída de bitcoin y el temor a una burbuja aceleran las ventas",
+    "slug": "el-sector-cripto-ia-se-desploma-la-caida-de-bitcoin-y-el-tem",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "CriptoTendencia La presión vendedora sacude los tokens de IA, mientras las liquidaciones y las dudas sobre la rentabilidad tecnológica agravan las pérdidas. La entrada El sector cripto-IA se desploma: la caída de bitcoin y el temor a una burbuja aceleran las ventas se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/21/el-sector-cripto-ia-se-desploma-la-caida-de-bitcoin-y-el-temor-a-una-burbuja-aceleran-las-ventas-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "¿Adónde va el dinero cuando caen las bolsas, el oro y bitcoin?",
+    "slug": "adonde-va-el-dinero-cuando-caen-las-bolsas-el-oro-y-bitcoin",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "CriptoTendencia Los bonos del Tesoro repuntan, los fondos monetarios pierden activos y los rescates de stablecoins apuntan al efectivo bancario. La entrada ¿Adónde va el dinero cuando caen las bolsas, el oro y bitcoin?",
+    "link": "https://criptotendencia.com/2026/11/21/adonde-va-el-dinero-cuando-caen-bolsas-oro-y-bitcoin/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "¿Puede blockchain poner fin a la reventa abusiva y las entradas falsas?",
     "slug": "puede-blockchain-poner-fin-a-la-reventa-abusiva-y-las-entrad",
     "category": "cripto",
@@ -136,6 +179,113 @@
     "tags": [
       "cripto",
       "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El FBI investiga un aparente hackeo a su base de datos NCIC",
+    "slug": "el-fbi-investiga-un-aparente-hackeo-a-su-base-de-datos-ncic",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "Donald Trump dijo a Fox News que “acababan de enterarse y que no es bueno\". El FBI, por su parte, no respondió y se desconoce el alcance.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/fbi-investiga-aparente-hackeo-a-su-base-datos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nasdaq sufre su peor caída semanal desde 2020",
+    "slug": "nasdaq-sufre-su-peor-caida-semanal-desde-2020",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "El índice cerró el viernes 20 de noviembre en 25. 029 puntos tras una baja de 5,6% en la jornada y un 10% en toda la semana.",
+    "link": "https://www.criptonoticias.com/mercados/nasdaq-sufre-su-peor-caida-semanal-desde-2020/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Chip cuántico de Google superó el límite de las computadoras tradicionales",
+    "slug": "chip-cuantico-de-google-supero-el-limite-de-las-computadoras",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "El procesador Willow ganó 98,3% de las partidas de un juego en el que los métodos tradicionales no superan el 88,9%, conforme a Google.",
+    "link": "https://www.criptonoticias.com/tecnologia/chip-cuantico-google-supero-limite-computadoras-tradicionales/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Lagarde ataca el negocio de las stablecoins para abrir paso al euro digital",
+    "slug": "lagarde-ataca-el-negocio-de-las-stablecoins-para-abrir-paso-",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "En su despedida del Congreso Bancario Europeo, la jefa del BCE descalificó las monedas estables mientras fijó 2029 para su propia divisa estatal.",
+    "link": "https://www.criptonoticias.com/comunidad/adopcion/lagarde-ataca-negocio-stablecoins-abrir-paso-euro-digital/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Una clave y dos bots drenaron el pool de Reental: Una lección para todo DeFi",
+    "slug": "una-clave-y-dos-bots-drenaron-el-pool-de-reental-una-leccion",
+    "category": "cripto",
+    "date": "2026-11-21",
+    "summary": "El caso expone el peligro de un punto único de control en activos tokenizados. Una firma sin frenos técnicos bastó para retirar USD 454.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/clave-dos-bots-drenaron-pool-reental-leccion-todo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Vivas afirma que Sánchez demostró en el debate que está \"de retirada o despedida\"",
+    "slug": "vivas-afirma-que-sanchez-demostro-en-el-debate-que-esta-de-r",
+    "category": "economia",
+    "date": "2026-11-21",
+    "summary": "",
+    "link": "https://www.infobae.com/espana/agencias/2026/11/21/vivas-afirma-que-sanchez-demostro-en-el-debate-que-esta-de-retirada-o-despedida/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El dólar registra un nuevo récord en Cuba y alcanza los 950 pesos en el mercado informal",
+    "slug": "el-dolar-registra-un-nuevo-record-en-cuba-y-alcanza-los-950-",
+    "category": "economia",
+    "date": "2026-11-21",
+    "summary": "",
+    "link": "https://www.infobae.com/america/agencias/2026/11/21/el-dolar-registra-un-nuevo-record-en-cuba-y-alcanza-los-950-pesos-en-el-mercado-informal/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "peso"
     ],
     "featured": false,
     "related": []
@@ -178,21 +328,6 @@
     "summary": "CriptoTendencia Sound Ventures estima su participación en $7. 500 millones.",
     "link": "https://criptotendencia.com/2026/11/21/anthropic-kutcher-oseary-fortuna-cofundadores-ipo/",
     "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Una clave y dos bots drenaron el pool de Reental: Una lección para todo DeFi",
-    "slug": "una-clave-y-dos-bots-drenaron-el-pool-de-reental-una-leccion",
-    "category": "cripto",
-    "date": "2026-11-21",
-    "summary": "El caso expone el peligro de un punto único de control en activos tokenizados. Una firma sin frenos técnicos bastó para retirar USD 454.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/clave-dos-bots-drenaron-pool-reental-leccion-todo/",
-    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -436,22 +571,6 @@
     "related": []
   },
   {
-    "title": "Dólar blue hoy: a cuánto cerró este viernes 20 de noviembre",
-    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-viernes-20-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-viernes-20-noviembre-n6347716",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Cómo será el gasoducto más grande el país que Argentina LNG construirá bajo el RIGI",
     "slug": "como-sera-el-gasoducto-mas-grande-el-pais-que-argentina-lng-",
     "category": "economia",
@@ -530,23 +649,6 @@
     "related": []
   },
   {
-    "title": "Riesgo país contagia al dólar futuro y este es el precio más alto que prevé la City",
-    "slug": "riesgo-pais-contagia-al-dolar-futuro-y-este-es-el-precio-mas",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "El riesgo país sigue escalando, superó los 1. 000 puntos básicos, mientras el dólar también avanza con fuerza.",
-    "link": "https://www.iprofesional.com/finanzas/469685-riesgo-pais-contagia-al-dolar-futuro-precio-mas-alto-que-preve-la-city",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Allanaron dos bancos en busca de información sobre las operaciones de Ariel Vallejo",
     "slug": "allanaron-dos-bancos-en-busca-de-informacion-sobre-las-opera",
     "category": "economia",
@@ -578,6 +680,23 @@
     "related": []
   },
   {
+    "title": "Riesgo país contagia al dólar futuro y este es el precio más alto que prevé la City",
+    "slug": "riesgo-pais-contagia-al-dolar-futuro-y-este-es-el-precio-mas",
+    "category": "economia",
+    "date": "2026-11-20",
+    "summary": "El riesgo país sigue escalando, superó los 1. 000 puntos básicos, mientras el dólar también avanza con fuerza.",
+    "link": "https://www.iprofesional.com/finanzas/469685-riesgo-pais-contagia-al-dolar-futuro-precio-mas-alto-que-preve-la-city",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "riesgo país"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Moody’s ve mejoras para las empresas argentinas, pero advierte por los riesgos de 2027",
     "slug": "moodys-ve-mejoras-para-las-empresas-argentinas-pero-advierte",
     "category": "economia",
@@ -588,6 +707,22 @@
     "tags": [
       "economía",
       "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto cerró este viernes 20 de noviembre",
+    "slug": "dolar-blue-hoy-a-cuanto-cerro-este-viernes-20-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-20",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-viernes-20-noviembre-n6347716",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
     ],
     "featured": false,
     "related": []
@@ -1406,147 +1541,6 @@
     "tags": [
       "economía",
       "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El superávit comercial superó los u$s3.000 millones en octubre y rozó el récord de la era Milei",
-    "slug": "el-superavit-comercial-supero-los-us3000-millones-en-octubre",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "Las exportaciones treparon a un nuevo máximo, mientras que las importaciones tuvieron un repunte mensual, pero que no refleja una mejora de la actividad económica.",
-    "link": "https://www.ambito.com/economia/el-superavit-comercial-supero-los-us3000-millones-octubre-y-rozo-el-record-la-era-milei-n6347275",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en dólares: ¿conviene congelar los ahorros por un mes?",
-    "slug": "plazo-fijo-en-dolares-conviene-congelar-los-ahorros-por-un-m",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "Las entidades financieras ofrecen rendimientos diferentes según el período y el canal de contratación. Qué mirar antes de inmovilizar las divisas.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-conviene-congelar-los-ahorros-un-mes-n6346562",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Se venden 50 autos por día en las concesionarias con la nueva línea de créditos del Banco Provincia",
-    "slug": "se-venden-50-autos-por-dia-en-las-concesionarias-con-la-nuev",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "La línea, que se tramita en la propia concesionaria, ya financió 1. 560 vehículos por $20.",
-    "link": "https://www.ambito.com/economia/se-venden-50-autos-dia-las-concesionarias-la-nueva-linea-creditos-del-banco-provincia-n6347171",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentina pierde interés entre los fondos de inversión latinoamericanos",
-    "slug": "argentina-pierde-interes-entre-los-fondos-de-inversion-latin",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "Los principales gestores de fondos de inversiones para la región han adoptado una postura defensiva de cara al 2027. Pero además han modificado sus preferencias.",
-    "link": "https://www.ambito.com/economia/argentina-pierde-interes-los-fondos-inversion-latinoamericanos-n6346930",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El dólar oficial profundizó su ascenso, el minorista se acercó a $1.600 y la brecha con el CCL ya está arriba del 11%",
-    "slug": "el-dolar-oficial-profundizo-su-ascenso-el-minorista-se-acerc",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "El tipo de cambio oficial volvió a subir y marcó un nuevo récord nominal. La mayor liquidez en pesos, la menor oferta de dólares y el contexto internacional presionan sobre el mercado cambiario.",
-    "link": "https://www.ambito.com/finanzas/dolar-presion-la-brecha-cambiaria-alcanzo-su-nivel-mas-alto-un-ano-y-el-ccl-gana-el-centro-la-escena-n6346972",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Finanzas al día: novedades de bancos, inversiones y mercado de capitales",
-    "slug": "finanzas-al-dia-novedades-de-bancos-inversiones-y-mercado-de",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "Las noticias de entidades financieras, brókers, fintech, fondos y empresas cotizantes, seleccionadas por Ámbito y actualizadas cada día. Nuevos productos y fondos, emisiones de obligaciones negociables y cambios regulatorios, en breves con contexto.",
-    "link": "https://www.ambito.com/economia/finanzas-al-dia-novedades-bancos-inversiones-y-mercado-capitales-n6335525",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Las acciones de Anthropic debutaron en Wall Street con una fuerte suba del 17,1%",
-    "slug": "las-acciones-de-anthropic-debutaron-en-wall-street-con-una-f",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "La creadora de Claude protagonizó una jornada de fuerte volatilidad en el Nasdaq, después de recaudar u$s107. 300 millones entre su oferta pública inicial y una colocación privada.",
-    "link": "https://www.ambito.com/finanzas/la-accion-anthropic-salta-mas-20-el-premarket-cuando-se-podra-comprar-el-cedear-argentina-n6347104",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Nuevo récord de exportaciones llegó justo para el Gobierno, en plena tensión con el dólar",
-    "slug": "nuevo-record-de-exportaciones-llego-justo-para-el-gobierno-e",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "Con u$s10. 061 millones de exportación, la balanza comercial dejó un superávit de u$s3.",
-    "link": "https://www.iprofesional.com/economia/469604-nuevo-record-de-exportaciones-llego-justo-para-el-gobierno-en-plena-tension-con-el-dolar",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El BCRA apunta contra los gobernadores por los créditos caros, con un consumo en caída",
-    "slug": "el-bcra-apunta-contra-los-gobernadores-por-los-creditos-caro",
-    "category": "economia",
-    "date": "2026-11-19",
-    "summary": "El Central responsabiliza a los impuestos provinciales por el elevado costo de los préstamos, con un consumo en retroceso y una morosidad en 12% (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469608-el-bcra-apunta-contra-los-gobernadores-por-los-creditos-caros-con-un-consumo-en-caida",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "bcra"
     ],
     "featured": false,
     "related": []
