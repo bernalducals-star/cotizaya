@@ -62,22 +62,6 @@
     "related": []
   },
   {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 22 de noviembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-22-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-22-noviembre-n6348002",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Dólar blue hoy: a cuánto opera este domingo 22 de noviembre",
     "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-22-de-noviembre",
     "category": "economia",
@@ -94,13 +78,60 @@
     "related": []
   },
   {
+    "title": "Dólar hoy: a cuánto cotiza este domingo 22 de noviembre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-22-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-22",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-22-noviembre-n6348002",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "La tormenta global desnuda la fragilidad argentina: ¿hasta cuándo seguirá la sangría y qué señales espera la city?",
     "slug": "la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cua",
     "category": "economia",
     "date": "2026-11-22",
     "summary": "El derrumbe de Wall Street y del real en Brasil aceleraron las ventas de activos argentinos. Las dudas sobre el financiamiento se adelantaron.",
-    "link": "https://www.ambito.com/finanzas/la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cuando-seguira-la-sangria-y-que-senales-espera-la-city-n6348063",
+    "link": "https://www.ambito.com/finanzas/dolar/la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cuando-seguira-la-sangria-y-que-senales-espera-la-city-n6348063",
     "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Ingreso Ciudadano Universal: cómo acceder al apoyo de 2 mil pesos para personas de 57 a 59 años",
+    "slug": "ingreso-ciudadano-universal-como-acceder-al-apoyo-de-2-mil-p",
+    "category": "economia",
+    "date": "2026-11-22",
+    "summary": "El único requisito señalado para incorporarse al ICU es tener entre 57 y 59 años",
+    "link": "https://www.infobae.com/mexico/2026/11/22/ingreso-ciudadano-universal-como-acceder-al-apoyo-de-2-mil-pesos-para-personas-de-57-a-59-anos/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina",
+      "peso"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Acciones argentinas se desploman hasta 50% en 2026 y la City avisa cuáles comprar baratas",
+    "slug": "acciones-argentinas-se-desploman-hasta-50-en-2026-y-la-city-",
+    "category": "economia",
+    "date": "2026-11-22",
+    "summary": "Los balances y valuaciones abren oportunidades, pero el riesgo electoral frena las apuestas. En qué empresas coinciden los expertos y dónde se dividen (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/469713-que-acciones-argentinas-quedaron-baratas-para-invertir-segun-la-city",
+    "source": "iProfesional Finanzas",
     "tags": [
       "economía",
       "argentina"
@@ -124,6 +155,66 @@
     "related": []
   },
   {
+    "title": "Resumen: 5 noticias que impactaron en la industria de minería de bitcoin esta semana",
+    "slug": "resumen-5-noticias-que-impactaron-en-la-industria-de-mineria",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "CriptoTendencia La minería de bitcoin enfrenta menores ingresos, presión sobre los fabricantes y una creciente migración hacia centros de datos de IA. La entrada Resumen: 5 noticias que impactaron en la industria de minería de bitcoin esta semana se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/22/resumen-5-noticias-que-impactaron-en-la-industria-de-mineria-de-bitcoin-esta-semana-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Reporte semanal: así operaron las ballenas de bitcoin durante la fuerte caída del mercado",
+    "slug": "reporte-semanal-asi-operaron-las-ballenas-de-bitcoin-durante",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "CriptoTendencia Las ballenas de bitcoin muestran señales mixtas durante una semana de fuertes caídas, mientras los ETF registran nuevas salidas de capital. La entrada Reporte semanal: así operaron las ballenas de bitcoin durante la fuerte caída del mercado se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/22/reporte-semanal-asi-operaron-las-ballenas-de-bitcoin-durante-la-fuerte-caida-del-mercado-2/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "DeAI Summit 2026 lleva a Malta el debate sobre quién controla la IA",
+    "slug": "deai-summit-2026-lleva-a-malta-el-debate-sobre-quien-control",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "CriptoTendencia DeAI Summit 2026 reúne en Malta a fundadores, inversores y reguladores para debatir quién controla la inteligencia artificial. La entrada DeAI Summit 2026 lleva a Malta el debate sobre quién controla la IA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/22/deai-summit-2026-lleva-a-malta-el-debate-sobre-quien-controla-la-ia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El embargo era un reloj y la Inteligencia Artificial lo adelantó",
+    "slug": "el-embargo-era-un-reloj-y-la-inteligencia-artificial-lo-adel",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "CriptoTendencia En su cuarto aviso ligado a Loupe, Bitcoin Core confirmó que la serie 29. x quedó sin parche y que la corrección ya existe en otras ramas.",
+    "link": "https://criptotendencia.com/2026/11/22/el-embargo-era-un-reloj-bitcoin-core/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Termómetro Bitcoin: mejora la lectura, pero el capital sigue saliendo",
     "slug": "termometro-bitcoin-mejora-la-lectura-pero-el-capital-sigue-s",
     "category": "cripto",
@@ -131,6 +222,81 @@
     "summary": "CriptoTendencia El indicador sube a 26/100 porque bitcoin cae menos, pero los ETF pierden $1. 245 millones y el sentimiento sigue en miedo extremo.",
     "link": "https://criptotendencia.com/2026/11/22/termometro-bitcoin-mejora-la-lectura-pero-el-capital-sigue-saliendo/",
     "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "P2Pool regresa a descentralizar minería y recompensas de Bitcoin",
+    "slug": "p2pool-regresa-a-descentralizar-mineria-y-recompensas-de-bit",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "El pool de minería entre pares funcionó desde 2011 hasta 2019 y vuelve con una nueva propuesta para distribuir recompensas.",
+    "link": "https://www.criptonoticias.com/mineria/p2pool-regresa-a-descentralizar-mineria-recompensas-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La ola de vulnerabilidades digitales obliga a defender el efectivo",
+    "slug": "la-ola-de-vulnerabilidades-digitales-obliga-a-defender-el-ef",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "Mientras la IA multiplica las fallas digitales, México y Uruguay arrinconan el efectivo, un respaldo que solo existe si circula a diario.",
+    "link": "https://www.criptonoticias.com/opinion/ola-vulnerabilidades-ciberataques-obliga-defender-efectivo/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin Core alerta sobre vulnerabilidad que permite atascar nodos",
+    "slug": "bitcoin-core-alerta-sobre-vulnerabilidad-que-permite-atascar",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "La falla afecta a las versiones 29. 0 a 29.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/bitcoin-core-alerta-vulnerabilidad-atascar-nodos/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Chainflip da un ultimátum a quienes vaciaron sus bóvedas",
+    "slug": "chainflip-da-un-ultimatum-a-quienes-vaciaron-sus-bovedas",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "El servicio de intercambio publicó una oferta a los atacantes en su sitio web y en una transacción de Bitcoin.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainflip-ultimatum-atacantes-bovedas/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin recupera los USD 60.000 luego de su caída",
+    "slug": "bitcoin-recupera-los-usd-60000-luego-de-su-caida",
+    "category": "cripto",
+    "date": "2026-11-22",
+    "summary": "Había tocado fondo en USD 55. 000 el mismo sábado 21 de noviembre antes de repuntar.",
+    "link": "https://www.criptonoticias.com/mercados/bitcoin-recupera-usd-60-000-luego-su-caida/",
+    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -191,36 +357,6 @@
     "summary": "CriptoTendencia Según Musk, las demoras en poner en servicio los centros de datos podrían exigir cientos de miles de millones de dólares extra en 2027. La entrada Musk anticipa una escasez de caja en la IA por el desfase entre pagar y facturar se publicó primero en CriptoTendencia.",
     "link": "https://criptotendencia.com/2026/11/22/musk-escasez-caja-ia-capital-trabajo-2027/",
     "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Chainflip da un ultimátum a quienes vaciaron sus bóvedas",
-    "slug": "chainflip-da-un-ultimatum-a-quienes-vaciaron-sus-bovedas",
-    "category": "cripto",
-    "date": "2026-11-22",
-    "summary": "El servicio de intercambio publicó una oferta a los atacantes en su sitio web y en una transacción de Bitcoin.",
-    "link": "https://www.criptonoticias.com/seguridad-bitcoin/chainflip-ultimatum-atacantes-bovedas/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Bitcoin recupera los USD 60.000 luego de su caída",
-    "slug": "bitcoin-recupera-los-usd-60000-luego-de-su-caida",
-    "category": "cripto",
-    "date": "2026-11-22",
-    "summary": "Había tocado fondo en USD 55. 000 el mismo sábado 21 de noviembre antes de repuntar.",
-    "link": "https://www.criptonoticias.com/mercados/bitcoin-recupera-usd-60-000-luego-su-caida/",
-    "source": "CriptoNoticias",
     "tags": [
       "cripto",
       "bitcoin"
@@ -672,40 +808,6 @@
     "related": []
   },
   {
-    "title": "Deuda, reservas y dolarización: las tres alertas del mercado sobre el plan económico de Javier Milei para 2027",
-    "slug": "deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-s",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Más allá de la incertidumbre electoral y el temor al regreso del peronismo que agita el oficialismo, el mercado pone el foco en las dudas sobre el programa financiero y la capacidad de afrontar los vencimientos de 2027. Los economistas Miguel Kiguel, Daniel Marx, Martín Rapetti analizan los riesgos y las alternativas de financiamiento.",
-    "link": "https://www.ambito.com/economia/deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-el-plan-economico-javier-milei-2027-n6347745",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "reservas"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
-    "slug": "el-economista-que-javier-milei-invito-a-una-reunion-de-gabin",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.",
-    "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
     "title": "Crece la tensión financiera: el riesgo país saltó 15% y llegó a 1.070 puntos con los bonos en caída libre",
     "slug": "crece-la-tension-financiera-el-riesgo-pais-salto-15-y-llego-",
     "category": "economia",
@@ -735,22 +837,6 @@
       "argentina",
       "dólar",
       "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 20 de noviembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-20-noviembre-n6347436",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
     ],
     "featured": false,
     "related": []
@@ -841,6 +927,56 @@
     "summary": "Tras el cierre del horario habitual del mercado cambiario, las apps y páginas de los bancos reflejaron una cotización al público hasta 15 pesos mayor (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
     "link": "https://www.iprofesional.com/finanzas/469703-en-los-bancos-el-dolar-siguio-subiendo-post-cierre-del-mercado-y-se-llego-a-pedir-1615",
     "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Deuda, reservas y dolarización: las tres alertas del mercado sobre el plan económico de Javier Milei para 2027",
+    "slug": "deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-s",
+    "category": "economia",
+    "date": "2026-11-20",
+    "summary": "Más allá de la incertidumbre electoral y el temor al regreso del peronismo que agita el oficialismo, el mercado pone el foco en las dudas sobre el programa financiero y la capacidad de afrontar los vencimientos de 2027. Los economistas Miguel Kiguel, Daniel Marx, Martín Rapetti analizan los riesgos y las alternativas de financiamiento.",
+    "link": "https://www.ambito.com/economia/deuda-reservas-y-dolarizacion-las-tres-alertas-del-mercado-el-plan-economico-javier-milei-2027-n6347745",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "reservas"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
+    "slug": "el-economista-que-javier-milei-invito-a-una-reunion-de-gabin",
+    "category": "economia",
+    "date": "2026-11-20",
+    "summary": "Alberto Ades se refirió al aumento del riesgo país y a la postura del Gobierno de desentenderse de su evolución. \"Es un error\", dijo al analizar el salto del indicador que mide el J.",
+    "link": "https://www.ambito.com/economia/el-economista-que-javier-milei-invito-una-reunion-gabinete-advirtio-el-problema-esta-mas-la-deuda-que-el-dolar-n6347801",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "milei"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 20 de noviembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-11-20",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-20-noviembre-n6347436",
+    "source": "Ámbito Finanzas",
     "tags": [
       "economía",
       "argentina",
@@ -1403,147 +1539,6 @@
       "argentina",
       "dólar",
       "brecha"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Golpe de realidad para la IA: tras un debut histórico en la bolsa, Anthropic cae en Wall Street",
-    "slug": "golpe-de-realidad-para-la-ia-tras-un-debut-historico-en-la-b",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Se espera que la acción mantenga su volatilidad a corto plazo mientras los inversores evalúan su valoración. Las caídas de otras tecnológicas reflejan preocupaciones sobre la salud del sector de la inteligencia artificial.",
-    "link": "https://www.ambito.com/finanzas/golpe-realidad-la-ia-un-debut-historico-la-bolsa-anthropic-cae-wall-street-n6347586",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Cómo comprar y vender Bitcoins en Argentina",
-    "slug": "como-comprar-y-vender-bitcoins-en-argentina",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Comprar Bitcoin desde Argentina es posible con pesos y desde el celular. Qué aplicaciones utilizar, cómo hacer la operación y dónde guardar las criptomonedas.",
-    "link": "https://www.ambito.com/finanzas/como-comprar-bitcoins-argentina-n5963037",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Consumo activa una alerta por huevos con posible salmonella distribuidos en 8 autonomías",
-    "slug": "consumo-activa-una-alerta-por-huevos-con-posible-salmonella-",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "",
-    "link": "https://www.infobae.com/espana/agencias/2026/11/20/consumo-activa-una-alerta-por-huevos-con-posible-salmonella-distribuidos-en-8-autonomias/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿El dólar blue está caro o barato? Marcó un récord, pero sigue atrasado por inflación",
-    "slug": "el-dolar-blue-esta-caro-o-barato-marco-un-record-pero-sigue-",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Después de varios meses de relativa calma, el dólar acelero su marcha abriendo el debate sobre si la divisa todavía tiene margen para seguir subiendo (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469645-el-dolar-blue-esta-caro-o-barato-marco-un-record-pero-sigue-atrasado-por-inflacion",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar",
-      "inflación"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Argentina se sumó al tratado de patentes y AmCham destacó el impacto para las empresas",
-    "slug": "argentina-se-sumo-al-tratado-de-patentes-y-amcham-destaco-el",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "La adhesión al PCT permitirá tramitar la protección de invenciones en varios mercados y dará más previsibilidad a las empresas que buscan expandirse (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469647-amcham-destaco-la-adhesion-argentina-al-tratado-de-patentes",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Aguinaldo de diciembre: Credicoop ofrece créditos a pymes",
-    "slug": "aguinaldo-de-diciembre-credicoop-ofrece-creditos-a-pymes",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "La línea ofrece una tasa fija desde el 26% TNA, hasta seis meses de plazo y 60 días para pagar la primera cuota. Quiénes pueden acceder (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469508-credito-para-aguinaldo-tasa-y-plazo-de-credicoop",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El riesgo país superó los 1.000 puntos y pone en jaque a los bonos argentinos",
-    "slug": "el-riesgo-pais-supero-los-1000-puntos-y-pone-en-jaque-a-los-",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "Los mercados financieros reaccionaron con preocupación ante el derrumbe de activos argentinos y las crecientes dudas sobre la estabilidad económica (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469661-el-riesgo-pais-supero-los-1000-puntos-y-pone-en-jaque-a-los-bonos-argentinos",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "bonos",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "¿Volvió el rulo del dólar? Cuánto se gana con u$s1.000 entre el oficial y el blue",
-    "slug": "volvio-el-rulo-del-dolar-cuanto-se-gana-con-us1000-entre-el-",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "La suba del precio del dólar informal vuelve a generar la opción de comprar billetes en el mercado oficial y venderlos en el marginal. Riesgos (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469651-rulo-del-dolar-cuanto-se-gana-con-us1-000-entre-oficial-y-blue",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Se desploman las bolsas del mundo y los futuros del Nasdaq anticipan otra rueda en rojo",
-    "slug": "se-desploman-las-bolsas-del-mundo-y-los-futuros-del-nasdaq-a",
-    "category": "economia",
-    "date": "2026-11-20",
-    "summary": "En Asia, exceptuando a Japón, cerraron una de las peores jornadas desde la pandemia de 2020. Europa también registra fuertes pérdidas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469635-como-cotizan-hoy-20-de-noviembre-el-merval-adrs-bonos-y-riesgo-pais",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
     ],
     "featured": false,
     "related": []
