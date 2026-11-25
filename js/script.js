@@ -492,7 +492,7 @@ function updateFiatUI(fiat, prevFiat) {
   }
 
   // ── Bloques nuevos: resumen de mercado + tabla comparativa ──
-  updateMarketSummary(fiat);
+ // updateMarketSummary(fiat);
   updateComparativeTable(fiat);
 }
 
