@@ -1,5 +1,583 @@
 [
   {
+    "title": "Reforma del BCRA: cuáles son los puntos clave del proyecto que se aprobó en Diputados",
+    "slug": "reforma-del-bcra-cuales-son-los-puntos-clave-del-proyecto-qu",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Avanzó la reforma de la carta magna del Central, que modifica la metodología de la destitución de sus directivos y fija su objetivo.",
+    "link": "https://www.ambito.com/economia/reforma-del-bcra-cuales-son-los-puntos-clave-del-proyecto-que-se-aprobo-diputados-n6349705",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Respiro en las expectativas: la inflación anual esperada por los argentinos retrocedió al 30% en noviembre",
+    "slug": "respiro-en-las-expectativas-la-inflacion-anual-esperada-por-",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "En el desglose por regiones, un informe de la Universidad Torcuato di Tella reveló que las perspectivas en GBA permanecen más altas que en el interior del país.",
+    "link": "https://www.ambito.com/economia/respiro-las-expectativas-la-inflacion-anual-esperada-los-argentinos-retrocedio-al-30-noviembre-n6349638",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Salarios y paritarias de metalúrgicos: cuánto cobrarán en diciembre de 2026 tras el nuevo aumento",
+    "slug": "salarios-y-paritarias-de-metalurgicos-cuanto-cobraran-en-dic",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La UOM aplicará otro aumento en diciembre y pagará una nueva cuota del bono no remunerativo. Conocé los salarios básicos por categoría y el ingreso mínimo garantizado.",
+    "link": "https://www.ambito.com/economia/salarios-y-paritarias-metalurgicos-cuanto-cobraran-diciembre-2026-el-nuevo-aumento-n6349623",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "J.P. Morgan advirtió que los bonos argentinos ya descuentan 50% de chances de un triunfo opositor en 2027",
+    "slug": "jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "En su informe \"Perspectivas Económicas Argentina 2027\", el banco proyecta continuidad de las políticas de Milei como escenario base, pero advierte que una elección reñida podría presionar el peso, bonos y reservas. Los detalles, en la nota.",
+    "link": "https://www.ambito.com/economia/jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50-chances-triunfo-opositor-2027-n6349517",
+    "source": "Ámbito",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar blue hoy: a cuánto opera este jueves 26 de noviembre",
+    "slug": "dolar-blue-hoy-a-cuanto-opera-este-jueves-26-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-26-noviembre-n6349465",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy: a cuánto cotiza este jueves 26 de noviembre",
+    "slug": "dolar-hoy-a-cuanto-cotiza-este-jueves-26-de-noviembre",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-26-noviembre-n6349464",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Las bolsas globales rebotaron con fuerza y buscan dejar atrás la volatilidad en el sector tecnológico",
+    "slug": "las-bolsas-globales-rebotaron-con-fuerza-y-buscan-dejar-atra",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Las acciones subieron mientras los inversionistas de Europa y Asia seguían de cerca el repunte de los valores tecnológicos en Wall Street tras varios días de fuertes oscilaciones.",
+    "link": "https://www.ambito.com/finanzas/las-bolsas-globales-rebotan-y-buscan-dejar-atras-la-volatilidad-el-sector-tecnologico-n6349579",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 26 de noviembre",
+    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-26-noviembre-n6349479",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "El español Pablo Hernández de Cos será el sucesor de Christine Lagarde en el Banco Central Europeo",
+    "slug": "el-espanol-pablo-hernandez-de-cos-sera-el-sucesor-de-christi",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Actualmente, ejerce como director del Banco de Pagos Internacionales en Basilea y presidió el Banco de España de 2018 a 2024. De todas maneras, su nombramiento aún debe ser aprobado por el Parlamento Europeo y el Consejo de Gobernadores del BCE.",
+    "link": "https://www.ambito.com/finanzas/el-espanol-pablo-hernandez-cos-sera-el-sucesor-christine-lagarde-el-banco-central-europeo-n6349657",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La city destaca los bonos provinciales: qué rendimientos en dólares ofrecen y cuáles recomiendan los expertos",
+    "slug": "la-city-destaca-los-bonos-provinciales-que-rendimientos-en-d",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Entre las alternativas que destacan aparecen los bonos de Córdoba, San Juan y Santa Fe, aunque también hay oportunidades con mayores retornos.",
+    "link": "https://www.ambito.com/finanzas/la-city-destaca-los-bonos-provinciales-que-rendimientos-dolares-ofrecen-y-cuales-recomiendan-los-expertos-n6349652",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bitcoin sube con moderación y se mantiene en los u$s60.000, con el mercado cripto al alza",
+    "slug": "bitcoin-sube-con-moderacion-y-se-mantiene-en-los-us60000-con",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La principal criptomoneda busca retomar la senda alcista, en línea con las altcoin. Voces del mercado lo indican como un alivio puntual, a la espera si llega un cambio de tendencia luego de las fuertes caídas de las últimas semanas.",
+    "link": "https://www.ambito.com/finanzas/bitcoin-se-recupera-sube-mas-4-y-se-acerca-los-us61000-n6349566",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Deuda: el Gobierno oficializó un nuevo canje con el BCRA y encara una licitación para refinanciar unos $25 billones",
+    "slug": "deuda-el-gobierno-oficializo-un-nuevo-canje-con-el-bcra-y-en",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "El Ministerio de Economía dispuso la conversión de tres títulos en manos del Banco Central con vencimientos en noviembre y diciembre por instrumentos que amortizan en 2027.",
+    "link": "https://www.ambito.com/finanzas/deuda-el-gobierno-oficializo-un-nuevo-canje-el-bcra-y-encara-una-licitacion-refinanciar-unos-25-billones-n6349485",
+    "source": "Ámbito Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bcra",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Confirmado el asesinato del empresario mexicano Juan Pablo Olivares en Jericó: la Gobernación de Antioquia ofreció una millonaria recompensa",
+    "slug": "confirmado-el-asesinato-del-empresario-mexicano-juan-pablo-o",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Hombres armados habrían llegado hasta la finca hotel Santa Laura, de la cual el ciudadano norteamericano era el propietario, según la versión preliminar que manejan las autoridades",
+    "link": "https://www.infobae.com/colombia/2026/11/26/confirmado-el-asesinato-del-empresario-mexicano-juan-pablo-olivares-en-jerico-la-gobernacion-de-antioquia-ofrecio-una-millonaria-recompensa/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Seis claves para entender la nueva ley que reforma la Carta Orgánica del Banco Central",
+    "slug": "seis-claves-para-entender-la-nueva-ley-que-reforma-la-carta-",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La norma aprobada por el Senado redefine el vínculo de la autoridad monetaria con el Estado, introduce cambios en su conducción y modifica las herramientas disponibles para resguar",
+    "link": "https://www.infobae.com/economia/2026/11/26/seis-claves-para-entender-la-nueva-ley-que-reforma-la-carta-organica-del-banco-central/",
+    "source": "Infobae",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "\"Se terminó con 90 años de estafa\": Milei celebró la aprobación de la reforma del BCRA",
+    "slug": "se-termino-con-90-anos-de-estafa-milei-celebro-la-aprobacion",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La votación en la Cámara baja marcó el fin de la asistencia monetaria al sector público y modifica la autonomía en las decisiones clave (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/470155-se-termino-con-90-anos-de-estafa-milei-celebro-la-aprobacion-de-la-reforma-del-bcra",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "milei",
+      "bcra"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los 9 cambios que sufrirá el Banco Central con la reforma que aprobó Diputados",
+    "slug": "los-9-cambios-que-sufrira-el-banco-central-con-la-reforma-qu",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Diputados aprobó este jueves la reforma de la Carta Orgánica del BCRA. Qué cambia en las reservas, la emisión, las utilidades y sus autoridades.",
+    "link": "https://www.iprofesional.com/economia/470149-cuales-son-los-9-cambios-que-introduce-reforma-del-banco-central-aprobada-en-camara-de-diputados",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La expectativa de inflación cae en noviembre y el dato anual puede perforar el 30%",
+    "slug": "la-expectativa-de-inflacion-cae-en-noviembre-y-el-dato-anual",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La inflación esperada bajó al 29,7% anual en noviembre, con una menor brecha entre hogares de distintos ingresos, según la Universidad Di Tella (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/470145-expectativa-de-inflacion-cae-en-noviembre-2026-y-el-dato-anual-puede-perforar-el-30-por-ciento",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Quirno despejó las versiones sobre Caputo y negó que vaya a reemplazarlo en Economía",
+    "slug": "quirno-despejo-las-versiones-sobre-caputo-y-nego-que-vaya-a-",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "El canciller ratificó la continuidad del ministro y atribuyó los rumores sobre un posible recambio a especulaciones sin fundamento (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/economia/470128-quirno-descarto-que-vaya-a-reemplazar-a-caputo-en-el-area-de-economia",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bancos registran subas de hasta 60% en operaciones de compra de dólares por home banking",
+    "slug": "bancos-registran-subas-de-hasta-60-en-operaciones-de-compra-",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Bancos registran ventas de hasta u$s400 millones diarios al público. BCRA lleva 3 ruedas sin comprar divisas y se ralentiza acumulación de reservas (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/470065-que-ven-los-bancos-en-las-compras-diarias-de-dolares-por-home-banking",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Los plazos fijos en dólares no cubren la inflación de EE.UU.",
+    "slug": "los-plazos-fijos-en-dolares-no-cubren-la-inflacion-de-eeuu",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Las tasas bancarias quedan por debajo de la suba de precios en Estados Unidos. Cuánto se gana con u$s10.",
+    "link": "https://www.iprofesional.com/finanzas/469718-plazo-fijo-en-dolares-por-que-rinde-menos-que-la-inflacion-de-ee-uu-",
+    "source": "iProfesional",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "inflación"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Bajó el dólar oficial, pero sube el que usan las empresas y se vuelve a estirar la brecha",
+    "slug": "bajo-el-dolar-oficial-pero-sube-el-que-usan-las-empresas-y-s",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "El dólar mayorista cedió tras siete ruedas en el alza, mientras que el CCL retomó las subas y superó los $1. 830.",
+    "link": "https://www.iprofesional.com/finanzas/470133-bajo-el-dolar-oficial-pero-sube-el-que-usan-las-empresas-y-se-vuelve-a-estirar-la-brecha",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar",
+      "brecha"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "JP Morgan advierte que los bonos argentinos ya reflejan el riesgo de un cambio de rumbo",
+    "slug": "jp-morgan-advierte-que-los-bonos-argentinos-ya-reflejan-el-r",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "JP Morgan prevé que el PBI argentino crecerá 1,8% en 2027 y que la inflación bajará al 23%, pero advierte por el impacto electoral en los mercados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/470125-elecciones-2027-la-advertencia-de-jp-morgan-sobre-los-bonos",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Europa y Asia suben en sus bolsas por el repunte tecnológico y el alivio por los aranceles",
+    "slug": "europa-y-asia-suben-en-sus-bolsas-por-el-repunte-tecnologico",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Las bolsas europeas avanzan hasta 1,9% y Asia cerró con mayoría de subas. Wall Street no opera este jueves por el feriado de Acción de Gracias (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/470122-las-bolsas-de-europa-y-a-avanzan-por-el-repunte-de-las-tecnologicas",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Dólar bajo presión: la City detectó una intervención oficial para contener la escalada cambiaria",
+    "slug": "dolar-bajo-presion-la-city-detecto-una-intervencion-oficial-",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Operaciones inéditas en futuros y maniobras con reservas marcan la respuesta oficial ante el temor a desbalances y tensiones en los mercados (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/470111-dolar-blue-alerta-maniobras-gobierno-mercados-noviembre-2026",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "dólar"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Canje con el Banco Central: cómo se reorganizan los vencimientos de deuda",
+    "slug": "canje-con-el-banco-central-como-se-reorganizan-los-vencimien",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "El recambio financiero mueve plazos clave hacia el 2027 y genera expectativa en plazas bursátiles con instrumentos atados a moneda extranjera (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/470103-deuda-como-es-el-nuevo-canje-del-gobierno-con-el-banco-central",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "deuda"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Caución o plazo fijo: cuánto rinde hoy invertir $1 millón",
+    "slug": "caucion-o-plazo-fijo-cuanto-rinde-hoy-invertir-1-millon",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "La caución a 30 días superó por poco a la mejor tasa bancaria relevada. Las comisiones, la liquidez y el plazo elegido pueden cambiar el resultado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
+    "link": "https://www.iprofesional.com/finanzas/469770-caucion-vs-plazo-fijo-que-inversion-paga-mas-por-1-millon-hoy",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Cómo invertir $1 millón en accionesy bonos en base a 3 carteras diseñadas por un bróker",
+    "slug": "como-invertir-1-millon-en-accionesy-bonos-en-base-a-3-carter",
+    "category": "economia",
+    "date": "2026-11-26",
+    "summary": "Bonos en pesos, deuda en dólares y acciones argentinas forman parte de las tres carteras que recomienda PPI para invertir $1 millón este noviembre (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
+    "link": "https://www.iprofesional.com/finanzas/469205-como-invertir-1-millon-en-acciones-y-bonos-segun-broker-de-la-city",
+    "source": "iProfesional Finanzas",
+    "tags": [
+      "economía",
+      "argentina",
+      "bonos"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La norma de chips de EE. UU. frena los préstamos a centros de datos de IA en Asia",
+    "slug": "la-norma-de-chips-de-ee-uu-frena-los-prestamos-a-centros-de-",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "CriptoTendencia Bancos frenan préstamos a centros de datos de Asia que sirven a ByteDance, Alibaba y Tencent tras la norma de chips de EE. UU.",
+    "link": "https://criptotendencia.com/2026/11/26/norma-chips-ee-uu-prestamos-centros-datos-ia-asia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Black Friday 2030: así podrían ser las compras en un mundo dominado por la IA",
+    "slug": "black-friday-2030-asi-podrian-ser-las-compras-en-un-mundo-do",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "CriptoTendencia El Black Friday 2030 podría transformar las compras mediante agentes de IA, negociaciones autónomas y sistemas de pagos inteligentes. La entrada Black Friday 2030: así podrían ser las compras en un mundo dominado por la IA se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/26/black-friday-2030-asi-podrian-ser-las-compras-en-un-mundo-dominado-por-la-ia/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Nvidia frena los envíos de servidores de IA a cuatro países de Asia, según el FT",
+    "slug": "nvidia-frena-los-envios-de-servidores-de-ia-a-cuatro-paises-",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "CriptoTendencia Dell y Supermicro avisaron a compradores del sudeste asiático que sus pedidos de servidores con chips Nvidia no se despacharían. La entrada Nvidia frena los envíos de servidores de IA a cuatro países de Asia, según el FT se publicó primero en CriptoTendencia.",
+    "link": "https://criptotendencia.com/2026/11/26/nvidia-pausa-envios-servidores-ia-sudeste-asiatico/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Flash 24/7 Crypto: bitcoin recupera los $60.000 mientras Auros estaría cerrando operaciones",
+    "slug": "flash-247-crypto-bitcoin-recupera-los-60000-mientras-auros-e",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "CriptoTendencia XRP y Solana lideran el rebote cripto con Wall Street cerrado por Thanksgiving; España amplía el poder del Sepblac para congelar cuentas. La entrada Flash 24/7 Crypto: bitcoin recupera los $60.",
+    "link": "https://criptotendencia.com/2026/11/26/flash-24-7-crypto-bitcoin-recupera-los-60-000-mientras-auros-estaria-cerrando-operaciones/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Quién guarda los datos sobre cripto que el fisco pide a los intermediarios",
+    "slug": "quien-guarda-los-datos-sobre-cripto-que-el-fisco-pide-a-los-",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "CriptoTendencia El Senado francés rechazó un registro de billeteras propias desde €100. 000 y Suiza exige garantías para compartir datos sobre criptoactivos.",
+    "link": "https://criptotendencia.com/2026/11/26/quien-guarda-datos-cripto-fisco-intermediarios/",
+    "source": "CriptoTendencia",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Argentina prohíbe al Banco Central emitir dinero para financiar al Tesoro",
+    "slug": "argentina-prohibe-al-banco-central-emitir-dinero-para-financ",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "Es ley: el Congreso impone un límite a una práctica monetaria que durante décadas contribuyó a deteriorar el poder adquisitivo del peso argentino.",
+    "link": "https://www.criptonoticias.com/finanzas/argentina-prohibe-banco-central-emitir-dinero-financiar-tesoro/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La reserva de bitcoin de EE. UU. quedó lista para votarse en la Cámara de Representantes",
+    "slug": "la-reserva-de-bitcoin-de-ee-uu-quedo-lista-para-votarse-en-l",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "El proyecto de ley entró al calendario legislativo, aunque aún no tiene fecha asignada para su debate en el pleno.",
+    "link": "https://www.criptonoticias.com/regulacion/reserva-bitcoin-eeuu-lista-votarse-camara-representantes/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "La IA abarata los cálculos cuánticos, pero solo en el papel",
+    "slug": "la-ia-abarata-los-calculos-cuanticos-pero-solo-en-el-papel",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "La evidencia revela mejoras teóricas drásticas en diseños cuánticos, pero resultados más modestos cuando se ponen a prueba en hardware real.",
+    "link": "https://www.criptonoticias.com/tecnologia/ia-abarata-calculos-cuanticos-pero-solo-papel/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Expropiación o espionaje: el mapa de los ataques que rodean a bitcoin",
+    "slug": "expropiacion-o-espionaje-el-mapa-de-los-ataques-que-rodean-a",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "Las capas de vigilancia y custodia enfrentan un riesgo geopolítico creciente que obliga a revisar dónde se confían los fondos.",
+    "link": "https://www.criptonoticias.com/seguridad-bitcoin/expropiacion-espionaje-mapa-ataques-rodean-a-bitcoin/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
+    "title": "Hacienda rastrea criptomonedas para embargar a deudores en España",
+    "slug": "hacienda-rastrea-criptomonedas-para-embargar-a-deudores-en-e",
+    "category": "cripto",
+    "date": "2026-11-26",
+    "summary": "La OCDE destaca cómo España incorpora nuevas tecnologías a sus procedimientos de recaudación fiscal.",
+    "link": "https://www.criptonoticias.com/regulacion/hacienda-rastrea-criptomonedas-embargar-deudores-espana/",
+    "source": "CriptoNoticias",
+    "tags": [
+      "cripto",
+      "bitcoin"
+    ],
+    "featured": false,
+    "related": []
+  },
+  {
     "title": "Cuánto cuesta armar un árbol de Navidad en Argentina en 2026: del modelo económico a la opción top",
     "slug": "cuanto-cuesta-armar-un-arbol-de-navidad-en-argentina-en-2026",
     "category": "economia",
@@ -83,22 +661,6 @@
     "date": "2026-11-25",
     "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
     "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-25-noviembre-n6348992",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 25 de noviembre",
-    "slug": "dolar-hoy-y-dolar-blue-hoy-minuto-a-minuto-a-cuanto-opera-es",
-    "category": "economia",
-    "date": "2026-11-25",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-25-noviembre-n6349008",
     "source": "Ámbito Finanzas",
     "tags": [
       "economía",
@@ -978,560 +1540,6 @@
     "summary": "El decomiso de más de USD 1. 100 millones del robo atribuido a Corea del Norte depende de que quien emite las monedas bloqueadas acepte reponerlas.",
     "link": "https://www.criptonoticias.com/comunidad/ee-uu-binance-circle-quien-decide-dinero-robado/",
     "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Europol rastrea 26 millones de euros en criptomonedas vinculados a streaming ilegal",
-    "slug": "europol-rastrea-26-millones-de-euros-en-criptomonedas-vincul",
-    "category": "cripto",
-    "date": "2026-11-24",
-    "summary": "Policías de 11 países rastrearon fondos en España con la colaboración de Binance, Coinbase y Chainalysis.",
-    "link": "https://www.criptonoticias.com/sucesos/europol-rastrea-26-millones-euros-criptomonedas-streaming/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo: cuánto se obtiene al colocar $1.500.000 durante un mes",
-    "slug": "plazo-fijo-cuanto-se-obtiene-al-colocar-1500000-durante-un-m",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "Los intereses que ofrecen las distintas entidades varían según el canal en el que se lleve a cabo la operación y el vencimiento.",
-    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-obtiene-al-colocar-1500000-un-mes-n6347694",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Anthropic no revivió el fervor por la IA y le dio el empujón a una corrección de la Bolsa",
-    "slug": "anthropic-no-revivio-el-fervor-por-la-ia-y-le-dio-el-empujon",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "La salida a Bolsa de la compañía no logró revertir el pesimismo sobre el sector tecnológico. La corrección del Nasdaq y el S&P 500 reavivó los temores sobre la inversión, la inflación y el futuro de Wall Street.",
-    "link": "https://www.ambito.com/economia/anthropic-no-revivio-el-fervor-la-ia-y-le-dio-el-empujon-una-correccion-la-bolsa-n6348112",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este lunes 23 de noviembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-lunes-23-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-23-noviembre-n6348177",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este lunes 23 de noviembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-lunes-23-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-23-noviembre-n6348176",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "República Dominicana renovó el Hospital Teófilo Hernández con una inversión de más de 1,000 millones de pesos",
-    "slug": "republica-dominicana-renovo-el-hospital-teofilo-hernandez-co",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "El Hospital Doctor Teófilo Hernández, que no había recibido una renovación completa desde su apertura en 1951, estrena infraestructura ampliada para atender emergencias, partos, ci",
-    "link": "https://www.infobae.com/america/america-latina/2026/11/23/republica-dominicana-renovo-el-hospital-teofilo-hernandez-con-una-inversion-de-mas-de-1000-millones-de-pesos/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Exportaciones de bienes de Costa Rica crecen un 3% hasta octubre, su mayor valor en 5 años",
-    "slug": "exportaciones-de-bienes-de-costa-rica-crecen-un-3-hasta-octu",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "",
-    "link": "https://www.infobae.com/america/agencias/2026/11/23/exportaciones-de-bienes-de-costa-rica-crecen-un-3-hasta-octubre-su-mayor-valor-en-5-anos/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Gigante de Wall Street prevé otro año de estancamiento y alerta por el dólar en 2027",
-    "slug": "gigante-de-wall-street-preve-otro-ano-de-estancamiento-y-ale",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "Barclays recortó su apuesta por los bonos argentinos, proyecta un crecimiento de apenas 1,2% en 2027 y advierte sobre riesgos cambiarios y financieros (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469792-gigante-de-wall-street-preve-otro-ano-de-estancamiento-y-alerta-por-el-dolar-en-2027",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo: cuánto hay que invertir para ganar $150.000 en 30 días",
-    "slug": "plazo-fijo-cuanto-hay-que-invertir-para-ganar-150000-en-30-d",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "Las tasas llegan al 24% anual y permiten obtener $150. 000 en 30 días con una inversión desde $7,6 millones, según el banco elegido (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469157-plazo-fijo-cuanto-hay-que-depositar-para-ganar-150-000",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La City recomienda ir abandonando el carry trade y pasarse a activos en dólares",
-    "slug": "la-city-recomienda-ir-abandonando-el-carry-trade-y-pasarse-a",
-    "category": "economia",
-    "date": "2026-11-23",
-    "summary": "El cambio de clima en la plaza financiera impulsa recomendaciones de resguardo y busca alternativas frente al avance de riesgos e inestabilidad (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469667-la-city-sugiere-cerrar-parte-del-carry-trade-y-pasar-a-activos-en-dolares",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Escalada marítima en Ormuz, ofensiva naval ucraniana y diplomacia china marcan la agenda global",
-    "slug": "escalada-maritima-en-ormuz-ofensiva-naval-ucraniana-y-diplom",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "CriptoTendencia Los ataques en Ormuz, la ofensiva ucraniana en Libia y la cumbre de Shenzhen elevan la tensión geopolítica y sus riesgos económicos. La entrada Escalada marítima en Ormuz, ofensiva naval ucraniana y diplomacia china marcan la agenda global se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/23/escalada-maritima-en-ormuz-ofensiva-naval-ucraniana-y-diplomacia-china-marcan-la-agenda-global-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Jefferies ve una oportunidad de compra en SpaceX tras la caída de sus acciones",
-    "slug": "jefferies-ve-una-oportunidad-de-compra-en-spacex-tras-la-cai",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "CriptoTendencia Jefferies recomienda comprar acciones de SpaceX y fija un objetivo de $210, respaldado por su liderazgo aeroespacial y expansión en IA. La entrada Jefferies ve una oportunidad de compra en SpaceX tras la caída de sus acciones se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/23/jefferies-ve-una-oportunidad-de-compra-en-spacex-tras-la-caida-de-sus-acciones-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Trump dice que habló con el directorio de Nvidia antes del regreso de Huang",
-    "slug": "trump-dice-que-hablo-con-el-directorio-de-nvidia-antes-del-r",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "CriptoTendencia Nvidia citó la opinión de altos funcionarios de EE. UU.",
-    "link": "https://criptotendencia.com/2026/11/23/trump-directorio-nvidia-regreso-jensen-huang/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Visa CLI verifica al dueño con tarjeta y permite cobrar en OUSD por tarea",
-    "slug": "visa-cli-verifica-al-dueno-con-tarjeta-y-permite-cobrar-en-o",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "CriptoTendencia Visa Crypto Labs limita el acceso a cuentas aprobadas en EE. UU.",
-    "link": "https://criptotendencia.com/2026/11/23/visa-cli-agentes-tarjeta-ousd/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El regreso de Jensen Huang a Nvidia provoca un fuerte impulso en el precio de bitcoin",
-    "slug": "el-regreso-de-jensen-huang-a-nvidia-provoca-un-fuerte-impuls",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "CriptoTendencia Tras el regreso de Jensen Huang a Nvidia, el precio de bitcoin reaccionó con fuertes números verdes durante la primera parte de este lunes. La entrada El regreso de Jensen Huang a Nvidia provoca un fuerte impulso en el precio de bitcoin se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/23/el-regreso-de-jensen-huang-a-nvidia-provoca-un-fuerte-impulso-en-el-precio-de-bitcoin/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Binance Pay Later no garantiza protección ante un flash crash",
-    "slug": "binance-pay-later-no-garantiza-proteccion-ante-un-flash-cras",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "El servicio permite financiar compras sin vender criptomonedas, pero su seguridad depende de cómo Binance gestiona las garantías.",
-    "link": "https://www.criptonoticias.com/mercados/binance-pay-later-no-garantiza-proteccion-ante-flash/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Trump promete ganar a China en criptomonedas con su memecoin 99% abajo",
-    "slug": "trump-promete-ganar-a-china-en-criptomonedas-con-su-memecoin",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "Trump reivindicó la competitividad cripto de EE. UU.",
-    "link": "https://www.criptonoticias.com/mercados/trump-promete-ganar-china-criptomonedas-memecoin/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El ciclo de cuatro años de bitcoin frente a un mercado cada vez más complejo",
-    "slug": "el-ciclo-de-cuatro-anos-de-bitcoin-frente-a-un-mercado-cada-",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "Las caídas de 2022 y 2026 coinciden en el calendario, pero los nuevos factores del mercado complican las comparaciones históricas.",
-    "link": "https://www.criptonoticias.com/mercados/ciclo-cuatro-anos-bitcoin-frente-a-mercado-cada/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Solana presentó solana.ai para que agentes de IA realicen pagos en USDC",
-    "slug": "solana-presento-solanaai-para-que-agentes-de-ia-realicen-pag",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "La plataforma cuenta con herramientas para que programas autónomos operen, cobren y liquiden transacciones sin intervención humana.",
-    "link": "https://www.criptonoticias.com/tecnologia/solana-presento-solana-ai-agentes-ia-realicen-pagos/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Reental reactiva RNT Lend y asegura que denunció un “robo de fondos de la empresa”",
-    "slug": "reental-reactiva-rnt-lend-y-asegura-que-denuncio-un-robo-de-",
-    "category": "cripto",
-    "date": "2026-11-23",
-    "summary": "Aunque los mercados vuelven a abrir tras una semana pausados, los usuarios siguen sin auditoría ni detalles sobre quién usó la clave maestra.",
-    "link": "https://www.criptonoticias.com/sucesos/reental-reactiva-rnt-lend-asegura-denuncio-robo-fondos/",
-    "source": "CriptoNoticias",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "El Financial Times advirtió que la recesión y el riesgo electoral complican el financiamiento de la Argentina",
-    "slug": "el-financial-times-advirtio-que-la-recesion-y-el-riesgo-elec",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El diario británico señaló que la caída en la popularidad del Presidente y las dudas sobre su reelección en 2027 encarecieron el financiamiento argentino. La recesión y el deterioro del contexto internacional complican el regreso a los mercados de deuda.",
-    "link": "https://www.ambito.com/economia/financial-times-advirtio-que-la-recesion-y-el-riesgo-electoral-complican-el-financiamiento-la-argentina-n6348067",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Plazo fijo en noviembre: subieron las tasas, qué bancos pagan más y cuánto rinde invertir $10 millones hoy",
-    "slug": "plazo-fijo-en-noviembre-subieron-las-tasas-que-bancos-pagan-",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Las entidades financieras ajustaron sus rendimientos, por lo que te conviene revisar las opciones disponibles y las ganancias estimadas para distintos depósitos en pesos.",
-    "link": "https://www.ambito.com/economia/plazos-fijos-noviembre-subieron-las-tasas-que-bancos-pagan-mas-y-cuanto-rinde-invertir-10-millones-hoy-n6347134",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Gustavo Neffa: \"Es posible un dólar mayorista a $1.700 en diciembre, las cosas cambiaron\"",
-    "slug": "gustavo-neffa-es-posible-un-dolar-mayorista-a-1700-en-diciem",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El director de Research for Traders sostiene que el salto del riesgo país por encima de los 1. 000 puntos responde a una crisis global que golpea primero a la Argentina.",
-    "link": "https://www.ambito.com/economia/gustavo-neffa-es-posible-un-dolar-mayorista-1700-diciembre-las-cosas-cambiaron-n6347925",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La presión del \"efecto caipirinha\" y el salto del riesgo país profundizan una disyuntiva clave para el Gobierno",
-    "slug": "la-presion-del-efecto-caipirinha-y-el-salto-del-riesgo-pais-",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "La depreciación del real brasileño y la suba del riesgo país ponen más presión a una economía real golpeada.",
-    "link": "https://www.ambito.com/economia/la-presion-del-efecto-caipirinha-y-el-salto-del-riesgo-pais-profundizan-una-disyuntiva-clave-el-gobierno-n6347884",
-    "source": "Ámbito",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar hoy: a cuánto cotiza este domingo 22 de noviembre",
-    "slug": "dolar-hoy-a-cuanto-cotiza-este-domingo-22-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-22-noviembre-n6348002",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Dólar blue hoy: a cuánto opera este domingo 22 de noviembre",
-    "slug": "dolar-blue-hoy-a-cuanto-opera-este-domingo-22-de-noviembre",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
-    "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-22-noviembre-n6348003",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Alerta inversores: el dólar golpea al carry trade, el Gobierno se aferra a las \"anclas\" y los activos sufren el \"fly to quality\"",
-    "slug": "alerta-inversores-el-dolar-golpea-al-carry-trade-el-gobierno",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "La presión cambiaria y un escenario internacional adverso golpean a los activos argentinos. Pese a los superávits fiscal y comercial, crecen las dudas sobre la acumulación de reservas y la capacidad del Gobierno para afrontar la deuda de 2027.",
-    "link": "https://www.ambito.com/finanzas/alerta-inversores-el-dolar-golpea-al-carry-trade-el-gobierno-se-aferra-las-anclas-y-los-activos-sufren-el-fly-to-quality-n6348054",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina",
-      "dólar"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Financial Times duda de la economía argentina: riesgo país, financiamiento e imagen Milei",
-    "slug": "financial-times-duda-de-la-economia-argentina-riesgo-pais-fi",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El medio británico realizó una publicación en la que planteó un escenario de dudas sobre si el gobierno podrá o no saldar sus compromisos de deuda (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469762-financial-times-duda-de-la-economia-argentina-riesgo-pais-financiamiento-e-imagen-milei",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "riesgo país",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Milei defendió el accionar del Gobierno con el oro del Banco Central: \"¿Se imaginan…?\"",
-    "slug": "milei-defendio-el-accionar-del-gobierno-con-el-oro-del-banco",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El presidente aprovechó una estadística que compartió un usuario de redes sociales para sacar pecho por la gestión respecto al oro acumulado (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r]. q=i[r].",
-    "link": "https://www.iprofesional.com/economia/469761-milei-defendio-el-accionar-del-gobierno-con-el-oro-del-banco-central-se-imaginan",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina",
-      "milei"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Acciones argentinas se desploman hasta 50% en 2026 y la City avisa cuáles comprar baratas",
-    "slug": "acciones-argentinas-se-desploman-hasta-50-en-2026-y-la-city-",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Los balances y valuaciones abren oportunidades, pero el riesgo electoral frena las apuestas. En qué empresas coinciden los expertos y dónde se dividen (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].",
-    "link": "https://www.iprofesional.com/finanzas/469713-que-acciones-argentinas-quedaron-baratas-para-invertir-segun-la-city",
-    "source": "iProfesional",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "La tormenta global desnuda la fragilidad argentina: ¿hasta cuándo seguirá la sangría y qué señales espera la city?",
-    "slug": "la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cua",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El derrumbe de Wall Street y del real en Brasil aceleraron las ventas de activos argentinos. Las dudas sobre el financiamiento se adelantaron.",
-    "link": "https://www.ambito.com/finanzas/dolar/la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cuando-seguira-la-sangria-y-que-senales-espera-la-city-n6348063",
-    "source": "Ámbito Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Ingreso Ciudadano Universal: cómo acceder al apoyo de 2 mil pesos para personas de 57 a 59 años",
-    "slug": "ingreso-ciudadano-universal-como-acceder-al-apoyo-de-2-mil-p",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "El único requisito señalado para incorporarse al ICU es tener entre 57 y 59 años",
-    "link": "https://www.infobae.com/mexico/2026/11/22/ingreso-ciudadano-universal-como-acceder-al-apoyo-de-2-mil-pesos-para-personas-de-57-a-59-anos/",
-    "source": "Infobae",
-    "tags": [
-      "economía",
-      "argentina",
-      "peso"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Fondos comunes de inversión lograron ganancias de hasta 40 por ciento en 2026",
-    "slug": "fondos-comunes-de-inversion-lograron-ganancias-de-hasta-40-p",
-    "category": "economia",
-    "date": "2026-11-22",
-    "summary": "Son cinco FCI que se destacan por la rentabilidad. de perfil agresivo con inversiones en pesos.",
-    "link": "https://www.iprofesional.com/finanzas/469755-cuales-son-los-fondos-de-inversion-mas-rentables-de-2026",
-    "source": "iProfesional Finanzas",
-    "tags": [
-      "economía",
-      "argentina"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Resumen: 5 noticias que impactaron en la industria de minería de bitcoin esta semana",
-    "slug": "resumen-5-noticias-que-impactaron-en-la-industria-de-mineria",
-    "category": "cripto",
-    "date": "2026-11-22",
-    "summary": "CriptoTendencia La minería de bitcoin enfrenta menores ingresos, presión sobre los fabricantes y una creciente migración hacia centros de datos de IA. La entrada Resumen: 5 noticias que impactaron en la industria de minería de bitcoin esta semana se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/22/resumen-5-noticias-que-impactaron-en-la-industria-de-mineria-de-bitcoin-esta-semana-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "Reporte semanal: así operaron las ballenas de bitcoin durante la fuerte caída del mercado",
-    "slug": "reporte-semanal-asi-operaron-las-ballenas-de-bitcoin-durante",
-    "category": "cripto",
-    "date": "2026-11-22",
-    "summary": "CriptoTendencia Las ballenas de bitcoin muestran señales mixtas durante una semana de fuertes caídas, mientras los ETF registran nuevas salidas de capital. La entrada Reporte semanal: así operaron las ballenas de bitcoin durante la fuerte caída del mercado se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/22/reporte-semanal-asi-operaron-las-ballenas-de-bitcoin-durante-la-fuerte-caida-del-mercado-2/",
-    "source": "CriptoTendencia",
-    "tags": [
-      "cripto",
-      "bitcoin"
-    ],
-    "featured": false,
-    "related": []
-  },
-  {
-    "title": "DeAI Summit 2026 lleva a Malta el debate sobre quién controla la IA",
-    "slug": "deai-summit-2026-lleva-a-malta-el-debate-sobre-quien-control",
-    "category": "cripto",
-    "date": "2026-11-22",
-    "summary": "CriptoTendencia DeAI Summit 2026 reúne en Malta a fundadores, inversores y reguladores para debatir quién controla la inteligencia artificial. La entrada DeAI Summit 2026 lleva a Malta el debate sobre quién controla la IA se publicó primero en CriptoTendencia.",
-    "link": "https://criptotendencia.com/2026/11/22/deai-summit-2026-lleva-a-malta-el-debate-sobre-quien-controla-la-ia/",
-    "source": "CriptoTendencia",
     "tags": [
       "cripto",
       "bitcoin"
