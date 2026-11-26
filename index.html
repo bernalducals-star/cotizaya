@@ -490,8 +490,7 @@
               <th>Símbolo</th>
               <th>Precio en ARS</th>
               <th>Precio en USD</th>
-              <th>24h</th>
-              <th>Market Cap</th>
+             
             </tr>
           </thead>
 
@@ -652,10 +651,10 @@
         document.getElementById('market-summary').textContent = texto.trim();
       }
 
-      const fechaEl = document.getElementById('resumen-fecha');
+          const fechaEl = document.getElementById('resumen-fecha');
       if (fechaEl) {
         const hoy = new Date().toLocaleDateString('es-AR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-        fechaEl.textContent = 'Actualizado: ' + hoy;
+        fechaEl.textContent = '';
       }
     } catch (e) {
       document.getElementById('market-summary').textContent = 'El resumen estará disponible al cierre del mercado.';
